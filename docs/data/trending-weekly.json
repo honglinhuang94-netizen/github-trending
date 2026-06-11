@@ -8,9 +8,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 39379,
+      "stars_total": 39397,
       "stars_period": 11732,
-      "forks": 3172,
+      "forks": 3173,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 22319,
+      "stars_total": 22340,
       "stars_period": 13062,
-      "forks": 1439,
+      "forks": 1440,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 29101,
+      "stars_total": 29105,
       "stars_period": 4648,
       "forks": 3297,
       "contributors": [
@@ -62,7 +62,7 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 2777,
+      "stars_total": 2778,
       "stars_period": 1371,
       "forks": 320,
       "contributors": [
@@ -80,7 +80,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 26181,
+      "stars_total": 26192,
       "stars_period": 5021,
       "forks": 2159,
       "contributors": [
@@ -98,7 +98,7 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 41017,
+      "stars_total": 41035,
       "stars_period": 8077,
       "forks": 2883,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 150616,
+      "stars_total": 150630,
       "stars_period": 7820,
-      "forks": 10369,
+      "forks": 10370,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 15614,
+      "stars_total": 15659,
       "stars_period": 2056,
-      "forks": 1659,
+      "forks": 1660,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -167,9 +167,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 190377,
+      "stars_total": 190395,
       "stars_period": 11519,
-      "forks": 33010,
+      "forks": 33014,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -185,7 +185,7 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars_total": 36309,
+      "stars_total": 36310,
       "stars_period": 991,
       "forks": 466,
       "contributors": [
@@ -203,9 +203,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 212993,
+      "stars_total": 213012,
       "stars_period": 7865,
-      "forks": 32724,
+      "forks": 32729,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars_total": 34648,
+      "stars_total": 34650,
       "stars_period": 2686,
-      "forks": 4330,
+      "forks": 4331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
         "https://avatars.githubusercontent.com/u/746397?s=40&v=4",
@@ -239,7 +239,7 @@
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_total": 6790,
+      "stars_total": 6791,
       "stars_period": 1113,
       "forks": 930,
       "contributors": [
@@ -257,9 +257,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 37327,
+      "stars_total": 37338,
       "stars_period": 3212,
-      "forks": 2040,
+      "forks": 2041,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -275,7 +275,7 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_total": 20982,
+      "stars_total": 20983,
       "stars_period": 1394,
       "forks": 1541,
       "contributors": [
@@ -293,7 +293,7 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_total": 43725,
+      "stars_total": 43733,
       "stars_period": 3532,
       "forks": 3885,
       "contributors": [
@@ -306,5 +306,5 @@
       "description_zh": "我们为您编写可重复使用的计算机视觉工具。 💜"
     }
   ],
-  "generated_at": 1781165895
+  "generated_at": 1781167303
 }

@@ -31,14 +31,9 @@ git push -u origin main
 
 - 进入仓库的 **Settings → Pages**
 - **Source** 选择 `Deploy from a branch`
-- **Branch** 选 `main` / `(root)`(直接用仓库根目录,前端在 `static/` 子目录里)
+- **Branch** 选 `main`，**Folder** 选 **`/docs`**（前端文件放在 `docs/` 子目录里，GitHub Pages 原生支持）
 
-> ⚠️ 关键: GitHub Pages 默认从根目录托管。如果你想让访问 URL 就是 `https://<user>.github.io/<repo>/`,根目录里就需要 `index.html`。本项目把 `index.html` 放在 `static/` 下,所以推荐:
->
-> - **方案 A (推荐)**: 把 `static/index.html`、`static/style.css`、`static/app.js`、`static/data/` 里的内容直接放到仓库根 `index.html`、`style.css`、`app.js`、`data/` 下,在 `Settings → Pages` 选 `main` / `root`。
-> - **方案 B**: 不动文件结构,GitHub Pages 仍然可以托管 `static/` 目录的内容,选 `main` / `static`,访问 URL 是 `https://<user>.github.io/<repo>/`,一切正常工作。
-
-**(A、B 任选一种,后者更省事)**
+> ⚠️ 注意: GitHub Pages 的 Folder 下拉只支持 `/ (root)` 和 `/docs`，**不支持任意子目录**。本项目前端放在 `docs/` 下就是为了契合这个限制。
 
 ### 4. 首次手动触发数据生成
 
@@ -47,12 +42,11 @@ git push -u origin main
 - 进入仓库 **Actions** 页
 - 选 `Update Trending Data` workflow
 - 点 `Run workflow` → 选 main 分支 → 绿色按钮
-- 等待 30-60 秒跑完,会看到一个新的 commit 提交到 `static/data/`
+- 等待 30-60 秒跑完,会看到一个新的 commit 提交到 `docs/data/`
 
 ### 5. 打开页面
 
-**方案 A** (文件放根目录): `https://<user>.github.io/`
-**方案 B** (文件在 `static/`): `https://<user>.github.io/<repo>/`
+链接:`https://<user>.github.io/<repo>/`
 
 之后每小时 GitHub Actions 会自动刷新数据,你只需打开链接即可。
 
@@ -66,10 +60,10 @@ python -m venv .venv
 source .venv/bin/activate       # macOS / Linux
 
 pip install -r build_requirements.txt
-python scripts/build_data.py    # 生成 static/data/trending-*.json
+python scripts/build_data.py    # 生成 docs/data/trending-*.json
 
 # 起一个简单的 http server 就能看
-cd static
+cd docs
 python -m http.server 8000
 # 浏览器打开 http://localhost:8000
 ```
@@ -84,8 +78,8 @@ github-trending/
 │   ├── translator.py
 │   └── cache.py
 ├── scripts/
-│   └── build_data.py         # 抓取 + 翻译 → 写 static/data/*.json
-├── static/                   # GitHub Pages 托管的目录
+│   └── build_data.py         # 抓取 + 翻译 → 写 docs/data/*.json
+├── docs/                     # GitHub Pages 托管的目录
 │   ├── index.html
 │   ├── style.css
 │   ├── app.js
@@ -122,4 +116,4 @@ github-trending/
 免费账户每月有 2000 分钟额度,每小时跑一次约 1 分钟,完全够用。
 
 **Q: 想自定义 tab 或排序?**
-编辑 `static/app.js`,数据已经按 GitHub 原始顺序(本期 star 增量降序)给你了。
+编辑 `docs/app.js`,数据已经按 GitHub 原始顺序(本期 star 增量降序)给你了。

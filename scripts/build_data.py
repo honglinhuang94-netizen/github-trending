@@ -1,7 +1,7 @@
 """离线数据生成脚本
 
 跑一次会抓取 daily/weekly/monthly 三份 trending,翻译后写到
-static/data/trending-*.json,给静态前端使用。
+docs/data/trending-*.json,给静态前端使用。
 
 本地运行:
     python scripts/build_data.py
@@ -23,7 +23,7 @@ sys.path.insert(0, str(ROOT))
 from app.scraper import fetch_trending            # noqa: E402
 from app.translator import translate_descriptions  # noqa: E402
 
-OUT_DIR = ROOT / "static" / "data"
+OUT_DIR = ROOT / "docs" / "data"
 PERIODS = ("daily", "weekly", "monthly")
 
 
