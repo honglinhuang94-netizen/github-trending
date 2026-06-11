@@ -8,9 +8,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_total": 53034,
+      "stars_total": 53054,
       "stars_period": 821,
-      "forks": 5816,
+      "forks": 5818,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
@@ -26,7 +26,7 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 15659,
+      "stars_total": 15672,
       "stars_period": 804,
       "forks": 1660,
       "contributors": [
@@ -41,7 +41,7 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_total": 15148,
+      "stars_total": 15149,
       "stars_period": 612,
       "forks": 1045,
       "contributors": [
@@ -59,7 +59,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 39397,
+      "stars_total": 39400,
       "stars_period": 2535,
       "forks": 3173,
       "contributors": [
@@ -77,7 +77,7 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_total": 32265,
+      "stars_total": 32268,
       "stars_period": 318,
       "forks": 2371,
       "contributors": [
@@ -95,7 +95,7 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": null,
-      "stars_total": 139670,
+      "stars_total": 139674,
       "stars_period": 393,
       "forks": 34603,
       "contributors": [
@@ -113,7 +113,7 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 224110,
+      "stars_total": 224117,
       "stars_period": 1104,
       "forks": 19925,
       "contributors": [
@@ -131,7 +131,7 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars_total": 5411,
+      "stars_total": 5412,
       "stars_period": 354,
       "forks": 503,
       "contributors": [
@@ -149,7 +149,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 85529,
+      "stars_total": 85531,
       "stars_period": 1389,
       "forks": 12205,
       "contributors": [
@@ -167,7 +167,7 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_total": 2454,
+      "stars_total": 2455,
       "stars_period": 527,
       "forks": 252,
       "contributors": [
@@ -183,7 +183,7 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_total": 36734,
+      "stars_total": 36739,
       "stars_period": 211,
       "forks": 4429,
       "contributors": [
@@ -193,7 +193,7 @@
         "https://avatars.githubusercontent.com/u/5405744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271938013?s=40&v=4"
       ],
-      "description_zh": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+      "description_zh": "克劳德代码的可视化、示例驱动指南 - 从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
     },
     {
       "rank": 12,
@@ -201,7 +201,7 @@
       "url": "https://github.com/activeloopai/hivemind",
       "description": "One brain for all your agents",
       "language": "TypeScript",
-      "stars_total": 985,
+      "stars_total": 986,
       "stars_period": 64,
       "forks": 56,
       "contributors": [
@@ -219,7 +219,7 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 73055,
+      "stars_total": 73056,
       "stars_period": 420,
       "forks": 9748,
       "contributors": [
@@ -237,7 +237,7 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_total": 43733,
+      "stars_total": 43738,
       "stars_period": 695,
       "forks": 3885,
       "contributors": [
@@ -255,7 +255,7 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 13468,
+      "stars_total": 13469,
       "stars_period": 211,
       "forks": 1014,
       "contributors": [
@@ -272,9 +272,9 @@
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Python",
-      "stars_total": 5451,
+      "stars_total": 5452,
       "stars_period": 247,
-      "forks": 725,
+      "forks": 726,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63067900?s=40&v=4",
         "https://avatars.githubusercontent.com/u/34389237?s=40&v=4",
@@ -290,7 +290,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 30452,
+      "stars_total": 30458,
       "stars_period": 1611,
       "forks": 850,
       "contributors": [
@@ -303,5 +303,5 @@
       "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     }
   ],
-  "generated_at": 1781167299
+  "generated_at": 1781167617
 }
