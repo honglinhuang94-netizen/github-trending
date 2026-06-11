@@ -19,6 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    # GitHub 在 2026-06-16 会强制把 JS-based action 跑在 Node.js 24 上
+    # 这里提前显式 opt-in,避免 actions/checkout@v4 / actions/setup-python@v5
+    # 在 5 月后出现 "deprecated Node.js 20" 警告甚至失败
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
