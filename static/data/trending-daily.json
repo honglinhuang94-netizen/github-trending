@@ -1,0 +1,307 @@
+{
+  "period": "daily",
+  "count": 17,
+  "items": [
+    {
+      "rank": 1,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_total": 52966,
+      "stars_period": 821,
+      "forks": 5809,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 2,
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "stars_total": 15614,
+      "stars_period": 804,
+      "forks": 1659,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+    },
+    {
+      "rank": 3,
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_total": 15135,
+      "stars_period": 612,
+      "forks": 1045,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/921834?s=40&v=4"
+      ],
+      "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
+    },
+    {
+      "rank": 4,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 39379,
+      "stars_period": 2535,
+      "forks": 3172,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17969723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250428393?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+    },
+    {
+      "rank": 5,
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_total": 32249,
+      "stars_period": 318,
+      "forks": 2371,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99247491?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37670363?s=40&v=4"
+      ],
+      "description_zh": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
+    },
+    {
+      "rank": 6,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "stars_total": 139663,
+      "stars_period": 393,
+      "forks": 34601,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/185671340?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/214582138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16625915?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/147257979?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/178603515?s=40&v=4"
+      ],
+      "description_zh": "完整增强代码、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia 和 v0。 （和其他开源）系统提示、内部工具和人工智能模型"
+    },
+    {
+      "rank": 7,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 224076,
+      "stars_period": 1104,
+      "forks": 19923,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      ],
+      "description_zh": "有效的代理技能框架和软件开发方法。"
+    },
+    {
+      "rank": 8,
+      "name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars_total": 5403,
+      "stars_period": 354,
+      "forks": 503,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1076030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20380298?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11955573?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63877463?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22979706?s=40&v=4"
+      ],
+      "description_zh": "用于绕过审查的高级 DNS 隧道 VPN，经过优化，超越 DNSTT 和 SlipStream，具有低开销 ARQ、解析器负载平衡、高丢包稳定性和速度。"
+    },
+    {
+      "rank": 9,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_total": 85503,
+      "stars_period": 1389,
+      "forks": 12199,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96235876?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13794286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "rank": 10,
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_total": 2447,
+      "stars_period": 527,
+      "forks": 252,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5762953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1547093?s=40&v=4"
+      ],
+      "description_zh": "开源医疗保健人工智能"
+    },
+    {
+      "rank": 11,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_total": 36722,
+      "stars_period": 211,
+      "forks": 4428,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/258913972?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5405744?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271938013?s=40&v=4"
+      ],
+      "description_zh": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。"
+    },
+    {
+      "rank": 12,
+      "name": "activeloopai/hivemind",
+      "url": "https://github.com/activeloopai/hivemind",
+      "description": "One brain for all your agents",
+      "language": "TypeScript",
+      "stars_total": 980,
+      "stars_period": 64,
+      "forks": 56,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32709108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219914059?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151129343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167765682?s=40&v=4"
+      ],
+      "description_zh": "一个大脑适合所有代理"
+    },
+    {
+      "rank": 13,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 73041,
+      "stars_period": 420,
+      "forks": 9748,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
+      ],
+      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+    },
+    {
+      "rank": 14,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_total": 43725,
+      "stars_period": 695,
+      "forks": 3885,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6500785?s=40&v=4"
+      ],
+      "description_zh": "我们为您编写可重复使用的计算机视觉工具。 💜"
+    },
+    {
+      "rank": 15,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_total": 13451,
+      "stars_period": 211,
+      "forks": 1014,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4"
+      ],
+      "description_zh": "Google 产品和技术的代理技能"
+    },
+    {
+      "rank": 16,
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Python",
+      "stars_total": 5439,
+      "stars_period": 247,
+      "forks": 724,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/63067900?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34389237?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8125957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22633385?s=40&v=4"
+      ],
+      "description_zh": "培训法学硕士的简单方法，从下载数据到生成文本。"
+    },
+    {
+      "rank": 17,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_total": 30425,
+      "stars_period": 1611,
+      "forks": 850,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
+      ],
+      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    }
+  ],
+  "generated_at": 1781165891
+}

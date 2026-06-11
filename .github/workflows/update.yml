@@ -1,0 +1,57 @@
+name: Update Trending Data
+
+# 每小时整点自动跑一次,也可以在 Actions 页面手动触发
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+# 防止上一次还没跑完又触发新的
+concurrency:
+  group: trending-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write   # 需要写权限才能 push 提交
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r build_requirements.txt
+
+      - name: Build trending data
+        run: python scripts/build_data.py
+
+      - name: Show diff
+        run: |
+          echo "---- modified files ----"
+          git status --porcelain || true
+          echo "------------------------"
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/data/
+          # 没变化时也会以 exit 0 退出,触发 push 会因无 commit 而失败,所以加 || true
+          if git diff --cached --quiet; then
+            echo "No data changes, skipping commit."
+          else
+            git commit -m "chore(data): refresh trending data [skip ci]"
+            git push
+          fi
