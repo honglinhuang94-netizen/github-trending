@@ -8,9 +8,9 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_total": 48162,
+      "stars_total": 48191,
       "stars_period": 46262,
-      "forks": 2938,
+      "forks": 2940,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 24464,
+      "stars_total": 24567,
       "stars_period": 21069,
-      "forks": 1594,
+      "forks": 1603,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 58066,
+      "stars_total": 58096,
       "stars_period": 43295,
-      "forks": 4836,
+      "forks": 4838,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 86724,
+      "stars_total": 86759,
       "stars_period": 29315,
-      "forks": 12376,
+      "forks": 12378,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_total": 31741,
+      "stars_total": 31752,
       "stars_period": 30683,
-      "forks": 3070,
+      "forks": 3071,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 31661,
+      "stars_total": 31670,
       "stars_period": 24187,
-      "forks": 5184,
+      "forks": 5186,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 30656,
+      "stars_total": 30668,
       "stars_period": 24392,
-      "forks": 2532,
+      "forks": 2534,
       "contributors": [
         "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 73447,
+      "stars_total": 73465,
       "stars_period": 21406,
-      "forks": 9793,
+      "forks": 9796,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,7 +152,7 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_total": 12085,
+      "stars_total": 12103,
       "stars_period": 7663,
       "forks": 1022,
       "contributors": [
@@ -170,9 +170,9 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_total": 22524,
+      "stars_total": 22535,
       "stars_period": 18179,
-      "forks": 1851,
+      "forks": 1852,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/u/158763203?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_total": 25727,
+      "stars_total": 25741,
       "stars_period": 20078,
-      "forks": 2042,
+      "forks": 2045,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263726196?s=40&v=4",
         "https://avatars.githubusercontent.com/u/189992797?s=40&v=4",
@@ -206,7 +206,7 @@
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_total": 11559,
+      "stars_total": 11568,
       "stars_period": 8615,
       "forks": 1200,
       "contributors": [
@@ -224,7 +224,7 @@
       "url": "https://github.com/HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars_total": 9817,
+      "stars_total": 9829,
       "stars_period": 6094,
       "forks": 1454,
       "contributors": [
@@ -242,7 +242,7 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars_total": 10192,
+      "stars_total": 10197,
       "stars_period": 6605,
       "forks": 719,
       "contributors": [
@@ -258,9 +258,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 20419,
+      "stars_total": 20425,
       "stars_period": 8309,
-      "forks": 2417,
+      "forks": 2419,
       "contributors": [
         "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 151989,
+      "stars_total": 152042,
       "stars_period": 28892,
-      "forks": 10497,
+      "forks": 10504,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 42296,
+      "stars_total": 42340,
       "stars_period": 24733,
-      "forks": 2955,
+      "forks": 2960,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -312,9 +312,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 126850,
+      "stars_total": 126897,
       "stars_period": 55038,
-      "forks": 11083,
+      "forks": 11087,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -327,7 +327,7 @@
       "url": "https://github.com/fathah/hermes-desktop",
       "description": "Desktop Companion for Hermes Agent",
       "language": "TypeScript",
-      "stars_total": 11987,
+      "stars_total": 11993,
       "stars_period": 9673,
       "forks": 1349,
       "contributors": [
@@ -345,9 +345,9 @@
       "url": "https://github.com/iii-hq/iii",
       "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
       "language": "Rust",
-      "stars_total": 18011,
+      "stars_total": 18024,
       "stars_period": 2497,
-      "forks": 1197,
+      "forks": 1198,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5348335?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4141723?s=40&v=4",
@@ -358,5 +358,5 @@
       "description_zh": "有史以来第一次毫不费力地实时编写、扩展和观察每项服务。"
     }
   ],
-  "generated_at": 1781295660
+  "generated_at": 1781304150
 }

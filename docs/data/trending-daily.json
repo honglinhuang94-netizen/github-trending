@@ -8,9 +8,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_total": 56640,
+      "stars_total": 56706,
       "stars_period": 2660,
-      "forks": 6105,
+      "forks": 6111,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
@@ -26,7 +26,7 @@
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_total": 1734,
+      "stars_total": 1759,
       "stars_period": 6,
       "forks": 422,
       "contributors": [
@@ -44,9 +44,9 @@
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_total": 37583,
+      "stars_total": 37609,
       "stars_period": 391,
-      "forks": 8710,
+      "forks": 8711,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2672098?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3277310?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 34891,
+      "stars_total": 35002,
       "stars_period": 3513,
-      "forks": 971,
+      "forks": 974,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 117962,
+      "stars_total": 118003,
       "stars_period": 142,
-      "forks": 6297,
+      "forks": 6300,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 225902,
+      "stars_total": 225955,
       "stars_period": 1276,
-      "forks": 20078,
+      "forks": 20080,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_total": 15696,
+      "stars_total": 15729,
       "stars_period": 369,
-      "forks": 1072,
+      "forks": 1075,
       "contributors": [
         "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -134,13 +134,15 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_total": 3155,
+      "stars_total": 3173,
       "stars_period": 517,
-      "forks": 301,
+      "forks": 303,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5762953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/192414136?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1547093?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1547093?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37329575?s=40&v=4"
       ],
       "description_zh": "开源医疗保健人工智能"
     },
@@ -150,9 +152,9 @@
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_total": 8595,
+      "stars_total": 8620,
       "stars_period": 17,
-      "forks": 1287,
+      "forks": 1288,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25103655?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17329931?s=40&v=4",
@@ -168,9 +170,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 16878,
+      "stars_total": 16937,
       "stars_period": 823,
-      "forks": 1734,
+      "forks": 1736,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -183,7 +185,7 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars_total": 5956,
+      "stars_total": 5985,
       "stars_period": 401,
       "forks": 538,
       "contributors": [
@@ -201,9 +203,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 112292,
+      "stars_total": 112349,
       "stars_period": 1040,
-      "forks": 18324,
+      "forks": 18335,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -219,9 +221,9 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars_total": 134270,
+      "stars_total": 134313,
       "stars_period": 104,
-      "forks": 8062,
+      "forks": 8063,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1169912?s=40&v=4",
@@ -232,5 +234,5 @@
       "description_zh": "Microsoft PowerToys 是一系列实用程序，可提高 Windows 上的工作效率和自定义功能"
     }
   ],
-  "generated_at": 1781295656
+  "generated_at": 1781304146
 }
