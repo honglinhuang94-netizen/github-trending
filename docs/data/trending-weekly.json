@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 40041,
+      "stars_total": 40114,
       "stars_period": 12422,
-      "forks": 3223,
+      "forks": 3226,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 23840,
+      "stars_total": 24097,
       "stars_period": 11282,
-      "forks": 1547,
+      "forks": 1568,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_total": 29387,
-      "stars_period": 4796,
-      "forks": 3328,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1153759?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4564803?s=40&v=4"
-      ],
-      "description_zh": "Notebook LM 的开源实现，具有更多灵活性和功能"
-    },
-    {
-      "rank": 4,
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 16651,
+      "stars_total": 16745,
       "stars_period": 4005,
-      "forks": 1716,
+      "forks": 1726,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -72,14 +54,32 @@
       "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
     },
     {
+      "rank": 4,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_total": 34508,
+      "stars_period": 4081,
+      "forks": 954,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
+      ],
+      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    },
+    {
       "rank": 5,
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 2848,
+      "stars_total": 2862,
       "stars_period": 1424,
-      "forks": 332,
+      "forks": 333,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -95,9 +95,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 26554,
+      "stars_total": 26613,
       "stars_period": 5186,
-      "forks": 2175,
+      "forks": 2178,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -109,11 +109,65 @@
     },
     {
       "rank": 7,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars_total": 29417,
+      "stars_period": 4796,
+      "forks": 3329,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1153759?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4564803?s=40&v=4"
+      ],
+      "description_zh": "Notebook LM 的开源实现，具有更多灵活性和功能"
+    },
+    {
+      "rank": 8,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_total": 42074,
+      "stars_period": 8413,
+      "forks": 2942,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86572800?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/111887417?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
+      ],
+      "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+    },
+    {
+      "rank": 9,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_total": 151782,
+      "stars_period": 7280,
+      "forks": 10472,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10201242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/173082609?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/71011125?s=40&v=4"
+      ],
+      "description_zh": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。"
+    },
+    {
+      "rank": 10,
       "name": "NVIDIA/cosmos",
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars_total": 9983,
+      "stars_total": 9996,
       "stars_period": 1099,
       "forks": 644,
       "contributors": [
@@ -126,86 +180,14 @@
       "description_zh": "NVIDIA Cosmos 是一个包含世界模型、数据集和工具的开放平台，使开发人员能够为机器人、自动驾驶车辆、智能基础设施等构建物理 AI。"
     },
     {
-      "rank": 8,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_total": 41960,
-      "stars_period": 8413,
-      "forks": 2933,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86572800?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/111887417?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
-      ],
-      "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": 9,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_total": 34060,
-      "stars_period": 4081,
-      "forks": 943,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
-      ],
-      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
-    },
-    {
-      "rank": 10,
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_total": 151649,
-      "stars_period": 7280,
-      "forks": 10463,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10201242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/173082609?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/71011125?s=40&v=4"
-      ],
-      "description_zh": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。"
-    },
-    {
       "rank": 11,
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "language": "Python",
-      "stars_total": 11087,
-      "stars_period": 1676,
-      "forks": 1277,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36402030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42771977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84625137?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60679722?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118782309?s=40&v=4"
-      ],
-      "description_zh": "通过免提语音交互、语音中断和跨平台本地运行的 Live2D 面部识别功能与任何法学硕士交谈"
-    },
-    {
-      "rank": 12,
       "name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars_total": 34791,
+      "stars_total": 34810,
       "stars_period": 2751,
-      "forks": 4337,
+      "forks": 4339,
       "contributors": [
         "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
         "https://avatars.githubusercontent.com/u/746397?s=40&v=4",
@@ -216,12 +198,48 @@
       "description_zh": "代理和生成式 UI 的前端堆栈。 React、Angular、Mobile、Slack 等等。 AG-UI协议的制定者"
     },
     {
+      "rank": 12,
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_total": 15606,
+      "stars_period": 3514,
+      "forks": 1070,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/921834?s=40&v=4"
+      ],
+      "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
+    },
+    {
       "rank": 13,
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_total": 49033,
+      "stars_period": 2509,
+      "forks": 5171,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22990146?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15972783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73617011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14976?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/427516?s=40&v=4"
+      ],
+      "description_zh": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
+    },
+    {
+      "rank": 14,
       "name": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars_total": 36367,
+      "stars_total": 36377,
       "stars_period": 792,
       "forks": 469,
       "contributors": [
@@ -234,14 +252,14 @@
       "description_zh": "查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_total": 52984,
+      "stars_total": 53038,
       "stars_period": 4111,
-      "forks": 10598,
+      "forks": 10607,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -252,59 +270,59 @@
       "description_zh": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
     },
     {
-      "rank": 15,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_total": 191492,
-      "stars_period": 10733,
-      "forks": 33295,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82637225?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35742124?s=40&v=4"
-      ],
-      "description_zh": "与您共同成长的代理商"
-    },
-    {
       "rank": 16,
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_total": 6873,
-      "stars_period": 973,
-      "forks": 935,
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars_total": 11126,
+      "stars_period": 1676,
+      "forks": 1279,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2889542?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112580905?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1100974?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70629228?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/36402030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42771977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84625137?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/60679722?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118782309?s=40&v=4"
       ],
-      "description_zh": "一种元技能，用于设计特定领域的代理团队、定义专业代理并生成他们使用的技能。"
+      "description_zh": "通过免提语音交互、语音中断和跨平台本地运行的 Live2D 面部识别功能与任何法学硕士交谈"
     },
     {
       "rank": 17,
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_total": 48997,
-      "stars_period": 2509,
-      "forks": 5167,
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_total": 88945,
+      "stars_period": 1176,
+      "forks": 56640,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/22990146?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15972783?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73617011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14976?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/427516?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4981219?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2536374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2110786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3304494?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2566854?s=40&v=4"
       ],
-      "description_zh": "开源、可扩展的 AI 代理，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
+      "description_zh": "开源计算机视觉库"
+    },
+    {
+      "rank": 18,
+      "name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars_total": 87168,
+      "stars_period": 523,
+      "forks": 4943,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5968653?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16696352?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1519870?s=40&v=4"
+      ],
+      "description_zh": "适合我们其他人的网络开发"
     }
   ],
-  "generated_at": 1781259990
+  "generated_at": 1781273556
 }

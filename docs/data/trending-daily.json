@@ -1,34 +1,16 @@
 {
   "period": "daily",
-  "count": 19,
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_total": 34060,
-      "stars_period": 2430,
-      "forks": 943,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
-      ],
-      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
-    },
-    {
-      "rank": 2,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_total": 55961,
-      "stars_period": 3278,
-      "forks": 6042,
+      "stars_total": 56315,
+      "stars_period": 2660,
+      "forks": 6075,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
@@ -39,271 +21,32 @@
       "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
+      "rank": 2,
+      "name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars_total": 1649,
+      "stars_period": 6,
+      "forks": 422,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6389780?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17671719?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/141749843?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19848947?s=40&v=4"
+      ],
+      "description_zh": "音乐助手是一款免费的开源媒体库管理器，可连接到您的流媒体服务和各种连接的扬声器。服务器是跳动的心脏，是音乐助手的核心，必须在始终在线的设备上运行，例如 Raspberry Pi、NAS 或 Intel NUC 等。"
+    },
+    {
       "rank": 3,
-      "name": "maziyarpanahi/openmed",
-      "url": "https://github.com/maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
-      "language": "Python",
-      "stars_total": 3010,
-      "stars_period": 426,
-      "forks": 290,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5762953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1547093?s=40&v=4"
-      ],
-      "description_zh": "开源医疗保健人工智能"
-    },
-    {
-      "rank": 4,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "stars_total": 16651,
-      "stars_period": 1978,
-      "forks": 1716,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
-    },
-    {
-      "rank": 5,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 3045,
-      "stars_period": 319,
-      "forks": 230,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/145896621?s=40&v=4"
-      ],
-      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
-    },
-    {
-      "rank": 6,
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_total": 32871,
-      "stars_period": 661,
-      "forks": 2410,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99247491?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37670363?s=40&v=4"
-      ],
-      "description_zh": "🕵️‍♂️ 从 3000 多个网站按用户名收集某人的档案"
-    },
-    {
-      "rank": 7,
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": null,
-      "stars_total": 140052,
-      "stars_period": 368,
-      "forks": 34638,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/185671340?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/214582138?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16625915?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/147257979?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/178603515?s=40&v=4"
-      ],
-      "description_zh": "完整增强代码、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia 和 v0。 （和其他开源）系统提示、内部工具和人工智能模型"
-    },
-    {
-      "rank": 8,
-      "name": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "stars_total": 15559,
-      "stars_period": 604,
-      "forks": 1067,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90484?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/921834?s=40&v=4"
-      ],
-      "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
-    },
-    {
-      "rank": 9,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_total": 225508,
-      "stars_period": 1322,
-      "forks": 20043,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
-      ],
-      "description_zh": "有效的代理技能框架和软件开发方法。"
-    },
-    {
-      "rank": 10,
-      "name": "restic/restic",
-      "url": "https://github.com/restic/restic",
-      "description": "Fast, secure, efficient backup program",
-      "language": "Go",
-      "stars_total": 34292,
-      "stars_period": 61,
-      "forks": 1789,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/123276?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9106997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/825204?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61184462?s=40&v=4"
-      ],
-      "description_zh": "快速、安全、高效的备份程序"
-    },
-    {
-      "rank": 11,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_total": 111957,
-      "stars_period": 1599,
-      "forks": 18295,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
-      ],
-      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 12,
-      "name": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "stars_total": 5853,
-      "stars_period": 507,
-      "forks": 532,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1076030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20380298?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11955573?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63877463?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22979706?s=40&v=4"
-      ],
-      "description_zh": "用于绕过审查的高级 DNS 隧道 VPN，经过优化，超越 DNSTT 和 SlipStream，具有低开销 ARQ、解析器负载平衡、高丢包稳定性和速度。"
-    },
-    {
-      "rank": 13,
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars_total": 30531,
-      "stars_period": 67,
-      "forks": 7516,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64252451?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12408980?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18097732?s=40&v=4"
-      ],
-      "description_zh": "开源实时聊天、电子邮件支持、全渠道服务台。 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。🔥💬"
-    },
-    {
-      "rank": 14,
-      "name": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "stars_total": 1923,
-      "stars_period": 114,
-      "forks": 186,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73973?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101120927?s=40&v=4"
-      ],
-      "description_zh": "针对编码代理的本地优先会话智能和分析，支持 Claude Code、Codex 和 20 多个其他代理。另外：替换 ccusage 的速度加快 100 倍！"
-    },
-    {
-      "rank": 15,
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "language": null,
-      "stars_total": 8152,
-      "stars_period": 89,
-      "forks": 2433,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/127714341?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
-    },
-    {
-      "rank": 16,
-      "name": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_total": 74089,
-      "stars_period": 88,
-      "forks": 16567,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
-      ],
-      "description_zh": "所有小初高、大学PDF教材。"
-    },
-    {
-      "rank": 17,
-      "name": "hexo-ai/sia",
-      "url": "https://github.com/hexo-ai/sia",
-      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
-      "language": "Python",
-      "stars_total": 1521,
-      "stars_period": 199,
-      "forks": 172,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/242274038?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/946174?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/125873180?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175135402?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "SIA 是一个自我改进的人工智能框架，可以自主提高任何人工智能系统（模型/代理）在基准任务上的性能。"
-    },
-    {
-      "rank": 18,
       "name": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_total": 37478,
-      "stars_period": 53,
-      "forks": 8705,
+      "stars_total": 37513,
+      "stars_period": 391,
+      "forks": 8707,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2672098?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3277310?s=40&v=4",
@@ -314,20 +57,180 @@
       "description_zh": "Mattermost 是一个开源平台，用于在整个软件开发生命周期中进行安全协作。"
     },
     {
-      "rank": 19,
-      "name": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "stars_total": 47225,
-      "stars_period": 161,
-      "forks": 8052,
+      "rank": 4,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_total": 34508,
+      "stars_period": 3513,
+      "forks": 954,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
       ],
-      "description_zh": "翻墙-科学上网"
+      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    },
+    {
+      "rank": 5,
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_total": 117807,
+      "stars_period": 142,
+      "forks": 6288,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
+      ],
+      "description_zh": "来自世界各地的公开 IPTV 频道集合"
+    },
+    {
+      "rank": 6,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 225670,
+      "stars_period": 1276,
+      "forks": 20052,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      ],
+      "description_zh": "有效的代理技能框架和软件开发方法。"
+    },
+    {
+      "rank": 7,
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_total": 15606,
+      "stars_period": 369,
+      "forks": 1070,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/921834?s=40&v=4"
+      ],
+      "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
+    },
+    {
+      "rank": 8,
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_total": 3071,
+      "stars_period": 517,
+      "forks": 294,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5762953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1547093?s=40&v=4"
+      ],
+      "description_zh": "开源医疗保健人工智能"
+    },
+    {
+      "rank": 9,
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars_total": 8530,
+      "stars_period": 17,
+      "forks": 1284,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25103655?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17329931?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/82156730?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102553648?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55471457?s=40&v=4"
+      ],
+      "description_zh": "LMCache：用最快的 KV 缓存层增强您的 LLM"
+    },
+    {
+      "rank": 10,
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "stars_total": 16745,
+      "stars_period": 823,
+      "forks": 1726,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+    },
+    {
+      "rank": 11,
+      "name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars_total": 5890,
+      "stars_period": 401,
+      "forks": 534,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1076030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20380298?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11955573?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63877463?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22979706?s=40&v=4"
+      ],
+      "description_zh": "用于绕过审查的高级 DNS 隧道 VPN，经过优化，超越 DNSTT 和 SlipStream，具有低开销 ARQ、解析器负载平衡、高丢包稳定性和速度。"
+    },
+    {
+      "rank": 12,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_total": 112061,
+      "stars_period": 1040,
+      "forks": 18303,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
+      ],
+      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
+      "rank": 13,
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars_total": 134158,
+      "stars_period": 104,
+      "forks": 8057,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1169912?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1725475?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26118718?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9866362?s=40&v=4"
+      ],
+      "description_zh": "Microsoft PowerToys 是一系列实用程序，可提高 Windows 上的工作效率和自定义功能"
     }
   ],
-  "generated_at": 1781259988
+  "generated_at": 1781273554
 }
