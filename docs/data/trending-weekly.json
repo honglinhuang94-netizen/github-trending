@@ -8,9 +8,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 40195,
+      "stars_total": 40239,
       "stars_period": 12422,
-      "forks": 3230,
+      "forks": 3235,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 24332,
+      "stars_total": 24464,
       "stars_period": 11282,
-      "forks": 1586,
+      "forks": 1594,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 16834,
+      "stars_total": 16878,
       "stars_period": 4005,
-      "forks": 1731,
+      "forks": 1734,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -59,9 +59,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 34745,
+      "stars_total": 34891,
       "stars_period": 4081,
-      "forks": 964,
+      "forks": 971,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -77,7 +77,7 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 2872,
+      "stars_total": 2882,
       "stars_period": 1424,
       "forks": 334,
       "contributors": [
@@ -95,9 +95,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 26686,
+      "stars_total": 26721,
       "stars_period": 5186,
-      "forks": 2180,
+      "forks": 2181,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 29449,
+      "stars_total": 29477,
       "stars_period": 4796,
-      "forks": 3338,
+      "forks": 3339,
       "contributors": [
         "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -131,9 +131,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 42218,
+      "stars_total": 42296,
       "stars_period": 8413,
-      "forks": 2950,
+      "forks": 2955,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -149,9 +149,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 151911,
+      "stars_total": 151989,
       "stars_period": 7280,
-      "forks": 10487,
+      "forks": 10497,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -167,7 +167,7 @@
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars_total": 10015,
+      "stars_total": 10021,
       "stars_period": 1099,
       "forks": 646,
       "contributors": [
@@ -185,9 +185,9 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars_total": 34839,
+      "stars_total": 34862,
       "stars_period": 2751,
-      "forks": 4343,
+      "forks": 4345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
         "https://avatars.githubusercontent.com/u/746397?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_total": 15669,
+      "stars_total": 15696,
       "stars_period": 3514,
-      "forks": 1071,
+      "forks": 1072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_total": 49057,
+      "stars_total": 49076,
       "stars_period": 2509,
-      "forks": 5174,
+      "forks": 5176,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22990146?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15972783?s=40&v=4",
@@ -239,7 +239,7 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars_total": 36388,
+      "stars_total": 36393,
       "stars_period": 792,
       "forks": 470,
       "contributors": [
@@ -257,9 +257,9 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_total": 53114,
+      "stars_total": 53161,
       "stars_period": 4111,
-      "forks": 10615,
+      "forks": 10622,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars_total": 11148,
+      "stars_total": 11161,
       "stars_period": 1676,
-      "forks": 1279,
+      "forks": 1283,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36402030?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42771977?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars_total": 88963,
+      "stars_total": 88968,
       "stars_period": 1176,
-      "forks": 56639,
+      "forks": 56640,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4981219?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2536374?s=40&v=4",
@@ -311,9 +311,9 @@
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "language": "JavaScript",
-      "stars_total": 87181,
+      "stars_total": 87190,
       "stars_period": 523,
-      "forks": 4944,
+      "forks": 4946,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5968653?s=40&v=4",
@@ -324,5 +324,5 @@
       "description_zh": "适合我们其他人的网络开发"
     }
   ],
-  "generated_at": 1781286045
+  "generated_at": 1781295658
 }
