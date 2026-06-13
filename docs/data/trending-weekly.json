@@ -8,9 +8,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 40721,
+      "stars_total": 40829,
       "stars_period": 12257,
-      "forks": 3283,
+      "forks": 3295,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,46 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_total": 25339,
-      "stars_period": 10184,
-      "forks": 1668,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1226415?s=40&v=4"
-      ],
-      "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": 3,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "stars_total": 17292,
-      "stars_period": 4839,
-      "forks": 1778,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
-    },
-    {
-      "rank": 4,
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 35583,
+      "stars_total": 35740,
       "stars_period": 7781,
-      "forks": 1001,
+      "forks": 1008,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -72,32 +39,81 @@
       "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
-      "rank": 5,
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_total": 2923,
-      "stars_period": 1435,
-      "forks": 341,
+      "rank": 3,
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "stars_total": 17367,
+      "stars_period": 4839,
+      "forks": 1787,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24821844?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "OpenAI 插件"
+      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+    },
+    {
+      "rank": 4,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_total": 25475,
+      "stars_period": 10184,
+      "forks": 1683,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1226415?s=40&v=4"
+      ],
+      "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
+      "rank": 5,
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_total": 3883,
+      "stars_period": 2616,
+      "forks": 295,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/145896621?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
       "rank": 6,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_total": 57599,
+      "stars_period": 8340,
+      "forks": 6226,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 7,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 27003,
+      "stars_total": 27066,
       "stars_period": 5364,
-      "forks": 2206,
+      "forks": 2210,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -108,32 +124,32 @@
       "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 7,
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_total": 29782,
-      "stars_period": 3848,
-      "forks": 3383,
+      "rank": 8,
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_total": 2930,
+      "stars_period": 1435,
+      "forks": 342,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1153759?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4564803?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24821844?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
       ],
-      "description_zh": "Notebook LM 的开源实现，具有更多灵活性和功能"
+      "description_zh": "OpenAI 插件"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 42654,
+      "stars_total": 42725,
       "stars_period": 8651,
-      "forks": 2979,
+      "forks": 2983,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -144,14 +160,14 @@
       "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 152340,
+      "stars_total": 152411,
       "stars_period": 6967,
-      "forks": 10536,
+      "forks": 10542,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -162,50 +178,14 @@
       "description_zh": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。"
     },
     {
-      "rank": 10,
-      "name": "NVIDIA/cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "stars_total": 10093,
-      "stars_period": 721,
-      "forks": 653,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8594682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/193973994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6860749?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9806735?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45137516?s=40&v=4"
-      ],
-      "description_zh": "NVIDIA Cosmos 是一个包含世界模型、数据集和工具的开放平台，使开发人员能够为机器人、自动驾驶车辆、智能基础设施等构建物理 AI。"
-    },
-    {
       "rank": 11,
-      "name": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars_total": 34938,
-      "stars_period": 2473,
-      "forks": 4353,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/746397?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18480956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54378333?s=40&v=4"
-      ],
-      "description_zh": "代理和生成式 UI 的前端堆栈。 React、Angular、Mobile、Slack 等等。 AG-UI协议的制定者"
-    },
-    {
-      "rank": 12,
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_total": 15958,
+      "stars_total": 16001,
       "stars_period": 3471,
-      "forks": 1087,
+      "forks": 1089,
       "contributors": [
         "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -216,14 +196,32 @@
       "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
     },
     {
+      "rank": 12,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars_total": 29847,
+      "stars_period": 3848,
+      "forks": 3392,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1153759?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4564803?s=40&v=4"
+      ],
+      "description_zh": "Notebook LM 的开源实现，具有更多灵活性和功能"
+    },
+    {
       "rank": 13,
       "name": "aaif-goose/goose",
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_total": 49142,
+      "stars_total": 49159,
       "stars_period": 2479,
-      "forks": 5187,
+      "forks": 5189,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22990146?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15972783?s=40&v=4",
@@ -235,67 +233,13 @@
     },
     {
       "rank": 14,
-      "name": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_total": 36417,
-      "stars_period": 638,
-      "forks": 472,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91113035?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/100182843?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
-      ],
-      "description_zh": "查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM"
-    },
-    {
-      "rank": 15,
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_total": 53383,
-      "stars_period": 4319,
-      "forks": 10649,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105244485?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/188724350?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/148745794?s=40&v=4"
-      ],
-      "description_zh": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
-    },
-    {
-      "rank": 16,
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "language": "Python",
-      "stars_total": 11219,
-      "stars_period": 1218,
-      "forks": 1291,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36402030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42771977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84625137?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60679722?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118782309?s=40&v=4"
-      ],
-      "description_zh": "通过免提语音交互、语音中断和跨平台本地运行的 Live2D 面部识别功能与任何法学硕士交谈"
-    },
-    {
-      "rank": 17,
       "name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars_total": 89009,
+      "stars_total": 89020,
       "stars_period": 1203,
-      "forks": 56647,
+      "forks": 56650,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4981219?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2536374?s=40&v=4",
@@ -306,23 +250,77 @@
       "description_zh": "开源计算机视觉库"
     },
     {
-      "rank": 18,
-      "name": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars_total": 87210,
-      "stars_period": 380,
-      "forks": 4946,
+      "rank": 15,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_total": 44016,
+      "stars_period": 3989,
+      "forks": 3915,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5968653?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16696352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1519870?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6500785?s=40&v=4"
       ],
-      "description_zh": "适合我们其他人的网络开发"
+      "description_zh": "我们为您编写可重复使用的计算机视觉工具。 💜"
+    },
+    {
+      "rank": 16,
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_total": 34955,
+      "stars_period": 2473,
+      "forks": 4356,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/86957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/746397?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18480956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54378333?s=40&v=4"
+      ],
+      "description_zh": "代理和生成式 UI 的前端堆栈。 React、Angular、Mobile、Slack 等等。 AG-UI协议的制定者"
+    },
+    {
+      "rank": 17,
+      "name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars_total": 10097,
+      "stars_period": 721,
+      "forks": 654,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8594682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193973994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6860749?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9806735?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45137516?s=40&v=4"
+      ],
+      "description_zh": "NVIDIA Cosmos 是一个包含世界模型、数据集和工具的开放平台，使开发人员能够为机器人、自动驾驶车辆、智能基础设施等构建物理 AI。"
+    },
+    {
+      "rank": 18,
+      "name": "huggingface/OpenEnv",
+      "url": "https://github.com/huggingface/OpenEnv",
+      "description": "An interface library for RL post training with environments.",
+      "language": "Python",
+      "stars_total": 2148,
+      "stars_period": 230,
+      "forks": 391,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/19620375?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17179696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29524482?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16226196?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102007621?s=40&v=4"
+      ],
+      "description_zh": "用于环境强化学习后期训练的接口库。"
     }
   ],
-  "generated_at": 1781342882
+  "generated_at": 1781351904
 }

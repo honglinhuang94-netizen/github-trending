@@ -8,9 +8,9 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_total": 48376,
+      "stars_total": 48413,
       "stars_period": 46941,
-      "forks": 2958,
+      "forks": 2960,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 25339,
+      "stars_total": 25475,
       "stars_period": 22468,
-      "forks": 1668,
+      "forks": 1683,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 58269,
+      "stars_total": 58312,
       "stars_period": 43988,
-      "forks": 4854,
+      "forks": 4857,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 86941,
+      "stars_total": 86997,
       "stars_period": 30089,
-      "forks": 12419,
+      "forks": 12432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_total": 31820,
+      "stars_total": 31836,
       "stars_period": 29805,
-      "forks": 3082,
+      "forks": 3084,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 31768,
+      "stars_total": 31796,
       "stars_period": 24325,
-      "forks": 5200,
+      "forks": 5209,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 30830,
+      "stars_total": 30863,
       "stars_period": 24479,
-      "forks": 2540,
+      "forks": 2543,
       "contributors": [
         "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -130,31 +130,13 @@
     },
     {
       "rank": 8,
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_total": 73537,
-      "stars_period": 21590,
-      "forks": 9812,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
-      ],
-      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
-    },
-    {
-      "rank": 9,
       "name": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_total": 12163,
+      "stars_total": 12173,
       "stars_period": 7805,
-      "forks": 1030,
+      "forks": 1031,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -165,14 +147,48 @@
       "description_zh": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
     },
     {
+      "rank": 9,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 73553,
+      "stars_period": 21590,
+      "forks": 9811,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
+      ],
+      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+    },
+    {
       "rank": 10,
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": null,
+      "stars_total": 10259,
+      "stars_period": 6736,
+      "forks": 724,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/591262?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128729140?s=40&v=4"
+      ],
+      "description_zh": "从散文中删除 AI 的技能文件"
+    },
+    {
+      "rank": 11,
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_total": 22598,
+      "stars_total": 22614,
       "stars_period": 17244,
-      "forks": 1856,
+      "forks": 1857,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/u/158763203?s=40&v=4",
@@ -183,12 +199,12 @@
       "description_zh": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_total": 25834,
+      "stars_total": 25844,
       "stars_period": 18691,
       "forks": 2049,
       "contributors": [
@@ -201,30 +217,30 @@
       "description_zh": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
-      "rank": 12,
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "rank": 13,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 11593,
-      "stars_period": 8655,
-      "forks": 1203,
+      "stars_total": 35740,
+      "stars_period": 8356,
+      "forks": 1008,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/40254383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25501957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43239386?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6456004?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
       ],
-      "description_zh": "快如闪电、设备内多语言 TTS — 通过 ONNX 本地运行。"
+      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "HKUDS/ViMax",
       "url": "https://github.com/HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars_total": 9880,
+      "stars_total": 9891,
       "stars_period": 6054,
       "forks": 1464,
       "contributors": [
@@ -237,30 +253,14 @@
       "description_zh": "“ViMax：代理视频生成（导演、编剧、制片人和视频生成器一体化）”"
     },
     {
-      "rank": 14,
-      "name": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": null,
-      "stars_total": 10253,
-      "stars_period": 6736,
-      "forks": 723,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/591262?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128729140?s=40&v=4"
-      ],
-      "description_zh": "从散文中删除 AI 的技能文件"
-    },
-    {
       "rank": 15,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 20474,
+      "stars_total": 20485,
       "stars_period": 8452,
-      "forks": 2422,
+      "forks": 2424,
       "contributors": [
         "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 152340,
+      "stars_total": 152411,
       "stars_period": 29591,
-      "forks": 10536,
+      "forks": 10542,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 42654,
+      "stars_total": 42725,
       "stars_period": 25356,
-      "forks": 2979,
+      "forks": 2983,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -308,55 +308,55 @@
     },
     {
       "rank": 18,
+      "name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_total": 11601,
+      "stars_period": 8655,
+      "forks": 1203,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/40254383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25501957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43239386?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6456004?s=40&v=4"
+      ],
+      "description_zh": "快如闪电、设备内多语言 TTS — 通过 ONNX 本地运行。"
+    },
+    {
+      "rank": 19,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_total": 5375,
+      "stars_period": 5364,
+      "forks": 466,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114647511?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18409951?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/484069?s=40&v=4"
+      ],
+      "description_zh": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
+    },
+    {
+      "rank": 20,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 127264,
+      "stars_total": 127355,
       "stars_period": 52517,
-      "forks": 11115,
+      "forks": 11125,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 19,
-      "name": "fathah/hermes-desktop",
-      "url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "language": "TypeScript",
-      "stars_total": 12033,
-      "stars_period": 8565,
-      "forks": 1352,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/48355244?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43048778?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/144758205?s=40&v=4"
-      ],
-      "description_zh": "Hermes Agent 桌面伴侣"
-    },
-    {
-      "rank": 20,
-      "name": "iii-hq/iii",
-      "url": "https://github.com/iii-hq/iii",
-      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
-      "language": "Rust",
-      "stars_total": 18072,
-      "stars_period": 2522,
-      "forks": 1203,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5348335?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4141723?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5047011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-      ],
-      "description_zh": "有史以来第一次毫不费力地实时编写、扩展和观察每项服务。"
     }
   ],
-  "generated_at": 1781342884
+  "generated_at": 1781351906
 }
