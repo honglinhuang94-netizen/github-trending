@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_total": 49165,
+      "stars_total": 49458,
       "stars_period": 47635,
-      "forks": 3008,
+      "forks": 3026,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 27814,
+      "stars_total": 28227,
       "stars_period": 25399,
-      "forks": 1885,
+      "forks": 1911,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 59381,
+      "stars_total": 59915,
       "stars_period": 44690,
-      "forks": 4928,
+      "forks": 4963,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 87914,
+      "stars_total": 88090,
       "stars_period": 30998,
-      "forks": 12610,
+      "forks": 12633,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -76,31 +76,13 @@
     },
     {
       "rank": 5,
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_total": 32147,
-      "stars_period": 25134,
-      "forks": 3112,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146339422?s=40&v=4"
-      ],
-      "description_zh": "您的个人人工智能超级智能。私密、简单且极其强大。"
-    },
-    {
-      "rank": 6,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 32535,
+      "stars_total": 32730,
       "stars_period": 24741,
-      "forks": 5343,
+      "forks": 5371,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -111,14 +93,32 @@
       "description_zh": "学习它。建造它。寄给别人。"
     },
     {
+      "rank": 6,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_total": 32204,
+      "stars_period": 25134,
+      "forks": 3120,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146339422?s=40&v=4"
+      ],
+      "description_zh": "您的个人人工智能超级智能。私密、简单且极其强大。"
+    },
+    {
       "rank": 7,
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 31466,
+      "stars_total": 31609,
       "stars_period": 24371,
-      "forks": 2587,
+      "forks": 2600,
       "contributors": [
         "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -130,31 +130,13 @@
     },
     {
       "rank": 8,
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars_total": 12459,
-      "stars_period": 8029,
-      "forks": 1060,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/284758152?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/152830360?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/142213280?s=40&v=4"
-      ],
-      "description_zh": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
-    },
-    {
-      "rank": 9,
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 37091,
+      "stars_total": 37273,
       "stars_period": 10383,
-      "forks": 1065,
+      "forks": 1068,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -165,14 +147,32 @@
       "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
+      "rank": 9,
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_total": 12540,
+      "stars_period": 8029,
+      "forks": 1063,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/284758152?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/152830360?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/142213280?s=40&v=4"
+      ],
+      "description_zh": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
+    },
+    {
       "rank": 10,
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 73868,
+      "stars_total": 73935,
       "stars_period": 19369,
-      "forks": 9861,
+      "forks": 9872,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars_total": 10622,
+      "stars_total": 10712,
       "stars_period": 6931,
-      "forks": 749,
+      "forks": 755,
       "contributors": [
         "https://avatars.githubusercontent.com/u/591262?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,31 +200,13 @@
     },
     {
       "rank": 12,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 20688,
-      "stars_period": 8577,
-      "forks": 2443,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4"
-      ],
-      "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
-    },
-    {
-      "rank": 13,
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 153511,
+      "stars_total": 153788,
       "stars_period": 30576,
-      "forks": 10613,
+      "forks": 10630,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -235,14 +217,32 @@
       "description_zh": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。"
     },
     {
+      "rank": 13,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 20725,
+      "stars_period": 8577,
+      "forks": 2445,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4"
+      ],
+      "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
+    },
+    {
       "rank": 14,
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 43869,
+      "stars_total": 44199,
       "stars_period": 26394,
-      "forks": 3066,
+      "forks": 3083,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -254,21 +254,21 @@
     },
     {
       "rank": 15,
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_total": 22836,
-      "stars_period": 14292,
-      "forks": 1879,
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_total": 5692,
+      "stars_period": 4876,
+      "forks": 338,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158763203?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19909783?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5664860?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1701388?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20119392?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98116082?s=40&v=4"
       ],
-      "description_zh": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+      "description_zh": "位于您终端中的代理多路复用器。"
     },
     {
       "rank": 16,
@@ -276,9 +276,9 @@
       "url": "https://github.com/HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars_total": 10052,
+      "stars_total": 10085,
       "stars_period": 6188,
-      "forks": 1480,
+      "forks": 1484,
       "contributors": [
         "https://avatars.githubusercontent.com/u/83233211?s=40&v=4",
         "https://avatars.githubusercontent.com/u/177777906?s=40&v=4",
@@ -290,13 +290,31 @@
     },
     {
       "rank": 17,
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars_total": 22898,
+      "stars_period": 14292,
+      "forks": 1887,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158763203?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19909783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5664860?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1701388?s=40&v=4"
+      ],
+      "description_zh": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+    },
+    {
+      "rank": 18,
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_total": 26117,
+      "stars_total": 26160,
       "stars_period": 15875,
-      "forks": 2066,
+      "forks": 2071,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263726196?s=40&v=4",
         "https://avatars.githubusercontent.com/u/189992797?s=40&v=4",
@@ -307,14 +325,14 @@
       "description_zh": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 129027,
+      "stars_total": 129547,
       "stars_period": 48195,
-      "forks": 11276,
+      "forks": 11315,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -322,59 +340,23 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
-      "rank": 19,
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_total": 12225,
-      "stars_period": 7106,
-      "forks": 1248,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/40254383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25501957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43239386?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6456004?s=40&v=4"
-      ],
-      "description_zh": "快如闪电、设备内多语言 TTS — 通过 ONNX 本地运行。"
-    },
-    {
       "rank": 20,
-      "name": "fathah/hermes-desktop",
-      "url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "language": "TypeScript",
-      "stars_total": 12196,
-      "stars_period": 7386,
-      "forks": 1377,
+      "name": "iii-hq/iii",
+      "url": "https://github.com/iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "stars_total": 18126,
+      "stars_period": 2547,
+      "forks": 1208,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48355244?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43048778?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/144758205?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5348335?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4141723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5047011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
       ],
-      "description_zh": "Hermes Agent 桌面伴侣"
-    },
-    {
-      "rank": 21,
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "language": "TypeScript",
-      "stars_total": 5726,
-      "stars_period": 5095,
-      "forks": 493,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114647511?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18409951?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/484069?s=40&v=4"
-      ],
-      "description_zh": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
+      "description_zh": "有史以来第一次毫不费力地实时编写、扩展和观察每项服务。"
     }
   ],
-  "generated_at": 1781500568
+  "generated_at": 1781526928
 }

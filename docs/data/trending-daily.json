@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 18,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 121462,
-      "stars_period": 1528,
-      "forks": 6512,
+      "stars_total": 122425,
+      "stars_period": 2650,
+      "forks": 6567,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -22,57 +22,57 @@
     },
     {
       "rank": 2,
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_total": 447365,
-      "stars_period": 146,
-      "forks": 44961,
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_total": 8143,
+      "stars_period": 35,
+      "forks": 943,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13561988?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
       ],
-      "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+      "description_zh": "特斯拉的自托管数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
     },
     {
       "rank": 3,
-      "name": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 14081,
-      "stars_period": 14,
-      "forks": 3181,
+      "stars_total": 29401,
+      "stars_period": 1045,
+      "forks": 2401,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1085180?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73579?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1223550?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/156838?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12839688?s=40&v=4"
       ],
-      "description_zh": "pytest 框架可以轻松编写小型测试，并可扩展以支持复杂的功能测试"
+      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 4,
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "stars_total": 33817,
-      "stars_period": 163,
-      "forks": 1403,
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars_total": 10520,
+      "stars_period": 227,
+      "forks": 3427,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/29931815?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99782286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4567934?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7829098?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1210596?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65964225?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91112485?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73700530?s=40&v=4"
       ],
-      "description_zh": "基于 Rust 的 Web 平台"
+      "description_zh": "Meshery，云原生管理器"
     },
     {
       "rank": 5,
@@ -80,9 +80,9 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_total": 31330,
-      "stars_period": 400,
-      "forks": 7598,
+      "stars_total": 31467,
+      "stars_period": 431,
+      "forks": 7612,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
@@ -94,120 +94,103 @@
     },
     {
       "rank": 6,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 5553,
-      "stars_period": 964,
-      "forks": 422,
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars_total": 126747,
+      "stars_period": 34,
+      "forks": 15129,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3075074?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/145896621?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/26993056?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24556310?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99076655?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3739017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39959756?s=40&v=4"
       ],
-      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本语，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
     },
     {
       "rank": 7,
-      "name": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 10454,
-      "stars_period": 20,
-      "forks": 3424,
+      "stars_total": 447619,
+      "stars_period": 738,
+      "forks": 44974,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65964225?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91112485?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73700530?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13561988?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
       ],
-      "description_zh": "Meshery，云原生管理器"
+      "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
     },
     {
       "rank": 8,
-      "name": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "stars_total": 50011,
-      "stars_period": 39,
-      "forks": 3418,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_total": 18020,
+      "stars_period": 57,
+      "forks": 1168,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1268976?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1157043?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1271364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1151760?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33395784?s=40&v=4"
       ],
-      "description_zh": "对浏览器中运行的任何内容进行快速、简单且可靠的测试。"
+      "description_zh": "计算机使用代理的开源基础设施。用于训练和评估可控制完整桌面（macOS、Linux、Windows）的 AI 代理的沙箱、SDK 和基准测试。"
     },
     {
       "rank": 9,
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars_total": 35603,
-      "stars_period": 269,
-      "forks": 3193,
+      "stars_total": 352064,
+      "stars_period": 516,
+      "forks": 83542,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7106086?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56633241?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102732012?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49336839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4927300?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3771963?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76818211?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24354489?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13459501?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4519586?s=40&v=4"
       ],
-      "description_zh": "100 多个流行网站的开源克隆，例如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify、Whatsapp、Youtube 等。查看源代码、演示链接、技术堆栈、github 明星。"
+      "description_zh": "成为软件工程师的完整计算机科学研究计划。"
     },
     {
       "rank": 10,
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "stars_total": 2816,
-      "stars_period": 293,
-      "forks": 627,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_total": 32730,
+      "stars_period": 538,
+      "forks": 5371,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4378663?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4449777?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/399192?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1191374?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13409495?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42953002?s=40&v=4"
       ],
-      "description_zh": "自主机器人简介"
+      "description_zh": "学习它。建造它。寄给别人。"
     },
     {
       "rank": 11,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_total": 29995,
-      "stars_period": 244,
-      "forks": 5160,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
-      ],
-      "description_zh": "Kronos：金融市场语言的基础模型"
-    },
-    {
-      "rank": 12,
       "name": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_total": 2235,
-      "stars_period": 197,
-      "forks": 439,
+      "stars_total": 2320,
+      "stars_period": 226,
+      "forks": 442,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6389780?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -218,14 +201,14 @@
       "description_zh": "音乐助手是一款免费的开源媒体库管理器，可连接到您的流媒体服务和各种连接的扬声器。服务器是跳动的心脏，是音乐助手的核心，必须在始终在线的设备上运行，例如 Raspberry Pi、NAS 或 Intel NUC 等。"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
-      "stars_total": 17017,
-      "stars_period": 70,
-      "forks": 2544,
+      "stars_total": 17137,
+      "stars_period": 361,
+      "forks": 2552,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5292264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/82442641?s=40&v=4",
@@ -236,41 +219,112 @@
       "description_zh": "免费电视频道的 M3U 播放列表"
     },
     {
-      "rank": 14,
-      "name": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "stars_total": 94684,
-      "stars_period": 29,
-      "forks": 9440,
+      "rank": 13,
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars_total": 2950,
+      "stars_period": 488,
+      "forks": 640,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/40688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/746130?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4378663?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4449777?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/399192?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1191374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13409495?s=40&v=4"
       ],
-      "description_zh": "适用于 Chrome 和 Firefox 的 JavaScript API"
+      "description_zh": "自主机器人简介"
+    },
+    {
+      "rank": 14,
+      "name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_total": 47735,
+      "stars_period": 114,
+      "forks": 1929,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66299104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/100943586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1663025?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2017355?s=40&v=4"
+      ],
+      "description_zh": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
     },
     {
       "rank": 15,
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_total": 14452,
-      "stars_period": 291,
-      "forks": 1507,
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "stars_total": 20595,
+      "stars_period": 126,
+      "forks": 1047,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5633095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7972024?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/291557675?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/134135415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/914224?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1090838?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2357342?s=40&v=4"
       ],
-      "description_zh": "与多个生成人工智能提供商的简单、统一的接口"
+      "description_zh": "自托管指南。了解有关您或您的组织本地托管（本地和私有 Web 服务器）和管理软件应用程序的所有信息。包括云、法学硕士、WireGuard、自动化、家庭助理和网络。"
+    },
+    {
+      "rank": 16,
+      "name": "itsfatduck/optimizerDuck",
+      "url": "https://github.com/itsfatduck/optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "language": "C#",
+      "stars_total": 3499,
+      "stars_period": 321,
+      "forks": 156,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/124025976?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/97512153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86864914?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8427316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15666251?s=40&v=4"
+      ],
+      "description_zh": "免费、开源的 Windows 优化工具，可实现性能、隐私和简单性。"
+    },
+    {
+      "rank": 17,
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_total": 5941,
+      "stars_period": 1079,
+      "forks": 440,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3075074?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/145896621?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+    },
+    {
+      "rank": 18,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_total": 30105,
+      "stars_period": 395,
+      "forks": 5171,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
+      ],
+      "description_zh": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "generated_at": 1781500563
+  "generated_at": 1781526923
 }
