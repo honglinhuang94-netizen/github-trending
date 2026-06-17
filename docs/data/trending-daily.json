@@ -1,106 +1,70 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 20,
   "items": [
     {
       "rank": 1,
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_total": 448891,
-      "stars_period": 633,
-      "forks": 45069,
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_total": 4387,
+      "stars_period": 367,
+      "forks": 432,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13561988?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20542959?s=40&v=4"
       ],
-      "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+      "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
       "rank": 2,
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_total": 34025,
-      "stars_period": 20,
-      "forks": 1420,
+      "stars_total": 9501,
+      "stars_period": 422,
+      "forks": 442,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/29931815?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99782286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4567934?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7829098?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1210596?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
       ],
-      "description_zh": "基于 Rust 的 Web 平台"
+      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
     },
     {
       "rank": 3,
-      "name": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "stars_total": 8477,
-      "stars_period": 215,
-      "forks": 961,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 32740,
+      "stars_period": 2025,
+      "forks": 2640,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12839688?s=40&v=4"
       ],
-      "description_zh": "特斯拉的自托管数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
+      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": 4,
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_total": 124645,
-      "stars_period": 1197,
-      "forks": 6755,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
-      ],
-      "description_zh": "来自世界各地的公开 IPTV 频道集合"
-    },
-    {
-      "rank": 5,
-      "name": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "stars_total": 95000,
-      "stars_period": 56,
-      "forks": 9452,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/40688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/746130?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
-      ],
-      "description_zh": "适用于 Chrome 和 Firefox 的 JavaScript API"
-    },
-    {
-      "rank": 6,
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_total": 10927,
-      "stars_period": 228,
-      "forks": 3452,
+      "stars_total": 10949,
+      "stars_period": 199,
+      "forks": 3454,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
@@ -111,50 +75,122 @@
       "description_zh": "Meshery，云原生管理器"
     },
     {
-      "rank": 7,
-      "name": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "stars_total": 50295,
-      "stars_period": 13,
-      "forks": 3428,
+      "rank": 5,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 230610,
+      "stars_period": 1109,
+      "forks": 20505,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1268976?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1157043?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1271364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1151760?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
       ],
-      "description_zh": "对浏览器中运行的任何内容进行快速、简单且可靠的测试。"
+      "description_zh": "有效的代理技能框架和软件开发方法。"
+    },
+    {
+      "rank": 6,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 21561,
+      "stars_period": 84,
+      "forks": 2109,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+      ],
+      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": 7,
+      "name": "RocketChat/Rocket.Chat",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars_total": 45509,
+      "stars_period": 15,
+      "forks": 13656,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1000217?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8591547?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5263975?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/234261?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20868078?s=40&v=4"
+      ],
+      "description_zh": "用于关键任务操作的 Secure CommsOS™"
     },
     {
       "rank": 8,
-      "name": "music-assistant/server",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "stars_total": 2643,
-      "stars_period": 157,
-      "forks": 453,
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars_total": 33784,
+      "stars_period": 38,
+      "forks": 4684,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6389780?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17671719?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/141749843?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19848947?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/33237525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6581799?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20157849?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7911227?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61635505?s=40&v=4"
       ],
-      "description_zh": "音乐助手是一款免费的开源媒体库管理器，可连接到您的流媒体服务和各种连接的扬声器。服务器是跳动的心脏，是音乐助手的核心，必须在始终在线的设备上运行，例如 Raspberry Pi、NAS 或 Intel NUC 等。"
+      "description_zh": "开源编码代理"
     },
     {
       "rank": 9,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_total": 49922,
+      "stars_period": 94,
+      "forks": 3226,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
+      ],
+      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
+    },
+    {
+      "rank": 10,
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars_total": 127367,
+      "stars_period": 516,
+      "forks": 15175,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26993056?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24556310?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99076655?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3739017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39959756?s=40&v=4"
+      ],
+      "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本语，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    },
+    {
+      "rank": 11,
       "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
-      "stars_total": 7506,
-      "stars_period": 146,
-      "forks": 320,
+      "stars_total": 7544,
+      "stars_period": 465,
+      "forks": 323,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50231698?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55300518?s=40&v=4",
@@ -165,77 +201,162 @@
       "description_zh": "使用 Rust 编写的跨平台 GUI，使用 ADB 来消除非 root 的 Android 设备。提高您的隐私、安全性和设备的电池寿命。"
     },
     {
-      "rank": 10,
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars_total": 30336,
-      "stars_period": 408,
-      "forks": 3426,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8132992?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33060143?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/167593451?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20982600?s=40&v=4"
-      ],
-      "description_zh": "VoxCPM2：用于多语言语音生成、创意语音设计和逼真克隆的无分词器 TTS"
-    },
-    {
-      "rank": 11,
-      "name": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars_total": 10714,
-      "stars_period": 156,
-      "forks": 619,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45122959?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78126249?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
-      ],
-      "description_zh": "轻量级、快如闪电的进程内矢量数据库"
-    },
-    {
       "rank": 12,
-      "name": "rmyndharis/OpenWA",
-      "url": "https://github.com/rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "language": "TypeScript",
-      "stars_total": 9235,
-      "stars_period": 185,
-      "forks": 2019,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_total": 132864,
+      "stars_period": 1849,
+      "forks": 11552,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2390382?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46887634?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/201595245?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67826?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "免费、开源、自托管 WhatsApp API 网关"
+      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
       "rank": 13,
-      "name": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_total": 9430,
-      "stars_period": 334,
-      "forks": 439,
+      "name": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "language": "Kotlin",
+      "stars_total": 10572,
+      "stars_period": 25,
+      "forks": 1840,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8366208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63000004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41149920?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/71121390?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11946570?s=40&v=4"
       ],
-      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
+      "description_zh": "Civ V 的开源 Android/桌面重制版"
+    },
+    {
+      "rank": 14,
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars_total": 448979,
+      "stars_period": 764,
+      "forks": 45076,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13561988?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+      ],
+      "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+    },
+    {
+      "rank": 15,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars_total": 36599,
+      "stars_period": 148,
+      "forks": 3697,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23133919?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13595509?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38528320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13687952?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24872439?s=40&v=4"
+      ],
+      "description_zh": "开源多模式 AI 代理堆栈：连接尖端 AI 模型和代理基础设施"
+    },
+    {
+      "rank": 16,
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_total": 23656,
+      "stars_period": 86,
+      "forks": 3003,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16453976?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/893862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
+      ],
+      "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
+    },
+    {
+      "rank": 17,
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars_total": 32221,
+      "stars_period": 400,
+      "forks": 7691,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64252451?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12408980?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18097732?s=40&v=4"
+      ],
+      "description_zh": "开源实时聊天、电子邮件支持、全渠道服务台。 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。🔥💬"
+    },
+    {
+      "rank": 18,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_total": 4992,
+      "stars_period": 71,
+      "forks": 986,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53057646?s=40&v=4"
+      ],
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": 19,
+      "name": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "language": "Python",
+      "stars_total": 4826,
+      "stars_period": 37,
+      "forks": 820,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10924399?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19483938?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52913345?s=40&v=4"
+      ],
+      "description_zh": "用于递归语言模型（RLM）的通用即插即用推理库，支持各种沙箱。"
+    },
+    {
+      "rank": 20,
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars_total": 51045,
+      "stars_period": 68,
+      "forks": 4547,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
+      ],
+      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
     }
   ],
-  "generated_at": 1781690379
+  "generated_at": 1781704468
 }
