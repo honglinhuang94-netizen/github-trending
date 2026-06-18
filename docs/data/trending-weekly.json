@@ -8,7 +8,7 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_total": 7820,
+      "stars_total": 7869,
       "stars_period": 5257,
       "forks": 586,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_total": 62747,
+      "stars_total": 62807,
       "stars_period": 11684,
-      "forks": 6815,
+      "forks": 6820,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 125404,
+      "stars_total": 125432,
       "stars_period": 7355,
-      "forks": 6840,
+      "forks": 6846,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 38506,
+      "stars_total": 38532,
       "stars_period": 9735,
-      "forks": 1109,
+      "forks": 1108,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 19533,
+      "stars_total": 19554,
       "stars_period": 5333,
-      "forks": 1994,
+      "forks": 1996,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -95,9 +95,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 34112,
+      "stars_total": 34231,
       "stars_period": 6855,
-      "forks": 2727,
+      "forks": 2738,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
       "language": "Go",
-      "stars_total": 2830,
+      "stars_total": 2845,
       "stars_period": 1445,
-      "forks": 243,
+      "forks": 245,
       "contributors": [
         "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -131,9 +131,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 33013,
+      "stars_total": 33651,
       "stars_period": 9475,
-      "forks": 2228,
+      "forks": 2269,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -149,9 +149,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 6680,
+      "stars_total": 6809,
       "stars_period": 1097,
-      "forks": 543,
+      "forks": 552,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_total": 11109,
+      "stars_total": 11115,
       "stars_period": 683,
-      "forks": 3463,
+      "forks": 3466,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
@@ -185,7 +185,7 @@
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_total": 9323,
+      "stars_total": 9334,
       "stars_period": 765,
       "forks": 1346,
       "contributors": [
@@ -203,9 +203,9 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_total": 32542,
+      "stars_total": 32557,
       "stars_period": 2166,
-      "forks": 7727,
+      "forks": 7730,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
@@ -221,7 +221,7 @@
       "url": "https://github.com/pytest-dev/pytest",
       "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
       "language": "Python",
-      "stars_total": 14205,
+      "stars_total": 14207,
       "stars_period": 271,
       "forks": 3191,
       "contributors": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/puppeteer/puppeteer",
       "description": "JavaScript API for Chrome and Firefox",
       "language": "TypeScript",
-      "stars_total": 95072,
+      "stars_total": 95075,
       "stars_period": 541,
       "forks": 9454,
       "contributors": [
@@ -257,7 +257,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 44290,
+      "stars_total": 44338,
       "stars_period": 5235,
       "forks": 3634,
       "contributors": [
@@ -275,9 +275,9 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 31496,
+      "stars_total": 31538,
       "stars_period": 2501,
-      "forks": 3574,
+      "forks": 3578,
       "contributors": [
         "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 449414,
+      "stars_total": 449465,
       "stars_period": 2534,
-      "forks": 45108,
+      "forks": 45116,
       "contributors": [
         "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
@@ -311,7 +311,7 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars_total": 135206,
+      "stars_total": 135216,
       "stars_period": 1229,
       "forks": 8114,
       "contributors": [
@@ -329,9 +329,9 @@
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_total": 38034,
+      "stars_total": 38038,
       "stars_period": 952,
-      "forks": 8751,
+      "forks": 8752,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2672098?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3277310?s=40&v=4",
@@ -347,7 +347,7 @@
       "url": "https://github.com/restic/restic",
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
-      "stars_total": 34550,
+      "stars_total": 34555,
       "stars_period": 525,
       "forks": 1796,
       "contributors": [
@@ -365,7 +365,7 @@
       "url": "https://github.com/biomejs/biome",
       "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
       "language": "Rust",
-      "stars_total": 25107,
+      "stars_total": 25114,
       "stars_period": 137,
       "forks": 1031,
       "contributors": [
@@ -383,9 +383,9 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
       "language": "Java",
-      "stars_total": 25468,
+      "stars_total": 25473,
       "stars_period": 74,
-      "forks": 9530,
+      "forks": 9531,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50003?s=40&v=4",
         "https://avatars.githubusercontent.com/u/154109?s=40&v=4",
@@ -396,5 +396,5 @@
       "description_zh": "Jenkins 自动化服务器"
     }
   ],
-  "generated_at": 1781797517
+  "generated_at": 1781807487
 }
