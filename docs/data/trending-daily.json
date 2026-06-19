@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 8085,
+      "stars_total": 8168,
       "stars_period": 1055,
-      "forks": 622,
+      "forks": 623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 24033,
+      "stars_total": 24066,
       "stars_period": 1516,
-      "forks": 2268,
+      "forks": 2270,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 1772,
+      "stars_total": 1843,
       "stars_period": 749,
-      "forks": 181,
+      "forks": 185,
       "contributors": [
         "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
         "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 57159,
+      "stars_total": 57203,
       "stars_period": 300,
-      "forks": 9134,
+      "forks": 9135,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -78,7 +78,7 @@
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
-      "stars_total": 27577,
+      "stars_total": 27597,
       "stars_period": 155,
       "forks": 5738,
       "contributors": [
@@ -96,9 +96,9 @@
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
       "language": "TypeScript",
-      "stars_total": 993,
+      "stars_total": 1015,
       "stars_period": 210,
-      "forks": 116,
+      "forks": 117,
       "contributors": [
         "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 38302,
+      "stars_total": 38534,
       "stars_period": 3938,
-      "forks": 2614,
+      "forks": 2623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 6200,
+      "stars_total": 6243,
       "stars_period": 236,
-      "forks": 1077,
+      "forks": 1078,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -148,9 +148,9 @@
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": null,
-      "stars_total": 4519,
+      "stars_total": 4556,
       "stars_period": 478,
-      "forks": 459,
+      "forks": 460,
       "contributors": [
         "https://avatars.githubusercontent.com/u/93239683?s=40&v=4",
         "https://avatars.githubusercontent.com/u/142211841?s=40&v=4",
@@ -165,7 +165,7 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_total": 5797,
+      "stars_total": 5816,
       "stars_period": 305,
       "forks": 323,
       "contributors": [
@@ -183,7 +183,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_total": 10229,
+      "stars_total": 10243,
       "stars_period": 307,
       "forks": 466,
       "contributors": [
@@ -201,9 +201,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 233258,
+      "stars_total": 233307,
       "stars_period": 1113,
-      "forks": 20719,
+      "forks": 20721,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -219,9 +219,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 50539,
-      "stars_period": 318,
-      "forks": 3267,
+      "stars_total": 50569,
+      "stars_period": 213,
+      "forks": 3268,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -237,7 +237,7 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 38935,
+      "stars_total": 38962,
       "stars_period": 291,
       "forks": 2300,
       "contributors": [
@@ -255,7 +255,7 @@
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars_total": 7650,
+      "stars_total": 7660,
       "stars_period": 196,
       "forks": 1220,
       "contributors": [
@@ -266,5 +266,5 @@
       "description_zh": "LTX-2 音视频生成模型的官方 Python 推理和 LoRA 训练包。"
     }
   ],
-  "generated_at": 1781903873
+  "generated_at": 1781910402
 }
