@@ -1,105 +1,16 @@
 {
   "period": "daily",
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 23766,
-      "stars_period": 844,
-      "forks": 2252,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
-      ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
-    },
-    {
-      "rank": 2,
-      "name": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_total": 10126,
-      "stars_period": 369,
-      "forks": 465,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
-      ],
-      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
-    },
-    {
-      "rank": 3,
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_total": 449726,
-      "stars_period": 417,
-      "forks": 45151,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13561988?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
-      ],
-      "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
-    },
-    {
-      "rank": 4,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_total": 232859,
-      "stars_period": 1429,
-      "forks": 20672,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
-      ],
-      "description_zh": "有效的代理技能框架和软件开发方法。"
-    },
-    {
-      "rank": 5,
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": null,
-      "stars_total": 4330,
-      "stars_period": 202,
-      "forks": 441,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/93239683?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/142211841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15032169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35144242?s=40&v=4"
-      ],
-      "description_zh": "GLM-5：从 Vibe 编码到代理工程"
-    },
-    {
-      "rank": 6,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 7454,
-      "stars_period": 2322,
-      "forks": 585,
+      "stars_total": 7676,
+      "stars_period": 1055,
+      "forks": 596,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -110,32 +21,153 @@
       "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
-      "rank": 7,
-      "name": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars_total": 11429,
-      "stars_period": 259,
-      "forks": 663,
+      "rank": 2,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 23903,
+      "stars_period": 1516,
+      "forks": 2254,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45122959?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78126249?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
       ],
-      "description_zh": "轻量级、快如闪电的进程内矢量数据库"
+      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": 3,
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_total": 1496,
+      "stars_period": 749,
+      "forks": 167,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      ],
+      "description_zh": "专为 AI 打造的 macOS 视频编辑器"
+    },
+    {
+      "rank": 4,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 56924,
+      "stars_period": 133,
+      "forks": 9119,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 5,
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars_total": 27472,
+      "stars_period": 203,
+      "forks": 5735,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/12550285?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4944665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88981?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94736350?s=40&v=4"
+      ],
+      "description_zh": "生成式人工智能研究更新、访谈资源、笔记本等的一站式存储库！"
+    },
+    {
+      "rank": 6,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_total": 858,
+      "stars_period": 172,
+      "forks": 105,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37156449?s=40&v=4"
+      ],
+      "description_zh": "用于构建代理本机应用程序的框架。"
+    },
+    {
+      "rank": 7,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_total": 37056,
+      "stars_period": 3938,
+      "forks": 2520,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1226415?s=40&v=4"
+      ],
+      "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": 8,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_total": 5966,
+      "stars_period": 738,
+      "forks": 1062,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53057646?s=40&v=4"
+      ],
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": 9,
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": null,
+      "stars_total": 4385,
+      "stars_period": 478,
+      "forks": 448,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/93239683?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/142211841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15032169?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35144242?s=40&v=4"
+      ],
+      "description_zh": "GLM-5：从 Vibe 编码到代理工程"
+    },
+    {
+      "rank": 10,
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_total": 5616,
-      "stars_period": 162,
-      "forks": 310,
+      "stars_total": 5683,
+      "stars_period": 305,
+      "forks": 314,
       "contributors": [
         "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,50 +178,68 @@
       "description_zh": "沙箱代理框架。"
     },
     {
-      "rank": 9,
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars_total": 22558,
-      "stars_period": 1345,
-      "forks": 2718,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/624143?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/247121564?s=40&v=4"
-      ],
-      "description_zh": "Kilo 是一款一体化代理工程平台。使用最流行的开源编码代理更快地构建、发布和迭代。"
-    },
-    {
-      "rank": 10,
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_total": 51999,
-      "stars_period": 613,
-      "forks": 4614,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
-      ],
-      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
-    },
-    {
       "rank": 11,
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars_total": 10165,
+      "stars_period": 307,
+      "forks": 466,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
+      ],
+      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
+    },
+    {
+      "rank": 12,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 233001,
+      "stars_period": 1113,
+      "forks": 20693,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      ],
+      "description_zh": "有效的代理技能框架和软件开发方法。"
+    },
+    {
+      "rank": 13,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_total": 50421,
+      "stars_period": 318,
+      "forks": 3259,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
+      ],
+      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
+    },
+    {
+      "rank": 14,
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 38789,
-      "stars_period": 18,
-      "forks": 2294,
+      "stars_total": 38829,
+      "stars_period": 291,
+      "forks": 2295,
       "contributors": [
         "https://avatars.githubusercontent.com/u/587576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3679927?s=40&v=4",
@@ -200,93 +250,21 @@
       "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
     },
     {
-      "rank": 12,
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "stars_total": 8026,
-      "stars_period": 244,
-      "forks": 344,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50231698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55300518?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72750891?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76864299?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/107522312?s=40&v=4"
-      ],
-      "description_zh": "使用 Rust 编写的跨平台 GUI，使用 ADB 来消除非 root 的 Android 设备。提高您的隐私、安全性和设备的电池寿命。"
-    },
-    {
-      "rank": 13,
-      "name": "dotnet/aspnetcore",
-      "url": "https://github.com/dotnet/aspnetcore",
-      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "language": "C#",
-      "stars_total": 38129,
-      "stars_period": 14,
-      "forks": 10713,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/174281?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23037549?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/16706?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6431421?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1821173?s=40&v=4"
-      ],
-      "description_zh": "ASP.NET Core 是一个跨平台 .NET 框架，用于在 Windows、Mac 或 Linux 上构建基于云的现代 Web 应用程序。"
-    },
-    {
-      "rank": 14,
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "language": null,
-      "stars_total": 14562,
-      "stars_period": 40,
-      "forks": 2346,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/733944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7651474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26705302?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47504178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/332330?s=40&v=4"
-      ],
-      "description_zh": "人工智能 (AI) 课程、书籍、视频讲座和论文的精选列表。"
-    },
-    {
       "rank": 15,
       "name": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars_total": 7562,
-      "stars_period": 51,
-      "forks": 1213,
+      "stars_total": 7598,
+      "stars_period": 196,
+      "forks": 1216,
       "contributors": [
         "https://avatars.githubusercontent.com/u/17297304?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/109453818?s=40&v=4"
       ],
       "description_zh": "LTX-2 音视频生成模型的官方 Python 推理和 LoRA 训练包。"
-    },
-    {
-      "rank": 16,
-      "name": "LibreTranslate/LibreTranslate",
-      "url": "https://github.com/LibreTranslate/LibreTranslate",
-      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
-      "language": "Python",
-      "stars_total": 15102,
-      "stars_period": 51,
-      "forks": 1538,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1951843?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64697405?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13067016?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13802408?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3778439?s=40&v=4"
-      ],
-      "description_zh": "免费开源机器翻译 API。自托管、离线功能且易于设置。"
     }
   ],
-  "generated_at": 1781866311
+  "generated_at": 1781878636
 }
