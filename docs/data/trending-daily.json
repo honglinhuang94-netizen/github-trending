@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 8404,
+      "stars_total": 8615,
       "stars_period": 1058,
-      "forks": 639,
+      "forks": 658,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 24130,
+      "stars_total": 24199,
       "stars_period": 1510,
-      "forks": 2276,
+      "forks": 2287,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 2023,
+      "stars_total": 2151,
       "stars_period": 756,
-      "forks": 198,
+      "forks": 210,
       "contributors": [
         "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
         "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 57357,
+      "stars_total": 57490,
       "stars_period": 156,
-      "forks": 9146,
+      "forks": 9152,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
-      "stars_total": 27686,
+      "stars_total": 27733,
       "stars_period": 107,
-      "forks": 5740,
+      "forks": 5745,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12550285?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
       "language": "TypeScript",
-      "stars_total": 1096,
+      "stars_total": 1146,
       "stars_period": 147,
-      "forks": 119,
+      "forks": 122,
       "contributors": [
         "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 39110,
+      "stars_total": 39729,
       "stars_period": 4005,
-      "forks": 2681,
+      "forks": 2721,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -132,15 +132,15 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 6382,
+      "stars_total": 6483,
       "stars_period": 156,
-      "forks": 1089,
+      "forks": 1100,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/53057646?s=40&v=4"
       ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 9,
@@ -148,9 +148,9 @@
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": null,
-      "stars_total": 4629,
+      "stars_total": 4684,
       "stars_period": 480,
-      "forks": 466,
+      "forks": 472,
       "contributors": [
         "https://avatars.githubusercontent.com/u/93239683?s=40&v=4",
         "https://avatars.githubusercontent.com/u/142211841?s=40&v=4",
@@ -165,9 +165,9 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_total": 5872,
+      "stars_total": 5918,
       "stars_period": 309,
-      "forks": 326,
+      "forks": 329,
       "contributors": [
         "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -183,9 +183,9 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_total": 10266,
+      "stars_total": 10286,
       "stars_period": 302,
-      "forks": 466,
+      "forks": 467,
       "contributors": [
         "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
         "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
@@ -201,9 +201,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 233501,
+      "stars_total": 233653,
       "stars_period": 1110,
-      "forks": 20733,
+      "forks": 20744,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -219,9 +219,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 50643,
+      "stars_total": 50713,
       "stars_period": 85,
-      "forks": 3269,
+      "forks": 3274,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -237,9 +237,9 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 39023,
+      "stars_total": 39074,
       "stars_period": 292,
-      "forks": 2305,
+      "forks": 2311,
       "contributors": [
         "https://avatars.githubusercontent.com/u/587576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3679927?s=40&v=4",
@@ -255,9 +255,9 @@
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars_total": 7693,
+      "stars_total": 7725,
       "stars_period": 196,
-      "forks": 1223,
+      "forks": 1225,
       "contributors": [
         "https://avatars.githubusercontent.com/u/17297304?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -266,5 +266,5 @@
       "description_zh": "LTX-2 音视频生成模型的官方 Python 推理和 LoRA 训练包。"
     }
   ],
-  "generated_at": 1781929338
+  "generated_at": 1781943974
 }
