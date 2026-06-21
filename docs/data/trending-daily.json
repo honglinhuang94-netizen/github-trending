@@ -8,9 +8,9 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 4026,
-      "stars_period": 902,
-      "forks": 320,
+      "stars_total": 4212,
+      "stars_period": 1829,
+      "forks": 334,
       "contributors": [
         "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
         "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
@@ -20,31 +20,13 @@
     },
     {
       "rank": 2,
-      "name": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_total": 51858,
-      "stars_period": 420,
-      "forks": 3318,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
-      ],
-      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
-    },
-    {
-      "rank": 3,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 7436,
-      "stars_period": 677,
-      "forks": 1190,
+      "stars_total": 7670,
+      "stars_period": 993,
+      "forks": 1212,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -53,14 +35,32 @@
       "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
+      "rank": 3,
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_total": 43018,
+      "stars_period": 2617,
+      "forks": 2973,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1226415?s=40&v=4"
+      ],
+      "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
       "rank": 4,
       "name": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_total": 20517,
-      "stars_period": 801,
-      "forks": 1050,
+      "stars_total": 20557,
+      "stars_period": 543,
+      "forks": 1052,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81939?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22619982?s=40&v=4",
@@ -72,13 +72,85 @@
     },
     {
       "rank": 5,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_total": 51924,
+      "stars_period": 1131,
+      "forks": 3324,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
+      ],
+      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
+    },
+    {
+      "rank": 6,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 43940,
+      "stars_period": 519,
+      "forks": 41272,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 7,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 57766,
+      "stars_period": 633,
+      "forks": 9183,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 8,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_total": 72263,
+      "stars_period": 415,
+      "forks": 9799,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45447813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
+      ],
+      "description_zh": "一个开源的长期 SuperAgent 工具，用于研究、编码和创建。借助沙箱、内存、工具、技能、子代理和消息网关，它可以处理可能需要几分钟到几小时的不同级别的任务。"
+    },
+    {
+      "rank": 9,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 9753,
-      "stars_period": 1271,
-      "forks": 743,
+      "stars_total": 9847,
+      "stars_period": 1029,
+      "forks": 748,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -89,198 +161,129 @@
       "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
-      "rank": 6,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 24713,
-      "stars_period": 433,
-      "forks": 2344,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
-      ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
-    },
-    {
-      "rank": 7,
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars_total": 50992,
-      "stars_period": 140,
-      "forks": 7431,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12035771?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6399865?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/71827178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1834158?s=40&v=4"
-      ],
-      "description_zh": "Salesforce 的开放替代方案，专为 AI 设计。"
-    },
-    {
-      "rank": 8,
-      "name": "Kong/insomnia",
-      "url": "https://github.com/Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "language": "TypeScript",
-      "stars_total": 39464,
-      "stars_period": 329,
-      "forks": 2335,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/587576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3679927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4312346?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12115431?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11976836?s=40&v=4"
-      ],
-      "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
-    },
-    {
-      "rank": 9,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_total": 42723,
-      "stars_period": 3795,
-      "forks": 2948,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1226415?s=40&v=4"
-      ],
-      "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
       "rank": 10,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_total": 31227,
-      "stars_period": 145,
-      "forks": 3856,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_total": 17290,
+      "stars_period": 343,
+      "forks": 2100,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
       ],
-      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
+      "description_zh": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
     },
     {
       "rank": 11,
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars_total": 23506,
-      "stars_period": 513,
-      "forks": 2752,
+      "name": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "language": "Python",
+      "stars_total": 3685,
+      "stars_period": 164,
+      "forks": 462,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/624143?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/247121564?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/99951454?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108567138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78298238?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114127936?s=40&v=4"
       ],
-      "description_zh": "Kilo 是一款一体化代理工程平台。使用最流行的开源编码代理更快地构建、发布和迭代。"
+      "description_zh": "b站会员购购票辅助工具"
     },
     {
       "rank": 12,
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars_total": 18587,
+      "stars_period": 288,
+      "forks": 3094,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1687345?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/434827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/21293324?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29049599?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/890689?s=40&v=4"
+      ],
+      "description_zh": "SpiderFoot 自动化 OSINT 以获取威胁情报并绘制攻击面图。"
+    },
+    {
+      "rank": 13,
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars_total": 18431,
+      "stars_period": 361,
+      "forks": 1959,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
+    },
+    {
+      "rank": 14,
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": null,
+      "stars_total": 53894,
+      "stars_period": 121,
+      "forks": 5550,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4256108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17680637?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5085821?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1472352?s=40&v=4"
+      ],
+      "description_zh": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "rank": 15,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 44051,
+      "stars_period": 352,
+      "forks": 7296,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+      ],
+      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+    },
+    {
+      "rank": 16,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 138796,
-      "stars_period": 1395,
-      "forks": 12042,
+      "stars_total": 138999,
+      "stars_period": 1441,
+      "forks": 12058,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": 13,
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars_total": 6209,
-      "stars_period": 316,
-      "forks": 350,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109842185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83536?s=40&v=4"
-      ],
-      "description_zh": "沙箱代理框架。"
-    },
-    {
-      "rank": 14,
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "language": null,
-      "stars_total": 14911,
-      "stars_period": 48,
-      "forks": 2366,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/733944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7651474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26705302?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47504178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/332330?s=40&v=4"
-      ],
-      "description_zh": "人工智能 (AI) 课程、书籍、视频讲座和论文的精选列表。"
-    },
-    {
-      "rank": 15,
-      "name": "pppscn/SmsForwarder",
-      "url": "https://github.com/pppscn/SmsForwarder",
-      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
-      "language": "Kotlin",
-      "stars_total": 26580,
-      "stars_period": 104,
-      "forks": 3284,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5105854?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56432636?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44741777?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12030904?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84842989?s=40&v=4"
-      ],
-      "description_zh": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。 （V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正"
-    },
-    {
-      "rank": 16,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_total": 7463,
-      "stars_period": 87,
-      "forks": 832,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "编码剂线束"
     }
   ],
-  "generated_at": 1782038238
+  "generated_at": 1782047604
 }

@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 21,
+  "count": 19,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 9753,
+      "stars_total": 9847,
       "stars_period": 5419,
-      "forks": 743,
+      "forks": 748,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 42723,
+      "stars_total": 43018,
       "stars_period": 14982,
-      "forks": 2948,
+      "forks": 2973,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 36338,
+      "stars_total": 36455,
       "stars_period": 8483,
-      "forks": 2885,
+      "forks": 2895,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 126839,
+      "stars_total": 126923,
       "stars_period": 7856,
-      "forks": 6951,
+      "forks": 6955,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -76,29 +76,11 @@
     },
     {
       "rank": 5,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 8847,
-      "stars_period": 4631,
-      "forks": 686,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7792901?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3075074?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38443830?s=40&v=4"
-      ],
-      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
-    },
-    {
-      "rank": 6,
       "name": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_total": 10400,
+      "stars_total": 10407,
       "stars_period": 1621,
       "forks": 472,
       "contributors": [
@@ -111,22 +93,40 @@
       "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
     },
     {
-      "rank": 7,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_total": 64450,
-      "stars_period": 6332,
-      "forks": 6962,
+      "rank": 6,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 24749,
+      "stars_period": 3655,
+      "forks": 2346,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
       ],
-      "description_zh": "AI 编码代理的生产级工程技能。"
+      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": 7,
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_total": 8888,
+      "stars_period": 4631,
+      "forks": 693,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7792901?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3075074?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3778089?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38443830?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
       "rank": 8,
@@ -134,9 +134,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 43988,
+      "stars_total": 44051,
       "stars_period": 1866,
-      "forks": 7286,
+      "forks": 7296,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -148,134 +148,63 @@
     },
     {
       "rank": 9,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 24713,
-      "stars_period": 3655,
-      "forks": 2344,
+      "stars_total": 7670,
+      "stars_period": 2253,
+      "forks": 1212,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53057646?s=40&v=4"
       ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 10,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "stars_total": 20202,
-      "stars_period": 2605,
-      "forks": 2052,
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars_total": 6227,
+      "stars_period": 1012,
+      "forks": 352,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/109842185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83536?s=40&v=4"
       ],
-      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+      "description_zh": "沙箱代理框架。"
     },
     {
       "rank": 11,
-      "name": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "stars_total": 11192,
-      "stars_period": 898,
-      "forks": 3474,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_total": 64527,
+      "stars_period": 6332,
+      "forks": 6971,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65964225?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91112485?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73700530?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
       ],
-      "description_zh": "Meshery，云原生管理器"
+      "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 12,
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "stars_total": 34092,
-      "stars_period": 538,
-      "forks": 1424,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/29931815?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99782286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4567934?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7829098?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1210596?s=40&v=4"
-      ],
-      "description_zh": "基于 Rust 的 Web 平台"
-    },
-    {
-      "rank": 13,
-      "name": "LMCache/LMCache",
-      "url": "https://github.com/LMCache/LMCache",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "language": "Python",
-      "stars_total": 9505,
-      "stars_period": 713,
-      "forks": 1361,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/25103655?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17329931?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102553648?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82156730?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55471457?s=40&v=4"
-      ],
-      "description_zh": "LMCache：用最快的 KV 缓存层增强您的 LLM"
-    },
-    {
-      "rank": 14,
-      "name": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "language": "Python",
-      "stars_total": 14250,
-      "stars_period": 321,
-      "forks": 3200,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1085180?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73579?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1223550?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9766?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/156838?s=40&v=4"
-      ],
-      "description_zh": "pytest 框架可以轻松编写小型测试，并可扩展以支持复杂的功能测试"
-    },
-    {
-      "rank": 15,
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_total": 32169,
-      "stars_period": 2143,
-      "forks": 3641,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1153759?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4564803?s=40&v=4"
-      ],
-      "description_zh": "Notebook LM 的开源实现，具有更多灵活性和功能"
-    },
-    {
-      "rank": 16,
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 39464,
+      "stars_total": 39471,
       "stars_period": 657,
       "forks": 2335,
       "contributors": [
@@ -288,30 +217,84 @@
       "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
     },
     {
-      "rank": 17,
-      "name": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "stars_total": 95177,
-      "stars_period": 642,
-      "forks": 9462,
+      "rank": 13,
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars_total": 20557,
+      "stars_period": 968,
+      "forks": 1052,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/40688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/746130?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81939?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22619982?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/121899304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63058033?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1395040?s=40&v=4"
       ],
-      "description_zh": "适用于 Chrome 和 Firefox 的 JavaScript API"
+      "description_zh": "Turso 是一个进程内 SQL 数据库，与 SQLite 兼容。"
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars_total": 52263,
+      "stars_period": 1389,
+      "forks": 4643,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
+      ],
+      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
+    },
+    {
+      "rank": 15,
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars_total": 9511,
+      "stars_period": 713,
+      "forks": 1362,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25103655?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17329931?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102553648?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/82156730?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55471457?s=40&v=4"
+      ],
+      "description_zh": "LMCache：用最快的 KV 缓存层增强您的 LLM"
+    },
+    {
+      "rank": 16,
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars_total": 11196,
+      "stars_period": 898,
+      "forks": 3474,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65964225?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91112485?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73700530?s=40&v=4"
+      ],
+      "description_zh": "Meshery，云原生管理器"
+    },
+    {
+      "rank": 17,
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_total": 33026,
+      "stars_total": 33049,
       "stars_period": 2233,
       "forks": 7807,
       "contributors": [
@@ -324,32 +307,32 @@
       "description_zh": "开源实时聊天、电子邮件支持、全渠道服务台。 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。🔥💬"
     },
     {
-      "rank": 19,
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars_total": 6209,
-      "stars_period": 1012,
-      "forks": 350,
+      "rank": 18,
+      "name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars_total": 34095,
+      "stars_period": 538,
+      "forks": 1425,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109842185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83536?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/29931815?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99782286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4567934?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7829098?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1210596?s=40&v=4"
       ],
-      "description_zh": "沙箱代理框架。"
+      "description_zh": "基于 Rust 的 Web 平台"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 450021,
+      "stars_total": 450028,
       "stars_period": 3308,
-      "forks": 45180,
+      "forks": 45179,
       "contributors": [
         "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
@@ -358,25 +341,7 @@
         "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
       ],
       "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
-    },
-    {
-      "rank": 21,
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_total": 52244,
-      "stars_period": 1389,
-      "forks": 4642,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
-      ],
-      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
     }
   ],
-  "generated_at": 1782038242
+  "generated_at": 1782047606
 }
