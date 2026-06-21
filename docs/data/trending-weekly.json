@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 9847,
+      "stars_total": 9975,
       "stars_period": 5419,
-      "forks": 748,
+      "forks": 756,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 43018,
+      "stars_total": 43434,
       "stars_period": 14982,
-      "forks": 2973,
+      "forks": 3012,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 36455,
+      "stars_total": 36616,
       "stars_period": 8483,
-      "forks": 2895,
+      "forks": 2909,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 126923,
+      "stars_total": 126998,
       "stars_period": 7856,
-      "forks": 6955,
+      "forks": 6965,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_total": 10407,
+      "stars_total": 10423,
       "stars_period": 1621,
       "forks": 472,
       "contributors": [
@@ -98,9 +98,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 24749,
+      "stars_total": 24797,
       "stars_period": 3655,
-      "forks": 2346,
+      "forks": 2353,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_total": 8888,
+      "stars_total": 8933,
       "stars_period": 4631,
-      "forks": 693,
+      "forks": 697,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7792901?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 44051,
+      "stars_total": 44157,
       "stars_period": 1866,
-      "forks": 7296,
+      "forks": 7307,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,15 +152,15 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 7670,
+      "stars_total": 7997,
       "stars_period": 2253,
-      "forks": 1212,
+      "forks": 1245,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/53057646?s=40&v=4"
       ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": 10,
@@ -168,9 +168,9 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_total": 6227,
+      "stars_total": 6248,
       "stars_period": 1012,
-      "forks": 352,
+      "forks": 354,
       "contributors": [
         "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_total": 64527,
+      "stars_total": 64619,
       "stars_period": 6332,
-      "forks": 6971,
+      "forks": 6978,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
@@ -204,7 +204,7 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 39471,
+      "stars_total": 39485,
       "stars_period": 657,
       "forks": 2335,
       "contributors": [
@@ -222,9 +222,9 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_total": 20557,
+      "stars_total": 20646,
       "stars_period": 968,
-      "forks": 1052,
+      "forks": 1057,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81939?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22619982?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
-      "stars_total": 52263,
+      "stars_total": 52282,
       "stars_period": 1389,
-      "forks": 4643,
+      "forks": 4644,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
         "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
@@ -258,9 +258,9 @@
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_total": 9511,
+      "stars_total": 9524,
       "stars_period": 713,
-      "forks": 1362,
+      "forks": 1363,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25103655?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17329931?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_total": 11196,
+      "stars_total": 11206,
       "stars_period": 898,
-      "forks": 3474,
+      "forks": 3475,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7570704?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79860504?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_total": 33049,
+      "stars_total": 33077,
       "stars_period": 2233,
-      "forks": 7807,
+      "forks": 7808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
@@ -312,7 +312,7 @@
       "url": "https://github.com/swc-project/swc",
       "description": "Rust-based platform for the Web",
       "language": "Rust",
-      "stars_total": 34095,
+      "stars_total": 34096,
       "stars_period": 538,
       "forks": 1425,
       "contributors": [
@@ -330,9 +330,9 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 450028,
+      "stars_total": 450048,
       "stars_period": 3308,
-      "forks": 45179,
+      "forks": 45183,
       "contributors": [
         "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1884376?s=40&v=4",
@@ -343,5 +343,5 @@
       "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
     }
   ],
-  "generated_at": 1782047606
+  "generated_at": 1782057660
 }
