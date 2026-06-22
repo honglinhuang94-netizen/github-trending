@@ -8,9 +8,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 10589,
+      "stars_total": 11309,
       "stars_period": 2935,
-      "forks": 1434,
+      "forks": 1498,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -24,9 +24,9 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 6638,
+      "stars_total": 6991,
       "stars_period": 2462,
-      "forks": 470,
+      "forks": 489,
       "contributors": [
         "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
         "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 31844,
-      "stars_period": 614,
-      "forks": 3905,
+      "stars_total": 32019,
+      "stars_period": 508,
+      "forks": 3923,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -58,11 +58,11 @@
       "rank": 4,
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 18216,
+      "stars_total": 18428,
       "stars_period": 957,
-      "forks": 2178,
+      "forks": 2190,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -70,7 +70,7 @@
         "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
       ],
-      "description_zh": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
     {
       "rank": 5,
@@ -78,9 +78,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 52630,
+      "stars_total": 52731,
       "stars_period": 730,
-      "forks": 3369,
+      "forks": 3374,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -95,10 +95,10 @@
       "name": "Stirling-Tools/Stirling-PDF",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "Java",
-      "stars_total": 82430,
-      "stars_period": 394,
-      "forks": 7215,
+      "language": "TypeScript",
+      "stars_total": 82673,
+      "stars_period": 691,
+      "forks": 7223,
       "contributors": [
         "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_total": 112700,
-      "stars_period": 454,
-      "forks": 16737,
+      "stars_total": 112919,
+      "stars_period": 649,
+      "forks": 16766,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 29669,
+      "stars_total": 29821,
       "stars_period": 369,
-      "forks": 2804,
+      "forks": 2815,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_total": 21093,
+      "stars_total": 21240,
       "stars_period": 538,
-      "forks": 1074,
+      "forks": 1080,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81939?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22619982?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_total": 72974,
+      "stars_total": 73097,
       "stars_period": 736,
-      "forks": 9875,
+      "forks": 9882,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
         "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 11020,
+      "stars_total": 11259,
       "stars_period": 1186,
-      "forks": 821,
+      "forks": 837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_total": 45464,
+      "stars_total": 45669,
       "stars_period": 1560,
-      "forks": 41798,
+      "forks": 41874,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
@@ -222,9 +222,9 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
-      "stars_total": 136674,
-      "stars_period": 513,
-      "forks": 7933,
+      "stars_total": 136948,
+      "stars_period": 736,
+      "forks": 7949,
       "contributors": [
         "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66118807?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 17429,
+      "stars_total": 17576,
       "stars_period": 63,
-      "forks": 2721,
+      "forks": 2731,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -258,9 +258,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 20883,
+      "stars_total": 20957,
       "stars_period": 453,
-      "forks": 2414,
+      "forks": 2419,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 140995,
+      "stars_total": 141337,
       "stars_period": 2051,
-      "forks": 12210,
+      "forks": 12236,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -287,5 +287,5 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     }
   ],
-  "generated_at": 1782132908
+  "generated_at": 1782150310
 }
