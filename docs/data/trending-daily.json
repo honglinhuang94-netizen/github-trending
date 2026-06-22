@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 5070,
+      "stars_total": 5850,
       "stars_period": 1834,
-      "forks": 384,
+      "forks": 428,
       "contributors": [
         "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
         "https://avatars.githubusercontent.com/u/173961722?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 8657,
+      "stars_total": 9555,
       "stars_period": 987,
-      "forks": 1288,
+      "forks": 1359,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 44303,
+      "stars_total": 45222,
       "stars_period": 2624,
-      "forks": 3088,
+      "forks": 3148,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_total": 20791,
+      "stars_total": 20947,
       "stars_period": 548,
-      "forks": 1062,
+      "forks": 1070,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81939?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22619982?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 52209,
+      "stars_total": 52446,
       "stars_period": 1135,
-      "forks": 3336,
+      "forks": 3356,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_total": 44404,
+      "stars_total": 44955,
       "stars_period": 568,
-      "forks": 41422,
+      "forks": 41596,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 58057,
+      "stars_total": 58291,
       "stars_period": 163,
-      "forks": 9205,
+      "forks": 9217,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_total": 72558,
+      "stars_total": 72790,
       "stars_period": 442,
-      "forks": 9827,
+      "forks": 9852,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
         "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 10240,
+      "stars_total": 10680,
       "stars_period": 1032,
-      "forks": 775,
+      "forks": 804,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 17677,
+      "stars_total": 17924,
       "stars_period": 361,
-      "forks": 2126,
+      "forks": 2146,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -182,31 +182,13 @@
     },
     {
       "rank": 11,
-      "name": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "stars_total": 56164,
-      "stars_period": 1848,
-      "forks": 11088,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8736212?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28218658?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16950207?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-      ],
-      "description_zh": "🤱🏻 只需一个命令即可将任何网页变成桌面应用程序。"
-    },
-    {
-      "rank": 12,
       "name": "mikumifa/biliTickerBuy",
       "url": "https://github.com/mikumifa/biliTickerBuy",
       "description": "b站会员购购票辅助工具",
       "language": "Python",
-      "stars_total": 3707,
+      "stars_total": 3758,
       "stars_period": 67,
-      "forks": 464,
+      "forks": 468,
       "contributors": [
         "https://avatars.githubusercontent.com/u/99951454?s=40&v=4",
         "https://avatars.githubusercontent.com/u/108567138?s=40&v=4",
@@ -217,14 +199,14 @@
       "description_zh": "b站会员购购票辅助工具"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
-      "stars_total": 18749,
+      "stars_total": 18872,
       "stars_period": 294,
-      "forks": 3106,
+      "forks": 3113,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1687345?s=40&v=4",
         "https://avatars.githubusercontent.com/u/434827?s=40&v=4",
@@ -235,14 +217,14 @@
       "description_zh": "SpiderFoot 自动化 OSINT 以获取威胁情报并绘制攻击面图。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars_total": 18628,
+      "stars_total": 18785,
       "stars_period": 347,
-      "forks": 1968,
+      "forks": 1976,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
         "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
@@ -253,14 +235,14 @@
       "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "byoungd/English-level-up-tips",
       "url": "https://github.com/byoungd/English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": null,
-      "stars_total": 53996,
+      "stars_total": 54146,
       "stars_period": 125,
-      "forks": 5554,
+      "forks": 5565,
       "contributors": [
         "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4256108?s=40&v=4",
@@ -268,17 +250,17 @@
         "https://avatars.githubusercontent.com/u/5085821?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1472352?s=40&v=4"
       ],
-      "description_zh": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+      "description_zh": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 44370,
+      "stars_total": 44669,
       "stars_period": 282,
-      "forks": 7331,
+      "forks": 7364,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -289,14 +271,14 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 139706,
+      "stars_total": 140289,
       "stars_period": 1443,
-      "forks": 12122,
+      "forks": 12161,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -305,5 +287,5 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     }
   ],
-  "generated_at": 1782087520
+  "generated_at": 1782110107
 }
