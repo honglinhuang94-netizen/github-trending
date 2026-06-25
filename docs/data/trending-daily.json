@@ -8,9 +8,9 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_total": 18897,
+      "stars_total": 19038,
       "stars_period": 1407,
-      "forks": 1632,
+      "forks": 1637,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
         "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 21855,
+      "stars_total": 21962,
       "stars_period": 3553,
-      "forks": 2448,
+      "forks": 2463,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 1767,
+      "stars_total": 1796,
       "stars_period": 201,
-      "forks": 289,
+      "forks": 292,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4"
@@ -59,9 +59,9 @@
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_total": 6507,
+      "stars_total": 6579,
       "stars_period": 112,
-      "forks": 598,
+      "forks": 602,
       "contributors": [
         "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
@@ -77,7 +77,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 43106,
+      "stars_total": 43161,
       "stars_period": 1366,
       "forks": 1266,
       "contributors": [
@@ -95,9 +95,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 20289,
+      "stars_total": 20352,
       "stars_period": 1021,
-      "forks": 2990,
+      "forks": 3002,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 2419,
+      "stars_total": 2467,
       "stars_period": 57,
-      "forks": 292,
+      "forks": 294,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -128,9 +128,9 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_total": 115682,
+      "stars_total": 115749,
       "stars_period": 836,
-      "forks": 17156,
+      "forks": 17159,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
@@ -146,9 +146,9 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_total": 1101,
+      "stars_total": 1113,
       "stars_period": 15,
-      "forks": 112,
+      "forks": 113,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
         "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
@@ -164,9 +164,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 21110,
+      "stars_total": 21161,
       "stars_period": 600,
-      "forks": 2434,
+      "forks": 2439,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -182,9 +182,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 19750,
+      "stars_total": 19768,
       "stars_period": 196,
-      "forks": 1704,
+      "forks": 1705,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -200,9 +200,9 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stars_total": 34729,
+      "stars_total": 34766,
       "stars_period": 202,
-      "forks": 1988,
+      "forks": 1989,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13556972?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3358477?s=40&v=4",
@@ -218,9 +218,9 @@
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars_total": 69421,
+      "stars_total": 69490,
       "stars_period": 524,
-      "forks": 5870,
+      "forks": 5877,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11393164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54933042?s=40&v=4",
@@ -236,9 +236,9 @@
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
-      "stars_total": 18163,
+      "stars_total": 18186,
       "stars_period": 141,
-      "forks": 2675,
+      "forks": 2676,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5292264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/82442641?s=40&v=4",
@@ -254,9 +254,9 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars_total": 60416,
-      "stars_period": 670,
-      "forks": 6055,
+      "stars_total": 60471,
+      "stars_period": 450,
+      "forks": 6058,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",
@@ -272,7 +272,7 @@
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_total": 52715,
+      "stars_total": 52725,
       "stars_period": 347,
       "forks": 10918,
       "contributors": [
@@ -285,5 +285,5 @@
       "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     }
   ],
-  "generated_at": 1782418397
+  "generated_at": 1782426371
 }
