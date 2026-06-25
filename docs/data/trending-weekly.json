@@ -8,9 +8,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 20719,
+      "stars_total": 21230,
       "stars_period": 12948,
-      "forks": 2322,
+      "forks": 2369,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 14379,
+      "stars_total": 14504,
       "stars_period": 9589,
-      "forks": 1062,
+      "forks": 1065,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 25502,
+      "stars_total": 25511,
       "stars_period": 3915,
-      "forks": 2425,
+      "forks": 2426,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -58,31 +58,13 @@
     },
     {
       "rank": 4,
-      "name": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_total": 10723,
-      "stars_period": 1196,
-      "forks": 490,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
-      ],
-      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
-    },
-    {
-      "rank": 5,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 59664,
+      "stars_total": 59714,
       "stars_period": 2899,
-      "forks": 9329,
+      "forks": 9331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -93,50 +75,14 @@
       "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
-      "rank": 6,
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 45883,
-      "stars_period": 2662,
-      "forks": 7529,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
-      ],
-      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
-    },
-    {
-      "rank": 7,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 40408,
-      "stars_period": 6752,
-      "forks": 3197,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12839688?s=40&v=4"
-      ],
-      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 53576,
+      "stars_total": 53604,
       "stars_period": 3593,
-      "forks": 3447,
+      "forks": 3453,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -147,12 +93,102 @@
       "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
     },
     {
+      "rank": 6,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_total": 34046,
+      "stars_period": 3583,
+      "forks": 4094,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
+      ],
+      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
+    },
+    {
+      "rank": 7,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 45944,
+      "stars_period": 2662,
+      "forks": 7535,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+      ],
+      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+    },
+    {
+      "rank": 8,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 40658,
+      "stars_period": 6752,
+      "forks": 3212,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12839688?s=40&v=4"
+      ],
+      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+    },
+    {
       "rank": 9,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 49287,
+      "stars_period": 5185,
+      "forks": 43330,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 10,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 59662,
+      "stars_period": 3550,
+      "forks": 6481,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 11,
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_total": 6647,
+      "stars_total": 6659,
       "stars_period": 1415,
       "forks": 371,
       "contributors": [
@@ -165,68 +201,68 @@
       "description_zh": "沙箱代理框架。"
     },
     {
-      "rank": 10,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_total": 33994,
-      "stars_period": 3583,
-      "forks": 4088,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
-      ],
-      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
-    },
-    {
-      "rank": 11,
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_total": 128391,
-      "stars_period": 3543,
-      "forks": 7068,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
-      ],
-      "description_zh": "来自世界各地的公开 IPTV 频道集合"
-    },
-    {
       "rank": 12,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 59621,
-      "stars_period": 3550,
-      "forks": 6478,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_total": 20819,
+      "stars_period": 4304,
+      "forks": 2410,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
       ],
-      "description_zh": "开源 CapCut 替代方案"
+      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
     {
       "rank": 13,
+      "name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "stars_total": 84229,
+      "stars_period": 2793,
+      "forks": 7337,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/74901996?s=40&v=4"
+      ],
+      "description_zh": "GitHub 上排名第一的 PDF 应用程序，可让您在任何地方的任何设备上编辑 PDF"
+    },
+    {
+      "rank": 14,
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars_total": 2601,
+      "stars_period": 902,
+      "forks": 630,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114843073?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/144328549?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/100041941?s=40&v=4"
+      ],
+      "description_zh": "人工智能代理对简历进行评估和评分。"
+    },
+    {
+      "rank": 15,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 7078,
+      "stars_total": 7174,
       "stars_period": 1397,
-      "forks": 510,
+      "forks": 516,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -237,30 +273,30 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
-      "rank": 14,
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_total": 52943,
-      "stars_period": 1871,
-      "forks": 4720,
+      "rank": 16,
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars_total": 10735,
+      "stars_period": 1196,
+      "forks": 491,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
       ],
-      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
+      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 39695,
+      "stars_total": 39699,
       "stars_period": 1167,
       "forks": 2346,
       "contributors": [
@@ -273,95 +309,57 @@
       "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
     },
     {
-      "rank": 16,
-      "name": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "Java",
-      "stars_total": 84170,
-      "stars_period": 2793,
-      "forks": 7329,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74901996?s=40&v=4"
-      ],
-      "description_zh": "GitHub 上排名第一的 PDF 应用程序，可让您在任何地方的任何设备上编辑 PDF"
-    },
-    {
-      "rank": 17,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 49107,
-      "stars_period": 5185,
-      "forks": 43234,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
       "rank": 18,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 10483,
-      "stars_period": 2980,
-      "forks": 838,
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars_total": 52968,
+      "stars_period": 1871,
+      "forks": 4722,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37665626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70020572?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
       ],
-      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
     },
     {
       "rank": 19,
-      "name": "microsoft/presidio",
-      "url": "https://github.com/microsoft/presidio",
-      "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_total": 9637,
-      "stars_period": 888,
-      "forks": 1162,
+      "stars_total": 74578,
+      "stars_period": 3068,
+      "forks": 10049,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3776619?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15013757?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1862328?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12952294?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13420239?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45447813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
       ],
-      "description_zh": "一个开源框架，用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据 (PII)。支持 NLP、模式匹配和可定制管道。"
+      "description_zh": "一个开源的长期 SuperAgent 工具，用于研究、编码和创建。借助沙箱、内存、工具、技能、子代理和消息网关，它可以处理可能需要几分钟到几小时的不同级别的任务。"
     },
     {
       "rank": 20,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_total": 20735,
-      "stars_period": 4304,
-      "forks": 2406,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_total": 145679,
+      "stars_period": 11581,
+      "forks": 12602,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
+      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     }
   ],
-  "generated_at": 1782376110
+  "generated_at": 1782387960
 }
