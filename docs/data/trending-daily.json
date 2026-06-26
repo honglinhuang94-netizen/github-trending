@@ -8,9 +8,9 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 12381,
+      "stars_total": 12460,
       "stars_period": 191,
-      "forks": 703,
+      "forks": 706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_total": 21028,
+      "stars_total": 21133,
       "stars_period": 2319,
-      "forks": 1712,
+      "forks": 1716,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
         "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_total": 61737,
+      "stars_total": 61762,
       "stars_period": 67,
-      "forks": 11042,
+      "forks": 11046,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8762862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/25857203?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 3347,
+      "stars_total": 3377,
       "stars_period": 412,
-      "forks": 201,
+      "forks": 204,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/grafana/grafana",
       "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "TypeScript",
-      "stars_total": 74844,
+      "stars_total": 74865,
       "stars_period": 17,
       "forks": 14124,
       "contributors": [
@@ -98,7 +98,7 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_total": 123665,
+      "stars_total": 123697,
       "stars_period": 137,
       "forks": 13050,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars_total": 70313,
+      "stars_total": 70364,
       "stars_period": 944,
-      "forks": 5935,
+      "forks": 5936,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11393164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54933042?s=40&v=4",
@@ -134,7 +134,7 @@
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": null,
-      "stars_total": 9230,
+      "stars_total": 9239,
       "stars_period": 185,
       "forks": 2560,
       "contributors": [
@@ -149,7 +149,7 @@
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_total": 7535,
+      "stars_total": 7601,
       "stars_period": 1063,
       "forks": 646,
       "contributors": [
@@ -167,9 +167,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 3042,
+      "stars_total": 3070,
       "stars_period": 1270,
-      "forks": 447,
+      "forks": 451,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4"
@@ -182,9 +182,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 23435,
+      "stars_total": 23523,
       "stars_period": 1674,
-      "forks": 2598,
+      "forks": 2611,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,7 +200,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_total": 1317,
+      "stars_total": 1338,
       "stars_period": 238,
       "forks": 120,
       "contributors": [
@@ -218,7 +218,7 @@
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_total": 53326,
+      "stars_total": 53333,
       "stars_period": 640,
       "forks": 10972,
       "contributors": [
@@ -236,9 +236,9 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_total": 116532,
+      "stars_total": 116578,
       "stars_period": 919,
-      "forks": 17287,
+      "forks": 17300,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
@@ -254,7 +254,7 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stars_total": 35296,
+      "stars_total": 35329,
       "stars_period": 612,
       "forks": 2024,
       "contributors": [
@@ -272,9 +272,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 21251,
+      "stars_total": 21309,
       "stars_period": 1076,
-      "forks": 3086,
+      "forks": 3093,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -290,9 +290,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 42211,
+      "stars_total": 42273,
       "stars_period": 1164,
-      "forks": 3350,
+      "forks": 3354,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -303,5 +303,5 @@
       "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
-  "generated_at": 1782504229
+  "generated_at": 1782512388
 }
