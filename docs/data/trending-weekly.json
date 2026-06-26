@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 22867,
+      "stars_total": 23002,
       "stars_period": 15793,
-      "forks": 2546,
+      "forks": 2558,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 15053,
+      "stars_total": 15129,
       "stars_period": 8024,
-      "forks": 1105,
+      "forks": 1112,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,39 +40,39 @@
     },
     {
       "rank": 3,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 25613,
-      "stars_period": 3040,
-      "forks": 2432,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_total": 2391,
+      "stars_period": 1588,
+      "forks": 228,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37156449?s=40&v=4"
       ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "description_zh": "用于构建代理本机应用程序的框架。"
     },
     {
       "rank": 4,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_total": 59966,
-      "stars_period": 3059,
-      "forks": 9360,
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_total": 3140,
+      "stars_period": 1426,
+      "forks": 186,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/363129?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "description_zh": "git推送无错误"
     },
     {
       "rank": 5,
@@ -80,7 +80,7 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_total": 53838,
+      "stars_total": 53871,
       "stars_period": 3379,
       "forks": 3478,
       "contributors": [
@@ -94,13 +94,31 @@
     },
     {
       "rank": 6,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 49946,
+      "stars_period": 6383,
+      "forks": 43725,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 7,
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 34344,
+      "stars_total": 34372,
       "stars_period": 3688,
-      "forks": 4131,
+      "forks": 4134,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,32 +129,14 @@
       "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
     },
     {
-      "rank": 7,
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 46180,
-      "stars_period": 2720,
-      "forks": 7574,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
-      ],
-      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
-    },
-    {
       "rank": 8,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 41747,
+      "stars_total": 41852,
       "stars_period": 6830,
-      "forks": 3318,
+      "forks": 3325,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -148,67 +148,49 @@
     },
     {
       "rank": 9,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 49875,
-      "stars_period": 6383,
-      "forks": 43686,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 59995,
+      "stars_period": 3059,
+      "forks": 9365,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
       ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
       "rank": 10,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 59962,
-      "stars_period": 2801,
-      "forks": 6504,
+      "stars_total": 7787,
+      "stars_period": 1949,
+      "forks": 550,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4"
       ],
-      "description_zh": "开源 CapCut 替代方案"
+      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
       "rank": 11,
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars_total": 6760,
-      "stars_period": 1327,
-      "forks": 377,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109842185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83536?s=40&v=4"
-      ],
-      "description_zh": "沙箱代理框架。"
-    },
-    {
-      "rank": 12,
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 21543,
+      "stars_total": 21614,
       "stars_period": 4596,
-      "forks": 2474,
+      "forks": 2482,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -219,30 +201,30 @@
       "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
     {
-      "rank": 13,
-      "name": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "Java",
-      "stars_total": 84467,
-      "stars_period": 3082,
-      "forks": 7351,
+      "rank": 12,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 46228,
+      "stars_period": 2720,
+      "forks": 7587,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74901996?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
       ],
-      "description_zh": "GitHub 上排名第一的 PDF 应用程序，可让您在任何地方的任何设备上编辑 PDF"
+      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 2835,
+      "stars_total": 2855,
       "stars_period": 1507,
       "forks": 661,
       "contributors": [
@@ -255,48 +237,100 @@
       "description_zh": "人工智能代理对简历进行评估和评分。"
     },
     {
-      "rank": 15,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "rank": 14,
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_total": 7736,
-      "stars_period": 1949,
-      "forks": 547,
+      "stars_total": 20453,
+      "stars_period": 2691,
+      "forks": 1689,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33960750?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4770?s=40&v=4"
       ],
-      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+      "description_zh": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
+    },
+    {
+      "rank": 15,
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_total": 20996,
+      "stars_period": 3039,
+      "forks": 3061,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55550442?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
+      ],
+      "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
       "rank": 16,
-      "name": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_total": 10787,
-      "stars_period": 886,
-      "forks": 494,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_total": 147018,
+      "stars_period": 11246,
+      "forks": 12723,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/790842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146720?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/248257?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "IP 地址中断，请改为拨号键。 Rust 中的模块化网络堆栈。"
+      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
       "rank": 17,
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_total": 1253,
+      "stars_period": 167,
+      "forks": 117,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7801055?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9841563?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "AWS 支持的官方 MCP 服务器、技能和插件可帮助 AI 代理在 AWS 上构建"
+    },
+    {
+      "rank": 18,
+      "name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "stars_total": 84486,
+      "stars_period": 3082,
+      "forks": 7354,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/74901996?s=40&v=4"
+      ],
+      "description_zh": "GitHub 上排名第一的 PDF 应用程序，可让您在任何地方的任何设备上编辑 PDF"
+    },
+    {
+      "rank": 19,
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_total": 39751,
+      "stars_total": 39762,
       "stars_period": 1188,
       "forks": 2348,
       "contributors": [
@@ -307,59 +341,7 @@
         "https://avatars.githubusercontent.com/u/11976836?s=40&v=4"
       ],
       "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
-    },
-    {
-      "rank": 18,
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_total": 53210,
-      "stars_period": 1399,
-      "forks": 4760,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
-      ],
-      "description_zh": "🔥🔥🔥 开源 Jira、Linear、Monday 和 ClickUp 替代方案。 Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
-    },
-    {
-      "rank": 19,
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars_total": 74813,
-      "stars_period": 3242,
-      "forks": 10089,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45447813?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
-      ],
-      "description_zh": "一个开源的长期 SuperAgent 工具，用于研究、编码和创建。借助沙箱、内存、工具、技能、子代理和消息网关，它可以处理可能需要几分钟到几小时的不同级别的任务。"
-    },
-    {
-      "rank": 20,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_total": 146869,
-      "stars_period": 11246,
-      "forks": 12709,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     }
   ],
-  "generated_at": 1782466958
+  "generated_at": 1782476336
 }

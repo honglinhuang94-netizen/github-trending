@@ -1,16 +1,34 @@
 {
   "period": "daily",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "rank": 1,
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_total": 11778,
+      "stars_period": 191,
+      "forks": 674,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112780386?s=40&v=4"
+      ],
+      "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
+    },
+    {
+      "rank": 2,
       "name": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_total": 20222,
+      "stars_total": 20453,
       "stars_period": 1475,
-      "forks": 1681,
+      "forks": 1689,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
         "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
@@ -21,206 +39,86 @@
       "description_zh": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
-      "rank": 2,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_total": 22867,
-      "stars_period": 3434,
-      "forks": 2546,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/53057646?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/98862179?s=40&v=4"
-      ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
-    },
-    {
       "rank": 3,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_total": 2682,
-      "stars_period": 309,
-      "forks": 387,
+      "stars_total": 61627,
+      "stars_period": 67,
+      "forks": 11037,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6993203?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8762862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25857203?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27770?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1314752?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6804392?s=40&v=4"
       ],
-      "description_zh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
+      "description_zh": "openpilot 是一个机器人操作系统。目前，它升级了 300 多辆支持的汽车的驾驶员辅助系统。"
     },
     {
       "rank": 4,
-      "name": "mauriceboe/TREK",
-      "url": "https://github.com/mauriceboe/TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "language": "TypeScript",
-      "stars_total": 7134,
-      "stars_period": 241,
-      "forks": 630,
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_total": 3140,
+      "stars_period": 996,
+      "forks": 186,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99432678?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/363129?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+      "description_zh": "git推送无错误"
     },
     {
       "rank": 5,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_total": 43459,
-      "stars_period": 1351,
-      "forks": 1276,
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars_total": 74715,
+      "stars_period": 17,
+      "forks": 14117,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/10999?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/618863?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/705951?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1668778?s=40&v=4"
       ],
-      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "description_zh": "开放且可组合的可观测性和数据可视化平台。可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志和跟踪。"
     },
     {
       "rank": 6,
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "stars_total": 20912,
-      "stars_period": 1024,
-      "forks": 3053,
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars_total": 123510,
+      "stars_period": 48,
+      "forks": 13039,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55550442?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/82342?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66728880?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63540046?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51746608?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5954335?s=40&v=4"
       ],
-      "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
+      "description_zh": "具有 devops 和 infradev 感兴趣的免费级别的 SaaS、PaaS 和 IaaS 产品列表"
     },
     {
       "rank": 7,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_total": 2844,
-      "stars_period": 57,
-      "forks": 325,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
-    },
-    {
-      "rank": 8,
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_total": 116173,
-      "stars_period": 767,
-      "forks": 17206,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55358314?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216552?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "使用 Garry Tan 的精确 Claude Code 设置：23 个固执己见的工具，可充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA"
-    },
-    {
-      "rank": 9,
-      "name": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "stars_total": 1225,
-      "stars_period": 47,
-      "forks": 115,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7801055?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9841563?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "AWS 支持的官方 MCP 服务器、技能和插件可帮助 AI 代理在 AWS 上构建"
-    },
-    {
-      "rank": 10,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_total": 21543,
-      "stars_period": 571,
-      "forks": 2474,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
-      ],
-      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
-    },
-    {
-      "rank": 11,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_total": 20114,
-      "stars_period": 163,
-      "forks": 1728,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
-      ],
-      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
-    },
-    {
-      "rank": 12,
-      "name": "IceWhaleTech/CasaOS",
-      "url": "https://github.com/IceWhaleTech/CasaOS",
-      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "language": "Go",
-      "stars_total": 35042,
-      "stars_period": 223,
-      "forks": 2002,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/13556972?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3358477?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7172560?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9485680?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
-      ],
-      "description_zh": "CasaOS - 一个简单、易于使用、优雅的开源个人云系统。"
-    },
-    {
-      "rank": 13,
       "name": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars_total": 69981,
+      "stars_total": 70063,
       "stars_period": 644,
-      "forks": 5913,
+      "forks": 5919,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11393164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54933042?s=40&v=4",
@@ -231,50 +129,98 @@
       "description_zh": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
     },
     {
-      "rank": 14,
-      "name": "Free-TV/IPTV",
-      "url": "https://github.com/Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
-      "language": "Python",
-      "stars_total": 18364,
-      "stars_period": 139,
-      "forks": 2690,
+      "rank": 8,
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": null,
+      "stars_total": 9152,
+      "stars_period": 220,
+      "forks": 2553,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5292264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82442641?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47603275?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103857112?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17656192?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/127714341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "免费电视频道的 M3U 播放列表"
+      "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
     },
     {
-      "rank": 15,
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_total": 60982,
-      "stars_period": 287,
-      "forks": 6092,
+      "rank": 9,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars_total": 7227,
+      "stars_period": 241,
+      "forks": 634,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99432678?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+    },
+    {
+      "rank": 10,
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_total": 2799,
+      "stars_period": 309,
+      "forks": 408,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1303131?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/192189596?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6993203?s=40&v=4"
       ],
-      "description_zh": "从氛围编码到代理工程 - 实践使克劳德变得完美"
+      "description_zh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
-      "rank": 16,
+      "rank": 11,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_total": 23002,
+      "stars_period": 3434,
+      "forks": 2558,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53057646?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98862179?s=40&v=4"
+      ],
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": 12,
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_total": 1253,
+      "stars_period": 47,
+      "forks": 117,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7801055?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9841563?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "AWS 支持的官方 MCP 服务器、技能和插件可帮助 AI 代理在 AWS 上构建"
+    },
+    {
+      "rank": 13,
       "name": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_total": 53163,
+      "stars_total": 53218,
       "stars_period": 398,
-      "forks": 10955,
+      "forks": 10956,
       "contributors": [
         "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
         "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
@@ -283,7 +229,79 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "rank": 14,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_total": 116257,
+      "stars_period": 767,
+      "forks": 17223,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55358314?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216552?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+      ],
+      "description_zh": "使用 Garry Tan 的精确 Claude Code 设置：23 个固执己见的工具，可充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA"
+    },
+    {
+      "rank": 15,
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars_total": 35094,
+      "stars_period": 223,
+      "forks": 2006,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/13556972?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3358477?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7172560?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9485680?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+      ],
+      "description_zh": "CasaOS - 一个简单、易于使用、优雅的开源个人云系统。"
+    },
+    {
+      "rank": 16,
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_total": 20996,
+      "stars_period": 1024,
+      "forks": 3061,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55550442?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
+      ],
+      "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
+    },
+    {
+      "rank": 17,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 41852,
+      "stars_period": 1547,
+      "forks": 3325,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12839688?s=40&v=4"
+      ],
+      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     }
   ],
-  "generated_at": 1782466955
+  "generated_at": 1782476335
 }
