@@ -8,9 +8,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 43689,
+      "stars_total": 43744,
       "stars_period": 17105,
-      "forks": 1284,
+      "forks": 1289,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 93202,
+      "stars_total": 93280,
       "stars_period": 34671,
-      "forks": 13494,
+      "forks": 13505,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 23593,
+      "stars_total": 23868,
       "stars_period": 19230,
-      "forks": 2620,
+      "forks": 2657,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 15631,
+      "stars_total": 15900,
       "stars_period": 12523,
-      "forks": 1144,
+      "forks": 1173,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 42330,
+      "stars_total": 42557,
       "stars_period": 21845,
-      "forks": 3361,
+      "forks": 3383,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 46949,
+      "stars_total": 46998,
       "stars_period": 20588,
-      "forks": 3890,
+      "forks": 3897,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
@@ -108,7 +108,7 @@
         "https://avatars.githubusercontent.com/u/17969723?s=40&v=4",
         "https://avatars.githubusercontent.com/u/146319052?s=40&v=4"
       ],
-      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": 7,
@@ -116,9 +116,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 128679,
+      "stars_total": 128704,
       "stars_period": 12497,
-      "forks": 7094,
+      "forks": 7097,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 159554,
+      "stars_total": 159600,
       "stars_period": 34806,
-      "forks": 11167,
+      "forks": 11174,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 33495,
+      "stars_total": 33525,
       "stars_period": 9827,
-      "forks": 3757,
+      "forks": 3759,
       "contributors": [
         "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 21230,
+      "stars_total": 21255,
       "stars_period": 9660,
-      "forks": 2146,
+      "forks": 2150,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -185,9 +185,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_total": 51570,
+      "stars_total": 51660,
       "stars_period": 30953,
-      "forks": 3551,
+      "forks": 3557,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 3609,
+      "stars_total": 3619,
       "stars_period": 2366,
-      "forks": 417,
+      "forks": 419,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars_total": 24951,
+      "stars_total": 24984,
       "stars_period": 15531,
-      "forks": 1513,
+      "forks": 1515,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18465053?s=40&v=4",
@@ -239,15 +239,15 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 21804,
+      "stars_total": 21856,
       "stars_period": 12043,
-      "forks": 2499,
+      "forks": 2505,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4834299?s=40&v=4"
       ],
       "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
@@ -257,9 +257,9 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 13159,
+      "stars_total": 13213,
       "stars_period": 7674,
-      "forks": 1991,
+      "forks": 1995,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_total": 14793,
+      "stars_total": 14807,
       "stars_period": 7464,
-      "forks": 1304,
+      "forks": 1309,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 68351,
+      "stars_total": 68402,
       "stars_period": 34542,
-      "forks": 5653,
+      "forks": 5655,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -311,9 +311,9 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_total": 55029,
+      "stars_total": 55104,
       "stars_period": 28289,
-      "forks": 3387,
+      "forks": 3393,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -329,9 +329,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 7501,
+      "stars_total": 7545,
       "stars_period": 4976,
-      "forks": 466,
+      "forks": 468,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -347,9 +347,9 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars_total": 12582,
+      "stars_total": 12604,
       "stars_period": 7850,
-      "forks": 873,
+      "forks": 876,
       "contributors": [
         "https://avatars.githubusercontent.com/u/591262?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -363,9 +363,9 @@
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_total": 27667,
+      "stars_total": 27690,
       "stars_period": 5036,
-      "forks": 2394,
+      "forks": 2396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63950637?s=40&v=4",
         "https://avatars.githubusercontent.com/u/38828053?s=40&v=4",
@@ -376,5 +376,5 @@
       "description_zh": "内存和上下文引擎+应用程序速度极快，可扩展，并且可以完全在本地运行。 AI时代的内存API。"
     }
   ],
-  "generated_at": 1782519402
+  "generated_at": 1782536321
 }
