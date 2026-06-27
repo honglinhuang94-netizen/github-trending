@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 19,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 24322,
+      "stars_total": 24446,
       "stars_period": 17249,
-      "forks": 2706,
+      "forks": 2719,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 16271,
+      "stars_total": 16392,
       "stars_period": 7592,
-      "forks": 1195,
+      "forks": 1200,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "stars_total": 2632,
-      "stars_period": 1569,
-      "forks": 264,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37156449?s=40&v=4"
-      ],
-      "description_zh": "用于构建代理本机应用程序的框架。"
-    },
-    {
-      "rank": 4,
       "name": "kunchenguid/no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 3643,
+      "stars_total": 3674,
       "stars_period": 1744,
-      "forks": 211,
+      "forks": 213,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -75,32 +57,32 @@
       "description_zh": "git推送无错误"
     },
     {
-      "rank": 5,
-      "name": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_total": 54055,
-      "stars_period": 3560,
-      "forks": 3508,
+      "rank": 4,
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_total": 21948,
+      "stars_period": 4618,
+      "forks": 1762,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33960750?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4770?s=40&v=4"
       ],
-      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
+      "description_zh": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_total": 50310,
+      "stars_total": 50339,
       "stars_period": 6919,
-      "forks": 43946,
+      "forks": 43965,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
@@ -111,32 +93,32 @@
       "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
-      "rank": 7,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_total": 34635,
-      "stars_period": 3819,
-      "forks": 4170,
+      "rank": 6,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_total": 54076,
+      "stars_period": 3560,
+      "forks": 3511,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48989967?s=40&v=4"
       ],
-      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
+      "description_zh": "Penpot：用于设计和代码协作的开源设计工具"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 42888,
+      "stars_total": 42982,
       "stars_period": 7199,
-      "forks": 3412,
+      "forks": 3421,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -147,84 +129,12 @@
       "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 9,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_total": 60233,
-      "stars_period": 3170,
-      "forks": 9395,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
-      ],
-      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
-    },
-    {
-      "rank": 10,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "stars_total": 8077,
-      "stars_period": 2398,
-      "forks": 564,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4"
-      ],
-      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": 11,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_total": 21922,
-      "stars_period": 5109,
-      "forks": 2511,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4834299?s=40&v=4"
-      ],
-      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
-    },
-    {
-      "rank": 12,
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 46449,
-      "stars_period": 2864,
-      "forks": 7615,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
-      ],
-      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
-    },
-    {
-      "rank": 13,
+      "rank": 8,
       "name": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 2969,
+      "stars_total": 2975,
       "stars_period": 1727,
       "forks": 676,
       "contributors": [
@@ -237,32 +147,14 @@
       "description_zh": "人工智能代理对简历进行评估和评分。"
     },
     {
-      "rank": 14,
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "stars_total": 21859,
-      "stars_period": 4618,
-      "forks": 1754,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33960750?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4770?s=40&v=4"
-      ],
-      "description_zh": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
-    },
-    {
-      "rank": 15,
+      "rank": 9,
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 21658,
+      "stars_total": 21735,
       "stars_period": 3906,
-      "forks": 3129,
+      "forks": 3134,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -273,20 +165,130 @@
       "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
-      "rank": 16,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_total": 147847,
-      "stars_period": 11060,
-      "forks": 12791,
+      "rank": 10,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_total": 34662,
+      "stars_period": 3819,
+      "forks": 4172,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
       ],
-      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
+      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
+    },
+    {
+      "rank": 11,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_total": 8117,
+      "stars_period": 2398,
+      "forks": 567,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4"
+      ],
+      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
+      "rank": 12,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_total": 2643,
+      "stars_period": 1569,
+      "forks": 264,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37156449?s=40&v=4"
+      ],
+      "description_zh": "用于构建代理本机应用程序的框架。"
+    },
+    {
+      "rank": 13,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_total": 21950,
+      "stars_period": 5109,
+      "forks": 2511,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4834299?s=40&v=4"
+      ],
+      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
+    },
+    {
+      "rank": 14,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 60251,
+      "stars_period": 3170,
+      "forks": 9398,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 15,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 46469,
+      "stars_period": 2864,
+      "forks": 7617,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+      ],
+      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+    },
+    {
+      "rank": 16,
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_total": 13210,
+      "stars_period": 551,
+      "forks": 760,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112780386?s=40&v=4"
+      ],
+      "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
     },
     {
       "rank": 17,
@@ -294,7 +296,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_total": 1431,
+      "stars_total": 1441,
       "stars_period": 349,
       "forks": 124,
       "contributors": [
@@ -308,13 +310,49 @@
     },
     {
       "rank": 18,
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_total": 20299,
+      "stars_period": 1551,
+      "forks": 1749,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
+      ],
+      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+    },
+    {
+      "rank": 19,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_total": 74970,
+      "stars_period": 3329,
+      "forks": 10109,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219644?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45447813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
+      ],
+      "description_zh": "一个开源的长期 SuperAgent 工具，用于研究、编码和创建。借助沙箱、内存、工具、技能、子代理和消息网关，它可以处理可能需要几分钟到几小时的不同级别的任务。"
+    },
+    {
+      "rank": 20,
       "name": "Stirling-Tools/Stirling-PDF",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
-      "stars_total": 84661,
+      "stars_total": 84678,
       "stars_period": 3250,
-      "forks": 7367,
+      "forks": 7368,
       "contributors": [
         "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
@@ -325,23 +363,23 @@
       "description_zh": "GitHub 上排名第一的 PDF 应用程序，可让您在任何地方的任何设备上编辑 PDF"
     },
     {
-      "rank": 19,
-      "name": "Kong/insomnia",
-      "url": "https://github.com/Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "language": "TypeScript",
-      "stars_total": 39803,
-      "stars_period": 981,
-      "forks": 2349,
+      "rank": 21,
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars_total": 23563,
+      "stars_period": 5072,
+      "forks": 2230,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/587576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3679927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4312346?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12115431?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11976836?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "适用于 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源、跨平台 API 客户端。具有云、本地和 Git 存储。"
+      "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     }
   ],
-  "generated_at": 1782555574
+  "generated_at": 1782562356
 }
