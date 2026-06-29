@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 15889,
-      "stars_period": 1180,
-      "forks": 916,
+      "stars_total": 16197,
+      "stars_period": 1611,
+      "forks": 934,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 118197,
+      "stars_total": 118563,
       "stars_period": 1221,
-      "forks": 19392,
+      "forks": 19427,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/cupy/cupy",
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
-      "stars_total": 11675,
-      "stars_period": 174,
-      "forks": 1075,
+      "stars_total": 11747,
+      "stars_period": 352,
+      "forks": 1078,
       "contributors": [
         "https://avatars.githubusercontent.com/u/939877?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5534781?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
-      "stars_total": 4057,
-      "stars_period": 365,
-      "forks": 251,
+      "stars_total": 4204,
+      "stars_period": 836,
+      "forks": 265,
       "contributors": [
         "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
         "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_total": 34083,
+      "stars_total": 34201,
       "stars_period": 191,
-      "forks": 2586,
+      "forks": 2589,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_total": 62648,
-      "stars_period": 266,
-      "forks": 11103,
+      "stars_total": 62692,
+      "stars_period": 465,
+      "forks": 11106,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8762862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/25857203?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_total": 126335,
-      "stars_period": 495,
-      "forks": 13233,
+      "stars_total": 126520,
+      "stars_period": 1971,
+      "forks": 13246,
       "contributors": [
         "https://avatars.githubusercontent.com/u/82342?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66728880?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
-      "stars_total": 12314,
+      "stars_total": 12453,
       "stars_period": 77,
-      "forks": 846,
+      "forks": 852,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14722250?s=40&v=4",
         "https://avatars.githubusercontent.com/u/36393111?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 6255,
-      "stars_period": 1445,
-      "forks": 817,
+      "stars_total": 6462,
+      "stars_period": 1397,
+      "forks": 845,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 11566,
-      "stars_period": 196,
-      "forks": 1541,
+      "stars_total": 11713,
+      "stars_period": 976,
+      "forks": 1549,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
       "language": "Python",
-      "stars_total": 968,
+      "stars_total": 1049,
       "stars_period": 105,
-      "forks": 155,
+      "forks": 164,
       "contributors": [
         "https://avatars.githubusercontent.com/u/55303635?s=40&v=4",
         "https://avatars.githubusercontent.com/u/78286113?s=40&v=4",
@@ -200,13 +200,30 @@
     },
     {
       "rank": 12,
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars_total": 1677,
+      "stars_period": 323,
+      "forks": 185,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/93952610?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11549687?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/60017699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98191442?s=40&v=4"
+      ],
+      "description_zh": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
+    },
+    {
+      "rank": 13,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 14762,
-      "stars_period": 492,
-      "forks": 2662,
+      "stars_total": 14919,
+      "stars_period": 840,
+      "forks": 2677,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/155278130?s=40&v=4",
@@ -217,14 +234,14 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_total": 17307,
+      "stars_total": 17398,
       "stars_period": 249,
-      "forks": 1198,
+      "forks": 1203,
       "contributors": [
         "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -235,14 +252,14 @@
       "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "veracrypt/VeraCrypt",
       "url": "https://github.com/veracrypt/VeraCrypt",
       "description": "Disk encryption with strong security based on TrueCrypt",
       "language": "C",
-      "stars_total": 10316,
-      "stars_period": 114,
-      "forks": 1225,
+      "stars_total": 10392,
+      "stars_period": 187,
+      "forks": 1229,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4698669?s=40&v=4",
         "https://avatars.githubusercontent.com/u/28263033?s=40&v=4",
@@ -253,5 +270,5 @@
       "description_zh": "基于TrueCrypt的磁盘加密，安全性强"
     }
   ],
-  "generated_at": 1782732041
+  "generated_at": 1782748926
 }
