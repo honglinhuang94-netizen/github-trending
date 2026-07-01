@@ -8,9 +8,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 45437,
+      "stars_total": 45532,
       "stars_period": 18624,
-      "forks": 1346,
+      "forks": 1350,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 23063,
+      "stars_total": 23287,
       "stars_period": 19612,
-      "forks": 1682,
+      "forks": 1702,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 30129,
+      "stars_total": 30385,
       "stars_period": 25466,
-      "forks": 3405,
+      "forks": 3440,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 47371,
+      "stars_total": 47716,
       "stars_period": 26239,
-      "forks": 3757,
+      "forks": 3784,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 47965,
+      "stars_total": 48020,
       "stars_period": 21268,
-      "forks": 3964,
+      "forks": 3970,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
@@ -90,7 +90,7 @@
         "https://avatars.githubusercontent.com/u/17969723?s=40&v=4",
         "https://avatars.githubusercontent.com/u/146319052?s=40&v=4"
       ],
-      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": 6,
@@ -98,9 +98,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 129642,
+      "stars_total": 129700,
       "stars_period": 13223,
-      "forks": 7183,
+      "forks": 7189,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 21928,
+      "stars_total": 21979,
       "stars_period": 10208,
-      "forks": 2209,
+      "forks": 2215,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -131,9 +131,9 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 34180,
+      "stars_total": 34224,
       "stars_period": 10333,
-      "forks": 3808,
+      "forks": 3815,
       "contributors": [
         "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -149,9 +149,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 94591,
+      "stars_total": 94737,
       "stars_period": 21864,
-      "forks": 13744,
+      "forks": 13761,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 3840,
+      "stars_total": 3847,
       "stars_period": 2528,
-      "forks": 449,
+      "forks": 451,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 47454,
+      "stars_total": 47515,
       "stars_period": 6472,
-      "forks": 7744,
+      "forks": 7759,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_total": 54000,
+      "stars_total": 54155,
       "stars_period": 24412,
-      "forks": 3716,
+      "forks": 3724,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 12656,
+      "stars_total": 12673,
       "stars_period": 2930,
-      "forks": 754,
+      "forks": 755,
       "contributors": [
         "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
         "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
@@ -239,9 +239,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 9808,
+      "stars_total": 9951,
       "stars_period": 5752,
-      "forks": 665,
+      "forks": 670,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 9128,
+      "stars_total": 9253,
       "stars_period": 5502,
-      "forks": 548,
+      "forks": 550,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 23538,
+      "stars_total": 23604,
       "stars_period": 10688,
-      "forks": 2676,
+      "forks": 2685,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
       "language": "Go",
-      "stars_total": 3473,
+      "stars_total": 3484,
       "stars_period": 2301,
-      "forks": 274,
+      "forks": 275,
       "contributors": [
         "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -311,9 +311,9 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 14312,
+      "stars_total": 14380,
       "stars_period": 7626,
-      "forks": 2110,
+      "forks": 2121,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -329,9 +329,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 60792,
+      "stars_total": 60889,
       "stars_period": 8695,
-      "forks": 6572,
+      "forks": 6577,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -347,9 +347,9 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_total": 15377,
+      "stars_total": 15405,
       "stars_period": 6466,
-      "forks": 1360,
+      "forks": 1365,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -357,8 +357,8 @@
         "https://avatars.githubusercontent.com/u/152830360?s=40&v=4",
         "https://avatars.githubusercontent.com/u/39147239?s=40&v=4"
       ],
-      "description_zh": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具利用、LSP、Python、浏览器、子代理等"
+      "description_zh": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
     }
   ],
-  "generated_at": 1782884790
+  "generated_at": 1782900256
 }
