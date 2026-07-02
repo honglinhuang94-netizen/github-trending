@@ -8,9 +8,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 45751,
+      "stars_total": 45796,
       "stars_period": 19052,
-      "forks": 1359,
+      "forks": 1362,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 24149,
+      "stars_total": 24285,
       "stars_period": 20690,
-      "forks": 1772,
+      "forks": 1780,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 31222,
+      "stars_total": 31354,
       "stars_period": 26509,
-      "forks": 3546,
+      "forks": 3562,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 48645,
+      "stars_total": 48778,
       "stars_period": 27497,
-      "forks": 3873,
+      "forks": 3880,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 48354,
+      "stars_total": 48390,
       "stars_period": 21484,
-      "forks": 4000,
+      "forks": 4003,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 129879,
+      "stars_total": 129909,
       "stars_period": 13422,
-      "forks": 7199,
+      "forks": 7202,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 22116,
+      "stars_total": 22140,
       "stars_period": 10309,
-      "forks": 2224,
+      "forks": 2226,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -131,9 +131,9 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 34405,
+      "stars_total": 34433,
       "stars_period": 10482,
-      "forks": 3836,
+      "forks": 3837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -145,13 +145,31 @@
     },
     {
       "rank": 9,
+      "name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars_total": 10777,
+      "stars_period": 2490,
+      "forks": 732,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8594682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193973994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6860749?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9806735?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9397727?s=40&v=4"
+      ],
+      "description_zh": "NVIDIA Cosmos 是一个包含世界模型、数据集和工具的开放平台，使开发人员能够为机器人、自动驾驶车辆、智能基础设施等构建物理 AI。"
+    },
+    {
+      "rank": 10,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 47741,
+      "stars_total": 47772,
       "stars_period": 6665,
-      "forks": 7785,
+      "forks": 7786,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -162,14 +180,14 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 3899,
+      "stars_total": 3907,
       "stars_period": 2564,
-      "forks": 456,
+      "forks": 457,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -180,40 +198,22 @@
       "description_zh": "OpenAI 插件"
     },
     {
-      "rank": 11,
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "JavaScript",
-      "stars_total": 54647,
-      "stars_period": 23990,
-      "forks": 3753,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6524977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60716205?s=40&v=4"
-      ],
-      "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
       "rank": 12,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars_total": 95075,
-      "stars_period": 19037,
-      "forks": 13811,
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_total": 12694,
+      "stars_period": 2982,
+      "forks": 756,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/96235876?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13794286?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45122959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78126249?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
       ],
-      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "description_zh": "轻量级、快如闪电的进程内矢量数据库"
     },
     {
       "rank": 13,
@@ -221,9 +221,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 9835,
+      "stars_total": 9904,
       "stars_period": 5827,
-      "forks": 574,
+      "forks": 584,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -239,9 +239,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 10565,
+      "stars_total": 10694,
       "stars_period": 6221,
-      "forks": 704,
+      "forks": 713,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -253,13 +253,31 @@
     },
     {
       "rank": 15,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars_total": 54759,
+      "stars_period": 23990,
+      "forks": 3759,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6524977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/60716205?s=40&v=4"
+      ],
+      "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
+    },
+    {
+      "rank": 16,
       "name": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
       "language": "Rust",
-      "stars_total": 8159,
+      "stars_total": 8188,
       "stars_period": 5289,
-      "forks": 699,
+      "forks": 703,
       "contributors": [
         "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
@@ -270,84 +288,30 @@
       "description_zh": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
     },
     {
-      "rank": 16,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 61211,
-      "stars_period": 8963,
-      "forks": 6598,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
-      ],
-      "description_zh": "开源 CapCut 替代方案"
-    },
-    {
       "rank": 17,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 23871,
-      "stars_period": 10648,
-      "forks": 2710,
+      "stars_total": 95134,
+      "stars_period": 19037,
+      "forks": 13827,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96235876?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4834299?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/13794286?s=40&v=4"
       ],
-      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
+      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": 18,
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_total": 46205,
-      "stars_period": 6459,
-      "forks": 4101,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6500785?s=40&v=4"
-      ],
-      "description_zh": "我们为您编写可重复使用的计算机视觉工具。 💜"
-    },
-    {
-      "rank": 19,
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars_total": 14685,
-      "stars_period": 7637,
-      "forks": 2146,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38918491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/322585?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5494586?s=40&v=4"
-      ],
-      "description_zh": "OpenAI 兼容代理，将 16 个 LLM 提供商的免费层（约 1.7B 代币/月）堆叠在一个 /v1 端点后面 - 以及任何自定义 OpenAI 兼容端点。智能路由、自动故障转移、加密密钥。仅个人实验。"
-    },
-    {
-      "rank": 20,
       "name": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 10989,
+      "stars_total": 10994,
       "stars_period": 2314,
       "forks": 509,
       "contributors": [
@@ -358,7 +322,43 @@
         "https://avatars.githubusercontent.com/u/17440142?s=40&v=4"
       ],
       "description_zh": "IP 地址中断，请改为拨号键。一个将 QUIC + NAT 遍历添加到您的应用程序中的库。"
+    },
+    {
+      "rank": 19,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_total": 46224,
+      "stars_period": 6459,
+      "forks": 4103,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6500785?s=40&v=4"
+      ],
+      "description_zh": "我们为您编写可重复使用的计算机视觉工具。 💜"
+    },
+    {
+      "rank": 20,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 61256,
+      "stars_period": 8963,
+      "forks": 6600,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1782980226
+  "generated_at": 1782992405
 }

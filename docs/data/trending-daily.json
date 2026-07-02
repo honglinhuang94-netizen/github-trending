@@ -1,34 +1,16 @@
 {
   "period": "daily",
-  "count": 20,
+  "count": 18,
   "items": [
     {
       "rank": 1,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_total": 124475,
-      "stars_period": 2114,
-      "forks": 20203,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
-      ],
-      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
-      "rank": 2,
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 30376,
+      "stars_total": 30741,
       "stars_period": 1211,
-      "forks": 3260,
+      "forks": 3285,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,22 +21,40 @@
       "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
     },
     {
-      "rank": 3,
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_total": 16945,
-      "stars_period": 694,
-      "forks": 2840,
+      "rank": 2,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars_total": 79476,
+      "stars_period": 866,
+      "forks": 4476,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/155278130?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/41602358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87225460?s=40&v=4"
       ],
-      "description_zh": "“Vibe-Trading：您的个人交易代理”"
+      "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+    },
+    {
+      "rank": 3,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_total": 124938,
+      "stars_period": 2114,
+      "forks": 20271,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
+      ],
+      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 4,
@@ -62,9 +62,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_total": 8744,
+      "stars_total": 8874,
       "stars_period": 2470,
-      "forks": 980,
+      "forks": 994,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -76,261 +76,67 @@
     },
     {
       "rank": 5,
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_total": 3016,
-      "stars_period": 708,
-      "forks": 157,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_total": 57296,
+      "stars_period": 322,
+      "forks": 11328,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/847306?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5867373?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/105244485?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/188724350?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76697238?s=40&v=4"
       ],
-      "description_zh": "完全可定制且可供代理使用的开源设计系统"
+      "description_zh": "基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、批处理。"
     },
     {
       "rank": 6,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_total": 9904,
-      "stars_period": 1010,
-      "forks": 1499,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 243944,
+      "stars_period": 1047,
+      "forks": 21649,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
       ],
-      "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "description_zh": "有效的代理技能框架和软件开发方法。"
     },
     {
       "rank": 7,
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "language": "Python",
-      "stars_total": 18438,
-      "stars_period": 334,
-      "forks": 1516,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_total": 44917,
+      "stars_period": 92,
+      "forks": 2918,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/178819005?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44740048?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13603748?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1287054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9584084?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/230381409?s=40&v=4"
       ],
-      "description_zh": "LLM 数据集/训练的 PDF 线性化工具包"
+      "description_zh": "用于编码代理的 Chrome DevTools"
     },
     {
       "rank": 8,
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "stars_total": 13421,
-      "stars_period": 113,
-      "forks": 909,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14722250?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36393111?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12833674?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5717882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10806653?s=40&v=4"
-      ],
-      "description_zh": "🧑‍🚀 SaaS 和 AI 应用程序的身份验证和授权基础设施，基于 OIDC 和 OAuth 2.1 构建，具有多租户、SSO 和 RBAC。"
-    },
-    {
-      "rank": 9,
-      "name": "togatoga/karukan",
-      "url": "https://github.com/togatoga/karukan",
-      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "language": "Rust",
-      "stars_total": 620,
-      "stars_period": 42,
-      "forks": 38,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7335831?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "适用于 Linux、macOS 的日语输入法系统、神经假名-汉字转换引擎"
-    },
-    {
-      "rank": 10,
-      "name": "Mebus/cupp",
-      "url": "https://github.com/Mebus/cupp",
-      "description": "Common User Passwords Profiler (CUPP)",
-      "language": "Python",
-      "stars_total": 6287,
-      "stars_period": 184,
-      "forks": 2071,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/271557?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34606382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6976484?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3818?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4057454?s=40&v=4"
-      ],
-      "description_zh": "通用用户密码分析器 (CUPP)"
-    },
-    {
-      "rank": 11,
-      "name": "Unclecheng-li/VulnClaw",
-      "url": "https://github.com/Unclecheng-li/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "language": "Python",
-      "stars_total": 1679,
-      "stars_period": 132,
-      "forks": 227,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/55303635?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78286113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158583494?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/185469450?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/127030214?s=40&v=4"
-      ],
-      "description_zh": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
-    },
-    {
-      "rank": 12,
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars_total": 50840,
-      "stars_period": 1096,
-      "forks": 10286,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44121227?s=40&v=4"
-      ],
-      "description_zh": "12 周，24 节课，全民人工智能！"
-    },
-    {
-      "rank": 13,
-      "name": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "stars_total": 18126,
-      "stars_period": 150,
-      "forks": 1231,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90484?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/921834?s=40&v=4"
-      ],
-      "description_zh": "用于管理 Markdown 知识库的桌面应用程序"
-    },
-    {
-      "rank": 14,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_total": 9835,
-      "stars_period": 609,
-      "forks": 574,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20119392?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/98116082?s=40&v=4"
-      ],
-      "description_zh": "位于您终端中的代理多路复用器。"
-    },
-    {
-      "rank": 15,
-      "name": "0xNyk/council-of-high-intelligence",
-      "url": "https://github.com/0xNyk/council-of-high-intelligence",
-      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-      "language": "Shell",
-      "stars_total": 2819,
-      "stars_period": 161,
-      "forks": 254,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/93952610?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11549687?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60017699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/98191442?s=40&v=4"
-      ],
-      "description_zh": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
-    },
-    {
-      "rank": 16,
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
-      "language": "Swift",
-      "stars_total": 5661,
-      "stars_period": 572,
-      "forks": 336,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58961993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104713086?s=40&v=4"
-      ],
-      "description_zh": "最快且唯一的 macOS 听写应用程序，具有设备上 STT 和自定义训练的 AI 增强模型 - 本地 Wispr Flow 替代方案。一个 ⭐ 让我们走了很长的路:)) Windows、iOS 候补名单开放！ Linux 即将推出。"
-    },
-    {
-      "rank": 17,
-      "name": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-      "language": "TypeScript",
-      "stars_total": 2139,
-      "stars_period": 508,
-      "forks": 175,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/49069339?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60635115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83950837?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9919?s=40&v=4"
-      ],
-      "description_zh": "Instatic 是一个现代的自托管视觉 CMS - 1 分钟内即可运行"
-    },
-    {
-      "rank": 18,
-      "name": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "stars_total": 6944,
-      "stars_period": 79,
-      "forks": 575,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48054568?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25759760?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62997582?s=40&v=4"
-      ],
-      "description_zh": "适用于 AI 代理的即时、并发、安全和轻量级沙箱。"
-    },
-    {
-      "rank": 19,
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 13414,
+      "stars_total": 13494,
       "stars_period": 693,
-      "forks": 1662,
+      "forks": 1666,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -341,23 +147,185 @@
       "description_zh": "使用编码代理编辑视频"
     },
     {
-      "rank": 20,
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
+      "rank": 9,
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_total": 22772,
-      "stars_period": 116,
-      "forks": 3417,
+      "stars_total": 8081,
+      "stars_period": 5,
+      "forks": 2518,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/30893307?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88360790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54829481?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70197018?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/208151450?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/12102068?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13227161?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81404201?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52323235?s=40&v=4"
       ],
-      "description_zh": "让我们用AI来赚钱吧！"
+      "description_zh": "检查存储库的操作"
+    },
+    {
+      "rank": 10,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 224859,
+      "stars_period": 721,
+      "forks": 34412,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/867647?s=40&v=4"
+      ],
+      "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
+    },
+    {
+      "rank": 11,
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_total": 17102,
+      "stars_period": 694,
+      "forks": 2851,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/155278130?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41602358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+      ],
+      "description_zh": "“Vibe-Trading：您的个人交易代理”"
+    },
+    {
+      "rank": 12,
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "language": "Python",
+      "stars_total": 21396,
+      "stars_period": 47,
+      "forks": 1363,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/771968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
+      ],
+      "description_zh": "代理技能规范和文档"
+    },
+    {
+      "rank": 13,
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_total": 22269,
+      "stars_period": 72,
+      "forks": 1358,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/126369952?s=40&v=4"
+      ],
+      "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
+    },
+    {
+      "rank": 14,
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "language": "Python",
+      "stars_total": 150392,
+      "stars_period": 74,
+      "forks": 9383,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/24829397?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70824914?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72977554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62335616?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
+      ],
+      "description_zh": "Langflow 是一个强大的工具，用于构建和部署人工智能驱动的代理和工作流程。"
+    },
+    {
+      "rank": 15,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_total": 101056,
+      "stars_period": 45,
+      "forks": 28214,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
+      ],
+      "description_zh": "Python 中的张量和动态神经网络，具有强大的 GPU 加速功能"
+    },
+    {
+      "rank": 16,
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars_total": 25149,
+      "stars_period": 33,
+      "forks": 3015,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6807956?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36451783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "机器学习系统"
+    },
+    {
+      "rank": 17,
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_total": 51009,
+      "stars_period": 1096,
+      "forks": 10308,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44121227?s=40&v=4"
+      ],
+      "description_zh": "12 周，24 节课，全民人工智能！"
+    },
+    {
+      "rank": 18,
+      "name": "ryanmcdermott/clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars_total": 94460,
+      "stars_period": 11,
+      "forks": 12465,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5114666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10393198?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4427246?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7927517?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/301286?s=40&v=4"
+      ],
+      "description_zh": "适用于 JavaScript 的干净代码概念"
     }
   ],
-  "generated_at": 1782980222
+  "generated_at": 1782992401
 }
