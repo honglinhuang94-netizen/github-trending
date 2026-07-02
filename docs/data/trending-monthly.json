@@ -8,7 +8,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 45853,
+      "stars_total": 45861,
       "stars_period": 19052,
       "forks": 1364,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 24566,
+      "stars_total": 24613,
       "stars_period": 20690,
-      "forks": 1812,
+      "forks": 1816,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 31639,
+      "stars_total": 31682,
       "stars_period": 26509,
-      "forks": 3592,
+      "forks": 3594,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 49051,
+      "stars_total": 49081,
       "stars_period": 27497,
-      "forks": 3907,
+      "forks": 3913,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 48479,
+      "stars_total": 48492,
       "stars_period": 21484,
-      "forks": 4010,
+      "forks": 4012,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
@@ -98,7 +98,7 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 129980,
+      "stars_total": 129990,
       "stars_period": 13422,
       "forks": 7207,
       "contributors": [
@@ -116,7 +116,7 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 22185,
+      "stars_total": 22192,
       "stars_period": 10309,
       "forks": 2233,
       "contributors": [
@@ -131,7 +131,7 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 34507,
+      "stars_total": 34516,
       "stars_period": 10482,
       "forks": 3841,
       "contributors": [
@@ -149,7 +149,7 @@
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars_total": 10804,
+      "stars_total": 10806,
       "stars_period": 2490,
       "forks": 734,
       "contributors": [
@@ -167,9 +167,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 47838,
+      "stars_total": 47851,
       "stars_period": 6665,
-      "forks": 7792,
+      "forks": 7793,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -187,7 +187,7 @@
       "language": "JavaScript",
       "stars_total": 3929,
       "stars_period": 2564,
-      "forks": 460,
+      "forks": 461,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -203,7 +203,7 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 12713,
+      "stars_total": 12716,
       "stars_period": 2982,
       "forks": 756,
       "contributors": [
@@ -221,9 +221,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 10084,
+      "stars_total": 10110,
       "stars_period": 5827,
-      "forks": 592,
+      "forks": 594,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -239,9 +239,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 10953,
+      "stars_total": 10994,
       "stars_period": 6221,
-      "forks": 725,
+      "forks": 728,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_total": 54961,
+      "stars_total": 54987,
       "stars_period": 23990,
-      "forks": 3768,
+      "forks": 3769,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
       "language": "Rust",
-      "stars_total": 8238,
+      "stars_total": 8245,
       "stars_period": 5289,
-      "forks": 709,
+      "forks": 710,
       "contributors": [
         "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
@@ -293,7 +293,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_total": 95234,
+      "stars_total": 95253,
       "stars_period": 19037,
       "forks": 13850,
       "contributors": [
@@ -311,7 +311,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11010,
+      "stars_total": 11011,
       "stars_period": 2314,
       "forks": 509,
       "contributors": [
@@ -329,7 +329,7 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_total": 46268,
+      "stars_total": 46273,
       "stars_period": 6459,
       "forks": 4103,
       "contributors": [
@@ -347,7 +347,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 61323,
+      "stars_total": 61336,
       "stars_period": 8963,
       "forks": 6609,
       "contributors": [
@@ -360,5 +360,5 @@
       "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1783023871
+  "generated_at": 1783030446
 }
