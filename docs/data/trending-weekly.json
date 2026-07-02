@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 8550,
+      "stars_total": 8586,
       "stars_period": 6758,
-      "forks": 1089,
+      "forks": 1097,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
@@ -25,9 +25,9 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 17620,
+      "stars_total": 17634,
       "stars_period": 6289,
-      "forks": 1027,
+      "forks": 1031,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
@@ -43,9 +43,9 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_total": 127758,
+      "stars_total": 127779,
       "stars_period": 4268,
-      "forks": 13345,
+      "forks": 13351,
       "contributors": [
         "https://avatars.githubusercontent.com/u/82342?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66728880?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 24374,
+      "stars_total": 24473,
       "stars_period": 9697,
-      "forks": 1795,
+      "forks": 1802,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 4843,
+      "stars_total": 4867,
       "stars_period": 2887,
-      "forks": 278,
+      "forks": 280,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_total": 24281,
+      "stars_total": 24316,
       "stars_period": 7186,
-      "forks": 1894,
+      "forks": 1895,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
         "https://avatars.githubusercontent.com/u/824246?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 31448,
+      "stars_total": 31551,
       "stars_period": 12624,
-      "forks": 3576,
+      "forks": 3581,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,7 +133,7 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 9344,
+      "stars_total": 9366,
       "stars_period": 1823,
       "forks": 909,
       "contributors": [
@@ -148,9 +148,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 31124,
+      "stars_total": 31472,
       "stars_period": 2804,
-      "forks": 3308,
+      "forks": 3326,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -166,9 +166,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 24739,
+      "stars_total": 24793,
       "stars_period": 5359,
-      "forks": 3502,
+      "forks": 3512,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -180,13 +180,31 @@
     },
     {
       "rank": 11,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars_total": 8857,
+      "stars_period": 2739,
+      "forks": 734,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99432678?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+    },
+    {
+      "rank": 12,
       "name": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars_total": 26539,
+      "stars_total": 26571,
       "stars_period": 5171,
-      "forks": 2464,
+      "forks": 2467,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
         "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
@@ -197,14 +215,14 @@
       "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 10785,
+      "stars_total": 10893,
       "stars_period": 3537,
-      "forks": 717,
+      "forks": 722,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -215,14 +233,14 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 125097,
+      "stars_total": 125248,
       "stars_period": 7924,
-      "forks": 20302,
+      "forks": 20320,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -233,14 +251,14 @@
       "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 4314,
+      "stars_total": 4354,
       "stars_period": 2185,
-      "forks": 842,
+      "forks": 846,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
         "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
@@ -251,14 +269,14 @@
       "description_zh": "人工智能代理对简历进行评估和评分。"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 48871,
+      "stars_total": 48979,
       "stars_period": 8791,
-      "forks": 3891,
+      "forks": 3896,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -269,14 +287,14 @@
       "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 13586,
+      "stars_total": 13664,
       "stars_period": 3000,
-      "forks": 1678,
+      "forks": 1682,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -287,14 +305,14 @@
       "description_zh": "使用编码代理编辑视频"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 21041,
+      "stars_total": 21070,
       "stars_period": 1450,
-      "forks": 1789,
+      "forks": 1794,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -305,14 +323,14 @@
       "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 10069,
+      "stars_total": 10135,
       "stars_period": 2497,
-      "forks": 1511,
+      "forks": 1516,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -323,14 +341,14 @@
       "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 9956,
+      "stars_total": 10020,
       "stars_period": 2401,
-      "forks": 586,
+      "forks": 591,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -341,14 +359,14 @@
       "description_zh": "位于您终端中的代理多路复用器。"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_total": 1706,
+      "stars_total": 1711,
       "stars_period": 693,
-      "forks": 138,
+      "forks": 139,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
         "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
@@ -359,14 +377,14 @@
       "description_zh": "AWS 支持的官方 MCP 服务器、技能和插件可帮助 AI 代理在 AWS 上构建"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_total": 55008,
+      "stars_total": 55034,
       "stars_period": 2575,
-      "forks": 11148,
+      "forks": 11149,
       "contributors": [
         "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
         "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
@@ -377,14 +395,14 @@
       "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "craft-ai-agents/craft-agents-oss",
       "url": "https://github.com/craft-ai-agents/craft-agents-oss",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 6628,
+      "stars_total": 6629,
       "stars_period": 314,
-      "forks": 912,
+      "forks": 914,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2445418?s=40&v=4",
@@ -395,5 +413,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1783002131
+  "generated_at": 1783011408
 }
