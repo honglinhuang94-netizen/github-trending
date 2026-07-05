@@ -8,9 +8,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 46611,
+      "stars_total": 46625,
       "stars_period": 19762,
-      "forks": 1396,
+      "forks": 1397,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
@@ -26,7 +26,7 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 26662,
+      "stars_total": 26694,
       "stars_period": 23024,
       "forks": 1979,
       "contributors": [
@@ -44,9 +44,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 33598,
+      "stars_total": 33629,
       "stars_period": 28653,
-      "forks": 3855,
+      "forks": 3856,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 51216,
+      "stars_total": 51250,
       "stars_period": 29397,
-      "forks": 4109,
+      "forks": 4112,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 49125,
+      "stars_total": 49144,
       "stars_period": 21849,
-      "forks": 4074,
+      "forks": 4075,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 130548,
+      "stars_total": 130563,
       "stars_period": 13918,
-      "forks": 7257,
+      "forks": 7261,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 4812,
+      "stars_total": 4827,
       "stars_period": 3861,
-      "forks": 914,
+      "forks": 915,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
         "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
@@ -134,7 +134,7 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars_total": 22609,
+      "stars_total": 22612,
       "stars_period": 10626,
       "forks": 2274,
       "contributors": [
@@ -149,9 +149,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 49815,
+      "stars_total": 49886,
       "stars_period": 7399,
-      "forks": 8154,
+      "forks": 8167,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 11984,
+      "stars_total": 12022,
       "stars_period": 6930,
-      "forks": 697,
+      "forks": 700,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 12326,
+      "stars_total": 12347,
       "stars_period": 7802,
-      "forks": 827,
+      "forks": 831,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 36981,
+      "stars_total": 37045,
       "stars_period": 9853,
-      "forks": 3755,
+      "forks": 3761,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -221,7 +221,7 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
       "language": "Go",
-      "stars_total": 3724,
+      "stars_total": 3735,
       "stars_period": 2442,
       "forks": 290,
       "contributors": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11127,
+      "stars_total": 11128,
       "stars_period": 2434,
       "forks": 514,
       "contributors": [
@@ -257,9 +257,9 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_total": 46785,
+      "stars_total": 46794,
       "stars_period": 6762,
-      "forks": 4170,
+      "forks": 4171,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
@@ -275,7 +275,7 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 4068,
+      "stars_total": 4069,
       "stars_period": 2652,
       "forks": 470,
       "contributors": [
@@ -293,7 +293,7 @@
       "url": "https://github.com/t8y2/dbx",
       "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
       "language": "Rust",
-      "stars_total": 8677,
+      "stars_total": 8682,
       "stars_period": 4933,
       "forks": 737,
       "contributors": [
@@ -311,7 +311,7 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_total": 34942,
+      "stars_total": 34954,
       "stars_period": 10499,
       "forks": 3884,
       "contributors": [
@@ -329,9 +329,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 24602,
+      "stars_total": 24613,
       "stars_period": 10382,
-      "forks": 2803,
+      "forks": 2804,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
@@ -347,7 +347,7 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 4082,
+      "stars_total": 4088,
       "stars_period": 1903,
       "forks": 458,
       "contributors": [
@@ -360,5 +360,5 @@
       "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
     }
   ],
-  "generated_at": 1783285897
+  "generated_at": 1783292961
 }
