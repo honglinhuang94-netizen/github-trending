@@ -1,106 +1,16 @@
 {
   "period": "daily",
-  "count": 18,
+  "count": 22,
   "items": [
     {
       "rank": 1,
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_total": 24966,
-      "stars_period": 718,
-      "forks": 1507,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/126369952?s=40&v=4"
-      ],
-      "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
-    },
-    {
-      "rank": 2,
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "JavaScript",
-      "stars_total": 84319,
-      "stars_period": 1089,
-      "forks": 4705,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87225460?s=40&v=4"
-      ],
-      "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
-    },
-    {
-      "rank": 3,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_total": 23406,
-      "stars_period": 742,
-      "forks": 2019,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
-      ],
-      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
-    },
-    {
-      "rank": 4,
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_total": 36447,
-      "stars_period": 1904,
-      "forks": 3690,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/260551972?s=40&v=4"
-      ],
-      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
-    },
-    {
-      "rank": 5,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 45890,
-      "stars_period": 304,
-      "forks": 2988,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/230381409?s=40&v=4"
-      ],
-      "description_zh": "用于编码代理的 Chrome DevTools"
-    },
-    {
-      "rank": 6,
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 15673,
+      "stars_total": 15808,
       "stars_period": 718,
-      "forks": 1701,
+      "forks": 1720,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -111,14 +21,32 @@
       "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
     },
     {
-      "rank": 7,
+      "rank": 2,
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_total": 25099,
+      "stars_period": 718,
+      "forks": 1518,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/126369952?s=40&v=4"
+      ],
+      "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
+    },
+    {
+      "rank": 3,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 49242,
+      "stars_total": 49349,
       "stars_period": 471,
-      "forks": 8038,
+      "forks": 8062,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -129,30 +57,48 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
-      "rank": 8,
-      "name": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
-      "language": "Python",
-      "stars_total": 26663,
-      "stars_period": 443,
-      "forks": 3175,
+      "rank": 4,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars_total": 56858,
+      "stars_period": 850,
+      "forks": 3893,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6807956?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36451783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6524977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/60716205?s=40&v=4"
       ],
-      "description_zh": "机器学习系统"
+      "description_zh": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars_total": 20302,
+      "stars_period": 136,
+      "forks": 2775,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23409189?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/111341595?s=40&v=4"
+      ],
+      "description_zh": "337 个 Claude Code 技能和代理技能和插件（30 多个代理、70 多个自定义命令、330 多个技能、可自定义参考、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 和另外 8 个编码代理 — 工程、营销、产品、合规性、C 级咨询、研究、业务运营、商业和财务以及您的日常生产力技能。"
+    },
+    {
+      "rank": 6,
       "name": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
-      "stars_total": 10321,
+      "stars_total": 10355,
       "stars_period": 398,
       "forks": 498,
       "contributors": [
@@ -165,14 +111,14 @@
       "description_zh": "一个美丽、强大、自托管的 ROM 管理器和播放器。"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 11661,
+      "stars_total": 11712,
       "stars_period": 707,
-      "forks": 684,
+      "forks": 686,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -183,12 +129,210 @@
       "description_zh": "位于您终端中的代理多路复用器。"
     },
     {
+      "rank": 8,
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_total": 23482,
+      "stars_period": 742,
+      "forks": 2026,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
+      ],
+      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+    },
+    {
+      "rank": 9,
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars_total": 26698,
+      "stars_period": 443,
+      "forks": 3177,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6807956?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36451783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "机器学习系统"
+    },
+    {
+      "rank": 10,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_total": 36560,
+      "stars_period": 1904,
+      "forks": 3705,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/260551972?s=40&v=4"
+      ],
+      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
+    },
+    {
       "rank": 11,
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars_total": 48098,
+      "stars_period": 133,
+      "forks": 4223,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/172150522?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
+      ],
+      "description_zh": "为最出色的特工 Claude Code 精心挑选的最优质资源，Claude Code 是无可争议的编码伙伴冠军，来自 Anthropic PBC 势不可挡的团队。顶级技能、灵巧的代理、闪烁的状态栏、一流的开发人员工具的令人愉快的展示，而且我们还有插件"
+    },
+    {
+      "rank": 12,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_total": 36167,
+      "stars_period": 126,
+      "forks": 5883,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1101879?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5956866?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20099808?s=40&v=4"
+      ],
+      "description_zh": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
+    },
+    {
+      "rank": 13,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars_total": 84434,
+      "stars_period": 1089,
+      "forks": 4706,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87225460?s=40&v=4"
+      ],
+      "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+    },
+    {
+      "rank": 14,
+      "name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "stars_total": 11778,
+      "stars_period": 69,
+      "forks": 1268,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/51266340?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2119378?s=40&v=4"
+      ],
+      "description_zh": "Unity MCP 充当 AI 助手和 Unity 编辑器之间的桥梁。为您提供 LLM 工具来管理资源、控制场景、编辑脚本以及在 Unity 中自动执行任务。"
+    },
+    {
+      "rank": 15,
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_total": 5597,
+      "stars_period": 903,
+      "forks": 358,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/847306?s=40&v=4"
+      ],
+      "description_zh": "完全可定制且可供代理使用的开源设计系统"
+    },
+    {
+      "rank": 16,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_total": 105828,
+      "stars_period": 201,
+      "forks": 6042,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101130780?s=40&v=4"
+      ],
+      "description_zh": "高性能自托管照片和视频管理解决方案。"
+    },
+    {
+      "rank": 17,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 76517,
+      "stars_period": 133,
+      "forks": 10261,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
+      ],
+      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+    },
+    {
+      "rank": 18,
+      "name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "language": "Go",
+      "stars_total": 16237,
+      "stars_period": 48,
+      "forks": 1515,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8082291?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176345210?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72461227?s=40&v=4"
+      ],
+      "description_zh": "Gas Town - 多代理工作区管理器"
+    },
+    {
+      "rank": 19,
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_total": 3891,
+      "stars_total": 3914,
       "stars_period": 59,
       "forks": 296,
       "contributors": [
@@ -201,128 +345,59 @@
       "description_zh": "使用 .NET 和 C# 协助 AI 编码代理的技能存储库"
     },
     {
-      "rank": 12,
-      "name": "agentskills/agentskills",
-      "url": "https://github.com/agentskills/agentskills",
-      "description": "Specification and documentation for Agent Skills",
+      "rank": 20,
+      "name": "OthmanAdi/planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
       "language": "Python",
-      "stars_total": 22429,
-      "stars_period": 351,
-      "forks": 1418,
+      "stars_total": 24536,
+      "stars_period": 61,
+      "forks": 2104,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/771968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78882424?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4048?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1794715?s=40&v=4"
       ],
-      "description_zh": "代理技能规范和文档"
+      "description_zh": "针对 AI 编码代理和长期运行的代理任务进行基于文件的持久规划。防崩溃的降价计划可以在上下文丢失和/清除的情况下幸存下来，加上确定性的完成门和磁盘上的多代理共享状态。马努斯风格。通过 SKILL.md 标准与 Claude Code、Codex CLI、Cursor、Kiro、OpenCode 和 60 多个代理配合使用。"
     },
     {
-      "rank": 13,
-      "name": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_total": 105785,
-      "stars_period": 201,
-      "forks": 6039,
+      "rank": 21,
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_total": 15945,
+      "stars_period": 98,
+      "forks": 1337,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101130780?s=40&v=4"
-      ],
-      "description_zh": "高性能自托管照片和视频管理解决方案。"
-    },
-    {
-      "rank": 14,
-      "name": "chthollyphile/folia-major",
-      "url": "https://github.com/chthollyphile/folia-major",
-      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-      "language": "TypeScript",
-      "stars_total": 1044,
-      "stars_period": 175,
-      "forks": 68,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/30263107?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3126801?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/23186?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108202013?s=40&v=4"
-      ],
-      "description_zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
-    },
-    {
-      "rank": 15,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_total": 156947,
-      "stars_period": 973,
-      "forks": 13504,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/104957188?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/170791?s=40&v=4"
       ],
-      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
+      "description_zh": "显示 OpenAI Codex 和 Claude Code 的使用统计信息，无需登录。"
     },
     {
-      "rank": 16,
-      "name": "CoplayDev/unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "language": "C#",
-      "stars_total": 11740,
-      "stars_period": 69,
-      "forks": 1269,
+      "rank": 22,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars_total": 136138,
+      "stars_period": 357,
+      "forks": 21898,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/51266340?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2119378?s=40&v=4"
-      ],
-      "description_zh": "Unity MCP 充当 AI 助手和 Unity 编辑器之间的桥梁。为您提供 LLM 工具来管理资源、控制场景、编辑脚本以及在 Unity 中自动执行任务。"
-    },
-    {
-      "rank": 17,
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "stars_total": 20268,
-      "stars_period": 136,
-      "forks": 2772,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23409189?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/111341595?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/209710463?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/178951676?s=40&v=4"
       ],
-      "description_zh": "337 个 Claude Code 技能和代理技能和插件（30 多个代理、70 多个自定义命令、330 多个技能、可自定义参考、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 和另外 8 个编码代理 — 工程、营销、产品、合规性、C 级咨询、研究、业务运营、商业和财务以及您的日常生产力技能。"
-    },
-    {
-      "rank": 18,
-      "name": "crynta/terax-ai",
-      "url": "https://github.com/crynta/terax-ai",
-      "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-      "language": "TypeScript",
-      "stars_total": 8144,
-      "stars_period": 62,
-      "forks": 865,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/135257643?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42501522?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6089420?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123704726?s=40&v=4"
-      ],
-      "description_zh": "轻量级 (7MB) 终端优先的 AI 原生开发工作区"
+      "description_zh": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
     }
   ],
-  "generated_at": 1783243048
+  "generated_at": 1783251634
 }
