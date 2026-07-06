@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 17417,
+      "stars_total": 18022,
       "stars_period": 1409,
-      "forks": 1828,
+      "forks": 1857,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 25646,
+      "stars_total": 25893,
       "stars_period": 1532,
-      "forks": 1553,
+      "forks": 1560,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 50215,
+      "stars_total": 50549,
       "stars_period": 981,
-      "forks": 8205,
+      "forks": 8245,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_total": 57764,
+      "stars_total": 58133,
       "stars_period": 863,
-      "forks": 3945,
+      "forks": 3967,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_total": 20685,
+      "stars_total": 20837,
       "stars_period": 392,
-      "forks": 2800,
+      "forks": 2808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
-      "stars_total": 10613,
+      "stars_total": 10694,
       "stars_period": 410,
-      "forks": 510,
+      "forks": 513,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34356590?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3247106?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 12201,
+      "stars_total": 12392,
       "stars_period": 651,
-      "forks": 717,
+      "forks": 721,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 24077,
+      "stars_total": 24315,
       "stars_period": 805,
-      "forks": 2069,
+      "forks": 2085,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
       "language": "Python",
-      "stars_total": 26920,
+      "stars_total": 26999,
       "stars_period": 329,
-      "forks": 3203,
+      "forks": 3210,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6807956?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 37310,
+      "stars_total": 37559,
       "stars_period": 1114,
-      "forks": 3788,
+      "forks": 3808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "language": "Python",
-      "stars_total": 48475,
+      "stars_total": 48617,
       "stars_period": 148,
-      "forks": 4246,
+      "forks": 4252,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/172150522?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_total": 36539,
+      "stars_total": 36710,
       "stars_period": 145,
-      "forks": 5899,
+      "forks": 5909,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_total": 85037,
+      "stars_total": 85275,
       "stars_period": 1052,
-      "forks": 4732,
+      "forks": 4742,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/CoplayDev/unity-mcp",
       "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
       "language": "C#",
-      "stars_total": 11999,
+      "stars_total": 12100,
       "stars_period": 414,
-      "forks": 1283,
+      "forks": 1288,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51266340?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
@@ -260,9 +260,9 @@
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 6013,
+      "stars_total": 6173,
       "stars_period": 522,
-      "forks": 384,
+      "forks": 396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
         "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
@@ -278,9 +278,9 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 106196,
+      "stars_total": 106340,
       "stars_period": 470,
-      "forks": 6068,
+      "forks": 6076,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
@@ -296,9 +296,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 76781,
+      "stars_total": 76891,
       "stars_period": 161,
-      "forks": 10293,
+      "forks": 10308,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -314,9 +314,9 @@
       "url": "https://github.com/gastownhall/gastown",
       "description": "Gas Town - multi-agent workspace manager",
       "language": "Go",
-      "stars_total": 16427,
+      "stars_total": 16496,
       "stars_period": 51,
-      "forks": 1523,
+      "forks": 1528,
       "contributors": [
         "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -332,9 +332,9 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_total": 4077,
+      "stars_total": 4134,
       "stars_period": 246,
-      "forks": 305,
+      "forks": 310,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
@@ -346,31 +346,13 @@
     },
     {
       "rank": 20,
-      "name": "OthmanAdi/planning-with-files",
-      "url": "https://github.com/OthmanAdi/planning-with-files",
-      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-      "language": "Python",
-      "stars_total": 24793,
-      "stars_period": 66,
-      "forks": 2110,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/78882424?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4048?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1794715?s=40&v=4"
-      ],
-      "description_zh": "针对 AI 编码代理和长期运行的代理任务进行基于文件的持久规划。防崩溃的降价计划可以在上下文丢失和/清除的情况下幸存下来，加上确定性的完成门和磁盘上的多代理共享状态。马努斯风格。通过 SKILL.md 标准与 Claude Code、Codex CLI、Cursor、Kiro、OpenCode 和 60 多个代理配合使用。"
-    },
-    {
-      "rank": 21,
       "name": "steipete/CodexBar",
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
-      "stars_total": 16334,
+      "stars_total": 16461,
       "stars_period": 153,
-      "forks": 1354,
+      "forks": 1362,
       "contributors": [
         "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
         "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
@@ -381,14 +363,14 @@
       "description_zh": "显示 OpenAI Codex 和 Claude Code 的使用统计信息，无需登录。"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_total": 136357,
+      "stars_total": 136443,
       "stars_period": 156,
-      "forks": 21914,
+      "forks": 21921,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
@@ -399,5 +381,5 @@
       "description_zh": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
     }
   ],
-  "generated_at": 1783311456
+  "generated_at": 1783328777
 }
