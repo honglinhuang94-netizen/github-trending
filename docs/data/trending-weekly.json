@@ -8,9 +8,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 37559,
+      "stars_total": 37746,
       "stars_period": 10338,
-      "forks": 3808,
+      "forks": 3833,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,21 +22,21 @@
     },
     {
       "rank": 2,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_total": 10773,
-      "stars_period": 5038,
-      "forks": 1379,
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_total": 10103,
+      "stars_period": 7084,
+      "forks": 1146,
       "contributors": [
+        "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1250207?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/44262177?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/120308299?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157413099?s=40&v=4"
       ],
-      "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+      "description_zh": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 12150,
+      "stars_total": 12295,
       "stars_period": 4411,
-      "forks": 1763,
+      "forks": 1791,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -58,36 +58,39 @@
     },
     {
       "rank": 4,
-      "name": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "stars_total": 17960,
-      "stars_period": 3572,
-      "forks": 1056,
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars_total": 18512,
+      "stars_period": 2972,
+      "forks": 1893,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112780386?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
       ],
-      "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
+      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
     },
     {
       "rank": 5,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars_total": 9981,
-      "stars_period": 1875,
-      "forks": 989,
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars_total": 6283,
+      "stars_period": 2760,
+      "forks": 394,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58961993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104713086?s=40&v=4"
       ],
-      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
+      "description_zh": "最快且唯一具有设备上 STT 和自定义训练的 AI 增强模型的 macOS 听写应用程序。本地 Wispr Flow 替代方案。 ⭐ 帮助很大 :) Windows 和 iOS 候补名单开放。很快就会有Linux了。"
     },
     {
       "rank": 6,
@@ -95,9 +98,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 12392,
+      "stars_total": 12575,
       "stars_period": 3937,
-      "forks": 721,
+      "forks": 730,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -109,39 +112,39 @@
     },
     {
       "rank": 7,
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "stars_total": 13872,
-      "stars_period": 1575,
-      "forks": 948,
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_total": 10960,
+      "stars_period": 5038,
+      "forks": 1415,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/14722250?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36393111?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12833674?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5717882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10806653?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1250207?s=40&v=4"
       ],
-      "description_zh": "🧑‍🚀 SaaS 和 AI 应用程序的身份验证和授权基础设施，基于 OIDC 和 OAuth 2.1 构建，具有多租户、SSO 和 RBAC。"
+      "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": 8,
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "language": "Rust",
-      "stars_total": 18022,
-      "stars_period": 2972,
-      "forks": 1857,
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_total": 24457,
+      "stars_period": 3151,
+      "forks": 2095,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
       ],
-      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
+      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
       "rank": 9,
@@ -149,9 +152,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 15224,
+      "stars_total": 15310,
       "stars_period": 4288,
-      "forks": 1796,
+      "forks": 1802,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,83 +166,62 @@
     },
     {
       "rank": 10,
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_total": 24315,
-      "stars_period": 3151,
-      "forks": 2085,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_total": 10022,
+      "stars_period": 1875,
+      "forks": 995,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101583541?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246056357?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
       ],
-      "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
+      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
     },
     {
       "rank": 11,
-      "name": "Starmel/OpenSuperWhisper",
-      "url": "https://github.com/Starmel/OpenSuperWhisper",
-      "description": "macOS dictation app",
-      "language": "Swift",
-      "stars_total": 1848,
-      "stars_period": 532,
-      "forks": 152,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars_total": 5423,
+      "stars_period": 502,
+      "forks": 667,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8287942?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69437137?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/483344?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89754740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52246514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "macOS 听写应用"
+      "description_zh": "使用开源模型构建本地语音代理"
     },
     {
       "rank": 12,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_total": 127755,
-      "stars_period": 10637,
-      "forks": 20744,
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars_total": 18843,
+      "stars_period": 1212,
+      "forks": 1547,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/178819005?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44740048?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13603748?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1287054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9584084?s=40&v=4"
       ],
-      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "description_zh": "LLM 数据集/训练的 PDF 线性化工具包"
     },
     {
       "rank": 13,
-      "name": "apache/maven",
-      "url": "https://github.com/apache/maven",
-      "description": "Apache Maven core",
-      "language": "Java",
-      "stars_total": 5287,
-      "stars_period": 173,
-      "forks": 2905,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9523?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49108?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/138698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65614?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84022?s=40&v=4"
-      ],
-      "description_zh": "Apache Maven 核心"
-    },
-    {
-      "rank": 14,
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 25893,
+      "stars_total": 26056,
       "stars_period": 3405,
       "forks": 1560,
       "contributors": [
@@ -252,14 +234,86 @@
       "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
     },
     {
+      "rank": 14,
+      "name": "Starmel/OpenSuperWhisper",
+      "url": "https://github.com/Starmel/OpenSuperWhisper",
+      "description": "macOS dictation app",
+      "language": "Swift",
+      "stars_total": 1861,
+      "stars_period": 532,
+      "forks": 155,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8287942?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69437137?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/483344?s=40&v=4"
+      ],
+      "description_zh": "macOS 听写应用"
+    },
+    {
       "rank": 15,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_total": 106434,
+      "stars_period": 1416,
+      "forks": 6078,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101130780?s=40&v=4"
+      ],
+      "description_zh": "高性能自托管照片和视频管理解决方案。"
+    },
+    {
+      "rank": 16,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_total": 127898,
+      "stars_period": 10637,
+      "forks": 20769,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
+      ],
+      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
+      "rank": 17,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars_total": 85480,
+      "stars_period": 7326,
+      "forks": 4756,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87225460?s=40&v=4"
+      ],
+      "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+    },
+    {
+      "rank": 18,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 26998,
+      "stars_total": 27150,
       "stars_period": 7945,
-      "forks": 2003,
+      "forks": 2015,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -270,14 +324,14 @@
       "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 12583,
+      "stars_total": 12690,
       "stars_period": 3783,
-      "forks": 853,
+      "forks": 862,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -288,32 +342,32 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
-      "rank": 17,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_total": 33944,
-      "stars_period": 7353,
-      "forks": 3889,
+      "rank": 20,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_total": 46024,
+      "stars_period": 1375,
+      "forks": 2995,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17984618?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/230381409?s=40&v=4"
       ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_zh": "用于编码代理的 Chrome DevTools"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 25982,
+      "stars_total": 26087,
       "stars_period": 3246,
-      "forks": 3662,
+      "forks": 3678,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -322,61 +376,7 @@
         "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
       ],
       "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
-    },
-    {
-      "rank": 19,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 54908,
-      "stars_period": 3806,
-      "forks": 47478,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 20,
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "language": "Python",
-      "stars_total": 18821,
-      "stars_period": 1212,
-      "forks": 1545,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/178819005?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44740048?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13603748?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1287054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9584084?s=40&v=4"
-      ],
-      "description_zh": "LLM 数据集/训练的 PDF 线性化工具包"
-    },
-    {
-      "rank": 21,
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_total": 27185,
-      "stars_period": 2699,
-      "forks": 2528,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     }
   ],
-  "generated_at": 1783328778
+  "generated_at": 1783346061
 }
