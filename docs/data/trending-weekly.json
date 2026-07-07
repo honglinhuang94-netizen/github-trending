@@ -8,7 +8,7 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 38501,
+      "stars_total": 38529,
       "stars_period": 10759,
       "forks": 3909,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 20542,
+      "stars_total": 20616,
       "stars_period": 5769,
-      "forks": 2068,
+      "forks": 2072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_total": 10678,
+      "stars_total": 10684,
       "stars_period": 5665,
-      "forks": 1199,
+      "forks": 1200,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 13447,
+      "stars_total": 13499,
       "stars_period": 4348,
-      "forks": 782,
+      "forks": 785,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 13082,
+      "stars_total": 13110,
       "stars_period": 4594,
-      "forks": 1906,
+      "forks": 1908,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 24887,
+      "stars_total": 24903,
       "stars_period": 3989,
-      "forks": 2128,
+      "forks": 2130,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 26590,
+      "stars_total": 26600,
       "stars_period": 4329,
-      "forks": 1596,
+      "forks": 1597,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_total": 10285,
+      "stars_total": 10535,
       "stars_period": 4495,
-      "forks": 3534,
+      "forks": 3582,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
       "language": "Swift",
-      "stars_total": 6665,
+      "stars_total": 6677,
       "stars_period": 2127,
-      "forks": 417,
+      "forks": 419,
       "contributors": [
         "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
         "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 8392,
+      "stars_total": 8418,
       "stars_period": 1172,
       "forks": 708,
       "contributors": [
@@ -188,7 +188,7 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 11658,
+      "stars_total": 11669,
       "stars_period": 4616,
       "forks": 1508,
       "contributors": [
@@ -206,9 +206,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 128727,
+      "stars_total": 128751,
       "stars_period": 9706,
-      "forks": 20924,
+      "forks": 20927,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -224,7 +224,7 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 106706,
+      "stars_total": 106720,
       "stars_period": 1848,
       "forks": 6108,
       "contributors": [
@@ -242,7 +242,7 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_total": 5574,
+      "stars_total": 5579,
       "stars_period": 533,
       "forks": 677,
       "contributors": [
@@ -260,7 +260,7 @@
       "url": "https://github.com/allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars_total": 18946,
+      "stars_total": 18950,
       "stars_period": 1243,
       "forks": 1557,
       "contributors": [
@@ -278,9 +278,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 15852,
+      "stars_total": 15863,
       "stars_period": 3706,
-      "forks": 1842,
+      "forks": 1844,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -296,9 +296,9 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_total": 4272,
+      "stars_total": 4281,
       "stars_period": 627,
-      "forks": 322,
+      "forks": 324,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
@@ -314,9 +314,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_total": 86207,
+      "stars_total": 86231,
       "stars_period": 7780,
-      "forks": 4807,
+      "forks": 4808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -332,9 +332,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 13438,
+      "stars_total": 13463,
       "stars_period": 3794,
-      "forks": 905,
+      "forks": 907,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -350,7 +350,7 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 10185,
+      "stars_total": 10187,
       "stars_period": 1525,
       "forks": 1022,
       "contributors": [
@@ -365,9 +365,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 52839,
+      "stars_total": 52887,
       "stars_period": 4290,
-      "forks": 8607,
+      "forks": 8627,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -383,7 +383,7 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_total": 46231,
+      "stars_total": 46237,
       "stars_period": 1394,
       "forks": 3017,
       "contributors": [
@@ -401,9 +401,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 27944,
+      "stars_total": 27968,
       "stars_period": 6309,
-      "forks": 2080,
+      "forks": 2081,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -414,5 +414,5 @@
       "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     }
   ],
-  "generated_at": 1783457584
+  "generated_at": 1783462642
 }
