@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_total": 13047,
+      "stars_total": 13458,
       "stars_period": 2514,
-      "forks": 4114,
+      "forks": 4220,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -18,35 +18,17 @@
         "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
         "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
       ],
-      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
+      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写您的个​​人资料，然后让克劳德评估工作，定制简历，写求职信，并为您的面试做好准备。"
     },
     {
       "rank": 2,
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "language": "Rust",
-      "stars_total": 21307,
-      "stars_period": 1777,
-      "forks": 2121,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
-      ],
-      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
-    },
-    {
-      "rank": 3,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 72692,
+      "stars_total": 72871,
       "stars_period": 1317,
-      "forks": 7868,
+      "forks": 7878,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -57,14 +39,14 @@
       "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 78810,
+      "stars_total": 78851,
       "stars_period": 1129,
-      "forks": 10597,
+      "forks": 10607,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,103 +57,86 @@
       "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     },
     {
-      "rank": 5,
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 53529,
-      "stars_period": 1691,
-      "forks": 8727,
+      "rank": 4,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_total": 7340,
+      "stars_period": 610,
+      "forks": 686,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114647511?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18409951?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/484069?s=40&v=4"
       ],
-      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+      "description_zh": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
+    },
+    {
+      "rank": 5,
+      "name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars_total": 46386,
+      "stars_period": 30,
+      "forks": 2273,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1094804?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52275815?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1328733?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4058327?s=40&v=4"
+      ],
+      "description_zh": "Node.js 和 TypeScript 的下一代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB"
     },
     {
       "rank": 6,
-      "name": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "stars_total": 8684,
-      "stars_period": 664,
-      "forks": 729,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 50496,
+      "stars_period": 659,
+      "forks": 4214,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48054568?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25759760?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62997582?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17969723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146319052?s=40&v=4"
       ],
-      "description_zh": "适用于 AI 代理的即时、并发、安全和轻量级沙箱。"
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": 7,
-      "name": "AhmadIbrahiim/Website-downloader",
-      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-      "language": "HTML",
-      "stars_total": 4386,
-      "stars_period": 140,
-      "forks": 1013,
+      "name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars_total": 23362,
+      "stars_period": 20,
+      "forks": 7422,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/17949497?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/89873236?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/350466?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3942683?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12677113?s=40&v=4"
       ],
-      "description_zh": "💡 下载任何网站的完整源代码（包括所有资产）。 [ JavaScript、样式表、图像 ] 使用 Node.js"
+      "description_zh": "Kubernetes 声明式持续部署"
     },
     {
       "rank": 8,
-      "name": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "stars_total": 17193,
-      "stars_period": 376,
-      "forks": 1401,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104957188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/170791?s=40&v=4"
-      ],
-      "description_zh": "显示 OpenAI Codex 和 Claude Code 的使用统计信息，无需登录。"
-    },
-    {
-      "rank": 9,
-      "name": "dotnet/skills",
-      "url": "https://github.com/dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "language": "C#",
-      "stars_total": 4395,
-      "stars_period": 64,
-      "forks": 325,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11340282?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7412651?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3809076?s=40&v=4"
-      ],
-      "description_zh": "使用 .NET 和 C# 协助 AI 编码代理的技能存储库"
-    },
-    {
-      "rank": 10,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 10845,
+      "stars_total": 10985,
       "stars_period": 893,
-      "forks": 727,
+      "forks": 738,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -182,14 +147,104 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
+      "rank": 9,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 53629,
+      "stars_period": 1691,
+      "forks": 8736,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+      ],
+      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+    },
+    {
+      "rank": 10,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 249395,
+      "stars_period": 999,
+      "forks": 22137,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      ],
+      "description_zh": "有效的代理技能框架和软件开发方法。"
+    },
+    {
       "rank": 11,
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_total": 14218,
+      "stars_period": 685,
+      "forks": 872,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45122959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78126249?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+      ],
+      "description_zh": "轻量级、快如闪电的进程内矢量数据库"
+    },
+    {
+      "rank": 12,
+      "name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars_total": 14647,
+      "stars_period": 2031,
+      "forks": 576,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/13944967?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98054504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19785245?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49614906?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/147967711?s=40&v=4"
+      ],
+      "description_zh": "面向 Photoshop 用户的 GIMP 3+ 补丁"
+    },
+    {
+      "rank": 13,
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_total": 6287,
+      "stars_period": 20,
+      "forks": 742,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22543693?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/181032508?s=40&v=4"
+      ],
+      "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
+    },
+    {
+      "rank": 14,
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 5613,
+      "stars_total": 5697,
       "stars_period": 965,
-      "forks": 690,
+      "forks": 691,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -197,41 +252,23 @@
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     },
     {
-      "rank": 12,
-      "name": "kyutai-labs/pocket-tts",
-      "url": "https://github.com/kyutai-labs/pocket-tts",
-      "description": "A TTS that fits in your CPU (and pocket)",
-      "language": "Python",
-      "stars_total": 6470,
-      "stars_period": 531,
-      "forks": 665,
+      "rank": 15,
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_total": 8723,
+      "stars_period": 664,
+      "forks": 729,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/12891691?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8401624?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9921143?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/182080266?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/217690071?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48054568?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25759760?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62997582?s=40&v=4"
       ],
-      "description_zh": "适合您 CPU（和口袋）的 TTS"
-    },
-    {
-      "rank": 13,
-      "name": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-      "language": "Python",
-      "stars_total": 49464,
-      "stars_period": 144,
-      "forks": 4300,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/172150522?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
-      ],
-      "description_zh": "为最出色的特工 Claude Code 精心挑选的最优质资源，Claude Code 是无可争议的编码伙伴冠军，来自 Anthropic PBC 势不可挡的团队。顶级技能、灵巧的代理、闪烁的状态栏、一流的开发人员工具的令人愉快的展示，而且我们还有插件"
+      "description_zh": "适用于 AI 代理的即时、并发、安全和轻量级沙箱。"
     }
   ],
-  "generated_at": 1783506430
+  "generated_at": 1783513628
 }
