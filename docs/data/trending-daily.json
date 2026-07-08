@@ -8,15 +8,15 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_total": 10534,
-      "stars_period": 2402,
-      "forks": 3582,
+      "stars_total": 10766,
+      "stars_period": 2514,
+      "forks": 3638,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17641217?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
       ],
       "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
@@ -26,9 +26,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 20616,
-      "stars_period": 1781,
-      "forks": 2072,
+      "stars_total": 20692,
+      "stars_period": 1777,
+      "forks": 2075,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 72051,
-      "stars_period": 1311,
-      "forks": 7804,
+      "stars_total": 72109,
+      "stars_period": 1317,
+      "forks": 7811,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 78452,
-      "stars_period": 1122,
-      "forks": 10559,
+      "stars_total": 78483,
+      "stars_period": 1129,
+      "forks": 10560,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 52887,
-      "stars_period": 1704,
-      "forks": 8627,
+      "stars_total": 52962,
+      "stars_period": 1691,
+      "forks": 8634,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 8418,
-      "stars_period": 665,
-      "forks": 708,
+      "stars_total": 8443,
+      "stars_period": 664,
+      "forks": 710,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/AhmadIbrahiim/Website-downloader",
       "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
       "language": "HTML",
-      "stars_total": 3932,
-      "stars_period": 173,
-      "forks": 983,
+      "stars_total": 3971,
+      "stars_period": 140,
+      "forks": 984,
       "contributors": [
         "https://avatars.githubusercontent.com/u/17949497?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
-      "stars_total": 17009,
-      "stars_period": 377,
-      "forks": 1386,
+      "stars_total": 17024,
+      "stars_period": 376,
+      "forks": 1387,
       "contributors": [
         "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
         "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
@@ -151,8 +151,8 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_total": 4281,
-      "stars_period": 82,
+      "stars_total": 4299,
+      "stars_period": 64,
       "forks": 324,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 9829,
-      "stars_period": 802,
-      "forks": 671,
+      "stars_total": 9896,
+      "stars_period": 893,
+      "forks": 676,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 5093,
-      "stars_period": 953,
-      "forks": 658,
+      "stars_total": 5139,
+      "stars_period": 965,
+      "forks": 660,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -202,9 +202,9 @@
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "description": "A TTS that fits in your CPU (and pocket)",
       "language": "Python",
-      "stars_total": 6108,
-      "stars_period": 510,
-      "forks": 638,
+      "stars_total": 6143,
+      "stars_period": 531,
+      "forks": 642,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12891691?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8401624?s=40&v=4",
@@ -220,9 +220,9 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "language": "Python",
-      "stars_total": 49063,
-      "stars_period": 227,
-      "forks": 4275,
+      "stars_total": 49107,
+      "stars_period": 144,
+      "forks": 4278,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/172150522?s=40&v=4",
@@ -233,5 +233,5 @@
       "description_zh": "为最出色的特工 Claude Code 精心挑选的最优质资源，Claude Code 是无可争议的编码伙伴冠军，来自 Anthropic PBC 势不可挡的团队。顶级技能、灵巧的代理、闪烁的状态栏、一流的开发人员工具的令人愉快的展示，而且我们还有插件"
     }
   ],
-  "generated_at": 1783462640
+  "generated_at": 1783469132
 }
