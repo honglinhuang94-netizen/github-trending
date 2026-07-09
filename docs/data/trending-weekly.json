@@ -8,9 +8,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 21721,
+      "stars_total": 21859,
       "stars_period": 8366,
-      "forks": 2171,
+      "forks": 2184,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 39160,
+      "stars_total": 39275,
       "stars_period": 10274,
-      "forks": 3977,
+      "forks": 3996,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_total": 15780,
+      "stars_total": 16394,
       "stars_period": 9677,
-      "forks": 4799,
+      "forks": 4932,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -54,7 +54,7 @@
         "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
         "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
       ],
-      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写您的个​​人资料，然后让克劳德评估工作，定制简历，写求职信，并为您的面试做好准备。"
+      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
     {
       "rank": 4,
@@ -62,9 +62,9 @@
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 7226,
+      "stars_total": 7294,
       "stars_period": 4943,
-      "forks": 481,
+      "forks": 485,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
         "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 26964,
+      "stars_total": 27018,
       "stars_period": 4890,
-      "forks": 1624,
+      "forks": 1627,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 25262,
+      "stars_total": 25323,
       "stars_period": 4295,
-      "forks": 2171,
+      "forks": 2181,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 14447,
+      "stars_total": 14546,
       "stars_period": 4754,
-      "forks": 826,
+      "forks": 831,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 13862,
+      "stars_total": 13973,
       "stars_period": 4424,
-      "forks": 2014,
+      "forks": 2029,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 54365,
+      "stars_total": 54559,
       "stars_period": 6182,
-      "forks": 8850,
+      "forks": 8878,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 9015,
+      "stars_total": 9118,
       "stars_period": 2106,
-      "forks": 742,
+      "forks": 752,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_total": 5727,
+      "stars_total": 5749,
       "stars_period": 736,
-      "forks": 689,
+      "forks": 692,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
@@ -206,7 +206,7 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_total": 4434,
+      "stars_total": 4446,
       "stars_period": 840,
       "forks": 328,
       "contributors": [
@@ -224,9 +224,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 6157,
+      "stars_total": 6295,
       "stars_period": 2903,
-      "forks": 732,
+      "forks": 739,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -239,9 +239,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 11088,
+      "stars_total": 11140,
       "stars_period": 3028,
-      "forks": 1256,
+      "forks": 1265,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 106956,
+      "stars_total": 106988,
       "stars_period": 2099,
-      "forks": 6131,
+      "forks": 6133,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
@@ -267,7 +267,7 @@
         "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
         "https://avatars.githubusercontent.com/u/101130780?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "高性能自托管照片和视频管理解决方案。"
     },
     {
       "rank": 16,
@@ -275,9 +275,9 @@
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
       "language": "Swift",
-      "stars_total": 6914,
+      "stars_total": 6933,
       "stars_period": 1563,
-      "forks": 431,
+      "forks": 432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
         "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_total": 86898,
+      "stars_total": 86992,
       "stars_period": 8080,
-      "forks": 4864,
+      "forks": 4866,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -311,9 +311,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 129402,
+      "stars_total": 129532,
       "stars_period": 7364,
-      "forks": 21031,
+      "forks": 21051,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -329,9 +329,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 12092,
+      "stars_total": 12181,
       "stars_period": 3960,
-      "forks": 1585,
+      "forks": 1600,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
@@ -347,9 +347,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 14352,
+      "stars_total": 14516,
       "stars_period": 3953,
-      "forks": 968,
+      "forks": 979,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -365,7 +365,7 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_total": 46405,
+      "stars_total": 46435,
       "stars_period": 1547,
       "forks": 3027,
       "contributors": [
@@ -383,9 +383,9 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_total": 21735,
+      "stars_total": 21766,
       "stars_period": 2068,
-      "forks": 2910,
+      "forks": 2913,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -401,9 +401,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 16103,
+      "stars_total": 16138,
       "stars_period": 3054,
-      "forks": 1861,
+      "forks": 1867,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -414,5 +414,5 @@
       "description_zh": "使用编码代理编辑视频"
     }
   ],
-  "generated_at": 1783569687
+  "generated_at": 1783586044
 }

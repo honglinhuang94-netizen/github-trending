@@ -8,9 +8,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_total": 15778,
+      "stars_total": 16394,
       "stars_period": 5079,
-      "forks": 4799,
+      "forks": 4932,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
         "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
       ],
-      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写您的个​​人资料，然后让克劳德评估工作，定制简历，写求职信，并为您的面试做好准备。"
+      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
     {
       "rank": 2,
@@ -26,13 +26,13 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 74470,
+      "stars_total": 75065,
       "stars_period": 1297,
-      "forks": 8027,
+      "forks": 8086,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
       ],
@@ -44,9 +44,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 79232,
+      "stars_total": 79413,
       "stars_period": 799,
-      "forks": 10658,
+      "forks": 10678,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars_total": 7759,
+      "stars_total": 7877,
       "stars_period": 318,
-      "forks": 715,
+      "forks": 727,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars_total": 46620,
+      "stars_total": 46685,
       "stars_period": 46,
-      "forks": 2285,
+      "forks": 2288,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1094804?s=40&v=4",
         "https://avatars.githubusercontent.com/u/52275815?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 50868,
+      "stars_total": 51019,
       "stars_period": 352,
-      "forks": 4247,
+      "forks": 4255,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
-      "stars_total": 23458,
+      "stars_total": 23492,
       "stars_period": 29,
-      "forks": 7427,
+      "forks": 7430,
       "contributors": [
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
         "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 12185,
+      "stars_total": 12617,
       "stars_period": 1717,
-      "forks": 824,
+      "forks": 849,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 54365,
+      "stars_total": 54559,
       "stars_period": 1218,
-      "forks": 8850,
+      "forks": 8878,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 250022,
+      "stars_total": 250282,
       "stars_period": 1116,
-      "forks": 22179,
+      "forks": 22206,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 14475,
+      "stars_total": 14564,
       "stars_period": 395,
-      "forks": 894,
+      "forks": 899,
       "contributors": [
         "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
         "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "CSS",
-      "stars_total": 15104,
+      "stars_total": 15211,
       "stars_period": 1125,
-      "forks": 598,
+      "forks": 605,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13944967?s=40&v=4",
         "https://avatars.githubusercontent.com/u/98054504?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 6409,
+      "stars_total": 6438,
       "stars_period": 28,
-      "forks": 750,
+      "forks": 752,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/huxingyi/autoremesher",
       "description": "Automatic quad remeshing tool",
       "language": "C++",
-      "stars_total": 2060,
+      "stars_total": 2134,
       "stars_period": 296,
-      "forks": 153,
+      "forks": 159,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3941597?s=40&v=4",
         "https://avatars.githubusercontent.com/u/31348553?s=40&v=4"
@@ -257,9 +257,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 6157,
+      "stars_total": 6295,
       "stars_period": 951,
-      "forks": 732,
+      "forks": 739,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -272,9 +272,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 9015,
+      "stars_total": 9117,
       "stars_period": 564,
-      "forks": 742,
+      "forks": 752,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
@@ -285,5 +285,5 @@
       "description_zh": "适用于 AI 代理的即时、并发、安全和轻量级沙箱。"
     }
   ],
-  "generated_at": 1783569682
+  "generated_at": 1783586040
 }
