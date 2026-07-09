@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 28835,
+      "stars_total": 28928,
       "stars_period": 25432,
-      "forks": 2139,
+      "forks": 2145,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,31 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_total": 47209,
-      "stars_period": 20483,
-      "forks": 1429,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
-      ],
-      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
-    },
-    {
-      "rank": 3,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 35885,
+      "stars_total": 35964,
       "stars_period": 31078,
-      "forks": 4166,
+      "forks": 4172,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
@@ -57,14 +39,32 @@
       "description_zh": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
+      "rank": 3,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 53631,
+      "stars_period": 29819,
+      "forks": 4292,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+      ],
+      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+    },
+    {
       "rank": 4,
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_total": 12542,
+      "stars_total": 12567,
       "stars_period": 11135,
-      "forks": 1032,
+      "forks": 1033,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
@@ -76,31 +76,13 @@
     },
     {
       "rank": 5,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 53503,
-      "stars_period": 29819,
-      "forks": 4285,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
-      ],
-      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
-    },
-    {
-      "rank": 6,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 54559,
+      "stars_total": 54715,
       "stars_period": 12446,
-      "forks": 8878,
+      "forks": 8908,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,14 +93,50 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
+      "rank": 6,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_total": 17099,
+      "stars_period": 10540,
+      "forks": 5068,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
+      ],
+      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
+    },
+    {
       "rank": 7,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_total": 47236,
+      "stars_period": 20483,
+      "forks": 1430,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
+      ],
+      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+    },
+    {
+      "rank": 8,
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 131450,
+      "stars_total": 131515,
       "stars_period": 14144,
-      "forks": 7319,
+      "forks": 7322,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -129,12 +147,30 @@
       "description_zh": "来自世界各地的公开 IPTV 频道集合"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_total": 14598,
+      "stars_period": 9114,
+      "forks": 833,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/300245827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2755722?s=40&v=4"
+      ],
+      "description_zh": "位于您终端中的代理多路复用器。"
+    },
+    {
+      "rank": 10,
       "name": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 18175,
+      "stars_total": 18183,
       "stars_period": 7042,
       "forks": 1078,
       "contributors": [
@@ -147,50 +183,14 @@
       "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
     },
     {
-      "rank": 9,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_total": 16394,
-      "stars_period": 10540,
-      "forks": 4932,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
-      ],
-      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
-    },
-    {
-      "rank": 10,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_total": 14546,
-      "stars_period": 9114,
-      "forks": 831,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/300245827?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/150401101?s=40&v=4"
-      ],
-      "description_zh": "位于您终端中的代理多路复用器。"
-    },
-    {
       "rank": 11,
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 39275,
+      "stars_total": 39341,
       "stars_period": 13169,
-      "forks": 3996,
+      "forks": 4004,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 14564,
+      "stars_total": 14604,
       "stars_period": 4505,
-      "forks": 899,
+      "forks": 902,
       "contributors": [
         "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
         "https://avatars.githubusercontent.com/u/237691413?s=40&v=4",
@@ -220,31 +220,13 @@
     },
     {
       "rank": 13,
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "stars_total": 5245,
-      "stars_period": 4145,
-      "forks": 964,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114843073?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/144328549?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/100041941?s=40&v=4"
-      ],
-      "description_zh": "人工智能代理对简历进行评估和评分。"
-    },
-    {
-      "rank": 14,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 14516,
+      "stars_total": 14717,
       "stars_period": 9594,
-      "forks": 979,
+      "forks": 993,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -255,14 +237,14 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_total": 21859,
+      "stars_total": 21965,
       "stars_period": 8898,
-      "forks": 2184,
+      "forks": 2190,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -273,29 +255,32 @@
       "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。"
     },
     {
-      "rank": 16,
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "stars_total": 23113,
-      "stars_period": 10758,
-      "forks": 2320,
+      "rank": 15,
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars_total": 5257,
+      "stars_period": 4145,
+      "forks": 965,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114843073?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/144328549?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/100041941?s=40&v=4"
       ],
-      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+      "description_zh": "人工智能代理对简历进行评估和评分。"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 25323,
+      "stars_total": 25373,
       "stars_period": 6860,
-      "forks": 2181,
+      "forks": 2184,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -306,12 +291,12 @@
       "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11257,
+      "stars_total": 11265,
       "stars_period": 2584,
       "forks": 522,
       "contributors": [
@@ -324,14 +309,14 @@
       "description_zh": "IP 地址中断，请改为拨号键。一个将 QUIC + NAT 遍历添加到您的应用程序中的库。"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 13973,
+      "stars_total": 14063,
       "stars_period": 7718,
-      "forks": 2029,
+      "forks": 2044,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -342,50 +327,29 @@
       "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
+      "rank": 19,
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "stars_total": 23134,
+      "stars_period": 10758,
+      "forks": 2322,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
+    },
+    {
       "rank": 20,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 56037,
-      "stars_period": 14822,
-      "forks": 48287,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 21,
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
-      "language": "Rust",
-      "stars_total": 9371,
-      "stars_period": 5013,
-      "forks": 803,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28704977?s=40&v=4"
-      ],
-      "description_zh": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
-    },
-    {
-      "rank": 22,
       "name": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_total": 9650,
+      "stars_total": 9671,
       "stars_period": 4067,
-      "forks": 799,
+      "forks": 800,
       "contributors": [
         "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
@@ -396,14 +360,32 @@
       "description_zh": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 56104,
+      "stars_period": 14822,
+      "forks": 48324,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32920883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 22,
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 27016,
+      "stars_total": 27064,
       "stars_period": 10241,
-      "forks": 3817,
+      "forks": 3826,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -412,7 +394,25 @@
         "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
       ],
       "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
+    },
+    {
+      "rank": 23,
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+      "language": "Rust",
+      "stars_total": 9395,
+      "stars_period": 5013,
+      "forks": 806,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28704977?s=40&v=4"
+      ],
+      "description_zh": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
     }
   ],
-  "generated_at": 1783586046
+  "generated_at": 1783599141
 }
