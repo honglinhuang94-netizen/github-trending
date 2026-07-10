@@ -8,9 +8,9 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 7077,
+      "stars_total": 7145,
       "stars_period": 349,
-      "forks": 905,
+      "forks": 909,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars_total": 94087,
+      "stars_total": 94125,
       "stars_period": 307,
-      "forks": 4930,
+      "forks": 4931,
       "contributors": [
         "https://avatars.githubusercontent.com/u/709451?s=40&v=4",
         "https://avatars.githubusercontent.com/u/117481402?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_total": 17493,
+      "stars_total": 17497,
       "stars_period": 106,
       "forks": 3190,
       "contributors": [
@@ -61,9 +61,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 76651,
+      "stars_total": 76703,
       "stars_period": 1114,
-      "forks": 8229,
+      "forks": 8237,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "description": "A YAML parser and emitter in C++",
       "language": "C++",
-      "stars_total": 6063,
+      "stars_total": 6069,
       "stars_period": 65,
-      "forks": 2252,
+      "forks": 2253,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1059334?s=40&v=4",
         "https://avatars.githubusercontent.com/u/456045?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 164365,
-      "stars_period": 1728,
-      "forks": 14143,
+      "stars_total": 164436,
+      "stars_period": 1663,
+      "forks": 14147,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 251642,
-      "stars_period": 1096,
-      "forks": 22451,
+      "stars_total": 251683,
+      "stars_period": 969,
+      "forks": 22456,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -131,7 +131,7 @@
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars_total": 109725,
+      "stars_total": 109737,
       "stars_period": 166,
       "forks": 13628,
       "contributors": [
@@ -149,9 +149,9 @@
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
-      "stars_total": 20586,
+      "stars_total": 20593,
       "stars_period": 69,
-      "forks": 3405,
+      "forks": 3406,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9026413?s=40&v=4",
         "https://avatars.githubusercontent.com/u/92878?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
       "language": "C++",
-      "stars_total": 6050,
+      "stars_total": 6056,
       "stars_period": 87,
-      "forks": 1496,
+      "forks": 1497,
       "contributors": [
         "https://avatars.githubusercontent.com/u/462538?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8020376?s=40&v=4",
@@ -185,7 +185,7 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars_total": 8152,
+      "stars_total": 8165,
       "stars_period": 134,
       "forks": 749,
       "contributors": [
@@ -203,9 +203,9 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 28713,
+      "stars_total": 28726,
       "stars_period": 104,
-      "forks": 3150,
+      "forks": 3155,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -221,7 +221,7 @@
       "url": "https://github.com/zeux/meshoptimizer",
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
-      "stars_total": 7992,
+      "stars_total": 8000,
       "stars_period": 86,
       "forks": 779,
       "contributors": [
@@ -239,9 +239,9 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
-      "stars_total": 33546,
+      "stars_total": 33570,
       "stars_period": 183,
-      "forks": 2906,
+      "forks": 2907,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 6640,
+      "stars_total": 6663,
       "stars_period": 101,
-      "forks": 919,
+      "forks": 922,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 14281,
+      "stars_total": 14314,
       "stars_period": 1210,
-      "forks": 965,
+      "forks": 968,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
-      "stars_total": 49105,
+      "stars_total": 49118,
       "stars_period": 168,
-      "forks": 10662,
+      "forks": 10665,
       "contributors": [
         "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -311,7 +311,7 @@
       "url": "https://github.com/grpc/grpc",
       "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
       "language": "C++",
-      "stars_total": 45103,
+      "stars_total": 45109,
       "stars_period": 68,
       "forks": 11318,
       "contributors": [
@@ -329,9 +329,9 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 140614,
+      "stars_total": 140636,
       "stars_period": 176,
-      "forks": 31517,
+      "forks": 31518,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
@@ -342,5 +342,5 @@
       "description_zh": "反应框架"
     }
   ],
-  "generated_at": 1783705982
+  "generated_at": 1783712636
 }
