@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 29621,
+      "stars_total": 29643,
       "stars_period": 26040,
-      "forks": 2354,
+      "forks": 2356,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 36632,
+      "stars_total": 36652,
       "stars_period": 31648,
-      "forks": 4412,
+      "forks": 4414,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 54412,
+      "stars_total": 54428,
       "stars_period": 28801,
-      "forks": 4487,
+      "forks": 4489,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 55753,
+      "stars_total": 55781,
       "stars_period": 13616,
-      "forks": 9192,
+      "forks": 9195,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_total": 12747,
+      "stars_total": 12759,
       "stars_period": 10971,
       "forks": 1047,
       "contributors": [
@@ -98,9 +98,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 5807,
+      "stars_total": 5811,
       "stars_period": 4513,
-      "forks": 503,
+      "forks": 504,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 40051,
+      "stars_total": 40076,
       "stars_period": 13697,
-      "forks": 4197,
+      "forks": 4201,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 15161,
+      "stars_total": 15177,
       "stars_period": 9607,
-      "forks": 1001,
+      "forks": 1003,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 132042,
+      "stars_total": 132063,
       "stars_period": 14536,
-      "forks": 7512,
+      "forks": 7515,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 18360,
+      "stars_total": 18362,
       "stars_period": 7111,
       "forks": 1223,
       "contributors": [
@@ -188,9 +188,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. The #1 Ai Meeting Minutes generator.",
       "language": "Rust",
-      "stars_total": 22593,
+      "stars_total": 22620,
       "stars_period": 9534,
-      "forks": 2374,
+      "forks": 2379,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 15870,
+      "stars_total": 15889,
       "stars_period": 10439,
-      "forks": 1238,
+      "forks": 1240,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -224,7 +224,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 47448,
+      "stars_total": 47456,
       "stars_period": 20582,
       "forks": 1585,
       "contributors": [
@@ -242,7 +242,7 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 5460,
+      "stars_total": 5468,
       "stars_period": 4239,
       "forks": 1113,
       "contributors": [
@@ -260,9 +260,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 25784,
+      "stars_total": 25796,
       "stars_period": 7146,
-      "forks": 2368,
+      "forks": 2372,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -278,9 +278,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 14939,
+      "stars_total": 14976,
       "stars_period": 8325,
-      "forks": 2287,
+      "forks": 2292,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -296,7 +296,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11415,
+      "stars_total": 11419,
       "stars_period": 2617,
       "forks": 668,
       "contributors": [
@@ -314,7 +314,7 @@
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_total": 9982,
+      "stars_total": 9986,
       "stars_period": 4177,
       "forks": 944,
       "contributors": [
@@ -332,9 +332,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 7122,
+      "stars_total": 7141,
       "stars_period": 4609,
-      "forks": 796,
+      "forks": 798,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -347,9 +347,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 27477,
+      "stars_total": 27486,
       "stars_period": 10636,
-      "forks": 4005,
+      "forks": 4006,
       "contributors": [
         "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -360,5 +360,5 @@
       "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
     }
   ],
-  "generated_at": 1783712640
+  "generated_at": 1783718018
 }
