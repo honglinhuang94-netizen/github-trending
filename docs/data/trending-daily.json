@@ -1,84 +1,16 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 19,
   "items": [
     {
       "rank": 1,
-      "name": "SmartlyDressedGames/U3-SDK",
-      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "language": "C#",
-      "stars_total": 2214,
-      "stars_period": 524,
-      "forks": 279,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12567645?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7608445?s=40&v=4"
-      ],
-      "description_zh": "Unturned 的源代码，一款免费的开放世界僵尸生存沙盒游戏。"
-    },
-    {
-      "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 76297,
-      "stars_period": 2554,
-      "forks": 8195,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
-      ],
-      "description_zh": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 3,
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": null,
-      "stars_total": 100274,
-      "stars_period": 1391,
-      "forks": 11606,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1110414?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24356000?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33016192?s=40&v=4"
-      ],
-      "description_zh": "流行品牌设计系统的 DESIGN.md 文件分析集合。将一个项目放入您的项目中，让编码代理生成匹配的 UI。"
-    },
-    {
-      "rank": 4,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 13904,
-      "stars_period": 1929,
-      "forks": 942,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 5,
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 6709,
+      "stars_total": 6784,
       "stars_period": 185,
-      "forks": 880,
+      "forks": 882,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -89,162 +21,326 @@
       "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     },
     {
-      "rank": 6,
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_total": 47343,
-      "stars_period": 194,
-      "forks": 5566,
+      "rank": 2,
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_total": 93885,
+      "stars_period": 82,
+      "forks": 4916,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1045990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43142465?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/709451?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117481402?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35280289?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/243519?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5464072?s=40&v=4"
       ],
-      "description_zh": "一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。"
+      "description_zh": "令人难以置信的快速 JavaScript 运行时、捆绑器、测试运行器和包管理器 – 全部合而为一"
+    },
+    {
+      "rank": 3,
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_total": 17469,
+      "stars_period": 3,
+      "forks": 3188,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69321728?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1177862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7139495?s=40&v=4"
+      ],
+      "description_zh": "Abseil 通用库 (C++)"
+    },
+    {
+      "rank": 4,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 76455,
+      "stars_period": 2554,
+      "forks": 8208,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103351705?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 5,
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars_total": 6044,
+      "stars_period": 65,
+      "forks": 2246,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1059334?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/456045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50514813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/391371?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2918873?s=40&v=4"
+      ],
+      "description_zh": "C++ 中的 YAML 解析器和发射器"
+    },
+    {
+      "rank": 6,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_total": 163940,
+      "stars_period": 1728,
+      "forks": 14109,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
       "rank": 7,
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_total": 19660,
-      "stars_period": 535,
-      "forks": 2641,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 251437,
+      "stars_period": 1096,
+      "forks": 22438,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4257336?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52062353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
       ],
-      "description_zh": "完全自主的人工智能代理系统能够执行复杂的渗透测试任务"
+      "description_zh": "有效的代理技能框架和软件开发方法。"
     },
     {
       "rank": 8,
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_total": 72044,
-      "stars_period": 215,
-      "forks": 7387,
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars_total": 109719,
+      "stars_period": 166,
+      "forks": 13625,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17140097?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15815124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4226954?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8052792?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/972891?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/293473?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8000722?s=40&v=4"
       ],
-      "description_zh": "🚀🤖 Crawl4AI：开源 LLM 友好的网络爬虫和爬虫。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN"
+      "description_zh": "TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 输出。"
     },
     {
       "rank": 9,
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "language": null,
-      "stars_total": 29265,
-      "stars_period": 243,
-      "forks": 1944,
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_total": 20568,
+      "stars_period": 69,
+      "forks": 3403,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/83817?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31832259?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23139695?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50468493?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1094368?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9026413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/92878?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39244355?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4840096?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5606370?s=40&v=4"
       ],
-      "description_zh": "不断发展的保护 Linux 服务器的操作指南。"
+      "description_zh": "用于单元测试、TDD 和 BDD 的现代 C++ 原生测试框架 - 使用 C++14、C++17 及更高版本（C++11 支持位于 v2.x 分支，C++03 支持 Catch1.x 分支）"
     },
     {
       "rank": 10,
-      "name": "huxingyi/autoremesher",
-      "url": "https://github.com/huxingyi/autoremesher",
-      "description": "Automatic quad remeshing tool",
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
       "language": "C++",
-      "stars_total": 2455,
-      "stars_period": 403,
-      "forks": 180,
+      "stars_total": 6031,
+      "stars_period": 87,
+      "forks": 1495,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3941597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31348553?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/462538?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8020376?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42386382?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/865914?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2772730?s=40&v=4"
       ],
-      "description_zh": "自动四边形重新网格化工具"
+      "description_zh": "Asio C++ 库"
     },
     {
       "rank": 11,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_total": 6907,
-      "stars_period": 718,
-      "forks": 782,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_total": 8074,
+      "stars_period": 581,
+      "forks": 743,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114647511?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18409951?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/484069?s=40&v=4"
       ],
-      "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+      "description_zh": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
       "rank": 12,
-      "name": "prisma/prisma",
-      "url": "https://github.com/prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "language": "TypeScript",
-      "stars_total": 47046,
-      "stars_period": 376,
-      "forks": 2454,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 28642,
+      "stars_period": 104,
+      "forks": 3144,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1094804?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52275815?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1328733?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4058327?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1082092?s=40&v=4"
       ],
-      "description_zh": "Node.js 和 TypeScript 的下一代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB"
+      "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
     },
     {
       "rank": 13,
-      "name": "kyutai-labs/pocket-tts",
-      "url": "https://github.com/kyutai-labs/pocket-tts",
-      "description": "A TTS that fits in your CPU (and pocket)",
-      "language": "Python",
-      "stars_total": 7125,
-      "stars_period": 235,
-      "forks": 711,
+      "name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars_total": 7968,
+      "stars_period": 86,
+      "forks": 777,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/12891691?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8401624?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9921143?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/182080266?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/217690071?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1106629?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/344828?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2510143?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7506147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1749069?s=40&v=4"
       ],
-      "description_zh": "适合您 CPU（和口袋）的 TTS"
+      "description_zh": "网格优化库，使网格更小、渲染速度更快"
     },
     {
       "rank": 14,
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 55492,
-      "stars_period": 1125,
-      "forks": 9162,
+      "name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars_total": 33454,
+      "stars_period": 66,
+      "forks": 2900,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46632417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87837428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117039037?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67496?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/348?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1079173?s=40&v=4"
       ],
-      "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+      "description_zh": "使用 WireGuard 和 2FA 的最简单、最安全的方法。"
+    },
+    {
+      "rank": 15,
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars_total": 6566,
+      "stars_period": 101,
+      "forks": 913,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4770?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1460397?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7145760?s=40&v=4"
+      ],
+      "description_zh": "旨在与 Stitch MCP 服务器配合使用的代理技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码代理兼容。"
+    },
+    {
+      "rank": 16,
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_total": 14066,
+      "stars_period": 1929,
+      "forks": 953,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
+      ],
+      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+    },
+    {
+      "rank": 17,
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars_total": 49046,
+      "stars_period": 168,
+      "forks": 10658,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227823?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61721?s=40&v=4"
+      ],
+      "description_zh": "Terraform 使您能够安全且可预测地创建、更改和改进基础设施。它是一个源可用的工具，可将 API 编码为声明性配置文件，这些文件可以在团队成员之间共享、视为代码、进行编辑、审查和版本控制。"
+    },
+    {
+      "rank": 18,
+      "name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars_total": 45067,
+      "stars_period": 68,
+      "forks": 11314,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10120821?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9939684?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18664614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8864912?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4181124?s=40&v=4"
+      ],
+      "description_zh": "基于 C++ 的 gRPC（C++、Python、Ruby、Objective-C、PHP、C#）"
+    },
+    {
+      "rank": 19,
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars_total": 140577,
+      "stars_period": 176,
+      "forks": 31513,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
+      ],
+      "description_zh": "反应框架"
     }
   ],
-  "generated_at": 1783672386
+  "generated_at": 1783685086
 }
