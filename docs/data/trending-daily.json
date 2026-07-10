@@ -1,34 +1,16 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_total": 19539,
-      "stars_period": 3716,
-      "forks": 5598,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30170370?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/156921875?s=40&v=4"
-      ],
-      "description_zh": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
-    },
-    {
-      "rank": 2,
       "name": "SmartlyDressedGames/U3-SDK",
       "url": "https://github.com/SmartlyDressedGames/U3-SDK",
       "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
       "language": "C#",
-      "stars_total": 2123,
+      "stars_total": 2214,
       "stars_period": 524,
-      "forks": 269,
+      "forks": 279,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12567645?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7608445?s=40&v=4"
@@ -36,14 +18,14 @@
       "description_zh": "Unturned 的源代码，一款免费的开放世界僵尸生存沙盒游戏。"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 76093,
+      "stars_total": 76297,
       "stars_period": 2554,
-      "forks": 8180,
+      "forks": 8195,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -54,31 +36,31 @@
       "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": null,
-      "stars_total": 99988,
+      "stars_total": 100274,
       "stars_period": 1391,
-      "forks": 11590,
+      "forks": 11606,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1110414?s=40&v=4",
         "https://avatars.githubusercontent.com/u/24356000?s=40&v=4",
         "https://avatars.githubusercontent.com/u/33016192?s=40&v=4"
       ],
-      "description_zh": "流行品牌设计系统的 DESIGN.md 文件分析集合。将一个放入您的项目中，让编码代理生成匹配的 UI。"
+      "description_zh": "流行品牌设计系统的 DESIGN.md 文件分析集合。将一个项目放入您的项目中，让编码代理生成匹配的 UI。"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 13693,
+      "stars_total": 13904,
       "stars_period": 1929,
-      "forks": 930,
+      "forks": 942,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -89,14 +71,14 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 6607,
+      "stars_total": 6709,
       "stars_period": 185,
-      "forks": 782,
+      "forks": 880,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -107,14 +89,14 @@
       "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_total": 47249,
+      "stars_total": 47343,
       "stars_period": 194,
-      "forks": 5559,
+      "forks": 5566,
       "contributors": [
         "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -125,14 +107,14 @@
       "description_zh": "一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_total": 19542,
+      "stars_total": 19660,
       "stars_period": 535,
-      "forks": 2631,
+      "forks": 2641,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4257336?s=40&v=4",
@@ -143,14 +125,14 @@
       "description_zh": "完全自主的人工智能代理系统能够执行复杂的渗透测试任务"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars_total": 71944,
+      "stars_total": 72044,
       "stars_period": 215,
-      "forks": 7383,
+      "forks": 7387,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17140097?s=40&v=4",
@@ -161,14 +143,14 @@
       "description_zh": "🚀🤖 Crawl4AI：开源 LLM 友好的网络爬虫和爬虫。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "imthenachoman/How-To-Secure-A-Linux-Server",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "description": "An evolving how-to guide for securing a Linux server.",
       "language": null,
-      "stars_total": 29172,
+      "stars_total": 29265,
       "stars_period": 243,
-      "forks": 1942,
+      "forks": 1944,
       "contributors": [
         "https://avatars.githubusercontent.com/u/83817?s=40&v=4",
         "https://avatars.githubusercontent.com/u/31832259?s=40&v=4",
@@ -179,14 +161,14 @@
       "description_zh": "不断发展的保护 Linux 服务器的操作指南。"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "huxingyi/autoremesher",
       "url": "https://github.com/huxingyi/autoremesher",
       "description": "Automatic quad remeshing tool",
       "language": "C++",
-      "stars_total": 2411,
+      "stars_total": 2455,
       "stars_period": 403,
-      "forks": 175,
+      "forks": 180,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3941597?s=40&v=4",
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -195,14 +177,14 @@
       "description_zh": "自动四边形重新网格化工具"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 6813,
+      "stars_total": 6907,
       "stars_period": 718,
-      "forks": 776,
+      "forks": 782,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -210,14 +192,14 @@
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars_total": 46948,
+      "stars_total": 47046,
       "stars_period": 376,
-      "forks": 2332,
+      "forks": 2454,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1094804?s=40&v=4",
         "https://avatars.githubusercontent.com/u/52275815?s=40&v=4",
@@ -228,14 +210,14 @@
       "description_zh": "Node.js 和 TypeScript 的下一代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "kyutai-labs/pocket-tts",
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "description": "A TTS that fits in your CPU (and pocket)",
       "language": "Python",
-      "stars_total": 7057,
+      "stars_total": 7125,
       "stars_period": 235,
-      "forks": 707,
+      "forks": 711,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12891691?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8401624?s=40&v=4",
@@ -246,14 +228,14 @@
       "description_zh": "适合您 CPU（和口袋）的 TTS"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 55286,
+      "stars_total": 55492,
       "stars_period": 1125,
-      "forks": 9037,
+      "forks": 9162,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -264,5 +246,5 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     }
   ],
-  "generated_at": 1783659576
+  "generated_at": 1783672386
 }
