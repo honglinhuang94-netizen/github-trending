@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 30067,
+      "stars_total": 30092,
       "stars_period": 26480,
-      "forks": 2398,
+      "forks": 2401,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 37068,
+      "stars_total": 37086,
       "stars_period": 32095,
-      "forks": 4467,
+      "forks": 4468,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 54878,
+      "stars_total": 54891,
       "stars_period": 28774,
       "forks": 4522,
       "contributors": [
@@ -62,9 +62,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 56159,
+      "stars_total": 56181,
       "stars_period": 14343,
-      "forks": 9272,
+      "forks": 9275,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 5902,
+      "stars_total": 5910,
       "stars_period": 4599,
-      "forks": 517,
+      "forks": 518,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 40488,
+      "stars_total": 40518,
       "stars_period": 14196,
-      "forks": 4257,
+      "forks": 4261,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,7 +116,7 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 15470,
+      "stars_total": 15485,
       "stars_period": 9902,
       "forks": 1035,
       "contributors": [
@@ -134,9 +134,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 16310,
+      "stars_total": 16328,
       "stars_period": 11236,
-      "forks": 1274,
+      "forks": 1276,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 23111,
+      "stars_total": 23134,
       "stars_period": 9968,
-      "forks": 2433,
+      "forks": 2435,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 5553,
+      "stars_total": 5558,
       "stars_period": 4396,
       "forks": 1120,
       "contributors": [
@@ -188,7 +188,7 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 14744,
+      "stars_total": 14751,
       "stars_period": 4995,
       "forks": 917,
       "contributors": [
@@ -206,9 +206,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 132347,
+      "stars_total": 132368,
       "stars_period": 14876,
-      "forks": 7546,
+      "forks": 7548,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
         "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 26018,
+      "stars_total": 26029,
       "stars_period": 7398,
-      "forks": 2392,
+      "forks": 2394,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 15615,
+      "stars_total": 15645,
       "stars_period": 8867,
-      "forks": 2368,
+      "forks": 2372,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -260,7 +260,7 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 18416,
+      "stars_total": 18422,
       "stars_period": 7249,
       "forks": 1231,
       "contributors": [
@@ -278,7 +278,7 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_total": 12876,
+      "stars_total": 12885,
       "stars_period": 10790,
       "forks": 1055,
       "contributors": [
@@ -296,7 +296,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11486,
+      "stars_total": 11494,
       "stars_period": 2748,
       "forks": 673,
       "contributors": [
@@ -314,7 +314,7 @@
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
       "language": "C++",
-      "stars_total": 29157,
+      "stars_total": 29158,
       "stars_period": 303,
       "forks": 5318,
       "contributors": [
@@ -332,7 +332,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_total": 47550,
+      "stars_total": 47562,
       "stars_period": 19234,
       "forks": 1590,
       "contributors": [
@@ -345,5 +345,5 @@
       "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     }
   ],
-  "generated_at": 1783797354
+  "generated_at": 1783803586
 }
