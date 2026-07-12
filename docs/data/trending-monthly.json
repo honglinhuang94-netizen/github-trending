@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 19,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 30315,
+      "stars_total": 30347,
       "stars_period": 26790,
-      "forks": 2431,
+      "forks": 2432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 37274,
+      "stars_total": 37297,
       "stars_period": 32538,
-      "forks": 4497,
+      "forks": 4498,
       "contributors": [
         "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 55084,
+      "stars_total": 55112,
       "stars_period": 28880,
-      "forks": 4536,
+      "forks": 4540,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 56423,
+      "stars_total": 56449,
       "stars_period": 14671,
-      "forks": 9321,
+      "forks": 9326,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 5953,
+      "stars_total": 5962,
       "stars_period": 4652,
-      "forks": 530,
+      "forks": 532,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 40676,
+      "stars_total": 40687,
       "stars_period": 14657,
-      "forks": 4289,
+      "forks": 4291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,7 +116,7 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 15615,
+      "stars_total": 15631,
       "stars_period": 10125,
       "forks": 1048,
       "contributors": [
@@ -134,9 +134,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 16547,
+      "stars_total": 16576,
       "stars_period": 11693,
-      "forks": 1296,
+      "forks": 1300,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 23341,
+      "stars_total": 23361,
       "stars_period": 10434,
-      "forks": 2470,
+      "forks": 2473,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 5601,
+      "stars_total": 5607,
       "stars_period": 4473,
       "forks": 1129,
       "contributors": [
@@ -188,7 +188,7 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_total": 14781,
+      "stars_total": 14782,
       "stars_period": 5021,
       "forks": 918,
       "contributors": [
@@ -202,21 +202,21 @@
     },
     {
       "rank": 12,
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 132500,
-      "stars_period": 15068,
-      "forks": 7558,
+      "stars_total": 15923,
+      "stars_period": 9525,
+      "forks": 2424,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
       ],
-      "description_zh": "来自世界各地的公开 IPTV 频道集合"
+      "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
       "rank": 13,
@@ -224,9 +224,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 26123,
+      "stars_total": 26131,
       "stars_period": 7630,
-      "forks": 2402,
+      "forks": 2404,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -238,29 +238,11 @@
     },
     {
       "rank": 14,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_total": 15894,
-      "stars_period": 9525,
-      "forks": 2417,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
-      ],
-      "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
-    },
-    {
-      "rank": 15,
       "name": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 18466,
+      "stars_total": 18470,
       "stars_period": 7317,
       "forks": 1239,
       "contributors": [
@@ -273,22 +255,40 @@
       "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
     },
     {
-      "rank": 16,
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 12939,
-      "stars_period": 10589,
-      "forks": 1056,
+      "rank": 15,
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_total": 132507,
+      "stars_period": 15068,
+      "forks": 7558,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37665626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13475091?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
       ],
-      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "description_zh": "来自世界各地的公开 IPTV 频道集合"
+    },
+    {
+      "rank": 16,
+      "name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars_total": 29169,
+      "stars_period": 297,
+      "forks": 5322,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6052198?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/609139?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6440374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10281628?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12413639?s=40&v=4"
+      ],
+      "description_zh": "快速 C++ 日志库。"
     },
     {
       "rank": 17,
@@ -296,7 +296,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
       "language": "Rust",
-      "stars_total": 11550,
+      "stars_total": 11553,
       "stars_period": 2815,
       "forks": 678,
       "contributors": [
@@ -310,40 +310,76 @@
     },
     {
       "rank": 18,
-      "name": "gabime/spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
-      "language": "C++",
-      "stars_total": 29168,
-      "stars_period": 297,
-      "forks": 5322,
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_total": 12943,
+      "stars_period": 10589,
+      "forks": 1056,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6052198?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/609139?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6440374?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10281628?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12413639?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37665626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13475091?s=40&v=4"
       ],
-      "description_zh": "快速 C++ 日志库。"
+      "description_zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
       "rank": 19,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_total": 47611,
-      "stars_period": 16789,
-      "forks": 1595,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars_total": 10112,
+      "stars_period": 4517,
+      "forks": 960,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58954869?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/61554723?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66769052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99432678?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "description_zh": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+    },
+    {
+      "rank": 20,
+      "name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars_total": 74513,
+      "stars_period": 840,
+      "forks": 12001,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19151258?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1197433?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4297676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/814772?s=40&v=4"
+      ],
+      "description_zh": "Dear ImGui：C++ 的无膨胀图形用户界面，具有最小的依赖性"
+    },
+    {
+      "rank": 21,
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars_total": 27596,
+      "stars_period": 9870,
+      "forks": 2742,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     }
   ],
-  "generated_at": 1783850294
+  "generated_at": 1783855196
 }
