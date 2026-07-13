@@ -1,16 +1,34 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 11,
   "items": [
     {
       "rank": 1,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 64293,
+      "stars_period": 1077,
+      "forks": 6885,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 2,
       "name": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars_total": 3395,
+      "stars_total": 3604,
       "stars_period": 444,
-      "forks": 125,
+      "forks": 132,
       "contributors": [
         "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -20,32 +38,14 @@
       "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
     },
     {
-      "rank": 2,
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_total": 8089,
-      "stars_period": 210,
-      "forks": 993,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22543693?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/181032508?s=40&v=4"
-      ],
-      "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
-    },
-    {
       "rank": 3,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 20991,
+      "stars_total": 21185,
       "stars_period": 768,
-      "forks": 3661,
+      "forks": 3685,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -57,21 +57,21 @@
     },
     {
       "rank": 4,
-      "name": "PrefectHQ/prefect",
-      "url": "https://github.com/PrefectHQ/prefect",
-      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
-      "language": "Python",
-      "stars_total": 23272,
-      "stars_period": 66,
-      "forks": 2403,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_total": 41666,
+      "stars_period": 57,
+      "forks": 4183,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2586601?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12350579?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6200442?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31014960?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13255838?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25588514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5277268?s=40&v=4"
       ],
-      "description_zh": "Prefect 是一个工作流程编排框架，用于在 Python 中构建弹性数据管道。"
+      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
     },
     {
       "rank": 5,
@@ -79,9 +79,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 118983,
+      "stars_total": 119193,
       "stars_period": 408,
-      "forks": 17684,
+      "forks": 17705,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -93,208 +93,13 @@
     },
     {
       "rank": 6,
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_total": 48633,
-      "stars_period": 459,
-      "forks": 5746,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1045990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43142465?s=40&v=4"
-      ],
-      "description_zh": "一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。"
-    },
-    {
-      "rank": 7,
-      "name": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "stars_total": 89251,
-      "stars_period": 400,
-      "forks": 38093,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6771947?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/195327?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14281572?s=40&v=4"
-      ],
-      "description_zh": "🏡 开源家庭自动化，将本地控制和隐私放在首位。"
-    },
-    {
-      "rank": 8,
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_total": 33949,
-      "stars_period": 125,
-      "forks": 3404,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/52841588?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49691103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175166532?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "N.O.M.A.D 项目是一款独立的离线生存计算机，配备了关键工具、知识和人工智能，可让您随时随地了解情况并获得授权。"
-    },
-    {
-      "rank": 9,
-      "name": "ColeMurray/background-agents",
-      "url": "https://github.com/ColeMurray/background-agents",
-      "description": "An open-source background agents coding system",
-      "language": "TypeScript",
-      "stars_total": 2344,
-      "stars_period": 16,
-      "forks": 346,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2492022?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5929988?s=40&v=4"
-      ],
-      "description_zh": "一个开源的后台代理编码系统"
-    },
-    {
-      "rank": 10,
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "language": "C#",
-      "stars_total": 7082,
-      "stars_period": 609,
-      "forks": 19781,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/96521396?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26019675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62252171?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68651706?s=40&v=4"
-      ],
-      "description_zh": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
-    },
-    {
-      "rank": 11,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 13839,
-      "stars_period": 75,
-      "forks": 2903,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 12,
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars_total": 61527,
-      "stars_period": 115,
-      "forks": 10874,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18319734?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50354903?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/172995042?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "人工智能对冲基金团队"
-    },
-    {
-      "rank": 13,
-      "name": "chen08209/FlClash",
-      "url": "https://github.com/chen08209/FlClash",
-      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-      "language": "Dart",
-      "stars_total": 45369,
-      "stars_period": 154,
-      "forks": 2862,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/41893946?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101031809?s=40&v=4"
-      ],
-      "description_zh": "一款基于ClashMeta的多平台代理客户端，简单易用，开源无广告。"
-    },
-    {
-      "rank": 14,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_total": 29324,
-      "stars_period": 274,
-      "forks": 3210,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1082092?s=40&v=4"
-      ],
-      "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
-    },
-    {
-      "rank": 15,
-      "name": "par274/sharpemu",
-      "url": "https://github.com/par274/sharpemu",
-      "description": "An experimental PlayStation 5 emulator project.",
-      "language": "C#",
-      "stars_total": 1412,
-      "stars_period": 314,
-      "forks": 85,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12572227?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/222535002?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183648742?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/257561424?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180396963?s=40&v=4"
-      ],
-      "description_zh": "实验性 PlayStation 5 模拟器项目。"
-    },
-    {
-      "rank": 16,
-      "name": "malisper/pgrust",
-      "url": "https://github.com/malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "language": "Rust",
-      "stars_total": 2646,
-      "stars_period": 518,
-      "forks": 74,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6210567?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20192857?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/987401?s=40&v=4"
-      ],
-      "description_zh": "Postgres 用 Rust 重写，现已通过 100% 的 Postgres 回归测试"
-    },
-    {
-      "rank": 17,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 4575,
+      "stars_total": 4717,
       "stars_period": 155,
-      "forks": 259,
+      "forks": 264,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -303,7 +108,97 @@
         "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
       ],
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": 7,
+      "name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_total": 50513,
+      "stars_period": 74,
+      "forks": 2038,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66299104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/100943586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1663025?s=40&v=4"
+      ],
+      "description_zh": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
+    },
+    {
+      "rank": 8,
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_total": 83797,
+      "stars_period": 1028,
+      "forks": 8269,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88542309?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16019863?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6143578?s=40&v=4"
+      ],
+      "description_zh": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+    },
+    {
+      "rank": 9,
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_total": 12231,
+      "stars_period": 435,
+      "forks": 1433,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44262177?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/120308299?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157413099?s=40&v=4"
+      ],
+      "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
+    },
+    {
+      "rank": 10,
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_total": 120253,
+      "stars_period": 508,
+      "forks": 10669,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/53200638?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "💫 帮助您开始规范驱动开发的工具包"
+    },
+    {
+      "rank": 11,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_total": 38102,
+      "stars_period": 260,
+      "forks": 6132,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1101879?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5956866?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20099808?s=40&v=4"
+      ],
+      "description_zh": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
     }
   ],
-  "generated_at": 1783930935
+  "generated_at": 1783944848
 }
