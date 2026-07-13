@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 65080,
+      "stars_total": 65482,
       "stars_period": 1077,
-      "forks": 6921,
+      "forks": 6940,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -22,30 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_total": 3723,
-      "stars_period": 1290,
-      "forks": 136,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
-    },
-    {
-      "rank": 3,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 21400,
+      "stars_total": 21517,
       "stars_period": 1148,
-      "forks": 3712,
+      "forks": 3727,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -56,14 +39,14 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_total": 41738,
+      "stars_total": 41784,
       "stars_period": 57,
-      "forks": 4188,
+      "forks": 4191,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
@@ -71,17 +54,17 @@
         "https://avatars.githubusercontent.com/u/25588514?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5277268?s=40&v=4"
       ],
-      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生物将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
+      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 119336,
+      "stars_total": 119416,
       "stars_period": 1006,
-      "forks": 17723,
+      "forks": 17734,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -92,12 +75,12 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 4860,
+      "stars_total": 4941,
       "stars_period": 802,
       "forks": 270,
       "contributors": [
@@ -110,14 +93,14 @@
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars_total": 50627,
+      "stars_total": 50689,
       "stars_period": 74,
-      "forks": 2039,
+      "forks": 2041,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
         "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
@@ -128,14 +111,14 @@
       "description_zh": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_total": 84108,
+      "stars_total": 84312,
       "stars_period": 1028,
-      "forks": 8296,
+      "forks": 8314,
       "contributors": [
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,14 +129,14 @@
       "description_zh": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 12396,
+      "stars_total": 12461,
       "stars_period": 435,
-      "forks": 1459,
+      "forks": 1469,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -164,14 +147,14 @@
       "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
-      "stars_total": 120389,
+      "stars_total": 120453,
       "stars_period": 508,
-      "forks": 10672,
+      "forks": 10681,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53200638?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -182,14 +165,14 @@
       "description_zh": "💫 帮助您开始规范驱动开发的工具包"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_total": 38269,
+      "stars_total": 38355,
       "stars_period": 260,
-      "forks": 6140,
+      "forks": 6147,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,5 +183,5 @@
       "description_zh": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
     }
   ],
-  "generated_at": 1783957570
+  "generated_at": 1783965665
 }
