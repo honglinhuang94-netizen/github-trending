@@ -1,34 +1,16 @@
 {
   "period": "daily",
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "name": "1c7/chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-      "language": "Python",
-      "stars_total": 52981,
-      "stars_period": 1194,
-      "forks": 4661,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1804755?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/268316521?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7336050?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7866354?s=40&v=4"
-      ],
-      "description_zh": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
-    },
-    {
-      "rank": 2,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 120515,
+      "stars_total": 120572,
       "stars_period": 1104,
-      "forks": 17846,
+      "forks": 17852,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -39,14 +21,14 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 169778,
+      "stars_total": 169916,
       "stars_period": 1559,
-      "forks": 14613,
+      "forks": 14622,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -56,14 +38,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars_total": 4216,
+      "stars_total": 4264,
       "stars_period": 481,
-      "forks": 158,
+      "forks": 161,
       "contributors": [
         "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -73,14 +55,14 @@
       "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 68849,
+      "stars_total": 68933,
       "stars_period": 4349,
-      "forks": 7186,
+      "forks": 7192,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -91,14 +73,14 @@
       "description_zh": "开源 CapCut 替代方案"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_total": 61756,
+      "stars_total": 61782,
       "stars_period": 156,
-      "forks": 10903,
+      "forks": 10904,
       "contributors": [
         "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18319734?s=40&v=4",
@@ -109,14 +91,14 @@
       "description_zh": "人工智能对冲基金团队"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 5910,
+      "stars_total": 5965,
       "stars_period": 1010,
-      "forks": 343,
+      "forks": 345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -127,14 +109,14 @@
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 22625,
+      "stars_total": 22685,
       "stars_period": 1265,
-      "forks": 3880,
+      "forks": 3895,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -145,14 +127,14 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars_total": 51396,
+      "stars_total": 51458,
       "stars_period": 779,
-      "forks": 2112,
+      "forks": 2115,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
         "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
@@ -163,14 +145,14 @@
       "description_zh": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 13205,
+      "stars_total": 13270,
       "stars_period": 864,
-      "forks": 1557,
+      "forks": 1567,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -181,14 +163,14 @@
       "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
-      "stars_total": 56012,
+      "stars_total": 56044,
       "stars_period": 264,
-      "forks": 3685,
+      "forks": 3689,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -199,14 +181,14 @@
       "description_zh": "Penpot：为需要可扩展协作的产品团队提供的开源设计平台。"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "AIEraDev/Clypra",
       "url": "https://github.com/AIEraDev/Clypra",
       "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
       "language": "TypeScript",
-      "stars_total": 2519,
+      "stars_total": 2545,
       "stars_period": 66,
-      "forks": 273,
+      "forks": 274,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80651195?s=40&v=4",
         "https://avatars.githubusercontent.com/u/143669042?s=40&v=4",
@@ -216,14 +198,14 @@
       "description_zh": "使用 Tauri、React 和 TypeScript 构建的现代视频编辑器。专注于构建高级 capcut 功能的免费功能"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "par274/sharpemu",
       "url": "https://github.com/par274/sharpemu",
       "description": "An experimental PlayStation 5 emulator project.",
       "language": "C#",
-      "stars_total": 1920,
+      "stars_total": 1981,
       "stars_period": 428,
-      "forks": 122,
+      "forks": 126,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12572227?s=40&v=4",
         "https://avatars.githubusercontent.com/u/183648742?s=40&v=4",
@@ -234,14 +216,14 @@
       "description_zh": "实验性 PlayStation 5 模拟器项目。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "language": "Go",
-      "stars_total": 5802,
+      "stars_total": 5816,
       "stars_period": 179,
-      "forks": 1924,
+      "forks": 1925,
       "contributors": [
         "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
         "https://avatars.githubusercontent.com/u/121499347?s=40&v=4",
@@ -252,14 +234,14 @@
       "description_zh": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_total": 85895,
+      "stars_total": 86015,
       "stars_period": 1858,
-      "forks": 8461,
+      "forks": 8470,
       "contributors": [
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -270,14 +252,14 @@
       "description_zh": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars_total": 5031,
+      "stars_total": 5095,
       "stars_period": 69,
-      "forks": 684,
+      "forks": 690,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68513852?s=40&v=4",
@@ -286,5 +268,5 @@
       "description_zh": "成为一名出色的 AI/ML 研究工程师"
     }
   ],
-  "generated_at": 1784046063
+  "generated_at": 1784052613
 }
