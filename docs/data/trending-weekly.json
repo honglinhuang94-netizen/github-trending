@@ -8,7 +8,7 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 8303,
+      "stars_total": 8309,
       "stars_period": 2009,
       "forks": 1006,
       "contributors": [
@@ -26,7 +26,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 7407,
+      "stars_total": 7411,
       "stars_period": 975,
       "forks": 977,
       "contributors": [
@@ -44,7 +44,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_total": 17991,
+      "stars_total": 17994,
       "stars_period": 637,
       "forks": 3224,
       "contributors": [
@@ -61,9 +61,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "TypeScript",
-      "stars_total": 22844,
+      "stars_total": 22873,
       "stars_period": 13195,
-      "forks": 7120,
+      "forks": 7140,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 17500,
+      "stars_total": 17577,
       "stars_period": 7129,
-      "forks": 1160,
+      "forks": 1163,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 19711,
+      "stars_total": 19735,
       "stars_period": 5724,
-      "forks": 1540,
+      "forks": 1541,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 23478,
+      "stars_total": 23525,
       "stars_period": 4252,
-      "forks": 4010,
+      "forks": 4018,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 7385,
+      "stars_total": 7679,
       "stars_period": 2274,
-      "forks": 391,
+      "forks": 408,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -169,7 +169,7 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars_total": 94752,
+      "stars_total": 94755,
       "stars_period": 1257,
       "forks": 4976,
       "contributors": [
@@ -187,9 +187,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "language": "JavaScript",
-      "stars_total": 4969,
+      "stars_total": 5012,
       "stars_period": 1519,
-      "forks": 431,
+      "forks": 432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -204,7 +204,7 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 28773,
+      "stars_total": 28786,
       "stars_period": 2063,
       "forks": 1893,
       "contributors": [
@@ -222,9 +222,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 17618,
+      "stars_total": 17653,
       "stars_period": 4297,
-      "forks": 2635,
+      "forks": 2637,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -240,7 +240,7 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 16708,
+      "stars_total": 16742,
       "stars_period": 3115,
       "forks": 1132,
       "contributors": [
@@ -258,9 +258,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 10265,
+      "stars_total": 10272,
       "stars_period": 1944,
-      "forks": 995,
+      "forks": 997,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 121671,
+      "stars_total": 121720,
       "stars_period": 3827,
-      "forks": 17964,
+      "forks": 17973,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 46948,
+      "stars_total": 46977,
       "stars_period": 2494,
-      "forks": 2822,
+      "forks": 2824,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -312,9 +312,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 70673,
+      "stars_total": 70936,
       "stars_period": 7247,
-      "forks": 7293,
+      "forks": 7307,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -330,9 +330,9 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 29539,
+      "stars_total": 29543,
       "stars_period": 1027,
-      "forks": 3241,
+      "forks": 3242,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -348,9 +348,9 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_total": 48913,
+      "stars_total": 48920,
       "stars_period": 2305,
-      "forks": 5793,
+      "forks": 5794,
       "contributors": [
         "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -366,9 +366,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 24881,
+      "stars_total": 24907,
       "stars_period": 4389,
-      "forks": 2598,
+      "forks": 2604,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -384,7 +384,7 @@
       "url": "https://github.com/actions/checkout",
       "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_total": 8505,
+      "stars_total": 8506,
       "stars_period": 184,
       "forks": 2722,
       "contributors": [
@@ -397,5 +397,5 @@
       "description_zh": "检查存储库的操作"
     }
   ],
-  "generated_at": 1784130174
+  "generated_at": 1784136296
 }
