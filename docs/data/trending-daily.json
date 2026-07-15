@@ -4,13 +4,31 @@
   "items": [
     {
       "rank": 1,
+      "name": "1c7/chinese-independent-developer",
+      "url": "https://github.com/1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+      "language": "Python",
+      "stars_total": 54665,
+      "stars_period": 1196,
+      "forks": 4774,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1804755?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/268316521?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7336050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7866354?s=40&v=4"
+      ],
+      "description_zh": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+    },
+    {
+      "rank": 2,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 120999,
+      "stars_total": 121170,
       "stars_period": 1106,
-      "forks": 17900,
+      "forks": 17920,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 170583,
+      "stars_total": 170835,
       "stars_period": 1679,
-      "forks": 14675,
+      "forks": 14697,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -38,31 +56,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
-      "rank": 3,
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_total": 4459,
-      "stars_period": 473,
-      "forks": 167,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
-    },
-    {
       "rank": 4,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 69365,
+      "stars_total": 69537,
       "stars_period": 4276,
-      "forks": 7219,
+      "forks": 7228,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -78,9 +79,9 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_total": 61925,
+      "stars_total": 62001,
       "stars_period": 109,
-      "forks": 10917,
+      "forks": 10919,
       "contributors": [
         "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18319734?s=40&v=4",
@@ -96,9 +97,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 6269,
+      "stars_total": 6379,
       "stars_period": 1015,
-      "forks": 356,
+      "forks": 359,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -114,9 +115,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 22978,
+      "stars_total": 23108,
       "stars_period": 1256,
-      "forks": 3943,
+      "forks": 3961,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -132,9 +133,9 @@
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars_total": 51803,
+      "stars_total": 51932,
       "stars_period": 783,
-      "forks": 2138,
+      "forks": 2143,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
         "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
@@ -150,9 +151,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 13660,
+      "stars_total": 13785,
       "stars_period": 851,
-      "forks": 1634,
+      "forks": 1649,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -168,9 +169,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
-      "stars_total": 56212,
+      "stars_total": 56297,
       "stars_period": 395,
-      "forks": 3694,
+      "forks": 3697,
       "contributors": [
         "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
@@ -186,9 +187,9 @@
       "url": "https://github.com/AIEraDev/Clypra",
       "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
       "language": "TypeScript",
-      "stars_total": 2679,
+      "stars_total": 2730,
       "stars_period": 85,
-      "forks": 281,
+      "forks": 282,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80651195?s=40&v=4",
         "https://avatars.githubusercontent.com/u/143669042?s=40&v=4",
@@ -203,9 +204,9 @@
       "url": "https://github.com/par274/sharpemu",
       "description": "An experimental PlayStation 5 emulator project.",
       "language": "C#",
-      "stars_total": 2187,
+      "stars_total": 2246,
       "stars_period": 332,
-      "forks": 138,
+      "forks": 147,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12572227?s=40&v=4",
         "https://avatars.githubusercontent.com/u/183648742?s=40&v=4",
@@ -221,9 +222,9 @@
       "url": "https://github.com/chenyme/grok2api",
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "language": "Go",
-      "stars_total": 5894,
+      "stars_total": 5932,
       "stars_period": 186,
-      "forks": 1930,
+      "forks": 1937,
       "contributors": [
         "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
         "https://avatars.githubusercontent.com/u/121499347?s=40&v=4",
@@ -239,9 +240,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_total": 86557,
+      "stars_total": 86771,
       "stars_period": 1851,
-      "forks": 8515,
+      "forks": 8529,
       "contributors": [
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -257,9 +258,9 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars_total": 5340,
+      "stars_total": 5430,
       "stars_period": 112,
-      "forks": 709,
+      "forks": 716,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68513852?s=40&v=4",
@@ -268,5 +269,5 @@
       "description_zh": "成为一名出色的 AI/ML 研究工程师"
     }
   ],
-  "generated_at": 1784085885
+  "generated_at": 1784096549
 }
