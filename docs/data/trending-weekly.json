@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 8349,
+      "stars_total": 8368,
       "stars_period": 2055,
-      "forks": 1008,
+      "forks": 1010,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 7464,
+      "stars_total": 7486,
       "stars_period": 992,
-      "forks": 977,
+      "forks": 978,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_total": 18006,
+      "stars_total": 18011,
       "stars_period": 648,
-      "forks": 3225,
+      "forks": 3227,
       "contributors": [
         "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
         "https://avatars.githubusercontent.com/u/69321728?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 17872,
+      "stars_total": 17962,
       "stars_period": 6374,
-      "forks": 1181,
+      "forks": 1190,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 20029,
+      "stars_total": 20141,
       "stars_period": 5777,
-      "forks": 1563,
+      "forks": 1569,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -97,7 +97,7 @@
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
       "language": "C++",
-      "stars_total": 6187,
+      "stars_total": 6190,
       "stars_period": 247,
       "forks": 1511,
       "contributors": [
@@ -115,9 +115,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 23793,
+      "stars_total": 23899,
       "stars_period": 4802,
-      "forks": 4050,
+      "forks": 4059,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 8866,
+      "stars_total": 9281,
       "stars_period": 3551,
-      "forks": 453,
+      "forks": 472,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -151,7 +151,7 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars_total": 94795,
+      "stars_total": 94827,
       "stars_period": 1291,
       "forks": 4977,
       "contributors": [
@@ -165,30 +165,13 @@
     },
     {
       "rank": 10,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "language": "JavaScript",
-      "stars_total": 5233,
-      "stars_period": 1840,
-      "forks": 436,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/218489957?s=40&v=4"
-      ],
-      "description_zh": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
-    },
-    {
-      "rank": 11,
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 28845,
+      "stars_total": 28863,
       "stars_period": 1998,
-      "forks": 1897,
+      "forks": 1898,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -199,14 +182,14 @@
       "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 17787,
+      "stars_total": 17839,
       "stars_period": 4149,
-      "forks": 2650,
+      "forks": 2657,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -217,12 +200,12 @@
       "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 16903,
+      "stars_total": 16945,
       "stars_period": 2636,
       "forks": 1142,
       "contributors": [
@@ -235,14 +218,14 @@
       "description_zh": "位于您终端中的代理多路复用器。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_total": 10307,
+      "stars_total": 10326,
       "stars_period": 1545,
-      "forks": 997,
+      "forks": 998,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4277743?s=40&v=4",
@@ -253,14 +236,14 @@
       "description_zh": "适用于 AI 代理的即时、并发、安全和轻量级沙箱。"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 122025,
+      "stars_total": 122145,
       "stars_period": 4902,
-      "forks": 18007,
+      "forks": 18022,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -271,14 +254,14 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 47086,
+      "stars_total": 47124,
       "stars_period": 2428,
-      "forks": 2826,
+      "forks": 2828,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -289,14 +272,14 @@
       "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 72136,
+      "stars_total": 72577,
       "stars_period": 8702,
-      "forks": 7372,
+      "forks": 7398,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -307,14 +290,14 @@
       "description_zh": "开源 CapCut 替代方案"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 29566,
+      "stars_total": 29577,
       "stars_period": 1052,
-      "forks": 3244,
+      "forks": 3243,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -325,14 +308,14 @@
       "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_total": 48972,
+      "stars_total": 48989,
       "stars_period": 2252,
-      "forks": 5802,
+      "forks": 5805,
       "contributors": [
         "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -343,14 +326,14 @@
       "description_zh": "一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 25011,
+      "stars_total": 25044,
       "stars_period": 3499,
-      "forks": 2615,
+      "forks": 2614,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -361,14 +344,14 @@
       "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。了解如何撰写会议纪要"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_total": 8517,
+      "stars_total": 8520,
       "stars_period": 181,
-      "forks": 2722,
+      "forks": 2723,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12102068?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -379,5 +362,5 @@
       "description_zh": "检查存储库的操作"
     }
   ],
-  "generated_at": 1784172213
+  "generated_at": 1784183170
 }
