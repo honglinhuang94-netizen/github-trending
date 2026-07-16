@@ -1,16 +1,34 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "rank": 1,
+      "name": "1c7/chinese-independent-developer",
+      "url": "https://github.com/1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+      "language": "Python",
+      "stars_total": 56594,
+      "stars_period": 688,
+      "forks": 4904,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1804755?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/268316521?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7336050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7866354?s=40&v=4"
+      ],
+      "description_zh": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+    },
+    {
+      "rank": 2,
       "name": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars_total": 733,
-      "stars_period": 34,
-      "forks": 124,
+      "stars_total": 771,
+      "stars_period": 81,
+      "forks": 127,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11509354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5403609?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，为语义数据提供供应商中立的单一事实来源"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 10115,
-      "stars_period": 1277,
-      "forks": 507,
+      "stars_total": 10254,
+      "stars_period": 3181,
+      "forks": 511,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -39,14 +57,14 @@
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 73461,
-      "stars_period": 1664,
-      "forks": 7452,
+      "stars_total": 73592,
+      "stars_period": 3290,
+      "forks": 7459,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -57,14 +75,14 @@
       "description_zh": "开源 CapCut 替代方案"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_total": 35600,
+      "stars_total": 35652,
       "stars_period": 58,
-      "forks": 2979,
+      "forks": 2981,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -75,14 +93,14 @@
       "description_zh": "🦔 PostHog 是一个用于构建成功产品的一体化开发者平台。我们提供产品分析、网络分析、会话重播、错误跟踪、功能标记、实验、调查、数据仓库、CDP 和 AI 产品助手，以帮助调试您的代码、更快地发布功能，并将您的所有使用情况和客户数据保存在一个堆栈中。"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for low-cost models",
       "language": "Rust",
-      "stars_total": 65776,
-      "stars_period": 299,
-      "forks": 5665,
+      "stars_total": 65818,
+      "stars_period": 633,
+      "forks": 5666,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -93,12 +111,12 @@
       "description_zh": "低成本模型的编码代理"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars_total": 1365,
+      "stars_total": 1405,
       "stars_period": 323,
       "forks": 149,
       "contributors": [
@@ -111,14 +129,14 @@
       "description_zh": "盆景演示"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 14698,
-      "stars_period": 949,
-      "forks": 1761,
+      "stars_total": 14764,
+      "stars_period": 697,
+      "forks": 1771,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -129,14 +147,14 @@
       "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 122401,
-      "stars_period": 1236,
-      "forks": 18053,
+      "stars_total": 122499,
+      "stars_period": 935,
+      "forks": 18069,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -147,14 +165,14 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "lobehub/lobehub",
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
       "language": "TypeScript",
-      "stars_total": 79925,
+      "stars_total": 79970,
       "stars_period": 51,
-      "forks": 15598,
+      "forks": 15600,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
@@ -165,14 +183,14 @@
       "description_zh": "🤯 LobeHub 是您的首席代理运营商，通过招聘、调度和报告整个 AI 团队，将您的代理组织为 7×24 小时运营。"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "YimMenu/YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
-      "stars_total": 1478,
-      "stars_period": 38,
-      "forks": 357,
+      "stars_total": 1485,
+      "stars_period": 122,
+      "forks": 358,
       "contributors": [
         "https://avatars.githubusercontent.com/u/96936658?s=40&v=4",
         "https://avatars.githubusercontent.com/u/121949966?s=40&v=4",
@@ -183,14 +201,14 @@
       "description_zh": "GTA 5 的实验菜单：增强"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 26649,
-      "stars_period": 172,
-      "forks": 3598,
+      "stars_total": 26690,
+      "stars_period": 647,
+      "forks": 3603,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -201,14 +219,14 @@
       "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_total": 173452,
-      "stars_period": 2130,
-      "forks": 14877,
+      "stars_total": 173671,
+      "stars_period": 2073,
+      "forks": 14894,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -218,14 +236,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .claude 目录。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_total": 9511,
+      "stars_total": 9544,
       "stars_period": 8,
-      "forks": 1307,
+      "forks": 1309,
       "contributors": [
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
@@ -236,14 +254,14 @@
       "description_zh": "用于将 GitHub Copilot Agent 集成到应用程序和服务中的多平台 SDK"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 3905,
+      "stars_total": 3981,
       "stars_period": 141,
-      "forks": 163,
+      "forks": 166,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
         "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
@@ -254,14 +272,14 @@
       "description_zh": "设计工程师的技能"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_total": 88281,
-      "stars_period": 1623,
-      "forks": 8642,
+      "stars_total": 88467,
+      "stars_period": 1138,
+      "forks": 8657,
       "contributors": [
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -272,14 +290,14 @@
       "description_zh": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 525806,
+      "stars_total": 525921,
       "stars_period": 464,
-      "forks": 49747,
+      "forks": 49761,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -290,14 +308,14 @@
       "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "ossu/computer-science",
       "url": "https://github.com/ossu/computer-science",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
-      "stars_total": 206220,
+      "stars_total": 206283,
       "stars_period": 125,
-      "forks": 25615,
+      "forks": 25620,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4119931?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18407643?s=40&v=4",
@@ -308,5 +326,5 @@
       "description_zh": "🎓 计算机科学免费自学教育之路！"
     }
   ],
-  "generated_at": 1784202399
+  "generated_at": 1784211073
 }
