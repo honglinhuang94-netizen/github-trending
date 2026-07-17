@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 7564,
+      "stars_total": 7578,
       "stars_period": 1090,
       "forks": 891,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 8418,
+      "stars_total": 8423,
       "stars_period": 1991,
-      "forks": 932,
+      "forks": 933,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_total": 17952,
+      "stars_total": 17955,
       "stars_period": 678,
-      "forks": 3140,
+      "forks": 3141,
       "contributors": [
         "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
         "https://avatars.githubusercontent.com/u/69321728?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 11341,
+      "stars_total": 11526,
       "stars_period": 6573,
-      "forks": 562,
+      "forks": 572,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 24424,
+      "stars_total": 24476,
       "stars_period": 5407,
-      "forks": 4045,
+      "forks": 4051,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
@@ -97,7 +97,7 @@
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
       "language": "C++",
-      "stars_total": 6098,
+      "stars_total": 6099,
       "stars_period": 271,
       "forks": 1420,
       "contributors": [
@@ -115,9 +115,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 20770,
+      "stars_total": 20871,
       "stars_period": 5736,
-      "forks": 1502,
+      "forks": 1508,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars_total": 94799,
+      "stars_total": 94769,
       "stars_period": 1343,
-      "forks": 4883,
+      "forks": 4884,
       "contributors": [
         "https://avatars.githubusercontent.com/u/709451?s=40&v=4",
         "https://avatars.githubusercontent.com/u/117481402?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 74324,
+      "stars_total": 74490,
       "stars_period": 11731,
-      "forks": 7507,
+      "forks": 7519,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -165,13 +165,31 @@
     },
     {
       "rank": 10,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "TypeScript",
+      "stars_total": 23343,
+      "stars_period": 3558,
+      "forks": 7424,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6299331?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/93670187?s=40&v=4"
+      ],
+      "description_zh": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
+    },
+    {
+      "rank": 11,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 18575,
+      "stars_total": 18636,
       "stars_period": 5342,
-      "forks": 1236,
+      "forks": 1242,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -182,14 +200,14 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 123195,
+      "stars_total": 123336,
       "stars_period": 5589,
-      "forks": 18160,
+      "forks": 18176,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -200,14 +218,14 @@
       "description_zh": "您可以实际运行 100 多个 AI Agent 和 RAG 应用程序 — 克隆、自定义、发布。"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 28993,
+      "stars_total": 29015,
       "stars_period": 1908,
-      "forks": 1834,
+      "forks": 1837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -218,14 +236,14 @@
       "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 18157,
+      "stars_total": 18194,
       "stars_period": 3920,
-      "forks": 2606,
+      "forks": 2615,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -236,14 +254,14 @@
       "description_zh": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 29624,
+      "stars_total": 29634,
       "stars_period": 1101,
-      "forks": 3151,
+      "forks": 3153,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -254,14 +272,14 @@
       "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 47429,
+      "stars_total": 47468,
       "stars_period": 2360,
-      "forks": 2742,
+      "forks": 2750,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -272,14 +290,14 @@
       "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "kangarooking/cangjie-skill",
       "url": "https://github.com/kangarooking/cangjie-skill",
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "language": "Python",
-      "stars_total": 3377,
+      "stars_total": 3434,
       "stars_period": 1043,
-      "forks": 496,
+      "forks": 498,
       "contributors": [
         "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -290,14 +308,14 @@
       "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 17333,
+      "stars_total": 17398,
       "stars_period": 2502,
-      "forks": 1085,
+      "forks": 1087,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
@@ -308,12 +326,12 @@
       "description_zh": "位于您终端中的代理多路复用器。"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_total": 8471,
+      "stars_total": 8473,
       "stars_period": 211,
       "forks": 2605,
       "contributors": [
@@ -326,14 +344,14 @@
       "description_zh": "检查存储库的操作"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 27061,
+      "stars_total": 27140,
       "stars_period": 1283,
-      "forks": 3626,
+      "forks": 3630,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -344,12 +362,12 @@
       "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "jrouwe/JoltPhysics",
       "url": "https://github.com/jrouwe/JoltPhysics",
       "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
       "language": "C++",
-      "stars_total": 10951,
+      "stars_total": 10958,
       "stars_period": 286,
       "forks": 803,
       "contributors": [
@@ -362,5 +380,5 @@
       "description_zh": "多核友好的刚体物理和碰撞检测库。用 C++ 编写。适用于游戏和VR应用。被《地平线：西部禁区》和《死亡搁浅 2》所使用。"
     }
   ],
-  "generated_at": 1784273014
+  "generated_at": 1784282777
 }
