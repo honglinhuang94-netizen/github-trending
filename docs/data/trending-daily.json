@@ -1,34 +1,49 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "name": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars_total": 527832,
-      "stars_period": 1068,
-      "forks": 49945,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_total": 12432,
+      "stars_period": 827,
+      "forks": 1304,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3149580?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61480354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16154204?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
       ],
-      "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
+      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
     },
     {
       "rank": 2,
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_total": 1168,
+      "stars_period": 48,
+      "forks": 146,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11509354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5403609?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10433441?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65572406?s=40&v=4"
+      ],
+      "description_zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，为语义数据提供供应商中立的单一事实来源"
+    },
+    {
+      "rank": 3,
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 36336,
+      "stars_total": 36358,
       "stars_period": 438,
-      "forks": 3014,
+      "forks": 3016,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -39,122 +54,50 @@
       "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发人员工具——人工智能可观察性、分析、会话重放、标记、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从 Slack、Web、桌面或 MCP 掌控一切。"
     },
     {
-      "rank": 3,
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "language": "TypeScript",
-      "stars_total": 6828,
-      "stars_period": 200,
-      "forks": 822,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68513852?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76952202?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/100251269?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/160158213?s=40&v=4"
-      ],
-      "description_zh": "成为一名出色的 AI/ML 研究工程师"
-    },
-    {
       "rank": 4,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 12474,
-      "stars_period": 1485,
-      "forks": 620,
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_total": 4688,
+      "stars_period": 529,
+      "forks": 199,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7342023?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45073703?s=40&v=4"
       ],
-      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "description_zh": "设计工程师的技能"
     },
     {
       "rank": 5,
-      "name": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_total": 9855,
-      "stars_period": 233,
-      "forks": 1336,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_total": 38864,
+      "stars_period": 232,
+      "forks": 6516,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1101362?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75821?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42953002?s=40&v=4"
       ],
-      "description_zh": "用于将 GitHub Copilot Agent 集成到应用程序和服务中的多平台 SDK"
+      "description_zh": "学习它。建造它。寄给别人。"
     },
     {
       "rank": 6,
-      "name": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 1671,
-      "stars_period": 45,
-      "forks": 492,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/293203?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270788884?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7988094?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10532611?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 7,
-      "name": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "stars_total": 1775,
-      "stars_period": 278,
-      "forks": 170,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/136202469?s=40&v=4"
-      ],
-      "description_zh": "盆景演示"
-    },
-    {
-      "rank": 8,
-      "name": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "stars_total": 71573,
-      "stars_period": 11,
-      "forks": 16194,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/106703886?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1270?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105450428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62662355?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8551050?s=40&v=4"
-      ],
-      "description_zh": "Protocol Buffers - Google 的数据交换格式"
-    },
-    {
-      "rank": 9,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 19919,
+      "stars_total": 19947,
       "stars_period": 74,
-      "forks": 2113,
+      "forks": 2114,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -165,95 +108,90 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 10,
-      "name": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "stars_total": 17968,
-      "stars_period": 91,
-      "forks": 1774,
+      "rank": 7,
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars_total": 9358,
+      "stars_period": 63,
+      "forks": 2242,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5418788?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1176367?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1835561?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3957147?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133052465?s=40&v=4"
       ],
-      "description_zh": "开源 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
+      "description_zh": "自由的人工智能聊天"
+    },
+    {
+      "rank": 8,
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_total": 23136,
+      "stars_period": 242,
+      "forks": 2642,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
+    },
+    {
+      "rank": 9,
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_total": 926,
+      "stars_period": 192,
+      "forks": 70,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/294273268?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬行和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
+    },
+    {
+      "rank": 10,
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_total": 527890,
+      "stars_period": 1068,
+      "forks": 49951,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3149580?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61480354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16154204?s=40&v=4"
+      ],
+      "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
     },
     {
       "rank": 11,
-      "name": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars_total": 66575,
-      "stars_period": 431,
-      "forks": 5717,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4"
-      ],
-      "description_zh": "适用于 Kimi K3 等开放模型的编码代理"
-    },
-    {
-      "rank": 12,
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 13436,
-      "stars_period": 280,
-      "forks": 1182,
+      "stars_total": 9259,
+      "stars_period": 48,
+      "forks": 1151,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/10856497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/893862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8360521?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12988240?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37948597?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
       ],
-      "description_zh": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
-    },
-    {
-      "rank": 13,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "language": "Python",
-      "stars_total": 27548,
-      "stars_period": 531,
-      "forks": 3662,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
-      ],
-      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
-    },
-    {
-      "rank": 14,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 75174,
-      "stars_period": 1074,
-      "forks": 7568,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
-      ],
-      "description_zh": "开源 CapCut 替代方案"
+      "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
     }
   ],
-  "generated_at": 1784370265
+  "generated_at": 1784375880
 }
