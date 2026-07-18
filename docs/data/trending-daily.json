@@ -8,9 +8,9 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 12658,
+      "stars_total": 12741,
       "stars_period": 827,
-      "forks": 1326,
+      "forks": 1332,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
         "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
@@ -23,7 +23,7 @@
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars_total": 1215,
+      "stars_total": 1234,
       "stars_period": 48,
       "forks": 151,
       "contributors": [
@@ -41,7 +41,7 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 36466,
+      "stars_total": 36502,
       "stars_period": 337,
       "forks": 3023,
       "contributors": [
@@ -59,9 +59,9 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 4843,
+      "stars_total": 4888,
       "stars_period": 242,
-      "forks": 203,
+      "forks": 205,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
         "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
@@ -77,9 +77,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 38985,
+      "stars_total": 39017,
       "stars_period": 240,
-      "forks": 6539,
+      "forks": 6544,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -95,9 +95,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 20054,
+      "stars_total": 20089,
       "stars_period": 356,
-      "forks": 2120,
+      "forks": 2123,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
-      "stars_total": 9428,
+      "stars_total": 9453,
       "stars_period": 63,
-      "forks": 2251,
+      "forks": 2252,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/133052465?s=40&v=4"
@@ -128,9 +128,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 23230,
+      "stars_total": 23260,
       "stars_period": 242,
-      "forks": 2650,
+      "forks": 2651,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -146,7 +146,7 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_total": 1086,
+      "stars_total": 1125,
       "stars_period": 192,
       "forks": 80,
       "contributors": [
@@ -162,9 +162,9 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 528063,
+      "stars_total": 528112,
       "stars_period": 1131,
-      "forks": 49973,
+      "forks": 49976,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -180,9 +180,9 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 9360,
+      "stars_total": 9392,
       "stars_period": 48,
-      "forks": 1159,
+      "forks": 1160,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -193,5 +193,5 @@
       "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
     }
   ],
-  "generated_at": 1784394286
+  "generated_at": 1784402078
 }
