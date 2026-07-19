@@ -8,9 +8,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 20606,
+      "stars_total": 20717,
       "stars_period": 551,
-      "forks": 2143,
+      "forks": 2151,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/171774615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/97485362?s=40&v=4"
       ],
-      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
+      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_total": 18185,
+      "stars_total": 18219,
       "stars_period": 328,
-      "forks": 1434,
+      "forks": 1436,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/82826507?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 39404,
+      "stars_total": 39449,
       "stars_period": 507,
-      "forks": 6589,
+      "forks": 6596,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 43045,
+      "stars_total": 43094,
       "stars_period": 629,
-      "forks": 5268,
+      "forks": 5271,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_total": 1575,
+      "stars_total": 1619,
       "stars_period": 605,
-      "forks": 98,
+      "forks": 101,
       "contributors": [
         "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "description": "An unofficial desktop client for Jellyfin",
       "language": "Rust",
-      "stars_total": 1215,
+      "stars_total": 1231,
       "stars_period": 55,
-      "forks": 103,
+      "forks": 104,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6550543?s=40&v=4",
         "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_total": 9895,
+      "stars_total": 9904,
       "stars_period": 111,
-      "forks": 1345,
+      "forks": 1346,
       "contributors": [
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 36790,
+      "stars_total": 36820,
       "stars_period": 424,
-      "forks": 3045,
+      "forks": 3046,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stars_total": 104038,
+      "stars_total": 104057,
       "stars_period": 13,
-      "forks": 9430,
+      "forks": 9432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/189190?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18356694?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_total": 36606,
+      "stars_total": 36625,
       "stars_period": 62,
-      "forks": 2539,
+      "forks": 2540,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_total": 8698,
+      "stars_total": 8715,
       "stars_period": 199,
-      "forks": 1001,
+      "forks": 1004,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_total": 20169,
+      "stars_total": 20175,
       "stars_period": 136,
-      "forks": 1335,
+      "forks": 1338,
       "contributors": [
         "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
@@ -222,9 +222,9 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 9697,
+      "stars_total": 9743,
       "stars_period": 418,
-      "forks": 1173,
+      "forks": 1179,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars_total": 30973,
+      "stars_total": 30983,
       "stars_period": 117,
-      "forks": 2373,
+      "forks": 2374,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50780822?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48512277?s=40&v=4",
@@ -258,9 +258,9 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 528660,
+      "stars_total": 528708,
       "stars_period": 761,
-      "forks": 50018,
+      "forks": 50019,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 23523,
+      "stars_total": 23544,
       "stars_period": 374,
-      "forks": 2672,
+      "forks": 2675,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/Canner/WrenAI",
       "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
       "language": "Python",
-      "stars_total": 16066,
+      "stars_total": 16088,
       "stars_period": 96,
-      "forks": 1832,
+      "forks": 1834,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6974913?s=40&v=4",
         "https://avatars.githubusercontent.com/u/11023068?s=40&v=4",
@@ -312,9 +312,9 @@
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
       "description": "计算机自学指南",
       "language": "HTML",
-      "stars_total": 74069,
+      "stars_total": 74091,
       "stars_period": 128,
-      "forks": 7937,
+      "forks": 7938,
       "contributors": [
         "https://avatars.githubusercontent.com/u/60659728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15178800?s=40&v=4",
@@ -325,5 +325,5 @@
       "description_zh": "计算机自学指南"
     }
   ],
-  "generated_at": 1784468455
+  "generated_at": 1784473431
 }
