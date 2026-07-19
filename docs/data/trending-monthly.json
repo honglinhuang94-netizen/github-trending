@@ -8,7 +8,7 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 40102,
+      "stars_total": 40106,
       "stars_period": 34238,
       "forks": 4751,
       "contributors": [
@@ -26,7 +26,7 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 32945,
+      "stars_total": 32949,
       "stars_period": 26274,
       "forks": 2517,
       "contributors": [
@@ -44,7 +44,7 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 42630,
+      "stars_total": 42633,
       "stars_period": 16680,
       "forks": 4405,
       "contributors": [
@@ -62,7 +62,7 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars_total": 6619,
+      "stars_total": 6623,
       "stars_period": 5133,
       "forks": 494,
       "contributors": [
@@ -98,9 +98,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_total": 22247,
+      "stars_total": 22256,
       "stars_period": 16476,
-      "forks": 1607,
+      "forks": 1608,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 59045,
+      "stars_total": 59049,
       "stars_period": 15830,
-      "forks": 9633,
+      "forks": 9634,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,7 +134,7 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 18337,
+      "stars_total": 18345,
       "stars_period": 11853,
       "forks": 1180,
       "contributors": [
@@ -152,7 +152,7 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 25602,
+      "stars_total": 25607,
       "stars_period": 12829,
       "forks": 2567,
       "contributors": [
@@ -170,9 +170,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars_total": 20145,
+      "stars_total": 20177,
       "stars_period": 12279,
-      "forks": 2795,
+      "forks": 2798,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -188,7 +188,7 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 27150,
+      "stars_total": 27154,
       "stars_period": 8603,
       "forks": 2378,
       "contributors": [
@@ -206,7 +206,7 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_total": 6177,
+      "stars_total": 6179,
       "stars_period": 5026,
       "forks": 1089,
       "contributors": [
@@ -224,9 +224,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 58084,
+      "stars_total": 58092,
       "stars_period": 24089,
-      "forks": 4662,
+      "forks": 4663,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -260,7 +260,7 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_total": 10813,
+      "stars_total": 10817,
       "stars_period": 9727,
       "forks": 811,
       "contributors": [
@@ -278,7 +278,7 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_total": 18767,
+      "stars_total": 18769,
       "stars_period": 7708,
       "forks": 1175,
       "contributors": [
@@ -296,9 +296,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 13298,
+      "stars_total": 13313,
       "stars_period": 9504,
-      "forks": 674,
+      "forks": 675,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -314,7 +314,7 @@
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
       "language": "C++",
-      "stars_total": 29198,
+      "stars_total": 29199,
       "stars_period": 404,
       "forks": 5249,
       "contributors": [
@@ -332,7 +332,7 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 19612,
+      "stars_total": 19621,
       "stars_period": 11955,
       "forks": 1323,
       "contributors": [
@@ -368,7 +368,7 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 75814,
+      "stars_total": 75827,
       "stars_period": 18667,
       "forks": 7623,
       "contributors": [
@@ -386,7 +386,7 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_total": 28793,
+      "stars_total": 28798,
       "stars_period": 11780,
       "forks": 4143,
       "contributors": [
@@ -399,5 +399,5 @@
       "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
     }
   ],
-  "generated_at": 1784494807
+  "generated_at": 1784498658
 }
