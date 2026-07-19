@@ -8,9 +8,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 13272,
+      "stars_total": 13298,
       "stars_period": 8834,
-      "forks": 671,
+      "forks": 674,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 75787,
+      "stars_total": 75814,
       "stars_period": 13319,
-      "forks": 7621,
+      "forks": 7623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 124468,
+      "stars_total": 124492,
       "stars_period": 6146,
-      "forks": 18379,
+      "forks": 18382,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 25237,
+      "stars_total": 25249,
       "stars_period": 5635,
-      "forks": 4167,
+      "forks": 4166,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/193838802?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 27889,
+      "stars_total": 27897,
       "stars_period": 2154,
-      "forks": 3700,
+      "forks": 3701,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 177341,
+      "stars_total": 177384,
       "stars_period": 11131,
-      "forks": 15203,
+      "forks": 15206,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/kangarooking/cangjie-skill",
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "language": "Python",
-      "stars_total": 3812,
+      "stars_total": 3813,
       "stars_period": 1224,
-      "forks": 538,
+      "forks": 539,
       "contributors": [
         "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 19593,
+      "stars_total": 19612,
       "stars_period": 4284,
-      "forks": 1319,
+      "forks": 1323,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -151,7 +151,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 5392,
+      "stars_total": 5403,
       "stars_period": 1098,
       "forks": 232,
       "contributors": [
@@ -169,9 +169,9 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_total": 99645,
+      "stars_total": 99662,
       "stars_period": 2268,
-      "forks": 14916,
+      "forks": 14918,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars_total": 66803,
+      "stars_total": 66814,
       "stars_period": 2344,
-      "forks": 5740,
+      "forks": 5741,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -205,9 +205,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 20987,
+      "stars_total": 21037,
       "stars_period": 644,
-      "forks": 2164,
+      "forks": 2168,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -223,9 +223,9 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 72718,
+      "stars_total": 72738,
       "stars_period": 2782,
-      "forks": 8981,
+      "forks": 8984,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -241,7 +241,7 @@
       "url": "https://github.com/anthropics/cwc-workshops",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 1750,
+      "stars_total": 1755,
       "stars_period": 291,
       "forks": 497,
       "contributors": [
@@ -254,5 +254,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1784488585
+  "generated_at": 1784494805
 }

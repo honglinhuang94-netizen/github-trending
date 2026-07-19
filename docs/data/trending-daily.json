@@ -1,16 +1,34 @@
 {
   "period": "daily",
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "rank": 1,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_total": 5270,
+      "stars_period": 1734,
+      "forks": 497,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13460009?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219638197?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10328974?s=40&v=4"
+      ],
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "rank": 2,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 20987,
+      "stars_total": 21037,
       "stars_period": 551,
-      "forks": 2164,
+      "forks": 2168,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_total": 18287,
+      "stars_total": 18303,
       "stars_period": 328,
-      "forks": 1448,
+      "forks": 1449,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/82826507?s=40&v=4",
@@ -39,14 +57,14 @@
       "description_zh": "用于体验异构 LLM 推理/微调优化的灵活框架"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 39569,
+      "stars_total": 39590,
       "stars_period": 507,
-      "forks": 6611,
+      "forks": 6614,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -57,14 +75,14 @@
       "description_zh": "学习它。建造它。寄给别人。"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 43213,
+      "stars_total": 43252,
       "stars_period": 629,
-      "forks": 5284,
+      "forks": 5286,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,14 +93,14 @@
       "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_total": 1724,
+      "stars_total": 1753,
       "stars_period": 605,
-      "forks": 105,
+      "forks": 108,
       "contributors": [
         "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
@@ -91,12 +109,12 @@
       "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬网和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "andrewrabert/jellium-desktop",
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "description": "An unofficial desktop client for Jellyfin",
       "language": "Rust",
-      "stars_total": 1257,
+      "stars_total": 1263,
       "stars_period": 54,
       "forks": 107,
       "contributors": [
@@ -109,14 +127,14 @@
       "description_zh": "Jellyfin 的非官方桌面客户端"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_total": 9926,
+      "stars_total": 9937,
       "stars_period": 46,
-      "forks": 1348,
+      "forks": 1349,
       "contributors": [
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
@@ -127,14 +145,14 @@
       "description_zh": "用于将 GitHub Copilot Agent 集成到应用程序和服务中的多平台 SDK"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 36879,
+      "stars_total": 36901,
       "stars_period": 424,
-      "forks": 3051,
+      "forks": 3053,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -145,14 +163,14 @@
       "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发人员工具——人工智能可观察性、分析、会话重放、标记、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从 Slack、Web、桌面或 MCP 掌控一切。"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stars_total": 104124,
+      "stars_total": 104140,
       "stars_period": 103,
-      "forks": 9435,
+      "forks": 9436,
       "contributors": [
         "https://avatars.githubusercontent.com/u/189190?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18356694?s=40&v=4",
@@ -163,12 +181,12 @@
       "description_zh": "新的 Windows 终端和原来的 Windows 控制台主机都在同一个地方！"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_total": 36660,
+      "stars_total": 36669,
       "stars_period": 62,
       "forks": 2543,
       "contributors": [
@@ -181,14 +199,14 @@
       "description_zh": "AI Agent Assistant & 开发框架，集成了大量 IM 平台、LLM、插件和 AI 功能，可以成为您的 openclaw 替代方案。 ✨"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_total": 8811,
+      "stars_total": 8836,
       "stars_period": 199,
-      "forks": 1023,
+      "forks": 1024,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -199,14 +217,14 @@
       "description_zh": "编码剂线束"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_total": 20200,
-      "stars_period": 136,
-      "forks": 1339,
+      "stars_total": 20212,
+      "stars_period": 87,
+      "forks": 1341,
       "contributors": [
         "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
@@ -217,14 +235,14 @@
       "description_zh": "通过开源驱动程序、跨操作系统队列以及培训、评估和数据生成基准来扩展计算机使用 2.0。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 9820,
+      "stars_total": 9841,
       "stars_period": 418,
-      "forks": 1190,
+      "forks": 1192,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -235,12 +253,12 @@
       "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars_total": 31009,
+      "stars_total": 31020,
       "stars_period": 117,
       "forks": 2374,
       "contributors": [
@@ -253,14 +271,14 @@
       "description_zh": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 528829,
+      "stars_total": 528859,
       "stars_period": 761,
-      "forks": 50029,
+      "forks": 50032,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -271,14 +289,14 @@
       "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 23584,
+      "stars_total": 23597,
       "stars_period": 374,
-      "forks": 2677,
+      "forks": 2678,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -289,14 +307,14 @@
       "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Canner/WrenAI",
       "url": "https://github.com/Canner/WrenAI",
       "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
       "language": "Python",
-      "stars_total": 16138,
+      "stars_total": 16157,
       "stars_period": 96,
-      "forks": 1835,
+      "forks": 1837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6974913?s=40&v=4",
         "https://avatars.githubusercontent.com/u/11023068?s=40&v=4",
@@ -307,13 +325,13 @@
       "description_zh": "适用于 AI 代理的 GenBI（生成式 BI）是一种开源的、通过开放上下文层进行管理的文本到 SQL 的工具，可将自然语言问题转换为跨 20 多个数据源（例如 BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks 等）的可信仪表板、图表和 SQL。"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "PKUFlyingPig/cs-self-learning",
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
       "description": "计算机自学指南",
       "language": "HTML",
-      "stars_total": 74129,
-      "stars_period": 128,
+      "stars_total": 74137,
+      "stars_period": 164,
       "forks": 7939,
       "contributors": [
         "https://avatars.githubusercontent.com/u/60659728?s=40&v=4",
@@ -325,5 +343,5 @@
       "description_zh": "计算机自学指南"
     }
   ],
-  "generated_at": 1784488583
+  "generated_at": 1784494803
 }
