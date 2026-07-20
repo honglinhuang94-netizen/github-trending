@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 14056,
+      "stars_total": 14094,
       "stars_period": 9193,
-      "forks": 706,
+      "forks": 707,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 76299,
+      "stars_total": 76330,
       "stars_period": 12743,
-      "forks": 7658,
+      "forks": 7662,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_total": 125078,
+      "stars_total": 125107,
       "stars_period": 6211,
-      "forks": 18464,
+      "forks": 18463,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -62,7 +62,7 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 28331,
+      "stars_total": 28342,
       "stars_period": 2375,
       "forks": 3743,
       "contributors": [
@@ -76,13 +76,30 @@
     },
     {
       "rank": 5,
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_total": 5186,
+      "stars_period": 1412,
+      "forks": 194,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+      ],
+      "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
+    },
+    {
+      "rank": 6,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 25634,
+      "stars_total": 25652,
       "stars_period": 5228,
-      "forks": 4215,
+      "forks": 4216,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/193838802?s=40&v=4",
@@ -93,14 +110,14 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 22848,
+      "stars_total": 22924,
       "stars_period": 1103,
-      "forks": 2258,
+      "forks": 2259,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,12 +128,12 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 5621,
+      "stars_total": 5631,
       "stars_period": 1669,
       "forks": 238,
       "contributors": [
@@ -129,14 +146,14 @@
       "description_zh": "设计工程师的技能"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 178742,
+      "stars_total": 178793,
       "stars_period": 10983,
-      "forks": 15287,
+      "forks": 15291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,12 +163,12 @@
       "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "kangarooking/cangjie-skill",
       "url": "https://github.com/kangarooking/cangjie-skill",
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "language": "Python",
-      "stars_total": 4070,
+      "stars_total": 4075,
       "stars_period": 1284,
       "forks": 550,
       "contributors": [
@@ -164,14 +181,14 @@
       "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 20089,
+      "stars_total": 20111,
       "stars_period": 4269,
-      "forks": 1346,
+      "forks": 1345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -182,14 +199,14 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_total": 100017,
+      "stars_total": 100025,
       "stars_period": 2361,
-      "forks": 14965,
+      "forks": 14967,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -200,12 +217,12 @@
       "description_zh": "在您的终端中运行的轻量级编码代理"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 10174,
+      "stars_total": 10189,
       "stars_period": 693,
       "forks": 1216,
       "contributors": [
@@ -218,12 +235,12 @@
       "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars_total": 66929,
+      "stars_total": 66935,
       "stars_period": 2498,
       "forks": 5749,
       "contributors": [
@@ -236,14 +253,14 @@
       "description_zh": "适用于 Kimi K3 等开放模型的编码代理"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "language": "JavaScript",
-      "stars_total": 6157,
+      "stars_total": 6184,
       "stars_period": 2103,
-      "forks": 413,
+      "forks": 414,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -253,14 +270,14 @@
       "description_zh": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 73377,
+      "stars_total": 73407,
       "stars_period": 2854,
-      "forks": 9054,
+      "forks": 9056,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -271,14 +288,14 @@
       "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 529382,
+      "stars_total": 529404,
       "stars_period": 4592,
-      "forks": 50081,
+      "forks": 50082,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -289,12 +306,12 @@
       "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "anthropics/cwc-workshops",
       "url": "https://github.com/anthropics/cwc-workshops",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 1815,
+      "stars_total": 1818,
       "stars_period": 317,
       "forks": 501,
       "contributors": [
@@ -307,5 +324,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1784573923
+  "generated_at": 1784579819
 }
