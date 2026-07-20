@@ -8,9 +8,9 @@
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
-      "stars_total": 5299,
+      "stars_total": 5378,
       "stars_period": 1734,
-      "forks": 497,
+      "forks": 511,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 21068,
-      "stars_period": 551,
-      "forks": 2173,
+      "stars_total": 21141,
+      "stars_period": 663,
+      "forks": 2177,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/u/171774615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/97485362?s=40&v=4"
       ],
-      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
+      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_total": 18314,
-      "stars_period": 328,
-      "forks": 1450,
+      "stars_total": 18349,
+      "stars_period": 360,
+      "forks": 1451,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
         "https://avatars.githubusercontent.com/u/82826507?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 39604,
-      "stars_period": 507,
-      "forks": 6617,
+      "stars_total": 39635,
+      "stars_period": 501,
+      "forks": 6623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 43273,
-      "stars_period": 629,
-      "forks": 5288,
+      "stars_total": 43316,
+      "stars_period": 610,
+      "forks": 5290,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,15 +98,15 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_total": 1764,
-      "stars_period": 605,
-      "forks": 109,
+      "stars_total": 1794,
+      "stars_period": 595,
+      "forks": 111,
       "contributors": [
         "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/294273268?s=40&v=4"
       ],
-      "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬网和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
+      "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬行和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
     },
     {
       "rank": 7,
@@ -114,8 +114,8 @@
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "description": "An unofficial desktop client for Jellyfin",
       "language": "Rust",
-      "stars_total": 1269,
-      "stars_period": 54,
+      "stars_total": 1279,
+      "stars_period": 43,
       "forks": 107,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6550543?s=40&v=4",
@@ -132,8 +132,8 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_total": 9940,
-      "stars_period": 46,
+      "stars_total": 9950,
+      "stars_period": 39,
       "forks": 1349,
       "contributors": [
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
@@ -150,8 +150,8 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 36902,
-      "stars_period": 424,
+      "stars_total": 36921,
+      "stars_period": 411,
       "forks": 3053,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -168,8 +168,8 @@
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stars_total": 104146,
-      "stars_period": 103,
+      "stars_total": 104163,
+      "stars_period": 59,
       "forks": 9436,
       "contributors": [
         "https://avatars.githubusercontent.com/u/189190?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_total": 36674,
-      "stars_period": 62,
-      "forks": 2543,
+      "stars_total": 36688,
+      "stars_period": 83,
+      "forks": 2546,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_total": 8849,
-      "stars_period": 199,
-      "forks": 1025,
+      "stars_total": 8893,
+      "stars_period": 235,
+      "forks": 1030,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -222,8 +222,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_total": 20218,
-      "stars_period": 87,
+      "stars_total": 20231,
+      "stars_period": 64,
       "forks": 1341,
       "contributors": [
         "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 9846,
-      "stars_period": 418,
-      "forks": 1192,
+      "stars_total": 9868,
+      "stars_period": 410,
+      "forks": 1194,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -258,8 +258,8 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars_total": 31027,
-      "stars_period": 117,
+      "stars_total": 31033,
+      "stars_period": 106,
       "forks": 2374,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50780822?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 528874,
-      "stars_period": 761,
-      "forks": 50032,
+      "stars_total": 528906,
+      "stars_period": 754,
+      "forks": 50035,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -294,8 +294,8 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 23601,
-      "stars_period": 374,
+      "stars_total": 23618,
+      "stars_period": 358,
       "forks": 2679,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
@@ -312,8 +312,8 @@
       "url": "https://github.com/Canner/WrenAI",
       "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
       "language": "Python",
-      "stars_total": 16164,
-      "stars_period": 96,
+      "stars_total": 16183,
+      "stars_period": 121,
       "forks": 1838,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6974913?s=40&v=4",
@@ -330,8 +330,8 @@
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
       "description": "计算机自学指南",
       "language": "HTML",
-      "stars_total": 74143,
-      "stars_period": 164,
+      "stars_total": 74150,
+      "stars_period": 134,
       "forks": 7939,
       "contributors": [
         "https://avatars.githubusercontent.com/u/60659728?s=40&v=4",
@@ -343,5 +343,5 @@
       "description_zh": "计算机自学指南"
     }
   ],
-  "generated_at": 1784498653
+  "generated_at": 1784505820
 }
