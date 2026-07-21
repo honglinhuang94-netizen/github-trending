@@ -4,13 +4,31 @@
   "items": [
     {
       "rank": 1,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 63453,
+      "stars_period": 1167,
+      "forks": 9943,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 2,
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
-      "stars_total": 13020,
+      "stars_total": 13372,
       "stars_period": 4434,
-      "forks": 1233,
+      "forks": 1270,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 24126,
-      "stars_period": 1833,
-      "forks": 2322,
+      "stars_total": 24217,
+      "stars_period": 1921,
+      "forks": 2330,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,14 +57,50 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": null,
+      "stars_total": 5995,
+      "stars_period": 1846,
+      "forks": 237,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18503333?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2364511?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8172694?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19671604?s=40&v=4"
+      ],
+      "description_zh": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
+      "rank": 5,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_total": 8795,
+      "stars_period": 297,
+      "forks": 1003,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53879?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/804301?s=40&v=4"
+      ],
+      "description_zh": "CAD、机器人和硬件设计的代理技能集合"
+    },
+    {
+      "rank": 6,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_total": 10004,
-      "stars_period": 568,
-      "forks": 1106,
+      "stars_total": 10060,
+      "stars_period": 835,
+      "forks": 1109,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,261 +111,14 @@
       "description_zh": "最智能的代码代理工具"
     },
     {
-      "rank": 4,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "language": "TypeScript",
-      "stars_total": 22628,
-      "stars_period": 1107,
-      "forks": 3037,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
-      ],
-      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、268 多个提供商（50 多个免费）、500 多个模型 — Claude、GPT、Gemini、Kimi K3、GLM、DeepSeek。适用于 Claude Code、Codex、Cursor、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、多模式、桌面/PWA。由 500 多名贡献者构建。"
-    },
-    {
-      "rank": 5,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 41113,
-      "stars_period": 823,
-      "forks": 6814,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42953002?s=40&v=4"
-      ],
-      "description_zh": "学习它。建造它。寄给别人。"
-    },
-    {
-      "rank": 6,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_total": 135151,
-      "stars_period": 862,
-      "forks": 22017,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6354660?s=40&v=4"
-      ],
-      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
-    },
-    {
       "rank": 7,
-      "name": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars_total": 18821,
-      "stars_period": 458,
-      "forks": 1465,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82826507?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50126533?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80044717?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44601537?s=40&v=4"
-      ],
-      "description_zh": "用于体验异构 LLM 推理/微调优化的灵活框架"
-    },
-    {
-      "rank": 8,
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_total": 44787,
-      "stars_period": 821,
-      "forks": 5442,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
-      ],
-      "description_zh": "开源人工智能语音工作室。克隆、指令、创造。"
-    },
-    {
-      "rank": 9,
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_total": 28944,
-      "stars_period": 234,
-      "forks": 2754,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
-    },
-    {
-      "rank": 10,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars_total": 14532,
-      "stars_period": 565,
-      "forks": 1506,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
-      ],
-      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
-    },
-    {
-      "rank": 11,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_total": 6202,
-      "stars_period": 939,
-      "forks": 683,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/247222255?s=40&v=4"
-      ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
-    },
-    {
-      "rank": 12,
-      "name": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "stars_total": 10401,
-      "stars_period": 410,
-      "forks": 1225,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37948597?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
-      ],
-      "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
-    },
-    {
-      "rank": 13,
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "stars_total": 37290,
-      "stars_period": 317,
-      "forks": 2597,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67079377?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62183434?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106986785?s=40&v=4"
-      ],
-      "description_zh": "AI Agent Assistant & 开发框架，集成了大量 IM 平台、LLM、插件和 AI 功能，可以成为您的 openclaw 替代方案。 ✨"
-    },
-    {
-      "rank": 14,
-      "name": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "language": "Python",
-      "stars_total": 26684,
-      "stars_period": 96,
-      "forks": 2169,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/153965?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6384545?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31014960?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1750662?s=40&v=4"
-      ],
-      "description_zh": "🚀 构建 MCP 服务器和客户端的快速、Python 方式。"
-    },
-    {
-      "rank": 15,
-      "name": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "stars_total": 2808,
-      "stars_period": 689,
-      "forks": 175,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/294273268?s=40&v=4"
-      ],
-      "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬网和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
-    },
-    {
-      "rank": 16,
-      "name": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "stars_total": 1845,
-      "stars_period": 371,
-      "forks": 50,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31693992?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6180?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3411613?s=40&v=4"
-      ],
-      "description_zh": "用于构建 Web 应用程序的包含电池的框架"
-    },
-    {
-      "rank": 17,
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_total": 133946,
-      "stars_period": 240,
-      "forks": 7573,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/117246?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30985701?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5430116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108294295?s=40&v=4"
-      ],
-      "description_zh": "来自世界各地的公开 IPTV 频道集合"
-    },
-    {
-      "rank": 18,
       "name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_total": 5397,
-      "stars_period": 1641,
-      "forks": 376,
+      "stars_total": 5522,
+      "stars_period": 1556,
+      "forks": 387,
       "contributors": [
         "https://avatars.githubusercontent.com/u/162022179?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -322,13 +129,211 @@
       "description_zh": "自托管部署平台"
     },
     {
+      "rank": 8,
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_total": 37315,
+      "stars_period": 416,
+      "forks": 2599,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67079377?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62183434?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106986785?s=40&v=4"
+      ],
+      "description_zh": "AI Agent Assistant & 开发框架，集成了大量 IM 平台、LLM、插件和 AI 功能，可以成为您的 openclaw 替代方案。 ✨"
+    },
+    {
+      "rank": 9,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_total": 6266,
+      "stars_period": 850,
+      "forks": 690,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247222255?s=40&v=4"
+      ],
+      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
+    },
+    {
+      "rank": 10,
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_total": 4623,
+      "stars_period": 28,
+      "forks": 2160,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/196674484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/279546097?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267062393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1820114?s=40&v=4"
+      ],
+      "description_zh": "AI 辅助 TradingView 图表分析 — 将 Claude Code 连接到您的 TradingView 桌面以实现个人工作流程自动化"
+    },
+    {
+      "rank": 11,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_total": 29961,
+      "stars_period": 247,
+      "forks": 1829,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
+    },
+    {
+      "rank": 12,
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars_total": 36847,
+      "stars_period": 24,
+      "forks": 1857,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/43317083?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36706276?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/773455?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123664421?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41110182?s=40&v=4"
+      ],
+      "description_zh": "Hyprland 是一个独立的、高度可定制的、动态平铺 Wayland 合成器，并且不会牺牲其外观。"
+    },
+    {
+      "rank": 13,
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_total": 69552,
+      "stars_period": 1195,
+      "forks": 7813,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2200898?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4405796?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7218387?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5247009?s=40&v=4"
+      ],
+      "description_zh": "用于命令和登月舱的原始阿波罗 11 号制导计算机 (AGC) 源代码。"
+    },
+    {
+      "rank": 14,
+      "name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars_total": 37463,
+      "stars_period": 389,
+      "forks": 1763,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10237910?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66571940?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41265098?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30190859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11248241?s=40&v=4"
+      ],
+      "description_zh": "适用于 Web、桌面和移动设备的全栈应用程序框架。"
+    },
+    {
+      "rank": 15,
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars_total": 12077,
+      "stars_period": 14,
+      "forks": 1730,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/181020547?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7269107?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1834666?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 16,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars_total": 22776,
+      "stars_period": 2040,
+      "forks": 3058,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
+      ],
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、268 多个提供商（50 多个免费）、500 多个模型 — Claude、GPT、Gemini、Kimi K3、GLM、DeepSeek。适用于 Claude Code、Codex、Cursor、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、多模式、桌面/PWA。由 500 多名贡献者构建。"
+    },
+    {
+      "rank": 17,
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_total": 1613,
+      "stars_period": 286,
+      "forks": 270,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12383159?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26293970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38752750?s=40&v=4"
+      ],
+      "description_zh": "pi 编码代理的 Web UI"
+    },
+    {
+      "rank": 18,
+      "name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars_total": 36446,
+      "stars_period": 511,
+      "forks": 1442,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6550035?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13701545?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28928206?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42128690?s=40&v=4"
+      ],
+      "description_zh": "轻松安全地将内容从一台计算机发送到另一台计算机🐊📦"
+    },
+    {
       "rank": 19,
       "name": "microsoft/Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "language": "TypeScript",
-      "stars_total": 1864,
-      "stars_period": 464,
+      "stars_total": 1892,
+      "stars_period": 355,
       "forks": 240,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30834?s=40&v=4",
@@ -341,37 +346,38 @@
     },
     {
       "rank": 20,
-      "name": "handy-computer/transcribe.cpp",
-      "url": "https://github.com/handy-computer/transcribe.cpp",
-      "description": "ggml speech-to-text inference for 16+ model families",
-      "language": "C++",
-      "stars_total": 1423,
-      "stars_period": 395,
-      "forks": 38,
+      "name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars_total": 14641,
+      "stars_period": 49,
+      "forks": 790,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1559480?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3885044?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83579270?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2560255?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/971601?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/422990?s=40&v=4"
       ],
-      "description_zh": "适用于 16 多个模型系列的 ggml 语音到文本推理"
+      "description_zh": "结构化输出"
     },
     {
       "rank": 21,
-      "name": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-      "language": "C++",
-      "stars_total": 10157,
-      "stars_period": 282,
-      "forks": 533,
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_total": 2865,
+      "stars_period": 641,
+      "forks": 178,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/15764776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/301036?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/161459?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15006337?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9143109?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/294273268?s=40&v=4"
       ],
-      "description_zh": "极低延迟的语音转文本、意图识别和文本转语音，用于构建语音代理和界面"
+      "description_zh": "AI 编码代理的首选网络 — 通过 MCP 进行本地优先搜索、获取、爬网和研究。没有 API 密钥，没有云，每次查询 0 美元。公开测试版。"
     }
   ],
-  "generated_at": 1784629859
+  "generated_at": 1784637657
 }
