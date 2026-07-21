@@ -8,9 +8,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 23004,
-      "stars_period": 1876,
-      "forks": 2266,
+      "stars_total": 23100,
+      "stars_period": 1833,
+      "forks": 2273,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/171774615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/97485362?s=40&v=4"
       ],
-      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
+      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_total": 9568,
-      "stars_period": 612,
-      "forks": 1078,
+      "stars_total": 9612,
+      "stars_period": 568,
+      "forks": 1082,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars_total": 21646,
-      "stars_period": 1300,
-      "forks": 2948,
+      "stars_total": 21758,
+      "stars_period": 1107,
+      "forks": 2959,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 40467,
-      "stars_period": 846,
-      "forks": 6716,
+      "stars_total": 40500,
+      "stars_period": 823,
+      "forks": 6722,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 134650,
-      "stars_period": 744,
-      "forks": 21957,
+      "stars_total": 134688,
+      "stars_period": 862,
+      "forks": 21962,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,8 +98,8 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_total": 18718,
-      "stars_period": 448,
+      "stars_total": 18727,
+      "stars_period": 458,
       "forks": 1463,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_total": 44105,
-      "stars_period": 839,
-      "forks": 5362,
+      "stars_total": 44144,
+      "stars_period": 821,
+      "forks": 5364,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,15 +134,15 @@
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars_total": 28748,
-      "stars_period": 249,
-      "forks": 2741,
+      "stars_total": 28775,
+      "stars_period": 234,
+      "forks": 2743,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
         "https://avatars.githubusercontent.com/u/30923996?s=40&v=4",
         "https://avatars.githubusercontent.com/u/52442977?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5081379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "Cognee 是面向代理的开源人工智能记忆平台。通过自托管知识图引擎，为您的人工智能代理提供跨会话的持久长期记忆。"
     },
@@ -152,9 +152,9 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 14163,
-      "stars_period": 554,
-      "forks": 1480,
+      "stars_total": 14208,
+      "stars_period": 565,
+      "forks": 1483,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
         "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
@@ -167,9 +167,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 5777,
-      "stars_period": 983,
-      "forks": 642,
+      "stars_total": 5832,
+      "stars_period": 939,
+      "forks": 645,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 10208,
-      "stars_period": 405,
-      "forks": 1217,
+      "stars_total": 10225,
+      "stars_period": 410,
+      "forks": 1218,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_total": 37052,
-      "stars_period": 330,
-      "forks": 2575,
+      "stars_total": 37073,
+      "stars_period": 317,
+      "forks": 2577,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/PrefectHQ/fastmcp",
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "language": "Python",
-      "stars_total": 26506,
-      "stars_period": 77,
-      "forks": 2162,
+      "stars_total": 26525,
+      "stars_period": 96,
+      "forks": 2164,
       "contributors": [
         "https://avatars.githubusercontent.com/u/153965?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6384545?s=40&v=4",
@@ -239,9 +239,9 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_total": 2472,
-      "stars_period": 695,
-      "forks": 144,
+      "stars_total": 2523,
+      "stars_period": 689,
+      "forks": 147,
       "contributors": [
         "https://avatars.githubusercontent.com/u/70368615?s=40&v=4",
         "https://avatars.githubusercontent.com/u/88633614?s=40&v=4",
@@ -255,8 +255,8 @@
       "url": "https://github.com/tokio-rs/topcoat",
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
-      "stars_total": 1487,
-      "stars_period": 374,
+      "stars_total": 1528,
+      "stars_period": 371,
       "forks": 40,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
@@ -273,8 +273,8 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_total": 133741,
-      "stars_period": 144,
+      "stars_total": 133766,
+      "stars_period": 240,
       "forks": 7559,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7253922?s=40&v=4",
@@ -291,15 +291,15 @@
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_total": 4679,
-      "stars_period": 1719,
-      "forks": 324,
+      "stars_total": 4769,
+      "stars_period": 1641,
+      "forks": 331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/162022179?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/107238304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9407019?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90529833?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/113433463?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9407019?s=40&v=4"
       ],
       "description_zh": "自托管部署平台"
     },
@@ -309,9 +309,9 @@
       "url": "https://github.com/microsoft/Ontology-Playground",
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "language": "TypeScript",
-      "stars_total": 1690,
-      "stars_period": 487,
-      "forks": 229,
+      "stars_total": 1716,
+      "stars_period": 464,
+      "forks": 230,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30834?s=40&v=4",
         "https://avatars.githubusercontent.com/u/92145322?s=40&v=4",
@@ -327,9 +327,9 @@
       "url": "https://github.com/handy-computer/transcribe.cpp",
       "description": "ggml speech-to-text inference for 16+ model families",
       "language": "C++",
-      "stars_total": 1205,
-      "stars_period": 401,
-      "forks": 29,
+      "stars_total": 1236,
+      "stars_period": 395,
+      "forks": 31,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1559480?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -342,9 +342,9 @@
       "url": "https://github.com/moonshine-ai/moonshine",
       "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
       "language": "C++",
-      "stars_total": 9767,
-      "stars_period": 264,
-      "forks": 516,
+      "stars_total": 9813,
+      "stars_period": 282,
+      "forks": 518,
       "contributors": [
         "https://avatars.githubusercontent.com/u/15764776?s=40&v=4",
         "https://avatars.githubusercontent.com/u/301036?s=40&v=4",
@@ -355,5 +355,5 @@
       "description_zh": "极低延迟的语音转文本、意图识别和文本转语音，用于构建语音代理和界面"
     }
   ],
-  "generated_at": 1784585228
+  "generated_at": 1784592210
 }
