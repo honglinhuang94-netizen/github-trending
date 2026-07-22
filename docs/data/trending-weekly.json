@@ -8,9 +8,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 15240,
+      "stars_total": 15309,
       "stars_period": 8948,
-      "forks": 762,
+      "forks": 766,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -22,21 +22,21 @@
     },
     {
       "rank": 2,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 77265,
-      "stars_period": 8341,
-      "forks": 7743,
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_total": 25051,
+      "stars_period": 4791,
+      "forks": 2374,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91069374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/171774615?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/97485362?s=40&v=4"
       ],
-      "description_zh": "开源 CapCut 替代方案"
+      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 28972,
+      "stars_total": 28999,
       "stars_period": 2908,
-      "forks": 3821,
+      "forks": 3822,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -58,49 +58,13 @@
     },
     {
       "rank": 4,
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_total": 24963,
-      "stars_period": 4791,
-      "forks": 2372,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91069374?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/171774615?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/97485362?s=40&v=4"
-      ],
-      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
-    },
-    {
-      "rank": 5,
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars_total": 126025,
-      "stars_period": 5385,
-      "forks": 18588,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
-      ],
-      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
-    },
-    {
-      "rank": 6,
       "name": "MoonshotAI/kimi-code",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars_total": 4469,
+      "stars_total": 4490,
       "stars_period": 1352,
-      "forks": 657,
+      "forks": 660,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25167721?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57169560?s=40&v=4",
@@ -111,12 +75,102 @@
       "description_zh": "Kimi Code CLI — 下一代代理的起点"
     },
     {
+      "rank": 5,
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars_total": 10593,
+      "stars_period": 1769,
+      "forks": 1155,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139717591?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/182092373?s=40&v=4"
+      ],
+      "description_zh": "最智能的代码代理工具"
+    },
+    {
+      "rank": 6,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars_total": 126070,
+      "stars_period": 5385,
+      "forks": 18599,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+      ],
+      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
+    },
+    {
       "rank": 7,
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_total": 5925,
+      "stars_period": 2094,
+      "forks": 252,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342023?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45073703?s=40&v=4"
+      ],
+      "description_zh": "设计工程师的技能"
+    },
+    {
+      "rank": 8,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 77327,
+      "stars_period": 8341,
+      "forks": 7748,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 9,
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_total": 1482,
+      "stars_period": 801,
+      "forks": 172,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11509354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5403609?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10433441?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65572406?s=40&v=4"
+      ],
+      "description_zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，为语义数据提供供应商中立的单一事实来源"
+    },
+    {
+      "rank": 10,
       "name": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 10572,
+      "stars_total": 10581,
       "stars_period": 1294,
       "forks": 1235,
       "contributors": [
@@ -129,121 +183,14 @@
       "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
     },
     {
-      "rank": 8,
-      "name": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "stars_total": 5908,
-      "stars_period": 2094,
-      "forks": 250,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342023?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45073703?s=40&v=4"
-      ],
-      "description_zh": "设计工程师的技能"
-    },
-    {
-      "rank": 9,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most intelligent agent harness for code",
-      "language": "Rust",
-      "stars_total": 10553,
-      "stars_period": 1769,
-      "forks": 1154,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139717591?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/182092373?s=40&v=4"
-      ],
-      "description_zh": "最智能的代码代理工具"
-    },
-    {
-      "rank": 10,
-      "name": "kangarooking/cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "language": "Python",
-      "stars_total": 4354,
-      "stars_period": 1364,
-      "forks": 567,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52196004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25081065?s=40&v=4"
-      ],
-      "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
-    },
-    {
       "rank": 11,
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_total": 26269,
-      "stars_period": 3679,
-      "forks": 4300,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/193838802?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4"
-      ],
-      "description_zh": "“Vibe-Trading：您的个人交易代理”"
-    },
-    {
-      "rank": 12,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 181324,
-      "stars_period": 10651,
-      "forks": 15482,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
-      ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-    },
-    {
-      "rank": 13,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 20845,
-      "stars_period": 4047,
-      "forks": 1401,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 14,
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 75145,
+      "stars_total": 75224,
       "stars_period": 3569,
-      "forks": 9244,
+      "forks": 9252,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -254,49 +201,118 @@
       "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
-      "rank": 15,
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_total": 5309,
-      "stars_period": 1167,
-      "forks": 197,
+      "rank": 12,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 67403,
+      "stars_period": 5517,
+      "forks": 10379,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/35050222?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
       ],
-      "description_zh": "破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 13,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 181484,
+      "stars_period": 10651,
+      "forks": 15496,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+      ],
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+    },
+    {
+      "rank": 14,
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars_total": 6532,
+      "stars_period": 618,
+      "forks": 2066,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64474352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/121499347?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46989741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/177014058?s=40&v=4"
+      ],
+      "description_zh": "适用于 Grok Build、Grok Web 和 Grok Console 的多账户 API 网关"
+    },
+    {
+      "rank": 15,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_total": 14806,
+      "stars_period": 4101,
+      "forks": 1538,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
+      ],
+      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
     },
     {
       "rank": 16,
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars_total": 100573,
-      "stars_period": 2445,
-      "forks": 15056,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_total": 24335,
+      "stars_period": 6245,
+      "forks": 3248,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
       ],
-      "description_zh": "在您的终端中运行的轻量级编码代理"
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、268 多个提供商（50 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
       "rank": 17,
+      "name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars_total": 37157,
+      "stars_period": 998,
+      "forks": 1470,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6550035?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13701545?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28928206?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42128690?s=40&v=4"
+      ],
+      "description_zh": "轻松安全地将内容从一台计算机发送到另一台计算机🐊📦"
+    },
+    {
+      "rank": 18,
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars_total": 67099,
+      "stars_total": 67108,
       "stars_period": 2205,
-      "forks": 5761,
+      "forks": 5762,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -307,41 +323,23 @@
       "description_zh": "适用于 Kimi K3 等开放模型的编码代理"
     },
     {
-      "rank": 18,
-      "name": "HKUDS/nanobot",
-      "url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "language": "Python",
-      "stars_total": 46069,
-      "stars_period": 477,
-      "forks": 8134,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/52506698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61816729?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/552653?s=40&v=4"
-      ],
-      "description_zh": "适用于您的工具、聊天和工作流程的轻量级开源 AI 代理。"
-    },
-    {
       "rank": 19,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "language": "TypeScript",
-      "stars_total": 25480,
-      "stars_period": 5733,
-      "forks": 1834,
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_total": 20888,
+      "stars_period": 4047,
+      "forks": 1402,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
       ],
-      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
+      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     }
   ],
-  "generated_at": 1784712743
+  "generated_at": 1784721259
 }
