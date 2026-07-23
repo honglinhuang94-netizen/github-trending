@@ -8,9 +8,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 25777,
+      "stars_total": 25793,
       "stars_period": 5639,
-      "forks": 2421,
+      "forks": 2422,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 16119,
+      "stars_total": 16164,
       "stars_period": 8471,
-      "forks": 813,
+      "forks": 815,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars_total": 4752,
+      "stars_total": 4763,
       "stars_period": 1400,
-      "forks": 696,
+      "forks": 698,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25167721?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57169560?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 71124,
+      "stars_total": 71272,
       "stars_period": 5812,
-      "forks": 10759,
+      "forks": 10773,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_total": 10948,
+      "stars_total": 10966,
       "stars_period": 2293,
-      "forks": 1199,
+      "forks": 1200,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 29333,
+      "stars_total": 29345,
       "stars_period": 3030,
-      "forks": 3860,
+      "forks": 3864,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -116,7 +116,7 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars_total": 1965,
+      "stars_total": 1970,
       "stars_period": 642,
       "forks": 196,
       "contributors": [
@@ -134,7 +134,7 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 6134,
+      "stars_total": 6145,
       "stars_period": 2206,
       "forks": 267,
       "contributors": [
@@ -150,11 +150,11 @@
       "rank": 9,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 26754,
+      "stars_total": 26881,
       "stars_period": 6989,
-      "forks": 3510,
+      "forks": 3528,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -162,7 +162,7 @@
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
       ],
-      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、278 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、290 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
       "rank": 10,
@@ -170,9 +170,9 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars_total": 10680,
+      "stars_total": 10687,
       "stars_period": 1443,
-      "forks": 1242,
+      "forks": 1243,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars_total": 2303,
+      "stars_total": 2319,
       "stars_period": 799,
-      "forks": 321,
+      "forks": 322,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 76199,
+      "stars_total": 76224,
       "stars_period": 4060,
-      "forks": 9364,
+      "forks": 9366,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 15056,
+      "stars_total": 15077,
       "stars_period": 4250,
-      "forks": 1557,
+      "forks": 1558,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
         "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
@@ -239,9 +239,9 @@
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars_total": 1537,
+      "stars_total": 1540,
       "stars_period": 810,
-      "forks": 179,
+      "forks": 180,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11509354?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5403609?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
-      "stars_total": 126832,
+      "stars_total": 126870,
       "stars_period": 4690,
-      "forks": 18706,
+      "forks": 18711,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 530669,
+      "stars_total": 530735,
       "stars_period": 4951,
-      "forks": 50199,
+      "forks": 50206,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
@@ -293,7 +293,7 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_total": 18941,
+      "stars_total": 18943,
       "stars_period": 1489,
       "forks": 1480,
       "contributors": [
@@ -306,5 +306,5 @@
       "description_zh": "用于体验异构 LLM 推理/微调优化的灵活框架"
     }
   ],
-  "generated_at": 1784828362
+  "generated_at": 1784835437
 }
