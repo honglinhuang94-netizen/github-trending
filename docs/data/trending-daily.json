@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_total": 5288,
+      "stars_total": 5776,
       "stars_period": 3252,
-      "forks": 404,
+      "forks": 441,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 70628,
+      "stars_total": 70921,
       "stars_period": 3196,
-      "forks": 10698,
+      "forks": 10735,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_total": 32849,
+      "stars_total": 32889,
       "stars_period": 398,
-      "forks": 5626,
+      "forks": 5634,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
@@ -58,31 +58,13 @@
     },
     {
       "rank": 4,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 8963,
-      "stars_period": 1329,
-      "forks": 415,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86552437?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2364511?s=40&v=4"
-      ],
-      "description_zh": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
-    },
-    {
-      "rank": 5,
       "name": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars_total": 8694,
+      "stars_total": 8747,
       "stars_period": 563,
-      "forks": 603,
+      "forks": 605,
       "contributors": [
         "https://avatars.githubusercontent.com/u/71594357?s=40&v=4",
         "https://avatars.githubusercontent.com/u/80051564?s=40&v=4",
@@ -93,14 +75,14 @@
       "description_zh": "使每个人都能托管快速高效的 Minecraft 服务器。"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
-      "stars_total": 1275,
+      "stars_total": 1385,
       "stars_period": 219,
-      "forks": 74,
+      "forks": 81,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,14 +93,14 @@
       "description_zh": "最适合您和您的 AI 代理并行工作的浏览器。"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars_total": 70875,
+      "stars_total": 70927,
       "stars_period": 599,
-      "forks": 7905,
+      "forks": 7910,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2200898?s=40&v=4",
@@ -129,14 +111,14 @@
       "description_zh": "用于命令和登月舱的原始阿波罗 11 号制导计算机 (AGC) 源代码。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 26310,
+      "stars_total": 26560,
       "stars_period": 1925,
-      "forks": 3455,
+      "forks": 3480,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -147,14 +129,14 @@
       "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、278 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_total": 69141,
+      "stars_total": 69219,
       "stars_period": 637,
-      "forks": 7827,
+      "forks": 7834,
       "contributors": [
         "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7982102?s=40&v=4",
@@ -165,14 +147,14 @@
       "description_zh": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars_total": 9749,
+      "stars_total": 9807,
       "stars_period": 621,
-      "forks": 1077,
+      "forks": 1083,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -183,14 +165,14 @@
       "description_zh": "CAD、机器人和硬件设计的代理技能集合"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars_total": 2241,
+      "stars_total": 2276,
       "stars_period": 315,
-      "forks": 318,
+      "forks": 320,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
@@ -201,14 +183,14 @@
       "description_zh": "pi 编码代理的 Web UI"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 11110,
-      "stars_period": 162,
-      "forks": 772,
+      "stars_total": 11199,
+      "stars_period": 265,
+      "forks": 779,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
@@ -219,14 +201,14 @@
       "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 84663,
+      "stars_total": 84853,
       "stars_period": 1726,
-      "forks": 11300,
+      "forks": 11331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -237,14 +219,14 @@
       "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Julian-adv/OpenMMO",
       "url": "https://github.com/Julian-adv/OpenMMO",
       "description": "",
       "language": "Rust",
-      "stars_total": 1217,
+      "stars_total": 1257,
       "stars_period": 395,
-      "forks": 162,
+      "forks": 163,
       "contributors": [
         "https://avatars.githubusercontent.com/u/140221601?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -255,14 +237,14 @@
       "description_zh": ""
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "likec4/likec4",
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars_total": 4546,
+      "stars_total": 4572,
       "stars_period": 475,
-      "forks": 309,
+      "forks": 310,
       "contributors": [
         "https://avatars.githubusercontent.com/u/824903?s=40&v=4",
         "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
@@ -273,14 +255,14 @@
       "description_zh": "使用代码中始终真实的实时图表来可视化、协作和发展软件架构"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars_total": 11856,
+      "stars_total": 11976,
       "stars_period": 590,
-      "forks": 439,
+      "forks": 443,
       "contributors": [
         "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
@@ -291,14 +273,14 @@
       "description_zh": "离线、隐私优先的语法检查器。快速、开源、由 Rust 驱动"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "jellyfin/jellyfin",
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System - Server Backend & API",
       "language": "C#",
-      "stars_total": 54606,
+      "stars_total": 54628,
       "stars_period": 66,
-      "forks": 5160,
+      "forks": 5161,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607463?s=40&v=4",
         "https://avatars.githubusercontent.com/u/21289123?s=40&v=4",
@@ -309,5 +291,5 @@
       "description_zh": "自由软件媒体系统 - 服务器后端和 API"
     }
   ],
-  "generated_at": 1784810640
+  "generated_at": 1784819855
 }
