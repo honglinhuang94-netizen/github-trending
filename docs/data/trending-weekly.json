@@ -1,34 +1,16 @@
 {
   "period": "weekly",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "rank": 1,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 15933,
-      "stars_period": 8471,
-      "forks": 803,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
-      ],
-      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": 2,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 25638,
+      "stars_total": 25688,
       "stars_period": 5639,
-      "forks": 2413,
+      "forks": 2415,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,32 +21,32 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 3,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "language": "Python",
-      "stars_total": 29262,
-      "stars_period": 3030,
-      "forks": 3849,
+      "rank": 2,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_total": 15973,
+      "stars_period": 8471,
+      "forks": 804,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
       ],
-      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "MoonshotAI/kimi-code",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars_total": 4686,
+      "stars_total": 4710,
       "stars_period": 1400,
-      "forks": 689,
+      "forks": 692,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25167721?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57169560?s=40&v=4",
@@ -75,14 +57,32 @@
       "description_zh": "Kimi Code CLI — 下一代代理的起点"
     },
     {
+      "rank": 4,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 70628,
+      "stars_period": 5812,
+      "forks": 10698,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
       "rank": 5,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_total": 10871,
+      "stars_total": 10896,
       "stars_period": 2293,
-      "forks": 1188,
+      "forks": 1191,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -94,31 +94,49 @@
     },
     {
       "rank": 6,
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 126647,
-      "stars_period": 4690,
-      "forks": 18683,
+      "stars_total": 29278,
+      "stars_period": 3030,
+      "forks": 3851,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
       ],
-      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
+      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
     },
     {
       "rank": 7,
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars_total": 1957,
+      "stars_period": 642,
+      "forks": 196,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35326118?s=40&v=4"
+      ],
+      "description_zh": "盆景演示"
+    },
+    {
+      "rank": 8,
       "name": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_total": 6087,
+      "stars_total": 6100,
       "stars_period": 2206,
-      "forks": 262,
+      "forks": 264,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
         "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
@@ -129,30 +147,99 @@
       "description_zh": "设计工程师的技能"
     },
     {
-      "rank": 8,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "rank": 9,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 77866,
-      "stars_period": 7394,
-      "forks": 7776,
+      "stars_total": 26310,
+      "stars_period": 6989,
+      "forks": 3455,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
       ],
-      "description_zh": "开源 CapCut 替代方案"
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、278 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars_total": 10665,
+      "stars_period": 1443,
+      "forks": 1241,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37948597?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
+      ],
+      "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
+    },
+    {
+      "rank": 11,
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_total": 2241,
+      "stars_period": 799,
+      "forks": 318,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12383159?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26293970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38752750?s=40&v=4"
+      ],
+      "description_zh": "pi 编码代理的 Web UI"
+    },
+    {
+      "rank": 12,
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_total": 76070,
+      "stars_period": 4060,
+      "forks": 9355,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140309543?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2891702?s=40&v=4"
+      ],
+      "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
+    },
+    {
+      "rank": 13,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_total": 15014,
+      "stars_period": 4250,
+      "forks": 1552,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
+      ],
+      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
+    },
+    {
+      "rank": 14,
       "name": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars_total": 1523,
+      "stars_total": 1526,
       "stars_period": 810,
       "forks": 179,
       "contributors": [
@@ -165,163 +252,59 @@
       "description_zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，为语义数据提供供应商中立的单一事实来源"
     },
     {
-      "rank": 10,
-      "name": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "stars_total": 10662,
-      "stars_period": 1443,
-      "forks": 1240,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5317095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44634134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37948597?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
-      ],
-      "description_zh": "Kimi Code CLI 是您的下一个 CLI 代理。"
-    },
-    {
-      "rank": 11,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "stars_total": 75994,
-      "stars_period": 4060,
-      "forks": 9344,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140309543?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2891702?s=40&v=4"
-      ],
-      "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
-    },
-    {
-      "rank": 12,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_total": 70379,
-      "stars_period": 5812,
-      "forks": 10676,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
-      ],
-      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
-    },
-    {
-      "rank": 13,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 183536,
-      "stars_period": 10282,
-      "forks": 15699,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
-      ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-    },
-    {
-      "rank": 14,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars_total": 14988,
-      "stars_period": 4250,
-      "forks": 1551,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
-      ],
-      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
-    },
-    {
       "rank": 15,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "stars_total": 26144,
-      "stars_period": 6989,
-      "forks": 3433,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars_total": 126700,
+      "stars_period": 4690,
+      "forks": 18689,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55005611?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
       ],
-      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、278 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
+      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
     },
     {
       "rank": 16,
-      "name": "schollz/croc",
-      "url": "https://github.com/schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "stars_total": 38019,
-      "stars_period": 1665,
-      "forks": 1508,
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_total": 530494,
+      "stars_period": 4951,
+      "forks": 50176,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6550035?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13701545?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28928206?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42128690?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3893573?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3149580?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61480354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16154204?s=40&v=4"
       ],
-      "description_zh": "轻松安全地将内容从一台计算机发送到另一台计算机🐊📦"
+      "description_zh": "通过从头开始重新创建您最喜欢的技术来掌握编程。"
     },
     {
       "rank": 17,
-      "name": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars_total": 67190,
-      "stars_period": 2025,
-      "forks": 5769,
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars_total": 18936,
+      "stars_period": 1489,
+      "forks": 1480,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/80757050?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/82826507?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50126533?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80044717?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44601537?s=40&v=4"
       ],
-      "description_zh": "适用于 Kimi K3 等开放模型的编码代理"
-    },
-    {
-      "rank": 18,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 21380,
-      "stars_period": 3579,
-      "forks": 1422,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+      "description_zh": "用于体验异构 LLM 推理/微调优化的灵活框架"
     }
   ],
-  "generated_at": 1784802683
+  "generated_at": 1784810643
 }
