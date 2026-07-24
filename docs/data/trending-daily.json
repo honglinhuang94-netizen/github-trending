@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_total": 8052,
+      "stars_total": 8363,
       "stars_period": 2162,
-      "forks": 624,
+      "forks": 647,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 72463,
+      "stars_total": 72676,
       "stars_period": 3175,
-      "forks": 10877,
+      "forks": 10906,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,21 +40,21 @@
     },
     {
       "rank": 3,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_total": 33272,
-      "stars_period": 401,
-      "forks": 5661,
+      "stars_total": 69760,
+      "stars_period": 636,
+      "forks": 7873,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7982102?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24948667?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167574?s=40&v=4"
       ],
-      "description_zh": "Kronos：金融市场语言的基础模型"
+      "description_zh": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
     },
     {
       "rank": 4,
@@ -62,7 +62,7 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars_total": 9093,
+      "stars_total": 9135,
       "stars_period": 565,
       "forks": 622,
       "contributors": [
@@ -76,13 +76,67 @@
     },
     {
       "rank": 5,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_total": 33322,
+      "stars_period": 401,
+      "forks": 5664,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
+      ],
+      "description_zh": "Kronos：金融市场语言的基础模型"
+    },
+    {
+      "rank": 6,
+      "name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars_total": 12683,
+      "stars_period": 624,
+      "forks": 471,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9543284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65783406?s=40&v=4"
+      ],
+      "description_zh": "离线、隐私优先的语法检查器。快速、开源、由 Rust 驱动"
+    },
+    {
+      "rank": 7,
+      "name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars_total": 4865,
+      "stars_period": 472,
+      "forks": 329,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/824903?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16965571?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
+      ],
+      "description_zh": "使用代码中始终真实的实时图表来可视化、协作和发展软件架构"
+    },
+    {
+      "rank": 8,
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
-      "stars_total": 2031,
+      "stars_total": 2112,
       "stars_period": 247,
-      "forks": 105,
+      "forks": 108,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -93,12 +147,66 @@
       "description_zh": "最适合您和您的 AI 代理并行工作的浏览器。"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_total": 19111,
+      "stars_period": 312,
+      "forks": 587,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/107802416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59679977?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59335048?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110094421?s=40&v=4"
+      ],
+      "description_zh": "非常漂亮和现代的终端文件管理器"
+    },
+    {
+      "rank": 10,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 85581,
+      "stars_period": 1708,
+      "forks": 11413,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
+      ],
+      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+    },
+    {
+      "rank": 11,
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars_total": 4035,
+      "stars_period": 179,
+      "forks": 383,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/49069339?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139657357?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227859002?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+      ],
+      "description_zh": "Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。"
+    },
+    {
+      "rank": 12,
       "name": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars_total": 71242,
+      "stars_total": 71265,
       "stars_period": 592,
       "forks": 7929,
       "contributors": [
@@ -111,14 +219,49 @@
       "description_zh": "用于命令和登月舱的原始阿波罗 11 号制导计算机 (AGC) 源代码。"
     },
     {
-      "rank": 7,
+      "rank": 13,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 185859,
+      "stars_period": 2224,
+      "forks": 15948,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+      ],
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+    },
+    {
+      "rank": 14,
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_total": 44833,
+      "stars_period": 654,
+      "forks": 5375,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/59903352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7037265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33388552?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45898026?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18722770?s=40&v=4"
+      ],
+      "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "rank": 15,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 27880,
+      "stars_total": 28051,
       "stars_period": 1929,
-      "forks": 3661,
+      "forks": 3682,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -129,149 +272,23 @@
       "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、290 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
-      "rank": 8,
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_total": 69692,
-      "stars_period": 636,
-      "forks": 7865,
+      "rank": 16,
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars_total": 26129,
+      "stars_period": 173,
+      "forks": 2874,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7982102?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24948667?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/167574?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/86969353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22975773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7688101?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/137198536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/137188352?s=40&v=4"
       ],
-      "description_zh": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
-    },
-    {
-      "rank": 9,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "language": "JavaScript",
-      "stars_total": 10247,
-      "stars_period": 230,
-      "forks": 1117,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/53879?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/804301?s=40&v=4"
-      ],
-      "description_zh": "CAD、机器人和硬件设计的代理技能集合"
-    },
-    {
-      "rank": 10,
-      "name": "agegr/pi-web",
-      "url": "https://github.com/agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
-      "language": "TypeScript",
-      "stars_total": 2526,
-      "stars_period": 315,
-      "forks": 338,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12383159?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26293970?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38752750?s=40&v=4"
-      ],
-      "description_zh": "pi 编码代理的 Web UI"
-    },
-    {
-      "rank": 11,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 12013,
-      "stars_period": 180,
-      "forks": 818,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36472129?s=40&v=4"
-      ],
-      "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
-    },
-    {
-      "rank": 12,
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_total": 85505,
-      "stars_period": 1708,
-      "forks": 11409,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123288736?s=40&v=4"
-      ],
-      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
-    },
-    {
-      "rank": 13,
-      "name": "likec4/likec4",
-      "url": "https://github.com/likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "stars_total": 4829,
-      "stars_period": 472,
-      "forks": 328,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/824903?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16965571?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
-      ],
-      "description_zh": "使用代码中始终真实的实时图表来可视化、协作和发展软件架构"
-    },
-    {
-      "rank": 14,
-      "name": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "stars_total": 12615,
-      "stars_period": 624,
-      "forks": 470,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9543284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65783406?s=40&v=4"
-      ],
-      "description_zh": "离线、隐私优先的语法检查器。快速、开源、由 Rust 驱动"
-    },
-    {
-      "rank": 15,
-      "name": "jellyfin/jellyfin",
-      "url": "https://github.com/jellyfin/jellyfin",
-      "description": "The Free Software Media System - Server Backend & API",
-      "language": "C#",
-      "stars_total": 54858,
-      "stars_period": 66,
-      "forks": 5171,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3607463?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/21289123?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24963659?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/675118?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4031396?s=40&v=4"
-      ],
-      "description_zh": "自由软件媒体系统 - 服务器后端和 API"
+      "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
     }
   ],
-  "generated_at": 1784885210
+  "generated_at": 1784893659
 }

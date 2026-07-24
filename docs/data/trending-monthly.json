@@ -4,13 +4,31 @@
   "items": [
     {
       "rank": 1,
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_total": 13801,
+      "stars_period": 13031,
+      "forks": 1933,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1250207?s=40&v=4"
+      ],
+      "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
+      "rank": 2,
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "TypeScript",
-      "stars_total": 26117,
+      "stars_total": 26163,
       "stars_period": 22183,
-      "forks": 8519,
+      "forks": 8533,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -21,32 +39,14 @@
       "description_zh": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
     },
     {
-      "rank": 2,
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_total": 43846,
-      "stars_period": 17842,
-      "forks": 4529,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
-      ],
-      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
-    },
-    {
       "rank": 3,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 27880,
+      "stars_total": 28051,
       "stars_period": 19755,
-      "forks": 3661,
+      "forks": 3682,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -58,6 +58,24 @@
     },
     {
       "rank": 4,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_total": 43871,
+      "stars_period": 17842,
+      "forks": 4527,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
+      ],
+      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
+    },
+    {
+      "rank": 5,
       "name": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
@@ -75,14 +93,14 @@
       "description_zh": "用于单元测试、TDD 和 BDD 的现代 C++ 原生测试框架 - 使用 C++14、C++17 及更高版本（C++11 支持位于 v2.x 分支，C++03 支持 Catch1.x 分支）"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 27878,
+      "stars_total": 27967,
       "stars_period": 20972,
-      "forks": 1980,
+      "forks": 1985,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -93,30 +111,12 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
     },
     {
-      "rank": 6,
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "stars_total": 26380,
-      "stars_period": 13587,
-      "forks": 2660,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
-      ],
-      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。了解如何撰写会议纪要"
-    },
-    {
       "rank": 7,
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 20194,
+      "stars_total": 20233,
       "stars_period": 13100,
       "forks": 1324,
       "contributors": [
@@ -130,13 +130,31 @@
     },
     {
       "rank": 8,
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "stars_total": 26394,
+      "stars_period": 13587,
+      "forks": 2661,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
+      ],
+      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。了解如何撰写会议纪要"
+    },
+    {
+      "rank": 9,
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 34735,
+      "stars_total": 34763,
       "stars_period": 22464,
-      "forks": 2686,
+      "forks": 2688,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
@@ -147,32 +165,14 @@
       "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
-      "rank": 9,
-      "name": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "stars_total": 7002,
-      "stars_period": 5370,
-      "forks": 539,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/249051873?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "git推送无错误"
-    },
-    {
       "rank": 10,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 60165,
+      "stars_total": 60200,
       "stars_period": 14994,
-      "forks": 9801,
+      "forks": 9808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -184,29 +184,44 @@
     },
     {
       "rank": 11,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 41789,
-      "stars_period": 27748,
-      "forks": 4977,
+      "stars_total": 15215,
+      "stars_period": 7873,
+      "forks": 1575,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74602715?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
       ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12 条生产管道、100 多种工具、700 多种代理技能和生产知识文件。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
     },
     {
       "rank": 12,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_total": 16527,
+      "stars_period": 12692,
+      "forks": 830,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
+      ],
+      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": 13,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 27659,
+      "stars_total": 27669,
       "stars_period": 8657,
       "forks": 2430,
       "contributors": [
@@ -219,65 +234,14 @@
       "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
-      "rank": 13,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars_total": 15196,
-      "stars_period": 7873,
-      "forks": 1571,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
-      ],
-      "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
-    },
-    {
       "rank": 14,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 16489,
-      "stars_period": 12692,
-      "forks": 829,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
-      ],
-      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": 15,
-      "name": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "stars_total": 18960,
-      "stars_period": 7880,
-      "forks": 1189,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112780386?s=40&v=4"
-      ],
-      "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
-    },
-    {
-      "rank": 16,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 21768,
+      "stars_total": 21802,
       "stars_period": 13655,
-      "forks": 1456,
+      "forks": 1457,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
@@ -288,12 +252,12 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
-      "stars_total": 74996,
+      "stars_total": 75001,
       "stars_period": 1079,
       "forks": 11930,
       "contributors": [
@@ -306,12 +270,84 @@
       "description_zh": "Dear ImGui：C++ 的无膨胀图形用户界面，具有最小的依赖性"
     },
     {
+      "rank": 16,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_total": 41836,
+      "stars_period": 27748,
+      "forks": 4982,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/74602715?s=40&v=4"
+      ],
+      "description_zh": "世界上第一个开源的代理视频制作系统。 12 条生产管道、100 多种工具、700 多种代理技能和生产知识文件。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": 17,
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_total": 18967,
+      "stars_period": 7880,
+      "forks": 1189,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112780386?s=40&v=4"
+      ],
+      "description_zh": "SimpleX - 第一个无需任何类型的用户标识符即可运行的消息传递网络 - 设计为 100% 私密！ iOS、Android 和桌面应用程序📱！"
+    },
+    {
       "rank": 18,
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_total": 7009,
+      "stars_period": 5370,
+      "forks": 539,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/249051873?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "git推送无错误"
+    },
+    {
+      "rank": 19,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 72676,
+      "stars_period": 12432,
+      "forks": 10906,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 20,
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 8794,
+      "stars_total": 8797,
       "stars_period": 2694,
       "forks": 969,
       "contributors": [
@@ -324,14 +360,14 @@
       "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 27103,
+      "stars_total": 27144,
       "stars_period": 13875,
-      "forks": 4404,
+      "forks": 4408,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
@@ -342,58 +378,22 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 20,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 78247,
-      "stars_period": 19270,
-      "forks": 7810,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
-      ],
-      "description_zh": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 21,
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "stars_total": 6519,
-      "stars_period": 4897,
-      "forks": 1129,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/193470987?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80654349?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114843073?s=40&v=4"
-      ],
-      "description_zh": "人工智能代理对简历进行评估和评分。"
-    },
-    {
       "rank": 22,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 60404,
-      "stars_period": 22184,
-      "forks": 4854,
+      "name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars_total": 29244,
+      "stars_period": 439,
+      "forks": 5261,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6052198?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/609139?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6440374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10281628?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12413639?s=40&v=4"
       ],
-      "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "description_zh": "快速 C++ 日志库。"
     },
     {
       "rank": 23,
@@ -401,9 +401,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 9838,
+      "stars_total": 9857,
       "stars_period": 7386,
-      "forks": 1043,
+      "forks": 1046,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -412,22 +412,22 @@
     },
     {
       "rank": 24,
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 29991,
-      "stars_period": 11907,
-      "forks": 4298,
+      "stars_total": 78280,
+      "stars_period": 19270,
+      "forks": 7815,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55550442?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/132305576?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
       ],
-      "description_zh": "使用 AI 编码代理通过一个命令克隆任何网站"
+      "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1784885215
+  "generated_at": 1784893664
 }
