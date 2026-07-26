@@ -8,9 +8,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 30928,
+      "stars_total": 30989,
       "stars_period": 23016,
-      "forks": 4015,
+      "forks": 4027,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 44490,
+      "stars_total": 44517,
       "stars_period": 18324,
-      "forks": 4631,
+      "forks": 4635,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,7 +62,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 29583,
+      "stars_total": 29627,
       "stars_period": 21817,
       "forks": 2112,
       "contributors": [
@@ -80,7 +80,7 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 21020,
+      "stars_total": 21038,
       "stars_period": 13607,
       "forks": 1415,
       "contributors": [
@@ -98,9 +98,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 26807,
+      "stars_total": 26818,
       "stars_period": 13915,
-      "forks": 2709,
+      "forks": 2712,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_total": 14200,
+      "stars_total": 14207,
       "stars_period": 12519,
-      "forks": 2008,
+      "forks": 2010,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6993203?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 18160,
+      "stars_total": 18199,
       "stars_period": 14156,
-      "forks": 920,
+      "forks": 921,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 60672,
+      "stars_total": 60684,
       "stars_period": 14812,
-      "forks": 9909,
+      "forks": 9911,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_total": 35560,
+      "stars_total": 35585,
       "stars_period": 20976,
-      "forks": 2776,
+      "forks": 2779,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/247253695?s=40&v=4",
@@ -188,7 +188,7 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 15543,
+      "stars_total": 15553,
       "stars_period": 8205,
       "forks": 1631,
       "contributors": [
@@ -203,9 +203,9 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 30095,
+      "stars_total": 30201,
       "stars_period": 2701,
-      "forks": 4681,
+      "forks": 4698,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 74690,
+      "stars_total": 74718,
       "stars_period": 14554,
-      "forks": 11217,
+      "forks": 11221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -239,7 +239,7 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 22358,
+      "stars_total": 22368,
       "stars_period": 14153,
       "forks": 1506,
       "contributors": [
@@ -257,9 +257,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 27808,
+      "stars_total": 27819,
       "stars_period": 14438,
-      "forks": 4519,
+      "forks": 4522,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
-      "stars_total": 75095,
+      "stars_total": 75098,
       "stars_period": 1131,
-      "forks": 11962,
+      "forks": 11961,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19151258?s=40&v=4",
@@ -293,7 +293,7 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 27899,
+      "stars_total": 27903,
       "stars_period": 8372,
       "forks": 2457,
       "contributors": [
@@ -311,9 +311,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 10402,
+      "stars_total": 10422,
       "stars_period": 7565,
-      "forks": 1089,
+      "forks": 1090,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -326,9 +326,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 78984,
+      "stars_total": 78999,
       "stars_period": 19309,
-      "forks": 7886,
+      "forks": 7888,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -344,7 +344,7 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 8207,
+      "stars_total": 8223,
       "stars_period": 5500,
       "forks": 893,
       "contributors": [
@@ -354,7 +354,7 @@
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/145355204?s=40&v=4"
       ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
+      "description_zh": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": 21,
@@ -375,5 +375,5 @@
       "description_zh": "快速 C++ 日志库。"
     }
   ],
-  "generated_at": 1785099895
+  "generated_at": 1785107060
 }
