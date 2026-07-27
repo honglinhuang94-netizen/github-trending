@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 31048,
+      "stars_total": 31465,
       "stars_period": 1166,
-      "forks": 4861,
+      "forks": 4951,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,85 +22,49 @@
     },
     {
       "rank": 2,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_total": 5063,
-      "stars_period": 900,
-      "forks": 241,
+      "name": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars_total": 13560,
+      "stars_period": 35,
+      "forks": 1017,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77671587?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17873165?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84236270?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/226339429?s=40&v=4"
       ],
-      "description_zh": "AI 代理运行 Web 自动化最快的浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
+      "description_zh": "Amnesia VPN 客户端（桌面+移动）"
     },
     {
       "rank": 3,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_total": 13797,
-      "stars_period": 1710,
-      "forks": 1140,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_total": 43693,
+      "stars_period": 554,
+      "forks": 4371,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109685178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7863796?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25588514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5277268?s=40&v=4"
       ],
-      "description_zh": "蜂巢思维交流平台"
+      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
     },
     {
       "rank": 4,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 15155,
-      "stars_period": 149,
-      "forks": 3315,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 5,
-      "name": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "language": "TypeScript",
-      "stars_total": 5884,
-      "stars_period": 888,
-      "forks": 528,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/49069339?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139657357?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227859002?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。"
-    },
-    {
-      "rank": 6,
       "name": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars_total": 20427,
+      "stars_total": 20528,
       "stars_period": 131,
-      "forks": 645,
+      "forks": 651,
       "contributors": [
         "https://avatars.githubusercontent.com/u/107802416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59679977?s=40&v=4",
@@ -111,50 +75,32 @@
       "description_zh": "非常漂亮和现代的终端文件管理器"
     },
     {
-      "rank": 7,
-      "name": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "stars_total": 118527,
-      "stars_period": 36,
-      "forks": 36181,
+      "rank": 5,
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_total": 57926,
+      "stars_period": 349,
+      "forks": 11558,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/275871?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/899444?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99178334?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206997360?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Node.js JavaScript 运行时✨🐢🚀✨"
+      "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
     {
-      "rank": 8,
-      "name": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "language": "Java",
-      "stars_total": 27296,
-      "stars_period": 398,
-      "forks": 2949,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/86969353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22975773?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7688101?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/137198536?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/137188352?s=40&v=4"
-      ],
-      "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 50935,
+      "stars_total": 51086,
       "stars_period": 413,
-      "forks": 3003,
+      "forks": 3005,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -165,14 +111,14 @@
       "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_total": 34298,
+      "stars_total": 34375,
       "stars_period": 321,
-      "forks": 5772,
+      "forks": 5780,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
@@ -183,14 +129,14 @@
       "description_zh": "Kronos：金融市场语言的基础模型"
     },
     {
-      "rank": 11,
+      "rank": 8,
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 14188,
+      "stars_total": 14349,
       "stars_period": 832,
-      "forks": 960,
+      "forks": 970,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
@@ -201,84 +147,12 @@
       "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     },
     {
-      "rank": 12,
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_total": 15473,
-      "stars_period": 187,
-      "forks": 1638,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/291557675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5633095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7972024?s=40&v=4"
-      ],
-      "description_zh": "与多个生成人工智能提供商的简单、统一的接口"
-    },
-    {
-      "rank": 13,
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_total": 50379,
-      "stars_period": 379,
-      "forks": 5935,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1045990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43142465?s=40&v=4"
-      ],
-      "description_zh": "一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。"
-    },
-    {
-      "rank": 14,
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars_total": 10125,
-      "stars_period": 338,
-      "forks": 677,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/71594357?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80051564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39092238?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70709598?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29306641?s=40&v=4"
-      ],
-      "description_zh": "使每个人都能托管快速高效的 Minecraft 服务器。"
-    },
-    {
-      "rank": 15,
-      "name": "permissionlesstech/bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Kotlin",
-      "stars_total": 6847,
-      "stars_period": 260,
-      "forks": 1638,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/93376500?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43107113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69801237?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/96379204?s=40&v=4"
-      ],
-      "description_zh": "蓝牙网状聊天、IRC 氛围"
-    },
-    {
-      "rank": 16,
+      "rank": 9,
       "name": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
       "language": "Java",
-      "stars_total": 25768,
+      "stars_total": 25801,
       "stars_period": 18,
       "forks": 9664,
       "contributors": [
@@ -291,23 +165,92 @@
       "description_zh": "Jenkins 自动化服务器"
     },
     {
-      "rank": 17,
-      "name": "amnezia-vpn/amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "stars_total": 13471,
-      "stars_period": 35,
-      "forks": 1014,
+      "rank": 10,
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_total": 10616,
+      "stars_period": 412,
+      "forks": 1110,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226339429?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
       ],
-      "description_zh": "Amnesia VPN 客户端（桌面+移动）"
+      "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+    },
+    {
+      "rank": 11,
+      "name": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 7840,
+      "stars_period": 5,
+      "forks": 1504,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/116963762?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36266507?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/195384212?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3427820?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 12,
+      "name": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "stars_total": 9887,
+      "stars_period": 7,
+      "forks": 3988,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42158?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/479957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10309?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/162997?s=40&v=4"
+      ],
+      "description_zh": "开源事务分布式数据库。在商用硬件或云基础设施上提供线性可扩展性和经过验证的容错能力，而不会影响性能。"
+    },
+    {
+      "rank": 13,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 53934,
+      "stars_period": 221,
+      "forks": 4684,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146319052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17969723?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+    },
+    {
+      "rank": 14,
+      "name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars_total": 75109,
+      "stars_period": 48,
+      "forks": 11963,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19151258?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1197433?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4297676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/814772?s=40&v=4"
+      ],
+      "description_zh": "Dear ImGui：C++ 的无膨胀图形用户界面，具有最小的依赖性"
     }
   ],
-  "generated_at": 1785138024
+  "generated_at": 1785151984
 }
