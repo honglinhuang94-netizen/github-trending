@@ -8,9 +8,9 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_total": 18595,
+      "stars_total": 18644,
       "stars_period": 415,
-      "forks": 2522,
+      "forks": 2524,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
       "language": "Java",
-      "stars_total": 26049,
+      "stars_total": 26059,
       "stars_period": 180,
-      "forks": 9685,
+      "forks": 9686,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50003?s=40&v=4",
         "https://avatars.githubusercontent.com/u/154109?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_total": 44708,
+      "stars_total": 44727,
       "stars_period": 796,
-      "forks": 4445,
+      "forks": 4447,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_total": 15657,
+      "stars_total": 15663,
       "stars_period": 92,
-      "forks": 1654,
+      "forks": 1655,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
         "https://avatars.githubusercontent.com/u/291557675?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 234715,
+      "stars_total": 234759,
       "stars_period": 692,
-      "forks": 35768,
+      "forks": 35772,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_total": 7146,
+      "stars_total": 7191,
       "stars_period": 177,
-      "forks": 947,
+      "forks": 949,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 11195,
+      "stars_total": 11266,
       "stars_period": 366,
-      "forks": 1325,
+      "forks": 1332,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -126,7 +126,7 @@
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/38981901?s=40&v=4"
       ],
-      "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 8,
@@ -134,9 +134,9 @@
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_total": 3324,
+      "stars_total": 3361,
       "stars_period": 743,
-      "forks": 388,
+      "forks": 389,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -152,7 +152,7 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
-      "stars_total": 9497,
+      "stars_total": 9538,
       "stars_period": 402,
       "forks": 1289,
       "contributors": [
@@ -162,7 +162,7 @@
         "https://avatars.githubusercontent.com/u/1970226?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6463139?s=40&v=4"
       ],
-      "description_zh": "系统交易的精彩库、软件包、策略、书籍、博客、教程的精选列表。"
+      "description_zh": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
     },
     {
       "rank": 10,
@@ -170,9 +170,9 @@
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "language": "Python",
-      "stars_total": 5141,
+      "stars_total": 5170,
       "stars_period": 17,
-      "forks": 832,
+      "forks": 833,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45405841?s=40&v=4",
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars_total": 21418,
+      "stars_total": 21447,
       "stars_period": 660,
-      "forks": 693,
+      "forks": 695,
       "contributors": [
         "https://avatars.githubusercontent.com/u/107802416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59679977?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 11996,
+      "stars_total": 12048,
       "stars_period": 989,
-      "forks": 1208,
+      "forks": 1210,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
@@ -216,5 +216,5 @@
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "generated_at": 1785273320
+  "generated_at": 1785280073
 }
