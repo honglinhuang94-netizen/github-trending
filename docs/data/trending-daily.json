@@ -1,176 +1,32 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "rank": 1,
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "stars_total": 32833,
-      "stars_period": 2346,
-      "forks": 5145,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars_total": 18248,
+      "stars_period": 412,
+      "forks": 2496,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2553451?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/93376500?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/19578447?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271033448?s=40&v=4"
       ],
-      "description_zh": "蓝牙网状聊天、IRC 氛围"
+      "description_zh": "创建和共享 3D 建筑项目。"
     },
     {
       "rank": 2,
-      "name": "amnezia-vpn/amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "stars_total": 14080,
-      "stars_period": 515,
-      "forks": 1042,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226339429?s=40&v=4"
-      ],
-      "description_zh": "Amnesia VPN 客户端（桌面+移动）"
-    },
-    {
-      "rank": 3,
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "stars_total": 44405,
-      "stars_period": 572,
-      "forks": 4419,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25588514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5277268?s=40&v=4"
-      ],
-      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
-    },
-    {
-      "rank": 4,
-      "name": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "stars_total": 2996,
-      "stars_period": 420,
-      "forks": 369,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31731671?s=40&v=4"
-      ],
-      "description_zh": "一个轻量级的云原生 GIS 平台，用于可视化、探索和分析地理空间数据。它可以在 Web 浏览器、桌面、移动设备和 Jupyter 笔记本中运行。"
-    },
-    {
-      "rank": 5,
-      "name": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars_total": 21125,
-      "stars_period": 600,
-      "forks": 676,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/107802416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59679977?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59335048?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/110094421?s=40&v=4"
-      ],
-      "description_zh": "非常漂亮和现代的终端文件管理器"
-    },
-    {
-      "rank": 6,
-      "name": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "language": "Python",
-      "stars_total": 58733,
-      "stars_period": 362,
-      "forks": 11640,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99178334?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206997360?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
-    },
-    {
-      "rank": 7,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_total": 51949,
-      "stars_period": 847,
-      "forks": 3052,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "设计语言可以让您的 AI 线束更好地进行设计。"
-    },
-    {
-      "rank": 8,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_total": 34719,
-      "stars_period": 441,
-      "forks": 5810,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
-      ],
-      "description_zh": "Kronos：金融市场语言的基础模型"
-    },
-    {
-      "rank": 9,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 15279,
-      "stars_period": 979,
-      "forks": 1026,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36472129?s=40&v=4"
-      ],
-      "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
-    },
-    {
-      "rank": 10,
       "name": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
       "language": "Java",
-      "stars_total": 25958,
+      "stars_total": 25973,
       "stars_period": 180,
       "forks": 9679,
       "contributors": [
@@ -183,92 +39,182 @@
       "description_zh": "Jenkins 自动化服务器"
     },
     {
+      "rank": 3,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_total": 44479,
+      "stars_period": 796,
+      "forks": 4426,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25588514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5277268?s=40&v=4"
+      ],
+      "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
+    },
+    {
+      "rank": 4,
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars_total": 15565,
+      "stars_period": 185,
+      "forks": 1647,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/291557675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5633095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7972024?s=40&v=4"
+      ],
+      "description_zh": "与多个生成人工智能提供商的简单、统一的接口"
+    },
+    {
+      "rank": 5,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 234426,
+      "stars_period": 458,
+      "forks": 35733,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/867647?s=40&v=4"
+      ],
+      "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
+    },
+    {
+      "rank": 6,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars_total": 6772,
+      "stars_period": 177,
+      "forks": 926,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89754740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52246514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "使用开源模型构建本地语音代理"
+    },
+    {
+      "rank": 7,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars_total": 10727,
+      "stars_period": 366,
+      "forks": 1298,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38981901?s=40&v=4"
+      ],
+      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+    },
+    {
+      "rank": 8,
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars_total": 3046,
+      "stars_period": 420,
+      "forks": 370,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31731671?s=40&v=4"
+      ],
+      "description_zh": "一个轻量级的云原生 GIS 平台，用于可视化、探索和分析地理空间数据。它可以在 Web 浏览器、桌面、移动设备和 Jupyter 笔记本中运行。"
+    },
+    {
+      "rank": 9,
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars_total": 9159,
+      "stars_period": 113,
+      "forks": 1276,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/13941363?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/283605?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/832917?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1970226?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6463139?s=40&v=4"
+      ],
+      "description_zh": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars_total": 4979,
+      "stars_period": 17,
+      "forks": 828,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45405841?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/21694570?s=40&v=4"
+      ],
+      "description_zh": "AI 代理治理工具包 — 自主 AI 代理的策略执行、零信任身份、执行沙箱和可靠性工程。涵盖 10/10 OWASP Agentic 前 10 名。"
+    },
+    {
       "rank": 11,
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_total": 21184,
+      "stars_period": 660,
+      "forks": 680,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/107802416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59679977?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59335048?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110094421?s=40&v=4"
+      ],
+      "description_zh": "非常漂亮和现代的终端文件管理器"
+    },
+    {
+      "rank": 12,
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 11521,
-      "stars_period": 434,
-      "forks": 1166,
+      "stars_total": 11610,
+      "stars_period": 989,
+      "forks": 1176,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
       ],
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 12,
-      "name": "vudovn/ag-kit",
-      "url": "https://github.com/vudovn/ag-kit",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 8044,
-      "stars_period": 14,
-      "forks": 1514,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/116963762?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36266507?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/195384212?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3427820?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 13,
-      "name": "apache/cassandra",
-      "url": "https://github.com/apache/cassandra",
-      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-      "language": "Java",
-      "stars_total": 10019,
-      "stars_period": 11,
-      "forks": 4005,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42158?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/479957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10309?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/162997?s=40&v=4"
-      ],
-      "description_zh": "开源事务分布式数据库。在商用硬件或云基础设施上提供线性可扩展性和经过验证的容错能力，而不会影响性能。"
-    },
-    {
-      "rank": 14,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_total": 54430,
-      "stars_period": 240,
-      "forks": 4705,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146319052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17969723?s=40&v=4"
-      ],
-      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
-    },
-    {
-      "rank": 15,
-      "name": "ocornut/imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "C++",
-      "stars_total": 75287,
-      "stars_period": 51,
-      "forks": 11973,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8225057?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19151258?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1197433?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4297676?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/814772?s=40&v=4"
-      ],
-      "description_zh": "Dear ImGui：C++ 的无膨胀图形用户界面，具有最小的依赖性"
     }
   ],
-  "generated_at": 1785231670
+  "generated_at": 1785240170
 }
