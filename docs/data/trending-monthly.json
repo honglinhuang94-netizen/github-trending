@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 33246,
+      "stars_total": 33259,
       "stars_period": 7019,
-      "forks": 5254,
+      "forks": 5255,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 33987,
+      "stars_total": 34029,
       "stars_period": 25839,
-      "forks": 4382,
+      "forks": 4391,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 45569,
+      "stars_total": 45581,
       "stars_period": 19164,
-      "forks": 4770,
+      "forks": 4775,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 32632,
+      "stars_total": 32665,
       "stars_period": 23282,
-      "forks": 2296,
+      "forks": 2302,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 27359,
+      "stars_total": 27368,
       "stars_period": 14467,
-      "forks": 2801,
+      "forks": 2803,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
         "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/emilkowalski/skills",
       "description": "Skills for Design Engineers.",
       "language": null,
-      "stars_total": 22474,
+      "stars_total": 22500,
       "stars_period": 18400,
-      "forks": 1221,
+      "forks": 1222,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -110,29 +110,11 @@
     },
     {
       "rank": 7,
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_total": 22339,
-      "stars_period": 14176,
-      "forks": 1516,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/285672167?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/300245827?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2755722?s=40&v=4"
-      ],
-      "description_zh": "位于您终端中的代理多路复用器。"
-    },
-    {
-      "rank": 8,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 19654,
+      "stars_total": 19662,
       "stars_period": 15858,
       "forks": 972,
       "contributors": [
@@ -145,14 +127,14 @@
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 61312,
+      "stars_total": 61323,
       "stars_period": 14701,
-      "forks": 10025,
+      "forks": 10026,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,12 +145,12 @@
       "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 5、Claude Design、Claude Code。 OpenAI - ChatGPT GPT-5.6-Sol，法典。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 76425,
+      "stars_total": 76443,
       "stars_period": 15518,
       "forks": 11413,
       "contributors": [
@@ -181,12 +163,12 @@
       "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 23146,
+      "stars_total": 23163,
       "stars_period": 14798,
       "forks": 1554,
       "contributors": [
@@ -196,15 +178,15 @@
         "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
       ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。 Free, open-source, single binary, no Office installation required."
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 12622,
+      "stars_total": 12631,
       "stars_period": 9150,
       "forks": 1243,
       "contributors": [
@@ -214,14 +196,14 @@
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 30357,
+      "stars_total": 30365,
       "stars_period": 8654,
-      "forks": 1996,
+      "forks": 1999,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267589254?s=40&v=4",
@@ -232,14 +214,14 @@
       "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_total": 17854,
+      "stars_total": 17864,
       "stars_period": 16064,
-      "forks": 2170,
+      "forks": 2171,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -250,14 +232,14 @@
       "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 8945,
+      "stars_total": 8948,
       "stars_period": 2834,
-      "forks": 1020,
+      "forks": 1022,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
         "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
@@ -268,14 +250,14 @@
       "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_total": 15847,
+      "stars_total": 15852,
       "stars_period": 7904,
-      "forks": 1681,
+      "forks": 1684,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
         "https://avatars.githubusercontent.com/u/29980330?s=40&v=4"
@@ -283,14 +265,14 @@
       "description_zh": "用于从流数据重建场景的前馈 3D 基础模型"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 28536,
+      "stars_total": 28540,
       "stars_period": 14460,
-      "forks": 4612,
+      "forks": 4613,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
@@ -301,12 +283,12 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
-      "stars_total": 75368,
+      "stars_total": 75370,
       "stars_period": 1366,
       "forks": 11976,
       "contributors": [
@@ -319,14 +301,14 @@
       "description_zh": "Dear ImGui：C++ 的无膨胀图形用户界面，具有最小的依赖性"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
-      "stars_total": 21384,
+      "stars_total": 21385,
       "stars_period": 1068,
-      "forks": 3407,
+      "forks": 3415,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9026413?s=40&v=4",
         "https://avatars.githubusercontent.com/u/92878?s=40&v=4",
@@ -337,14 +319,14 @@
       "description_zh": "用于单元测试、TDD 和 BDD 的现代 C++ 原生测试框架 - 使用 C++14、C++17 及更高版本（C++11 支持位于 v2.x 分支，C++03 支持 Catch1.x 分支）"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 79718,
+      "stars_total": 79729,
       "stars_period": 19507,
-      "forks": 7935,
+      "forks": 7936,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -355,14 +337,14 @@
       "description_zh": "开源 CapCut 替代方案"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 9294,
+      "stars_total": 9314,
       "stars_period": 5342,
-      "forks": 1058,
+      "forks": 1062,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -370,17 +352,17 @@
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/145355204?s=40&v=4"
       ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
+      "description_zh": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_total": 28119,
+      "stars_total": 28126,
       "stars_period": 7895,
-      "forks": 2467,
+      "forks": 2468,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -391,14 +373,14 @@
       "description_zh": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_total": 7779,
+      "stars_total": 7802,
       "stars_period": 2064,
-      "forks": 994,
+      "forks": 999,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
@@ -409,5 +391,5 @@
       "description_zh": "使用开源模型构建本地语音代理"
     }
   ],
-  "generated_at": 1785353669
+  "generated_at": 1785359060
 }
