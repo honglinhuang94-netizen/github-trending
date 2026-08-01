@@ -8,9 +8,9 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 33788,
+      "stars_total": 33819,
       "stars_period": 7687,
-      "forks": 5398,
+      "forks": 5397,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 36481,
+      "stars_total": 36575,
       "stars_period": 27829,
-      "forks": 4693,
+      "forks": 4706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 34869,
+      "stars_total": 34917,
       "stars_period": 25201,
-      "forks": 2434,
+      "forks": 2435,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/emilkowalski/skills",
       "description": "Skills for Design Engineers.",
       "language": null,
-      "stars_total": 23479,
+      "stars_total": 23505,
       "stars_period": 19439,
-      "forks": 1275,
+      "forks": 1276,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -74,31 +74,13 @@
     },
     {
       "rank": 5,
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "stars_total": 27748,
-      "stars_period": 14907,
-      "forks": 2852,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
-      ],
-      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。了解如何撰写会议纪要"
-    },
-    {
-      "rank": 6,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 20435,
+      "stars_total": 20455,
       "stars_period": 16829,
-      "forks": 1023,
+      "forks": 1024,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -109,12 +91,48 @@
       "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
+      "rank": 6,
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "stars_total": 27765,
+      "stars_period": 14907,
+      "forks": 2854,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14847870?s=40&v=4"
+      ],
+      "description_zh": "隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。了解如何撰写会议纪要"
+    },
+    {
       "rank": 7,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_total": 77627,
+      "stars_period": 16613,
+      "forks": 11600,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+      ],
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+    },
+    {
+      "rank": 8,
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_total": 30758,
+      "stars_total": 30771,
       "stars_period": 8998,
       "forks": 2026,
       "contributors": [
@@ -127,40 +145,19 @@
       "description_zh": "使用 Claude Code 的 Codex 来审查代码或委派任务。"
     },
     {
-      "rank": 8,
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_total": 46314,
-      "stars_period": 18958,
-      "forks": 4859,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
-      ],
-      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
-    },
-    {
       "rank": 9,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_total": 77592,
-      "stars_period": 16613,
-      "forks": 11595,
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_total": 13197,
+      "stars_period": 10346,
+      "forks": 1292,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
       ],
-      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     },
     {
       "rank": 10,
@@ -168,9 +165,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 61757,
+      "stars_total": 61769,
       "stars_period": 14733,
-      "forks": 10079,
+      "forks": 10080,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -182,26 +179,11 @@
     },
     {
       "rank": 11,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_total": 13185,
-      "stars_period": 10346,
-      "forks": 1291,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
-      ],
-      "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 12,
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_total": 23949,
+      "stars_total": 23964,
       "stars_period": 15632,
       "forks": 1612,
       "contributors": [
@@ -214,19 +196,40 @@
       "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": 13,
-      "name": "erincatto/box3d",
-      "url": "https://github.com/erincatto/box3d",
-      "description": "Box3D is a 3D physics engine for games",
-      "language": "C",
-      "stars_total": 5741,
-      "stars_period": 5733,
-      "forks": 282,
+      "rank": 12,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_total": 46331,
+      "stars_period": 18958,
+      "forks": 4858,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7284063?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/696656?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
       ],
-      "description_zh": "Box3D 是一款游戏 3D 物理引擎"
+      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
+    },
+    {
+      "rank": 13,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars_total": 9994,
+      "stars_period": 4740,
+      "forks": 1212,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89754740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52246514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "使用开源模型构建本地语音代理"
     },
     {
       "rank": 14,
@@ -234,7 +237,7 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_total": 9029,
+      "stars_total": 9030,
       "stars_period": 2927,
       "forks": 1031,
       "contributors": [
@@ -248,31 +251,13 @@
     },
     {
       "rank": 15,
-      "name": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "language": "Python",
-      "stars_total": 9969,
-      "stars_period": 4740,
-      "forks": 1209,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9143109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94853470?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/89754740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52246514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "使用开源模型构建本地语音代理"
-    },
-    {
-      "rank": 16,
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
-      "stars_total": 129459,
+      "stars_total": 129479,
       "stars_period": 13624,
-      "forks": 19093,
+      "forks": 19095,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
@@ -283,14 +268,14 @@
       "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 80258,
+      "stars_total": 80269,
       "stars_period": 19902,
-      "forks": 7967,
+      "forks": 7969,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -301,32 +286,32 @@
       "description_zh": "开源 CapCut 替代方案"
     },
     {
-      "rank": 18,
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_total": 29057,
-      "stars_period": 13643,
-      "forks": 4676,
+      "rank": 17,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_total": 53527,
+      "stars_period": 11096,
+      "forks": 3170,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/193838802?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "“Vibe-Trading：您的个人交易代理”"
+      "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 31706,
+      "stars_total": 31725,
       "stars_period": 6410,
-      "forks": 4134,
+      "forks": 4138,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
@@ -337,41 +322,59 @@
       "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
     },
     {
-      "rank": 20,
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "language": "HTML",
-      "stars_total": 18372,
-      "stars_period": 13008,
-      "forks": 2230,
+      "rank": 19,
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_total": 29070,
+      "stars_period": 13643,
+      "forks": 4678,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78622391?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44262177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/120308299?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2840631?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193838802?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。"
+      "description_zh": "“Vibe-Trading：您的个人交易代理”"
+    },
+    {
+      "rank": 20,
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars_total": 14804,
+      "stars_period": 6587,
+      "forks": 1632,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2353385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139717591?s=40&v=4"
+      ],
+      "description_zh": "RAM 效率最高的线束"
     },
     {
       "rank": 21,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_total": 53487,
-      "stars_period": 11096,
-      "forks": 3168,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_total": 9872,
+      "stars_period": 5978,
+      "forks": 1129,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/145355204?s=40&v=4"
       ],
-      "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
     }
   ],
-  "generated_at": 1785578767
+  "generated_at": 1785585960
 }

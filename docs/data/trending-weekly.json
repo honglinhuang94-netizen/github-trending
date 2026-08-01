@@ -1,16 +1,34 @@
 {
   "period": "weekly",
-  "count": 19,
+  "count": 18,
   "items": [
     {
       "rank": 1,
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars_total": 33819,
+      "stars_period": 6761,
+      "forks": 5397,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2553451?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/93376500?s=40&v=4"
+      ],
+      "description_zh": "蓝牙网状聊天、IRC 氛围"
+    },
+    {
+      "rank": 2,
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_total": 19881,
+      "stars_total": 19931,
       "stars_period": 10558,
-      "forks": 2034,
+      "forks": 2044,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "蜂巢思维交流平台"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_total": 7182,
+      "stars_total": 7204,
       "stars_period": 4741,
-      "forks": 344,
+      "forks": 345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,32 +57,14 @@
       "description_zh": "AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     },
     {
-      "rank": 3,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 17218,
-      "stars_period": 4746,
-      "forks": 1171,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36472129?s=40&v=4"
-      ],
-      "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
-    },
-    {
       "rank": 4,
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 14935,
+      "stars_total": 14972,
       "stars_period": 5133,
-      "forks": 818,
+      "forks": 822,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -76,49 +76,31 @@
     },
     {
       "rank": 5,
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "stars_total": 28827,
-      "stars_period": 9454,
-      "forks": 3046,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 17265,
+      "stars_period": 4746,
+      "forks": 1176,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/36472129?s=40&v=4"
       ],
-      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+      "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     },
     {
       "rank": 6,
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "stars_total": 20504,
-      "stars_period": 2863,
-      "forks": 2644,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19578447?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271033448?s=40&v=4"
-      ],
-      "description_zh": "创建和共享 3D 建筑项目。"
-    },
-    {
-      "rank": 7,
       "name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 14501,
+      "stars_total": 14556,
       "stars_period": 4603,
-      "forks": 1572,
+      "forks": 1575,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -129,14 +111,32 @@
       "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
+      "rank": 7,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars_total": 20521,
+      "stars_period": 2863,
+      "forks": 2645,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19578447?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271033448?s=40&v=4"
+      ],
+      "description_zh": "创建和共享 3D 建筑项目。"
+    },
+    {
       "rank": 8,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
       "language": "Rust",
-      "stars_total": 14779,
+      "stars_total": 14804,
       "stars_period": 3351,
-      "forks": 1628,
+      "forks": 1632,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -148,66 +148,13 @@
     },
     {
       "rank": 9,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 198288,
-      "stars_period": 11622,
-      "forks": 17072,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
-      ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-    },
-    {
-      "rank": 10,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 16145,
-      "stars_period": 1488,
-      "forks": 3592,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 11,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_total": 77592,
-      "stars_period": 4657,
-      "forks": 11595,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
-      ],
-      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
-    },
-    {
-      "rank": 12,
       "name": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_total": 4765,
+      "stars_total": 4781,
       "stars_period": 2765,
-      "forks": 481,
+      "forks": 482,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -218,30 +165,12 @@
       "description_zh": "一个轻量级的云原生 GIS 平台，用于可视化、探索和分析地理空间数据。它可以在 Web 浏览器、桌面、移动设备和 Jupyter 笔记本中运行。"
     },
     {
-      "rank": 13,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_total": 35310,
-      "stars_period": 1939,
-      "forks": 5885,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
-      ],
-      "description_zh": "Kronos：金融市场语言的基础模型"
-    },
-    {
-      "rank": 14,
+      "rank": 10,
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_total": 46296,
+      "stars_total": 46308,
       "stars_period": 3125,
       "forks": 4562,
       "contributors": [
@@ -254,14 +183,68 @@
       "description_zh": "💖🧸 自托管，您拥有的 Grok Companion，一个 waifu 灵魂的容器，网络生命体，将他们带入我们的世界，希望达到 Neuro-sama 的高度。能够实时语音聊天、玩《我的世界》、《异星工厂》。支持网络/macOS/Windows。"
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 16153,
+      "stars_period": 1488,
+      "forks": 3596,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 12,
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_total": 55800,
+      "stars_period": 2529,
+      "forks": 11209,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44121227?s=40&v=4"
+      ],
+      "description_zh": "12 周，24 节课，全民人工智能！"
+    },
+    {
+      "rank": 13,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_total": 35320,
+      "stars_period": 1939,
+      "forks": 5887,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
+      ],
+      "description_zh": "Kronos：金融市场语言的基础模型"
+    },
+    {
+      "rank": 14,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 36481,
+      "stars_total": 36575,
       "stars_period": 7701,
-      "forks": 4693,
+      "forks": 4706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -272,14 +255,14 @@
       "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、290 多个提供商（90 多个免费）、500 多个模型 — Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 500 多名贡献者构建"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "language": "TypeScript",
-      "stars_total": 7034,
+      "stars_total": 7044,
       "stars_period": 2866,
-      "forks": 608,
+      "forks": 610,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49069339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -290,14 +273,32 @@
       "description_zh": "Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。"
     },
     {
+      "rank": 16,
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_total": 51760,
+      "stars_period": 1222,
+      "forks": 5734,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/173002764?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26346329?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2119212?s=40&v=4"
+      ],
+      "description_zh": "开源前沿语音人工智能"
+    },
+    {
       "rank": 17,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
-      "stars_total": 12305,
+      "stars_total": 12317,
       "stars_period": 1901,
-      "forks": 1309,
+      "forks": 1310,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -309,40 +310,22 @@
     },
     {
       "rank": 18,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_total": 81703,
-      "stars_period": 4571,
-      "forks": 10091,
+      "stars_total": 19807,
+      "stars_period": 2213,
+      "forks": 2053,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140309543?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/351026?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270187002?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22689750?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6581690?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
       ],
-      "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
-    },
-    {
-      "rank": 19,
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_total": 51750,
-      "stars_period": 1222,
-      "forks": 5733,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/173002764?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26346329?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2119212?s=40&v=4"
-      ],
-      "description_zh": "开源前沿语音人工智能"
+      "description_zh": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
     }
   ],
-  "generated_at": 1785578765
+  "generated_at": 1785585958
 }
