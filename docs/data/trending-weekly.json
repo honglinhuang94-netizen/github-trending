@@ -8,9 +8,9 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_total": 21236,
+      "stars_total": 21390,
       "stars_period": 8217,
-      "forks": 2279,
+      "forks": 2301,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 15497,
+      "stars_total": 15608,
       "stars_period": 5223,
-      "forks": 1670,
+      "forks": 1679,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 15795,
+      "stars_total": 15921,
       "stars_period": 5225,
-      "forks": 882,
+      "forks": 887,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_total": 59509,
+      "stars_total": 59976,
       "stars_period": 5601,
-      "forks": 11674,
+      "forks": 11749,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
       "language": "Rust",
-      "stars_total": 15319,
+      "stars_total": 15364,
       "stars_period": 3620,
-      "forks": 1696,
+      "forks": 1700,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_total": 20778,
+      "stars_total": 20819,
       "stars_period": 3163,
-      "forks": 2667,
+      "forks": 2669,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
@@ -114,11 +114,11 @@
       "rank": 7,
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 18031,
+      "stars_total": 18155,
       "stars_period": 4365,
-      "forks": 1212,
+      "forks": 1220,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
@@ -126,7 +126,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/36472129?s=40&v=4"
       ],
-      "description_zh": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
+      "description_zh": "快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
     },
     {
       "rank": 8,
@@ -134,9 +134,9 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 34192,
+      "stars_total": 34236,
       "stars_period": 4942,
-      "forks": 5463,
+      "forks": 5465,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_total": 46588,
+      "stars_total": 46621,
       "stars_period": 3431,
-      "forks": 4593,
+      "forks": 4599,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44741987?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_total": 15913,
+      "stars_total": 15928,
       "stars_period": 576,
-      "forks": 1685,
+      "forks": 1684,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
         "https://avatars.githubusercontent.com/u/291557675?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_total": 5025,
+      "stars_total": 5051,
       "stars_period": 2933,
-      "forks": 501,
+      "forks": 505,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_total": 7740,
+      "stars_total": 7824,
       "stars_period": 3582,
-      "forks": 382,
+      "forks": 389,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 16366,
+      "stars_total": 16380,
       "stars_period": 1431,
-      "forks": 3646,
+      "forks": 3652,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 38037,
+      "stars_total": 38201,
       "stars_period": 7141,
-      "forks": 4965,
+      "forks": 5018,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -260,9 +260,9 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
-      "stars_total": 12549,
+      "stars_total": 12578,
       "stars_period": 2063,
-      "forks": 1328,
+      "forks": 1329,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -278,9 +278,9 @@
       "url": "https://github.com/microsoft/TRELLIS.2",
       "description": "Native and Compact Structured Latents for 3D Generation",
       "language": "Python",
-      "stars_total": 10190,
+      "stars_total": 10224,
       "stars_period": 1106,
-      "forks": 1226,
+      "forks": 1229,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45420254?s=40&v=4",
         "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
@@ -293,9 +293,9 @@
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_total": 20444,
+      "stars_total": 20554,
       "stars_period": 2925,
-      "forks": 2097,
+      "forks": 2103,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
         "https://avatars.githubusercontent.com/u/270187002?s=40&v=4",
@@ -311,7 +311,7 @@
       "url": "https://github.com/permissionlesstech/bitchat-android",
       "description": "decentralized mesh chat",
       "language": "Kotlin",
-      "stars_total": 7267,
+      "stars_total": 7277,
       "stars_period": 928,
       "forks": 1791,
       "contributors": [
@@ -324,5 +324,5 @@
       "description_zh": "分散式网状聊天"
     }
   ],
-  "generated_at": 1785731765
+  "generated_at": 1785746129
 }
