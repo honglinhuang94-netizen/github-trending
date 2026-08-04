@@ -8,9 +8,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 13071,
+      "stars_total": 13231,
       "stars_period": 1138,
-      "forks": 1240,
+      "forks": 1254,
       "contributors": [
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4"
@@ -23,9 +23,9 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_total": 17425,
+      "stars_total": 17597,
       "stars_period": 2310,
-      "forks": 2418,
+      "forks": 2429,
       "contributors": [
         "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
@@ -41,15 +41,15 @@
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
-      "stars_total": 9517,
+      "stars_total": 9670,
       "stars_period": 2524,
-      "forks": 625,
+      "forks": 633,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/132337116?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2567118?s=40&v=4"
       ],
       "description_zh": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
@@ -59,9 +59,9 @@
       "url": "https://github.com/uber/ADR",
       "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
       "language": "Python",
-      "stars_total": 578,
+      "stars_total": 602,
       "stars_period": 140,
-      "forks": 65,
+      "forks": 66,
       "contributors": [
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2167458?s=40&v=4",
@@ -77,9 +77,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 266216,
+      "stars_total": 266309,
       "stars_period": 617,
-      "forks": 23803,
+      "forks": 23808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -95,9 +95,9 @@
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
-      "stars_total": 116107,
+      "stars_total": 116161,
       "stars_period": 784,
-      "forks": 61533,
+      "forks": 61537,
       "contributors": [
         "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
@@ -113,9 +113,9 @@
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars_total": 50706,
+      "stars_total": 50728,
       "stars_period": 6,
-      "forks": 3622,
+      "forks": 3626,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1268976?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1157043?s=40&v=4",
@@ -131,9 +131,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 28079,
+      "stars_total": 28167,
       "stars_period": 1716,
-      "forks": 3042,
+      "forks": 3044,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -141,7 +141,7 @@
         "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 9,
@@ -149,9 +149,9 @@
       "url": "https://github.com/webpack/webpack",
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
       "language": "JavaScript",
-      "stars_total": 65898,
+      "stars_total": 65904,
       "stars_period": 8,
-      "forks": 9524,
+      "forks": 9528,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4567934?s=40&v=4",
@@ -159,7 +159,7 @@
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3408176?s=40&v=4"
       ],
-      "description_zh": "javascript 和朋友的捆绑器。将许多模块打包到一些捆绑资产中。代码分割允许按需加载应用程序的某些部分。通过“加载器”，模块可以是 CommonJs、A​​MD、ES6 模块、CSS、图像、JSON、Coffeescript、LESS ……以及您的自定义内容。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 10,
@@ -167,9 +167,9 @@
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
       "language": "C++",
-      "stars_total": 29353,
+      "stars_total": 29354,
       "stars_period": 9,
-      "forks": 5369,
+      "forks": 5371,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6052198?s=40&v=4",
         "https://avatars.githubusercontent.com/u/609139?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
-      "stars_total": 108008,
+      "stars_total": 108018,
       "stars_period": 27,
-      "forks": 6303,
+      "forks": 6306,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13602871?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1609021?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/usekaneo/kaneo",
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "language": "TypeScript",
-      "stars_total": 7157,
+      "stars_total": 7195,
       "stars_period": 565,
-      "forks": 574,
+      "forks": 576,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44305048?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/livekit/agents",
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
-      "stars_total": 12267,
+      "stars_total": 12307,
       "stars_period": 432,
-      "forks": 3465,
+      "forks": 3469,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6198400?s=40&v=4",
@@ -239,9 +239,9 @@
       "url": "https://github.com/angular/angular",
       "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
-      "stars_total": 100748,
+      "stars_total": 100767,
       "stars_period": 8,
-      "forks": 27384,
+      "forks": 27397,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8604205?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15655?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
-      "stars_total": 96313,
+      "stars_total": 96368,
       "stars_period": 30,
-      "forks": 5527,
+      "forks": 5532,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1834413?s=40&v=4",
@@ -267,7 +267,7 @@
         "https://avatars.githubusercontent.com/u/614993?s=40&v=4",
         "https://avatars.githubusercontent.com/u/882133?s=40&v=4"
       ],
-      "description_zh": "用于快速 UI 开发的实用程序优先 CSS 框架。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 16,
@@ -275,9 +275,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_total": 19087,
+      "stars_total": 19157,
       "stars_period": 306,
-      "forks": 2390,
+      "forks": 2396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -285,7 +285,7 @@
         "https://avatars.githubusercontent.com/u/118331084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4"
       ],
-      "description_zh": "使用编码代理编辑视频"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 17,
@@ -293,9 +293,9 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars_total": 30614,
+      "stars_total": 30680,
       "stars_period": 924,
-      "forks": 1973,
+      "forks": 1977,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18465053?s=40&v=4",
@@ -311,9 +311,9 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_total": 23792,
+      "stars_total": 23816,
       "stars_period": 33,
-      "forks": 1947,
+      "forks": 1952,
       "contributors": [
         "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -324,5 +324,5 @@
       "description_zh": "适用于 Claude Code、Codex、Cursor 等的官方复合工程插件"
     }
   ],
-  "generated_at": 1785857348
+  "generated_at": 1785866212
 }
