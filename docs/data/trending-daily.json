@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 5835,
+      "stars_total": 5943,
       "stars_period": 2271,
-      "forks": 466,
+      "forks": 474,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 83654,
+      "stars_total": 83688,
       "stars_period": 1131,
-      "forks": 8945,
+      "forks": 8949,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 5373,
+      "stars_total": 5398,
       "stars_period": 894,
-      "forks": 277,
+      "forks": 278,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 208461,
+      "stars_total": 208521,
       "stars_period": 2180,
-      "forks": 17990,
+      "forks": 17997,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 268615,
+      "stars_total": 268637,
       "stars_period": 794,
-      "forks": 23991,
+      "forks": 23995,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 23451,
+      "stars_total": 23471,
       "stars_period": 544,
-      "forks": 1792,
+      "forks": 1795,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -115,7 +115,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 2238,
+      "stars_total": 2254,
       "stars_period": 118,
       "forks": 297,
       "contributors": [
@@ -133,7 +133,7 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_total": 70371,
+      "stars_total": 70395,
       "stars_period": 126,
       "forks": 10984,
       "contributors": [
@@ -151,9 +151,9 @@
       "url": "https://github.com/chenyme/grok2api",
       "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "language": "Go",
-      "stars_total": 7104,
+      "stars_total": 7109,
       "stars_period": 62,
-      "forks": 2163,
+      "forks": 2164,
       "contributors": [
         "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64474352?s=40&v=4",
@@ -169,7 +169,7 @@
       "url": "https://github.com/jdx/mise",
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
-      "stars_total": 32006,
+      "stars_total": 32014,
       "stars_period": 130,
       "forks": 1327,
       "contributors": [
@@ -187,9 +187,9 @@
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
-      "stars_total": 186250,
+      "stars_total": 186258,
       "stars_period": 363,
-      "forks": 46057,
+      "forks": 46058,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12185583?s=40&v=4",
         "https://avatars.githubusercontent.com/u/76959103?s=40&v=4",
@@ -205,7 +205,7 @@
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_total": 51724,
+      "stars_total": 51727,
       "stars_period": 156,
       "forks": 11170,
       "contributors": [
@@ -223,7 +223,7 @@
       "url": "https://github.com/unclebob/swarm-forge",
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
-      "stars_total": 1760,
+      "stars_total": 1769,
       "stars_period": 85,
       "forks": 191,
       "contributors": [
@@ -240,7 +240,7 @@
       "url": "https://github.com/denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_total": 2053,
+      "stars_total": 2079,
       "stars_period": 546,
       "forks": 54,
       "contributors": [
@@ -256,9 +256,9 @@
       "url": "https://github.com/K2SOsint/Legendary_OSINT",
       "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
       "language": null,
-      "stars_total": 1254,
+      "stars_total": 1280,
       "stars_period": 64,
-      "forks": 179,
+      "forks": 180,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85451432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4084014?s=40&v=4",
@@ -272,9 +272,9 @@
       "url": "https://github.com/pranshuparmar/witr",
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
-      "stars_total": 19530,
+      "stars_total": 19564,
       "stars_period": 308,
-      "forks": 634,
+      "forks": 635,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4262592?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -289,9 +289,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 16095,
+      "stars_total": 16118,
       "stars_period": 305,
-      "forks": 1283,
+      "forks": 1284,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -302,5 +302,5 @@
       "description_zh": "Google 产品和技术的代理技能"
     }
   ],
-  "generated_at": 1786121971
+  "generated_at": 1786125402
 }
