@@ -8,9 +8,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 17009,
+      "stars_total": 17142,
       "stars_period": 1057,
-      "forks": 1524,
+      "forks": 1534,
       "contributors": [
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4"
@@ -23,9 +23,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 83306,
+      "stars_total": 83393,
       "stars_period": 593,
-      "forks": 8918,
+      "forks": 8925,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -41,9 +41,9 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 5126,
+      "stars_total": 5190,
       "stars_period": 2802,
-      "forks": 259,
+      "forks": 265,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
@@ -59,9 +59,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 207884,
+      "stars_total": 208024,
       "stars_period": 1873,
-      "forks": 17947,
+      "forks": 17958,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -76,7 +76,7 @@
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 23296,
+      "stars_total": 23336,
       "stars_period": 138,
       "forks": 1783,
       "contributors": [
@@ -94,9 +94,9 @@
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_total": 3162,
+      "stars_total": 3201,
       "stars_period": 847,
-      "forks": 237,
+      "forks": 240,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17559402?s=40&v=4",
@@ -112,7 +112,7 @@
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_total": 51691,
+      "stars_total": 51699,
       "stars_period": 13,
       "forks": 11167,
       "contributors": [
@@ -130,9 +130,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_total": 77525,
+      "stars_total": 77579,
       "stars_period": 134,
-      "forks": 17498,
+      "forks": 17504,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
@@ -145,9 +145,9 @@
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
-      "stars_total": 186153,
+      "stars_total": 186177,
       "stars_period": 37,
-      "forks": 46056,
+      "forks": 46057,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12185583?s=40&v=4",
         "https://avatars.githubusercontent.com/u/76959103?s=40&v=4",
@@ -163,9 +163,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 29229,
+      "stars_total": 29279,
       "stars_period": 237,
-      "forks": 2689,
+      "forks": 2691,
       "contributors": [
         "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -181,9 +181,9 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars_total": 32724,
+      "stars_total": 32766,
       "stars_period": 888,
-      "forks": 2111,
+      "forks": 2114,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18465053?s=40&v=4",
@@ -191,7 +191,7 @@
         "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
+      "description_zh": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
     },
     {
       "rank": 12,
@@ -199,9 +199,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 268386,
+      "stars_total": 268443,
       "stars_period": 858,
-      "forks": 23977,
+      "forks": 23983,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -217,9 +217,9 @@
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
-      "stars_total": 12788,
+      "stars_total": 12859,
       "stars_period": 1190,
-      "forks": 859,
+      "forks": 863,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -230,5 +230,5 @@
       "description_zh": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     }
   ],
-  "generated_at": 1786093680
+  "generated_at": 1786100374
 }
