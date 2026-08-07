@@ -8,7 +8,7 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 34707,
+      "stars_total": 34710,
       "stars_period": 8701,
       "forks": 5540,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 42072,
+      "stars_total": 42103,
       "stars_period": 29383,
-      "forks": 5586,
+      "forks": 5592,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 39324,
+      "stars_total": 39345,
       "stars_period": 26353,
-      "forks": 2764,
+      "forks": 2765,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -58,27 +58,11 @@
     },
     {
       "rank": 4,
-      "name": "emilkowalski/skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "description": "Skills for Designers and Engineers.",
-      "language": null,
-      "stars_total": 26640,
-      "stars_period": 21162,
-      "forks": 1438,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/302537833?s=40&v=4"
-      ],
-      "description_zh": "设计师和工程师的技能。"
-    },
-    {
-      "rank": 5,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 79541,
+      "stars_total": 79547,
       "stars_period": 18274,
       "forks": 11886,
       "contributors": [
@@ -91,12 +75,28 @@
       "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
+      "rank": 5,
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "Skills for Designers and Engineers.",
+      "language": null,
+      "stars_total": 26671,
+      "stars_period": 21162,
+      "forks": 1439,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/302537833?s=40&v=4"
+      ],
+      "description_zh": "设计师和工程师的技能。"
+    },
+    {
       "rank": 6,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 22463,
+      "stars_total": 22477,
       "stars_period": 18764,
       "forks": 1140,
       "contributors": [
@@ -114,9 +114,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
-      "stars_total": 10020,
+      "stars_total": 10026,
       "stars_period": 7074,
-      "forks": 787,
+      "forks": 788,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -128,11 +128,29 @@
     },
     {
       "rank": 8,
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars_total": 16275,
+      "stars_period": 8110,
+      "forks": 1828,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2353385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139717591?s=40&v=4"
+      ],
+      "description_zh": "RAM 效率最高的线束"
+    },
+    {
+      "rank": 9,
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_total": 11521,
+      "stars_total": 11523,
       "stars_period": 6090,
       "forks": 1427,
       "contributors": [
@@ -145,66 +163,12 @@
       "description_zh": "使用开源模型构建本地语音代理"
     },
     {
-      "rank": 9,
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "stars_total": 16271,
-      "stars_period": 8110,
-      "forks": 1826,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2353385?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139717591?s=40&v=4"
-      ],
-      "description_zh": "RAM 效率最高的线束"
-    },
-    {
       "rank": 10,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 26378,
-      "stars_period": 17847,
-      "forks": 1778,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 11,
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_total": 9242,
-      "stars_period": 3118,
-      "forks": 1116,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22543693?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/181032508?s=40&v=4"
-      ],
-      "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
-    },
-    {
-      "rank": 12,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 32868,
+      "stars_total": 32873,
       "stars_period": 7645,
       "forks": 4281,
       "contributors": [
@@ -217,68 +181,14 @@
       "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
     },
     {
-      "rank": 13,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "TypeScript",
-      "stars_total": 30615,
-      "stars_period": 23601,
-      "forks": 10411,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80536682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183295539?s=40&v=4"
-      ],
-      "description_zh": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
-    },
-    {
-      "rank": 14,
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars_total": 131223,
-      "stars_period": 14892,
-      "forks": 19343,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
-      ],
-      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
-    },
-    {
-      "rank": 15,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 81440,
-      "stars_period": 20061,
-      "forks": 8067,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
-      ],
-      "description_zh": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "name": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_total": 62974,
+      "stars_total": 62985,
       "stars_period": 10946,
-      "forks": 12215,
+      "forks": 12217,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
@@ -289,32 +199,32 @@
       "description_zh": "12 周，24 节课，全民人工智能！"
     },
     {
-      "rank": 17,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_total": 56504,
-      "stars_period": 12655,
-      "forks": 3431,
+      "rank": 12,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars_total": 131229,
+      "stars_period": 14892,
+      "forks": 19346,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
       ],
-      "description_zh": "设计语言可以让您的 AI 线束更好地进行设计。"
+      "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
     },
     {
-      "rank": 18,
+      "rank": 13,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 17108,
+      "stars_total": 17120,
       "stars_period": 3746,
-      "forks": 3856,
+      "forks": 3858,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -325,14 +235,104 @@
       "description_zh": ""
     },
     {
+      "rank": 14,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 81447,
+      "stars_period": 20061,
+      "forks": 8068,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 15,
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_total": 9244,
+      "stars_period": 3118,
+      "forks": 1116,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/989699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22543693?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/181032508?s=40&v=4"
+      ],
+      "description_zh": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
+    },
+    {
+      "rank": 16,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_total": 20285,
+      "stars_period": 12319,
+      "forks": 2787,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32364788?s=40&v=4"
+      ],
+      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "rank": 17,
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_total": 26390,
+      "stars_period": 17847,
+      "forks": 1779,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
+      ],
+      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
+    },
+    {
+      "rank": 18,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_total": 56528,
+      "stars_period": 12655,
+      "forks": 3433,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "设计语言可以让您的 AI 线束更好地进行设计。"
+    },
+    {
       "rank": 19,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 10796,
+      "stars_total": 10798,
       "stars_period": 6602,
-      "forks": 1238,
+      "forks": 1239,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -344,31 +344,48 @@
     },
     {
       "rank": 20,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_total": 20271,
-      "stars_period": 12319,
-      "forks": 2786,
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_total": 29292,
+      "stars_period": 9787,
+      "forks": 2690,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32364788?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91069374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44714368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/171774615?s=40&v=4"
       ],
-      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
       "rank": 21,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 208084,
+      "stars_period": 49283,
+      "forks": 17961,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+      ],
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+    },
+    {
+      "rank": 22,
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_total": 30158,
+      "stars_total": 30164,
       "stars_period": 12134,
-      "forks": 4857,
+      "forks": 4859,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
@@ -379,12 +396,12 @@
       "description_zh": "“Vibe-Trading：您的个人交易代理”"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 14374,
+      "stars_total": 14378,
       "stars_period": 10428,
       "forks": 1377,
       "contributors": [
@@ -392,25 +409,7 @@
         "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
       ],
       "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 23,
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_total": 29279,
-      "stars_period": 9787,
-      "forks": 2691,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91069374?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44714368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/171774615?s=40&v=4"
-      ],
-      "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     }
   ],
-  "generated_at": 1786100377
+  "generated_at": 1786103586
 }
