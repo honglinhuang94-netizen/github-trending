@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 17,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 7518,
+      "stars_total": 7700,
       "stars_period": 2293,
-      "forks": 624,
+      "forks": 650,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 84178,
+      "stars_total": 84219,
       "stars_period": 1131,
-      "forks": 8990,
+      "forks": 8995,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -40,31 +40,46 @@
     },
     {
       "rank": 3,
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "stars_total": 6192,
-      "stars_period": 872,
-      "forks": 309,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_total": 77699,
+      "stars_period": 591,
+      "forks": 17549,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10023615?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77928207?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
       ],
-      "description_zh": "给你的代理人一台电脑👾"
+      "description_zh": "所有小初高、大学PDF教材。"
     },
     {
       "rank": 4,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_total": 16478,
+      "stars_period": 327,
+      "forks": 1304,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
+      ],
+      "description_zh": "Google 产品和技术的代理技能"
+    },
+    {
+      "rank": 5,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 209394,
+      "stars_total": 209486,
       "stars_period": 2152,
-      "forks": 18088,
+      "forks": 18098,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -74,32 +89,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
-      "rank": 5,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_total": 269030,
-      "stars_period": 782,
-      "forks": 24027,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
-      ],
-      "description_zh": "有效的代理技能框架和软件开发方法。"
-    },
-    {
       "rank": 6,
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 23809,
+      "stars_total": 23830,
       "stars_period": 530,
-      "forks": 1822,
+      "forks": 1824,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -111,101 +108,29 @@
     },
     {
       "rank": 7,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 2474,
-      "stars_period": 122,
-      "forks": 314,
+      "stars_total": 96162,
+      "stars_period": 126,
+      "forks": 18618,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "description_zh": "TradingAgents：多代理LLM金融交易框架"
     },
     {
       "rank": 8,
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_total": 70696,
-      "stars_period": 141,
-      "forks": 11005,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110395318?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15389158?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/667857?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8389627?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
-    },
-    {
-      "rank": 9,
-      "name": "chenyme/grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "stars_total": 7191,
-      "stars_period": 55,
-      "forks": 2175,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64474352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/121499347?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46989741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/111294954?s=40&v=4"
-      ],
-      "description_zh": "适用于 Grok Build、Grok Web 和 Grok Console 的多帐户 API 网关"
-    },
-    {
-      "rank": 10,
-      "name": "jdx/mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "language": "Rust",
-      "stars_total": 32141,
-      "stars_period": 135,
-      "forks": 1339,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/216188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123107610?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
-      ],
-      "description_zh": "开发工具、环境变量、任务运行程序"
-    },
-    {
-      "rank": 11,
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "language": "Python",
-      "stars_total": 186427,
-      "stars_period": 355,
-      "forks": 46066,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12185583?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76959103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133978099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8845353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10382233?s=40&v=4"
-      ],
-      "description_zh": "AutoGPT 的愿景是为每个人提供易于使用和构建的人工智能。我们的使命是提供工具，以便您可以专注于重要的事情。"
-    },
-    {
-      "rank": 12,
       "name": "google/guava",
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_total": 51796,
+      "stars_total": 51800,
       "stars_period": 152,
       "forks": 11177,
       "contributors": [
@@ -218,29 +143,30 @@
       "description_zh": "Google Java 核心库"
     },
     {
-      "rank": 13,
-      "name": "unclebob/swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "stars_total": 1930,
-      "stars_period": 81,
-      "forks": 206,
+      "rank": 9,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_total": 64869,
+      "stars_period": 42,
+      "forks": 3098,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26876570?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5600524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/222642?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19366641?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45686940?s=40&v=4"
       ],
-      "description_zh": "一个用于协调多个人工智能代理的简单工具。"
+      "description_zh": "真正独立的网络浏览器"
     },
     {
-      "rank": 14,
+      "rank": 10,
       "name": "denoland/celld",
       "url": "https://github.com/denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_total": 2373,
+      "stars_total": 2393,
       "stars_period": 516,
       "forks": 67,
       "contributors": [
@@ -251,56 +177,37 @@
       "description_zh": "自托管、分布式持久对象"
     },
     {
-      "rank": 15,
-      "name": "K2SOsint/Legendary_OSINT",
-      "url": "https://github.com/K2SOsint/Legendary_OSINT",
-      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "rank": 11,
+      "name": "litu54/DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
       "language": null,
-      "stars_total": 1626,
-      "stars_period": 109,
-      "forks": 204,
+      "stars_total": 592,
+      "stars_period": 59,
+      "forks": 853,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/85451432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4084014?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44167150?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/79752469?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20920506?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95372233?s=40&v=4"
       ],
-      "description_zh": "面向（欺诈）调查人员、CTI 分析师、KYC、AML 等的 OSINT 工具和资源列表。"
+      "description_zh": "DevOps 面试指南"
     },
     {
-      "rank": 16,
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars_total": 20019,
-      "stars_period": 234,
-      "forks": 653,
+      "rank": 12,
+      "name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_total": 49704,
+      "stars_period": 140,
+      "forks": 8235,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4262592?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55792153?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78291?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
       ],
-      "description_zh": "这是为什么运行？跟踪任何进程、端口、容器或文件到启动它的地方 - CLI + TUI。"
-    },
-    {
-      "rank": 17,
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_total": 16451,
-      "stars_period": 327,
-      "forks": 1302,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
-      ],
-      "description_zh": "Google 产品和技术的代理技能"
+      "description_zh": "翻墙-科学上网"
     }
   ],
-  "generated_at": 1786188934
+  "generated_at": 1786194202
 }
