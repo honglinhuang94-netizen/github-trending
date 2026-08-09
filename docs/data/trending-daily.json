@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 9760,
+      "stars_total": 9842,
       "stars_period": 2483,
-      "forks": 937,
+      "forks": 959,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -22,13 +22,84 @@
     },
     {
       "rank": 2,
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars_total": 2659,
+      "stars_period": 59,
+      "forks": 443,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140069682?s=40&v=4"
+      ],
+      "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
+    },
+    {
+      "rank": 3,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_total": 140039,
+      "stars_period": 446,
+      "forks": 22843,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
+      ],
+      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+    },
+    {
+      "rank": 4,
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars_total": 20217,
+      "stars_period": 556,
+      "forks": 669,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4262592?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55792153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78291?s=40&v=4"
+      ],
+      "description_zh": "这是为什么运行？跟踪任何进程、端口、容器或文件到启动它的地方 - CLI + TUI。"
+    },
+    {
+      "rank": 5,
+      "name": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
+      "language": "Python",
+      "stars_total": 6913,
+      "stars_period": 55,
+      "forks": 910,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/12649253?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/60822006?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1809626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2692566?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 6,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 84827,
+      "stars_total": 84848,
       "stars_period": 779,
-      "forks": 9128,
+      "forks": 9134,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -39,64 +110,32 @@
       "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
-      "rank": 3,
-      "name": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_total": 78124,
-      "stars_period": 118,
-      "forks": 17697,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
-      ],
-      "description_zh": "所有小初高、大学PDF教材。"
-    },
-    {
-      "rank": 4,
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "rank": 7,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_total": 16951,
-      "stars_period": 481,
-      "forks": 1381,
+      "stars_total": 60888,
+      "stars_period": 287,
+      "forks": 51896,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
       ],
-      "description_zh": "Google 产品和技术的代理技能"
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
-      "rank": 5,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 210520,
-      "stars_period": 1359,
-      "forks": 18185,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
-      ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 24100,
+      "stars_total": 24112,
       "stars_period": 467,
-      "forks": 1848,
+      "forks": 1849,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -107,107 +146,77 @@
       "description_zh": "您需要的认证胶水。"
     },
     {
-      "rank": 7,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_total": 96779,
-      "stars_period": 153,
-      "forks": 18681,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "TradingAgents：多代理LLM金融交易框架"
-    },
-    {
-      "rank": 8,
-      "name": "google/guava",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
-      "language": "Java",
-      "stars_total": 51885,
-      "stars_period": 93,
-      "forks": 11182,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1703908?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/44061?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101568?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2036304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/544569?s=40&v=4"
-      ],
-      "description_zh": "Google Java 核心库"
-    },
-    {
       "rank": 9,
-      "name": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "stars_total": 65095,
-      "stars_period": 48,
-      "forks": 3107,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_total": 16969,
+      "stars_period": 481,
+      "forks": 1383,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5600524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/222642?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19366641?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45686940?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
       ],
-      "description_zh": "真正独立的网络浏览器"
+      "description_zh": "Google 产品和技术的代理技能"
     },
     {
       "rank": 10,
-      "name": "denoland/celld",
-      "url": "https://github.com/denoland/celld",
-      "description": "self-hosted, distributed Durable Objects",
-      "language": "Rust",
-      "stars_total": 2758,
-      "stars_period": 432,
-      "forks": 81,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars_total": 125092,
+      "stars_period": 333,
+      "forks": 14815,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/80?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23649474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37561740?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46076784?s=40&v=4"
       ],
-      "description_zh": "自托管、分布式持久对象"
+      "description_zh": "最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。"
     },
     {
       "rank": 11,
-      "name": "litu54/DevOps-Interview-Guide",
-      "url": "https://github.com/litu54/DevOps-Interview-Guide",
-      "description": "DevOps Interview Guide",
-      "language": null,
-      "stars_total": 791,
-      "stars_period": 68,
-      "forks": 914,
+      "name": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars_total": 686,
+      "stars_period": 47,
+      "forks": 170,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/79752469?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20920506?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95372233?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1254056?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/119368867?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7979515?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13633268?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "DevOps 面试指南"
+      "description_zh": "旨在评估和提高代理人支持法律工作的能力而建立的基准。"
     },
     {
       "rank": 12,
-      "name": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "stars_total": 50123,
-      "stars_period": 101,
-      "forks": 8275,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 17472,
+      "stars_period": 182,
+      "forks": 3969,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "翻墙-科学上网"
+      "description_zh": ""
     }
   ],
-  "generated_at": 1786272108
+  "generated_at": 1786275371
 }
