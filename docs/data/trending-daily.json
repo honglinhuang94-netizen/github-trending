@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 9208,
+      "stars_total": 9320,
       "stars_period": 2483,
-      "forks": 888,
+      "forks": 903,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 84661,
+      "stars_total": 84690,
       "stars_period": 779,
-      "forks": 9117,
+      "forks": 9118,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 3,
@@ -44,14 +44,14 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_total": 78008,
+      "stars_total": 78037,
       "stars_period": 118,
-      "forks": 17673,
+      "forks": 17679,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "所有小初高、大学PDF教材。"
     },
     {
       "rank": 4,
@@ -59,9 +59,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 16816,
+      "stars_total": 16850,
       "stars_period": 481,
-      "forks": 1374,
+      "forks": 1375,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -69,7 +69,7 @@
         "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Google 产品和技术的代理技能"
     },
     {
       "rank": 5,
@@ -77,9 +77,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 210191,
+      "stars_total": 210256,
       "stars_period": 1359,
-      "forks": 18162,
+      "forks": 18167,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -94,9 +94,9 @@
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 24013,
+      "stars_total": 24024,
       "stars_period": 467,
-      "forks": 1840,
+      "forks": 1842,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -112,9 +112,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 96575,
+      "stars_total": 96608,
       "stars_period": 153,
-      "forks": 18669,
+      "forks": 18672,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
@@ -130,7 +130,7 @@
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_total": 51867,
+      "stars_total": 51870,
       "stars_period": 93,
       "forks": 11180,
       "contributors": [
@@ -148,7 +148,7 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_total": 65034,
+      "stars_total": 65046,
       "stars_period": 48,
       "forks": 3106,
       "contributors": [
@@ -166,9 +166,9 @@
       "url": "https://github.com/denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_total": 2633,
+      "stars_total": 2666,
       "stars_period": 432,
-      "forks": 75,
+      "forks": 78,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80?s=40&v=4",
         "https://avatars.githubusercontent.com/u/23649474?s=40&v=4",
@@ -182,9 +182,9 @@
       "url": "https://github.com/litu54/DevOps-Interview-Guide",
       "description": "DevOps Interview Guide",
       "language": null,
-      "stars_total": 731,
+      "stars_total": 743,
       "stars_period": 68,
-      "forks": 897,
+      "forks": 900,
       "contributors": [
         "https://avatars.githubusercontent.com/u/79752469?s=40&v=4",
         "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
@@ -199,9 +199,9 @@
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars_total": 49974,
+      "stars_total": 50012,
       "stars_period": 101,
-      "forks": 8260,
+      "forks": 8261,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
@@ -209,5 +209,5 @@
       "description_zh": "翻墙-科学上网"
     }
   ],
-  "generated_at": 1786249395
+  "generated_at": 1786254703
 }
