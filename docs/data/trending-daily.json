@@ -1,52 +1,34 @@
 {
   "period": "daily",
-  "count": 12,
+  "count": 16,
   "items": [
     {
       "rank": 1,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_total": 12376,
-      "stars_period": 2356,
-      "forks": 1250,
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_total": 3660,
+      "stars_period": 967,
+      "forks": 412,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32787133?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": 2,
-      "name": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "language": "Python",
-      "stars_total": 3318,
-      "stars_period": 96,
-      "forks": 538,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140069682?s=40&v=4"
-      ],
-      "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
-    },
-    {
-      "rank": 3,
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 141314,
+      "stars_total": 141362,
       "stars_period": 858,
-      "forks": 23050,
+      "forks": 23056,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,29 +39,174 @@
       "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
-      "rank": 4,
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars_total": 21127,
-      "stars_period": 210,
-      "forks": 738,
+      "rank": 3,
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_total": 60721,
+      "stars_period": 215,
+      "forks": 11942,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4262592?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55792153?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78291?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99178334?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206997360?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "这是为什么运行？跟踪任何进程、端口、容器或文件到启动它的地方 - CLI + TUI。"
+      "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "rank": 4,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 85472,
+      "stars_period": 680,
+      "forks": 9191,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": 5,
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_total": 76167,
+      "stars_period": 167,
+      "forks": 14179,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88843729?s=40&v=4"
+      ],
+      "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
+    },
+    {
+      "rank": 6,
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_total": 12496,
+      "stars_period": 2356,
+      "forks": 1261,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32787133?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
+      ],
+      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+    },
+    {
+      "rank": 7,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_total": 65137,
+      "stars_period": 190,
+      "forks": 3113,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5600524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/222642?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19366641?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45686940?s=40&v=4"
+      ],
+      "description_zh": "真正独立的网络浏览器"
+    },
+    {
+      "rank": 8,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 89162,
+      "stars_period": 156,
+      "forks": 11873,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
+    },
+    {
+      "rank": 9,
+      "name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars_total": 17638,
+      "stars_period": 143,
+      "forks": 2359,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1050379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/260860065?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+      ],
+      "description_zh": "⛰️一款通用爬山AI安全带，帮助您从生活和工作的现状迈向理想状态。"
+    },
+    {
+      "rank": 10,
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars_total": 164570,
+      "stars_period": 815,
+      "forks": 9263,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66118807?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/150964962?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2652220?s=40&v=4"
+      ],
+      "description_zh": "用于大规模搜索、抓取和与网络交互的上下文 API。 🔥"
+    },
+    {
+      "rank": 11,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_total": 96949,
+      "stars_period": 598,
+      "forks": 18713,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "TradingAgents：多代理LLM金融交易框架"
+    },
+    {
+      "rank": 12,
       "name": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "description": "",
       "language": "Python",
-      "stars_total": 7218,
+      "stars_total": 7236,
       "stars_period": 86,
       "forks": 946,
       "contributors": [
@@ -92,86 +219,50 @@
       "description_zh": ""
     },
     {
-      "rank": 6,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 85429,
-      "stars_period": 680,
-      "forks": 9188,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
-      ],
-      "description_zh": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 7,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "rank": 13,
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 61637,
-      "stars_period": 306,
-      "forks": 52151,
+      "stars_total": 3346,
+      "stars_period": 96,
+      "forks": 539,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 8,
-      "name": "goauthentik/authentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "stars_total": 24434,
-      "stars_period": 310,
-      "forks": 1868,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1932513?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18313093?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/18568?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/340695?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140069682?s=40&v=4"
       ],
-      "description_zh": "您需要的认证胶水。"
+      "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
     },
     {
-      "rank": 9,
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_total": 17489,
-      "stars_period": 528,
-      "forks": 1402,
+      "rank": 14,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 17848,
+      "stars_period": 163,
+      "forks": 4033,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44714045?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "Google 产品和技术的代理技能"
+      "description_zh": ""
     },
     {
-      "rank": 10,
+      "rank": 15,
       "name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
-      "stars_total": 125953,
+      "stars_total": 125991,
       "stars_period": 365,
-      "forks": 14876,
+      "forks": 14880,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
@@ -182,41 +273,23 @@
       "description_zh": "最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。"
     },
     {
-      "rank": 11,
-      "name": "harveyai/harvey-labs",
-      "url": "https://github.com/harveyai/harvey-labs",
-      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "language": "Python",
-      "stars_total": 947,
-      "stars_period": 47,
-      "forks": 184,
+      "rank": 16,
+      "name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars_total": 5897,
+      "stars_period": 95,
+      "forks": 6185,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1254056?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/119368867?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7979515?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13633268?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/18235760?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54073235?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69592455?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118011249?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63724031?s=40&v=4"
       ],
-      "description_zh": "旨在评估和提高代理人支持法律工作的能力而建立的基准。"
-    },
-    {
-      "rank": 12,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 17825,
-      "stars_period": 163,
-      "forks": 4029,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": ""
+      "description_zh": "Dopamine 是一款针对 iOS 15 至 26(.0.1) 的半自由越狱工具"
     }
   ],
-  "generated_at": 1786357449
+  "generated_at": 1786362818
 }
