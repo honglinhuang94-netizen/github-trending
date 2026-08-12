@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 7692,
+      "stars_total": 7708,
       "stars_period": 6775,
-      "forks": 419,
+      "forks": 420,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
@@ -22,11 +22,44 @@
     },
     {
       "rank": 2,
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_total": 5378,
+      "stars_period": 2712,
+      "forks": 589,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
+    },
+    {
+      "rank": 3,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_total": 20304,
+      "stars_period": 7017,
+      "forks": 1832,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
+      ],
+      "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
+    },
+    {
+      "rank": 4,
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_total": 4281,
+      "stars_total": 4295,
       "stars_period": 2687,
       "forks": 359,
       "contributors": [
@@ -39,14 +72,14 @@
       "description_zh": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
-      "stars_total": 14860,
+      "stars_total": 14875,
       "stars_period": 5367,
-      "forks": 1024,
+      "forks": 1027,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,81 +90,12 @@
       "description_zh": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
-      "rank": 4,
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars_total": 20246,
-      "stars_period": 7017,
-      "forks": 1827,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
-      ],
-      "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
-    },
-    {
-      "rank": 5,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "stars_total": 5314,
-      "stars_period": 2712,
-      "forks": 575,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
-    },
-    {
       "rank": 6,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_total": 24247,
-      "stars_period": 6730,
-      "forks": 3294,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32364788?s=40&v=4"
-      ],
-      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "rank": 7,
-      "name": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "stars_total": 34104,
-      "stars_period": 3517,
-      "forks": 2233,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18465053?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8982044?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
-    },
-    {
-      "rank": 8,
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 17845,
+      "stars_total": 17847,
       "stars_period": 2216,
       "forks": 1419,
       "contributors": [
@@ -144,14 +108,14 @@
       "description_zh": "Google 产品和技术的代理技能"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 3980,
+      "stars_total": 3994,
       "stars_period": 1189,
-      "forks": 569,
+      "forks": 571,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -162,65 +126,48 @@
       "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
     },
     {
+      "rank": 8,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_total": 24270,
+      "stars_period": 6730,
+      "forks": 3301,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32364788?s=40&v=4"
+      ],
+      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "rank": 9,
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars_total": 34116,
+      "stars_period": 3517,
+      "forks": 2238,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18465053?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8982044?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56394323?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      ],
+      "description_zh": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
+    },
+    {
       "rank": 10,
-      "name": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "language": "Python",
-      "stars_total": 1377,
-      "stars_period": 621,
-      "forks": 120,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2167458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4452761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66971827?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "ADR 通过可观察性、安全基准测试和威胁检测来保护企业 AI 代理。部署在 Uber。"
-    },
-    {
-      "rank": 11,
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars_total": 20688,
-      "stars_period": 4155,
-      "forks": 2185,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38981901?s=40&v=4"
-      ],
-      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
-    },
-    {
-      "rank": 12,
-      "name": "unclebob/swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "stars_total": 2193,
-      "stars_period": 671,
-      "forks": 231,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26876570?s=40&v=4"
-      ],
-      "description_zh": "一个用于协调多个人工智能代理的简单工具。"
-    },
-    {
-      "rank": 13,
       "name": "drawdb-io/drawdb",
       "url": "https://github.com/drawdb-io/drawdb",
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
-      "stars_total": 38892,
+      "stars_total": 38896,
       "stars_period": 597,
       "forks": 3171,
       "contributors": [
@@ -233,14 +180,32 @@
       "description_zh": "免费、简单、直观的在线数据库图表编辑器和 SQL 生成器。"
     },
     {
-      "rank": 14,
+      "rank": 11,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars_total": 20714,
+      "stars_period": 4155,
+      "forks": 2188,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38981901?s=40&v=4"
+      ],
+      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+    },
+    {
+      "rank": 12,
       "name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
-      "stars_total": 126964,
+      "stars_total": 126979,
       "stars_period": 3252,
-      "forks": 14952,
+      "forks": 14953,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
@@ -251,30 +216,12 @@
       "description_zh": "最强大、模块化的扩散模型 GUI、API 和带有图形/节点接口的后端。"
     },
     {
-      "rank": 15,
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_total": 30828,
-      "stars_period": 2798,
-      "forks": 3277,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "name": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_total": 65445,
+      "stars_total": 65451,
       "stars_period": 679,
       "forks": 3128,
       "contributors": [
@@ -287,12 +234,30 @@
       "description_zh": "真正独立的网络浏览器"
     },
     {
-      "rank": 17,
+      "rank": 14,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 86445,
+      "stars_period": 4671,
+      "forks": 9282,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 15,
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_total": 24658,
+      "stars_total": 24667,
       "stars_period": 2003,
       "forks": 1889,
       "contributors": [
@@ -305,5 +270,5 @@
       "description_zh": "您需要的认证胶水。"
     }
   ],
-  "generated_at": 1786529681
+  "generated_at": 1786535607
 }
