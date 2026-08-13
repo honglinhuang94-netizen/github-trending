@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 15432,
+      "stars_total": 15441,
       "stars_period": 12612,
-      "forks": 1646,
+      "forks": 1648,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 6578,
+      "stars_total": 6609,
       "stars_period": 3585,
-      "forks": 692,
+      "forks": 696,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 18061,
+      "stars_total": 18064,
       "stars_period": 2288,
       "forks": 1429,
       "contributors": [
@@ -62,7 +62,7 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 7975,
+      "stars_total": 7978,
       "stars_period": 6020,
       "forks": 441,
       "contributors": [
@@ -80,9 +80,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 21185,
+      "stars_total": 21197,
       "stars_period": 5720,
-      "forks": 1926,
+      "forks": 1930,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
@@ -95,7 +95,7 @@
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 4198,
+      "stars_total": 4202,
       "stars_period": 1511,
       "forks": 586,
       "contributors": [
@@ -113,7 +113,7 @@
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_total": 4602,
+      "stars_total": 4605,
       "stars_period": 2509,
       "forks": 395,
       "contributors": [
@@ -131,9 +131,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 86947,
+      "stars_total": 86960,
       "stars_period": 4817,
-      "forks": 9339,
+      "forks": 9340,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -149,7 +149,7 @@
       "url": "https://github.com/drawdb-io/drawdb",
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
-      "stars_total": 39032,
+      "stars_total": 39036,
       "stars_period": 665,
       "forks": 3181,
       "contributors": [
@@ -167,7 +167,7 @@
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
-      "stars_total": 15313,
+      "stars_total": 15322,
       "stars_period": 4043,
       "forks": 1054,
       "contributors": [
@@ -177,7 +177,7 @@
         "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
         "https://avatars.githubusercontent.com/u/125551792?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": 11,
@@ -185,7 +185,7 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_total": 65549,
+      "stars_total": 65552,
       "stars_period": 743,
       "forks": 3132,
       "contributors": [
@@ -203,7 +203,7 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars_total": 34462,
+      "stars_total": 34467,
       "stars_period": 2953,
       "forks": 2275,
       "contributors": [
@@ -221,7 +221,7 @@
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars_total": 90834,
+      "stars_total": 90842,
       "stars_period": 1420,
       "forks": 7529,
       "contributors": [
@@ -239,9 +239,9 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_total": 24915,
+      "stars_total": 24922,
       "stars_period": 5573,
-      "forks": 3385,
+      "forks": 3386,
       "contributors": [
         "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
@@ -257,7 +257,7 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_total": 79267,
+      "stars_total": 79270,
       "stars_period": 2384,
       "forks": 17996,
       "contributors": [
@@ -272,7 +272,7 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 21190,
+      "stars_total": 21205,
       "stars_period": 3983,
       "forks": 2235,
       "contributors": [
@@ -282,7 +282,7 @@
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
       ],
-      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 17,
@@ -290,7 +290,7 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
-      "stars_total": 127342,
+      "stars_total": 127350,
       "stars_period": 3321,
       "forks": 14988,
       "contributors": [
@@ -303,5 +303,5 @@
       "description_zh": "最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。"
     }
   ],
-  "generated_at": 1786661527
+  "generated_at": 1786665054
 }
