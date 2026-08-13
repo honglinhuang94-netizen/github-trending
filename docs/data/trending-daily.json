@@ -8,9 +8,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_total": 12425,
+      "stars_total": 12680,
       "stars_period": 2855,
-      "forks": 762,
+      "forks": 772,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -22,31 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "language": "Rust",
-      "stars_total": 2326,
-      "stars_period": 227,
-      "forks": 259,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6412775?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25272206?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10552019?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11590722?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35308761?s=40&v=4"
-      ],
-      "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
-    },
-    {
-      "rank": 3,
       "name": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 6027,
+      "stars_total": 6077,
       "stars_period": 845,
-      "forks": 651,
+      "forks": 654,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -57,176 +39,122 @@
       "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
-      "rank": 4,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "language": "TypeScript",
-      "stars_total": 44472,
-      "stars_period": 1235,
-      "forks": 3098,
+      "rank": 3,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_total": 168716,
+      "stars_period": 569,
+      "forks": 20102,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
       ],
-      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
+      "description_zh": "代理技能的公共存储库"
+    },
+    {
+      "rank": 4,
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars_total": 4614,
+      "stars_period": 315,
+      "forks": 321,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
+      ],
+      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": 5,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_total": 144935,
-      "stars_period": 1873,
-      "forks": 23451,
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars_total": 9662,
+      "stars_period": 83,
+      "forks": 650,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/58961993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104713086?s=40&v=4"
       ],
-      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
+      "description_zh": "最快且唯一具有设备上 STT 和自定义训练的 AI 增强模型的 macOS 听写应用程序。本地 Wispr Flow 替代方案。 ⭐ 帮助很大 :) Windows 和 iOS 候补名单开放。很快就会有Linux了。"
     },
     {
       "rank": 6,
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_total": 37050,
-      "stars_period": 266,
-      "forks": 6153,
+      "stars_total": 70776,
+      "stars_period": 592,
+      "forks": 6392,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18326516?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1777564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129808685?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/107991372?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112766706?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39181234?s=40&v=4"
       ],
-      "description_zh": "Kronos：金融市场语言的基础模型"
+      "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
     },
     {
       "rank": 7,
-      "name": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "language": "Python",
-      "stars_total": 62268,
-      "stars_period": 215,
-      "forks": 12160,
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_total": 2381,
+      "stars_period": 227,
+      "forks": 262,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129171955?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99178334?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206997360?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6412775?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25272206?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10552019?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11590722?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35308761?s=40&v=4"
       ],
-      "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+      "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
     },
     {
       "rank": 8,
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 46272,
-      "stars_period": 476,
-      "forks": 3752,
+      "stars_total": 12173,
+      "stars_period": 166,
+      "forks": 1646,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/185591438?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22169353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58585665?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
       ],
-      "description_zh": "AI 将文档或主题转化为真实的原生 PowerPoint 演示文稿 - 具有原生形状、过渡和动画、按需提供数据支持的图表和表格、演讲者笔记的音频旁白以及对您自己的 .pptx 模板的支持。 ·何雨果"
+      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
     },
     {
       "rank": 9,
-      "name": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "stars_total": 87786,
-      "stars_period": 139,
-      "forks": 10337,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8089971?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12318111?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33142505?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/93570324?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/153784?s=40&v=4"
-      ],
-      "description_zh": "RAGFlow 是一款领先的开源检索增强生成 (RAG) 引擎，它将尖端的 RAG 与代理功能相融合，为法学硕士创建卓越的上下文层"
-    },
-    {
-      "rank": 10,
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_total": 77961,
-      "stars_period": 571,
-      "forks": 14306,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88843729?s=40&v=4"
-      ],
-      "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
-    },
-    {
-      "rank": 11,
-      "name": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "",
-      "language": "Rust",
-      "stars_total": 989,
-      "stars_period": 421,
-      "forks": 97,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180418?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/208532109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/196090752?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 12,
-      "name": "ZuodaoTech/everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "description": "人人都能用英语",
-      "language": "TypeScript",
-      "stars_total": 36370,
-      "stars_period": 86,
-      "forks": 5041,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22209056?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26003810?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26423172?s=40&v=4"
-      ],
-      "description_zh": "人人都能用英语"
-    },
-    {
-      "rank": 13,
       "name": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
-      "stars_total": 20472,
+      "stars_total": 20491,
       "stars_period": 74,
-      "forks": 3309,
+      "forks": 3308,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1687345?s=40&v=4",
         "https://avatars.githubusercontent.com/u/434827?s=40&v=4",
@@ -237,22 +165,94 @@
       "description_zh": "SpiderFoot 自动化 OSINT 以获取威胁情报并绘制攻击面图。"
     },
     {
-      "rank": 14,
-      "name": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars_total": 88126,
-      "stars_period": 213,
-      "forks": 4889,
+      "rank": 10,
+      "name": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "language": "Rust",
+      "stars_total": 1007,
+      "stars_period": 421,
+      "forks": 98,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/38380847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/125032334?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78599753?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39922116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4068977?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/180418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/208532109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/196090752?s=40&v=4"
       ],
-      "description_zh": "AirDrop 的开源跨平台替代方案"
+      "description_zh": ""
+    },
+    {
+      "rank": 11,
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars_total": 6145,
+      "stars_period": 258,
+      "forks": 522,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/180554771?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30037764?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66740889?s=40&v=4"
+      ],
+      "description_zh": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+    },
+    {
+      "rank": 12,
+      "name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "language": null,
+      "stars_total": 45302,
+      "stars_period": 252,
+      "forks": 3279,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10565871?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128294874?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1010226?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1225437?s=40&v=4"
+      ],
+      "description_zh": "黑曜石的代理技能。教您的代理使用 Obsidian CLI 和开放格式，包括 Markdown、Bases、JSON Canvas。"
+    },
+    {
+      "rank": 13,
+      "name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars_total": 90657,
+      "stars_period": 506,
+      "forks": 7516,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44120331?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13440601?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50232075?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43117506?s=40&v=4"
+      ],
+      "description_zh": "用于解释数学视频的动画引擎"
+    },
+    {
+      "rank": 14,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_total": 144969,
+      "stars_period": 1873,
+      "forks": 23457,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7342666?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/166588383?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
+      ],
+      "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个代理都是一位具有个性、流程和经过验证的可交付成果的专业专家。"
     },
     {
       "rank": 15,
@@ -260,7 +260,7 @@
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars_total": 8798,
+      "stars_total": 8807,
       "stars_period": 65,
       "forks": 1400,
       "contributors": [
@@ -272,40 +272,40 @@
     },
     {
       "rank": 16,
-      "name": "embabel/embabel-agent",
-      "url": "https://github.com/embabel/embabel-agent",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "language": "Kotlin",
-      "stars_total": 4274,
-      "stars_period": 40,
-      "forks": 414,
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars_total": 5127,
+      "stars_period": 70,
+      "forks": 565,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1916583?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2858254?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165492669?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/430321?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/330665?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/63157773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16082197?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/240378348?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/162889656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157744625?s=40&v=4"
       ],
-      "description_zh": "JVM 的代理框架。发音为 Em-BAY-bel /ɛmˈbeɪbəl/"
+      "description_zh": "使用本地 AI 从图像生成 3D 模型的桌面应用程序 — 完全在您的 GPU 上运行"
     },
     {
       "rank": 17,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_total": 4568,
-      "stars_period": 315,
-      "forks": 318,
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars_total": 87818,
+      "stars_period": 139,
+      "forks": 10340,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8089971?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12318111?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33142505?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/93570324?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/153784?s=40&v=4"
       ],
-      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "description_zh": "RAGFlow 是一款领先的开源检索增强生成 (RAG) 引擎，它将尖端的 RAG 与代理功能相融合，为法学硕士创建卓越的上下文层"
     }
   ],
-  "generated_at": 1786616160
+  "generated_at": 1786622018
 }

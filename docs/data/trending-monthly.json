@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 22,
+  "count": 20,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
       "language": "TypeScript",
-      "stars_total": 46915,
+      "stars_total": 46961,
       "stars_period": 30720,
-      "forks": 6328,
+      "forks": 6336,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 81414,
+      "stars_total": 81435,
       "stars_period": 19780,
-      "forks": 12162,
+      "forks": 12166,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 24531,
-      "stars_period": 20434,
-      "forks": 1232,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
-      ],
-      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": 4,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
       "language": "Rust",
-      "stars_total": 17392,
+      "stars_total": 17397,
       "stars_period": 9141,
-      "forks": 1952,
+      "forks": 1953,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,14 +57,29 @@
       "description_zh": "RAM 效率最高的线束"
     },
     {
+      "rank": 4,
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_total": 21002,
+      "stars_period": 11923,
+      "forks": 1910,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
+      ],
+      "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
+    },
+    {
       "rank": 5,
       "name": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_total": 24686,
+      "stars_total": 24714,
       "stars_period": 16418,
-      "forks": 3355,
+      "forks": 3362,
       "contributors": [
         "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
@@ -94,46 +91,31 @@
     },
     {
       "rank": 6,
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars_total": 20959,
-      "stars_period": 11923,
-      "forks": 1905,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_total": 24548,
+      "stars_period": 20434,
+      "forks": 1233,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
       ],
-      "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
+      "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
       "rank": 7,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "language": "Python",
-      "stars_total": 35345,
-      "stars_period": 9854,
-      "forks": 4478,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
-      ],
-      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
-    },
-    {
-      "rank": 8,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 18516,
+      "stars_total": 18521,
       "stars_period": 4863,
-      "forks": 4229,
+      "forks": 4234,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -144,14 +126,32 @@
       "description_zh": ""
     },
     {
+      "rank": 8,
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars_total": 35364,
+      "stars_period": 9854,
+      "forks": 4482,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
+      ],
+      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+    },
+    {
       "rank": 9,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 44472,
+      "stars_total": 44531,
       "stars_period": 27261,
-      "forks": 3098,
+      "forks": 3105,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 215746,
+      "stars_total": 215833,
       "stars_period": 49357,
-      "forks": 18606,
+      "forks": 18611,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -184,9 +184,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 11643,
+      "stars_total": 11654,
       "stars_period": 7226,
-      "forks": 1332,
+      "forks": 1333,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -202,9 +202,9 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 89142,
+      "stars_total": 89199,
       "stars_period": 18875,
-      "forks": 11077,
+      "forks": 11079,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -220,9 +220,9 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 21018,
+      "stars_total": 21041,
       "stars_period": 12345,
-      "forks": 2219,
+      "forks": 2221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -230,7 +230,7 @@
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
       ],
-      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": 14,
@@ -238,7 +238,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 29975,
+      "stars_total": 29981,
       "stars_period": 10586,
       "forks": 2749,
       "contributors": [
@@ -252,31 +252,13 @@
     },
     {
       "rank": 15,
-      "name": "kangarooking/cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "language": "Python",
-      "stars_total": 7590,
-      "stars_period": 4967,
-      "forks": 934,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52196004?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25081065?s=40&v=4"
-      ],
-      "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
-    },
-    {
-      "rank": 16,
       "name": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars_total": 4131,
+      "stars_total": 4134,
       "stars_period": 2977,
-      "forks": 580,
+      "forks": 582,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/38752750?s=40&v=4",
@@ -287,30 +269,30 @@
       "description_zh": "pi 编码代理的 Web UI"
     },
     {
-      "rank": 17,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "HTML",
-      "stars_total": 11919,
-      "stars_period": 7946,
-      "forks": 904,
+      "rank": 16,
+      "name": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "stars_total": 7611,
+      "stars_period": 4967,
+      "forks": 935,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184950797?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/218489957?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/52196004?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25081065?s=40&v=4"
       ],
-      "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
+      "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "MoonshotAI/kimi-code",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars_total": 6497,
+      "stars_total": 6508,
       "stars_period": 3413,
       "forks": 1032,
       "contributors": [
@@ -323,14 +305,14 @@
       "description_zh": "Kimi Code CLI — 下一代代理的起点"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_total": 22000,
+      "stars_total": 22007,
       "stars_period": 5328,
-      "forks": 2176,
+      "forks": 2177,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
         "https://avatars.githubusercontent.com/u/270187002?s=40&v=4",
@@ -341,56 +323,41 @@
       "description_zh": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
     },
     {
-      "rank": 20,
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 28084,
-      "stars_period": 12740,
-      "forks": 1899,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10683426?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/226215277?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": 21,
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_total": 15243,
-      "stars_period": 7481,
-      "forks": 1456,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186665980?s=40&v=4"
-      ],
-      "description_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
-    },
-    {
-      "rank": 22,
-      "name": "kunchenguid/firstmate",
-      "url": "https://github.com/kunchenguid/firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
+      "rank": 19,
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
       "language": "Shell",
-      "stars_total": 3452,
-      "stars_period": 2227,
-      "forks": 1111,
+      "stars_total": 2198,
+      "stars_period": 1324,
+      "forks": 224,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8334081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7937632?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47162770?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3001850?s=40&v=4"
       ],
-      "description_zh": "与一位代理人交谈。与船员一起航行。"
+      "description_zh": "盆景演示"
+    },
+    {
+      "rank": 20,
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "HTML",
+      "stars_total": 11952,
+      "stars_period": 7946,
+      "forks": 905,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/184950797?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/218489957?s=40&v=4"
+      ],
+      "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
     }
   ],
-  "generated_at": 1786616166
+  "generated_at": 1786622023
 }
