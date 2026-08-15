@@ -1,16 +1,34 @@
 {
   "period": "monthly",
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "rank": 1,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_total": 37517,
+      "stars_period": 37585,
+      "forks": 4120,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+      ],
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "rank": 2,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
-      "stars_total": 48346,
+      "stars_total": 48373,
       "stars_period": 30924,
-      "forks": 6568,
+      "forks": 6575,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
@@ -21,14 +39,14 @@
       "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、339 个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 82031,
+      "stars_total": 82040,
       "stars_period": 20347,
-      "forks": 12251,
+      "forks": 12253,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,12 +57,12 @@
       "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
       "language": "Rust",
-      "stars_total": 17604,
+      "stars_total": 17607,
       "stars_period": 9326,
       "forks": 1982,
       "contributors": [
@@ -54,32 +72,32 @@
         "https://avatars.githubusercontent.com/u/56603175?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "RAM 效率最高的线束"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 21856,
+      "stars_total": 21872,
       "stars_period": 12911,
-      "forks": 2003,
+      "forks": 2005,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
       ],
-      "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_total": 25394,
+      "stars_total": 25403,
       "stars_period": 17172,
-      "forks": 3439,
+      "forks": 3441,
       "contributors": [
         "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
@@ -90,14 +108,14 @@
       "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 18815,
+      "stars_total": 18818,
       "stars_period": 4866,
-      "forks": 4357,
+      "forks": 4358,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -108,12 +126,12 @@
       "description_zh": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 45909,
+      "stars_total": 45938,
       "stars_period": 26995,
       "forks": 3206,
       "contributors": [
@@ -126,12 +144,12 @@
       "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 218072,
+      "stars_total": 218102,
       "stars_period": 48799,
       "forks": 18787,
       "contributors": [
@@ -140,17 +158,17 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
       ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 90742,
+      "stars_total": 90768,
       "stars_period": 19705,
-      "forks": 11256,
+      "forks": 11259,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -161,12 +179,12 @@
       "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 35723,
+      "stars_total": 35734,
       "stars_period": 9903,
       "forks": 4522,
       "contributors": [
@@ -176,15 +194,15 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
       ],
-      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 11998,
+      "stars_total": 12002,
       "stars_period": 7613,
       "forks": 1373,
       "contributors": [
@@ -194,17 +212,17 @@
         "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
+      "description_zh": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 21723,
+      "stars_total": 21731,
       "stars_period": 12941,
-      "forks": 2289,
+      "forks": 2293,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -212,15 +230,15 @@
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
       ],
-      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 30231,
+      "stars_total": 30234,
       "stars_period": 10738,
       "forks": 2767,
       "contributors": [
@@ -233,12 +251,12 @@
       "description_zh": "MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，以便 AI 编码工具仅读取重要内容，并在评论和大型存储库工作流程上进行基准上下文缩减。"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 25024,
+      "stars_total": 25033,
       "stars_period": 19228,
       "forks": 1269,
       "contributors": [
@@ -251,14 +269,14 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars_total": 4273,
+      "stars_total": 4275,
       "stars_period": 3071,
-      "forks": 605,
+      "forks": 606,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/38752750?s=40&v=4",
@@ -266,17 +284,17 @@
         "https://avatars.githubusercontent.com/u/26293970?s=40&v=4",
         "https://avatars.githubusercontent.com/u/12383159?s=40&v=4"
       ],
-      "description_zh": "pi 编码代理的 Web UI"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 31176,
+      "stars_total": 31179,
       "stars_period": 8667,
-      "forks": 3313,
+      "forks": 3314,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -287,14 +305,14 @@
       "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "kangarooking/cangjie-skill",
       "url": "https://github.com/kangarooking/cangjie-skill",
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "language": "Python",
-      "stars_total": 7938,
+      "stars_total": 7947,
       "stars_period": 5011,
-      "forks": 956,
+      "forks": 958,
       "contributors": [
         "https://avatars.githubusercontent.com/u/251981839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -305,14 +323,14 @@
       "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_total": 22271,
+      "stars_total": 22274,
       "stars_period": 5521,
-      "forks": 2200,
+      "forks": 2202,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
         "https://avatars.githubusercontent.com/u/270187002?s=40&v=4",
@@ -323,14 +341,14 @@
       "description_zh": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "MoonshotAI/kimi-code",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars_total": 6727,
+      "stars_total": 6731,
       "stars_period": 3600,
-      "forks": 1050,
+      "forks": 1051,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25167721?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57169560?s=40&v=4",
@@ -341,14 +359,14 @@
       "description_zh": "Kimi Code CLI — 下一代代理的起点"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_total": 6090,
+      "stars_total": 6093,
       "stars_period": 4325,
-      "forks": 619,
+      "forks": 620,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5016453?s=40&v=4",
         "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
@@ -356,8 +374,8 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67006255?s=40&v=4"
       ],
-      "description_zh": "一个轻量级的云原生 GIS 平台，用于可视化、探索和分析地理空间数据。它可以在 Web 浏览器、桌面、移动设备和 Jupyter 笔记本中运行。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1786800977
+  "generated_at": 1786804198
 }
