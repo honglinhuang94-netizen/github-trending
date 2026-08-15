@@ -8,9 +8,9 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 15913,
-      "stars_period": 12476,
-      "forks": 1700,
+      "stars_total": 15940,
+      "stars_period": 10739,
+      "forks": 1705,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
         "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
       ],
-      "description_zh": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 7504,
-      "stars_period": 4073,
-      "forks": 777,
+      "stars_total": 7539,
+      "stars_period": 5135,
+      "forks": 782,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 18194,
-      "stars_period": 2359,
-      "forks": 1436,
+      "stars_total": 18202,
+      "stars_period": 2186,
+      "forks": 1437,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -62,15 +62,15 @@
       "url": "https://github.com/denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_total": 3550,
-      "stars_period": 1783,
-      "forks": 115,
+      "stars_total": 3558,
+      "stars_period": 1549,
+      "forks": 117,
       "contributors": [
         "https://avatars.githubusercontent.com/u/80?s=40&v=4",
         "https://avatars.githubusercontent.com/u/23649474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/37561740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17734409?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73962?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/597300?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6104981?s=40&v=4"
       ],
       "description_zh": "自托管、分布式持久对象"
     },
@@ -80,9 +80,9 @@
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 4291,
-      "stars_period": 1628,
-      "forks": 590,
+      "stars_total": 4295,
+      "stars_period": 1718,
+      "forks": 591,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -90,7 +90,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/140069682?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
     },
     {
       "rank": 6,
@@ -98,9 +98,9 @@
       "url": "https://github.com/megadose/holehe",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 12831,
-      "stars_period": 327,
-      "forks": 1716,
+      "stars_total": 12857,
+      "stars_period": 671,
+      "forks": 1717,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
-      "stars_total": 1455,
-      "stars_period": 900,
-      "forks": 128,
+      "stars_total": 1468,
+      "stars_period": 1195,
+      "forks": 130,
       "contributors": [
         "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 8125,
-      "stars_period": 3599,
-      "forks": 446,
+      "stars_total": 8137,
+      "stars_period": 2856,
+      "forks": 447,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 87276,
-      "stars_period": 4562,
-      "forks": 9362,
+      "stars_total": 87294,
+      "stars_period": 3845,
+      "forks": 9364,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 21695,
-      "stars_period": 5388,
-      "forks": 1982,
+      "stars_total": 21713,
+      "stars_period": 4423,
+      "forks": 1984,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
@@ -185,9 +185,9 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 5582,
-      "stars_period": 1377,
-      "forks": 372,
+      "stars_total": 5622,
+      "stars_period": 1929,
+      "forks": 374,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -195,7 +195,7 @@
         "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
         "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": 12,
@@ -203,15 +203,15 @@
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_total": 4712,
-      "stars_period": 1967,
-      "forks": 409,
+      "stars_total": 4718,
+      "stars_period": 1455,
+      "forks": 410,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17559402?s=40&v=4",
         "https://avatars.githubusercontent.com/u/96154058?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/291707971?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/96656966?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29456968?s=40&v=4"
       ],
       "description_zh": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
     },
@@ -221,9 +221,9 @@
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars_total": 91118,
-      "stars_period": 1530,
-      "forks": 7546,
+      "stars_total": 91131,
+      "stars_period": 1919,
+      "forks": 7548,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44120331?s=40&v=4",
@@ -239,8 +239,8 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_total": 65627,
-      "stars_period": 775,
+      "stars_total": 65631,
+      "stars_period": 819,
       "forks": 3131,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
@@ -257,9 +257,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_total": 79587,
-      "stars_period": 2369,
-      "forks": 18064,
+      "stars_total": 79610,
+      "stars_period": 1998,
+      "forks": 18067,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10050045?s=40&v=4"
@@ -272,8 +272,8 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 18745,
-      "stars_period": 1665,
+      "stars_total": 18753,
+      "stars_period": 1603,
       "forks": 4330,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -285,5 +285,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1786750088
+  "generated_at": 1786758081
 }
