@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 8,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 4383,
+      "stars_total": 4404,
       "stars_period": 599,
-      "forks": 218,
+      "forks": 219,
       "contributors": [
         "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
@@ -22,67 +22,31 @@
     },
     {
       "rank": 2,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars_total": 19081,
-      "stars_period": 1607,
-      "forks": 1157,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 25067,
+      "stars_period": 225,
+      "forks": 2554,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64578610?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
       ],
-      "description_zh": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
+      "description_zh": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": 3,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 3019,
-      "stars_period": 149,
-      "forks": 242,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5743232?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10885502?s=40&v=4"
-      ],
-      "description_zh": "光标插件规范和官方插件"
-    },
-    {
-      "rank": 4,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_total": 6240,
-      "stars_period": 547,
-      "forks": 415,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
-      ],
-      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
-    },
-    {
-      "rank": 5,
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_total": 72229,
+      "stars_total": 72242,
       "stars_period": 434,
-      "forks": 6504,
+      "forks": 6505,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
         "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
@@ -93,14 +57,50 @@
       "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
     },
     {
+      "rank": 4,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 83503,
+      "stars_period": 134,
+      "forks": 8262,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": 5,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 1525,
+      "stars_period": 41,
+      "forks": 162,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
+      ],
+      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+    },
+    {
       "rank": 6,
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 460716,
+      "stars_total": 460772,
       "stars_period": 2260,
-      "forks": 50903,
+      "forks": 50910,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -112,85 +112,13 @@
     },
     {
       "rank": 7,
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "language": "Python",
-      "stars_total": 1860,
-      "stars_period": 297,
-      "forks": 275,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/188336071?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32305505?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184846527?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26088029?s=40&v=4"
-      ],
-      "description_zh": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
-    },
-    {
-      "rank": 8,
-      "name": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "stars_total": 129369,
-      "stars_period": 892,
-      "forks": 11569,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/53200638?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "💫 帮助您开始规范驱动开发的工具包"
-    },
-    {
-      "rank": 9,
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars_total": 13210,
-      "stars_period": 382,
-      "forks": 1751,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
-      ],
-      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
-    },
-    {
-      "rank": 10,
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
-      "language": "Swift",
-      "stars_total": 10431,
-      "stars_period": 104,
-      "forks": 703,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/224717674?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36641932?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5984169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58961993?s=40&v=4"
-      ],
-      "description_zh": "最快且唯一具有设备上 STT 和自定义训练的 AI 增强模型的 macOS 听写应用程序。本地 Wispr Flow 替代方案。在 X 上私信我们以获得复活节彩蛋 😉 -https://x.com/fluidvoiceapp"
-    },
-    {
-      "rank": 11,
       "name": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
-      "stars_total": 39707,
+      "stars_total": 39724,
       "stars_period": 544,
-      "forks": 5308,
+      "forks": 5309,
       "contributors": [
         "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
@@ -201,41 +129,23 @@
       "description_zh": "ToolJet 是 ToolJet AI 的开源基础 - ToolJet AI 是用于构建内部工具、仪表板、业务应用程序、工作流程和 AI 代理的企业应用程序生成平台 🚀"
     },
     {
-      "rank": 12,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "rank": 8,
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 47537,
-      "stars_period": 118,
-      "forks": 4401,
+      "stars_total": 6257,
+      "stars_period": 547,
+      "forks": 415,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
       ],
-      "description_zh": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
-    },
-    {
-      "rank": 13,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_total": 11232,
-      "stars_period": 545,
-      "forks": 573,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77671587?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17873165?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84236270?s=40&v=4"
-      ],
-      "description_zh": "AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
+      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     }
   ],
-  "generated_at": 1786876179
+  "generated_at": 1786879577
 }
