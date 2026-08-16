@@ -8,9 +8,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_total": 18712,
+      "stars_total": 18793,
       "stars_period": 14735,
-      "forks": 1131,
+      "forks": 1136,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 7954,
+      "stars_total": 7969,
       "stars_period": 5339,
-      "forks": 815,
+      "forks": 816,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_total": 16312,
+      "stars_total": 16341,
       "stars_period": 8488,
       "forks": 1752,
       "contributors": [
@@ -54,7 +54,7 @@
         "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
       ],
-      "description_zh": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": 4,
@@ -62,9 +62,9 @@
       "url": "https://github.com/megadose/holehe",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 13137,
+      "stars_total": 13158,
       "stars_period": 1059,
-      "forks": 1741,
+      "forks": 1744,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
-      "stars_total": 1590,
+      "stars_total": 1597,
       "stars_period": 1326,
       "forks": 144,
       "contributors": [
@@ -98,7 +98,7 @@
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 4376,
+      "stars_total": 4379,
       "stars_period": 1756,
       "forks": 595,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 6099,
+      "stars_total": 6127,
       "stars_period": 2488,
-      "forks": 407,
+      "forks": 409,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -134,7 +134,7 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_total": 3279,
+      "stars_total": 3288,
       "stars_period": 2434,
       "forks": 327,
       "contributors": [
@@ -152,9 +152,9 @@
       "url": "https://github.com/ToolJet/ToolJet",
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
-      "stars_total": 39572,
+      "stars_total": 39601,
       "stars_period": 1047,
-      "forks": 5298,
+      "forks": 5300,
       "contributors": [
         "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
         "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 22010,
+      "stars_total": 22020,
       "stars_period": 3956,
-      "forks": 2016,
+      "forks": 2018,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
@@ -185,7 +185,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 87522,
+      "stars_total": 87536,
       "stars_period": 3300,
       "forks": 9384,
       "contributors": [
@@ -203,7 +203,7 @@
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars_total": 91242,
+      "stars_total": 91248,
       "stars_period": 2008,
       "forks": 7549,
       "contributors": [
@@ -221,7 +221,7 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 8265,
+      "stars_total": 8273,
       "stars_period": 1966,
       "forks": 450,
       "contributors": [
@@ -239,7 +239,7 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 18341,
+      "stars_total": 18352,
       "stars_period": 1821,
       "forks": 1443,
       "contributors": [
@@ -257,7 +257,7 @@
       "url": "https://github.com/google-deepmind/weathernext",
       "description": "",
       "language": "Python",
-      "stars_total": 7524,
+      "stars_total": 7526,
       "stars_period": 670,
       "forks": 961,
       "contributors": [
@@ -275,7 +275,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 78327,
+      "stars_total": 78336,
       "stars_period": 2430,
       "forks": 14362,
       "contributors": [
@@ -288,5 +288,5 @@
       "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
     }
   ],
-  "generated_at": 1786849626
+  "generated_at": 1786855349
 }
