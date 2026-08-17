@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 105758,
+      "stars_total": 105801,
       "stars_period": 1275,
-      "forks": 16077,
+      "forks": 16085,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 53963,
+      "stars_total": 54005,
       "stars_period": 656,
-      "forks": 5781,
+      "forks": 5783,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars_total": 25810,
+      "stars_total": 25834,
       "stars_period": 115,
-      "forks": 3368,
+      "forks": 3369,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 1939,
+      "stars_total": 1958,
       "stars_period": 207,
-      "forks": 191,
+      "forks": 192,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 28289,
+      "stars_total": 28321,
       "stars_period": 156,
-      "forks": 3440,
+      "forks": 3441,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -98,14 +98,14 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars_total": 32169,
+      "stars_total": 32187,
       "stars_period": 239,
-      "forks": 1991,
+      "forks": 1993,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
       "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
@@ -116,9 +116,9 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_total": 64480,
+      "stars_total": 64520,
       "stars_period": 147,
-      "forks": 12643,
+      "forks": 12645,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 18928,
+      "stars_total": 18943,
       "stars_period": 96,
-      "forks": 1643,
+      "forks": 1644,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 111028,
+      "stars_total": 111060,
       "stars_period": 140,
-      "forks": 6568,
+      "forks": 6570,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 5516,
+      "stars_total": 5527,
       "stars_period": 959,
-      "forks": 293,
+      "forks": 294,
       "contributors": [
         "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
@@ -188,7 +188,7 @@
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_total": 52976,
+      "stars_total": 52997,
       "stars_period": 295,
       "forks": 4924,
       "contributors": [
@@ -201,5 +201,5 @@
       "description_zh": "功能齐全的下载管理器。"
     }
   ],
-  "generated_at": 1786995215
+  "generated_at": 1786998847
 }
