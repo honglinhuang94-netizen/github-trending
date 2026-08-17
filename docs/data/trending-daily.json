@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 105458,
-      "stars_period": 494,
-      "forks": 16035,
+      "stars_total": 105512,
+      "stars_period": 1275,
+      "forks": 16047,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_total": 53756,
-      "stars_period": 856,
-      "forks": 5755,
+      "stars_total": 53787,
+      "stars_period": 656,
+      "forks": 5758,
       "contributors": [
         "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars_total": 25719,
+      "stars_total": 25732,
       "stars_period": 115,
-      "forks": 3362,
+      "forks": 3363,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
@@ -58,13 +58,31 @@
     },
     {
       "rank": 4,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 1847,
+      "stars_period": 207,
+      "forks": 181,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 5,
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 28146,
+      "stars_total": 28168,
       "stars_period": 156,
-      "forks": 3423,
+      "forks": 3426,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -75,13 +93,13 @@
       "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars_total": 32066,
-      "stars_period": 187,
+      "stars_total": 32080,
+      "stars_period": 239,
       "forks": 1989,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
@@ -93,14 +111,14 @@
       "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_total": 64295,
+      "stars_total": 64318,
       "stars_period": 147,
-      "forks": 12640,
+      "forks": 12641,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,14 +129,14 @@
       "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 18870,
-      "stars_period": 60,
-      "forks": 1638,
+      "stars_total": 18876,
+      "stars_period": 96,
+      "forks": 1641,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -126,15 +144,15 @@
         "https://avatars.githubusercontent.com/u/30080538?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 110898,
+      "stars_total": 110914,
       "stars_period": 140,
       "forks": 6565,
       "contributors": [
@@ -144,15 +162,15 @@
         "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
         "https://avatars.githubusercontent.com/u/139912620?s=40&v=4"
       ],
-      "description_zh": "高性能自托管照片和视频管理解决方案。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 5424,
+      "stars_total": 5441,
       "stars_period": 959,
       "forks": 291,
       "contributors": [
@@ -165,14 +183,14 @@
       "description_zh": "时空可组合性元框架"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_total": 52885,
+      "stars_total": 52899,
       "stars_period": 295,
-      "forks": 4916,
+      "forks": 4918,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1032175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/31368738?s=40&v=4",
@@ -183,5 +201,5 @@
       "description_zh": "功能齐全的下载管理器。"
     }
   ],
-  "generated_at": 1786977314
+  "generated_at": 1786980711
 }
