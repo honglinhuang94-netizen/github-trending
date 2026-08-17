@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_total": 20108,
+      "stars_total": 20159,
       "stars_period": 15600,
-      "forks": 1226,
+      "forks": 1232,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 8380,
+      "stars_total": 8390,
       "stars_period": 5284,
-      "forks": 860,
+      "forks": 862,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -40,65 +40,11 @@
     },
     {
       "rank": 3,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_total": 16750,
-      "stars_period": 6435,
-      "forks": 1801,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32787133?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
-      ],
-      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
-    },
-    {
-      "rank": 4,
-      "name": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "language": "Rust",
-      "stars_total": 1756,
-      "stars_period": 1435,
-      "forks": 154,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180418?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/208532109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/196090752?s=40&v=4"
-      ],
-      "description_zh": "Switchyard 允许 LLM 应用程序跨模型和提供商路由流量，同时保留本机 OpenAI 和 Anthropic API 兼容性 - 实现灵活的模型选择、基准测试和成本/性能优化。"
-    },
-    {
-      "rank": 5,
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars_total": 13355,
-      "stars_period": 1287,
-      "forks": 1765,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
-      ],
-      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
-    },
-    {
-      "rank": 6,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 6956,
+      "stars_total": 6978,
       "stars_period": 2950,
       "forks": 449,
       "contributors": [
@@ -111,12 +57,48 @@
       "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars_total": 13356,
+      "stars_period": 1287,
+      "forks": 1765,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
+      ],
+      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
+    },
+    {
+      "rank": 5,
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_total": 16768,
+      "stars_period": 6435,
+      "forks": 1803,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110109193?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32787133?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13501287?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55492238?s=40&v=4"
+      ],
+      "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+    },
+    {
+      "rank": 6,
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_total": 3473,
+      "stars_total": 3478,
       "stars_period": 2588,
       "forks": 348,
       "contributors": [
@@ -129,12 +111,12 @@
       "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 4472,
+      "stars_total": 4476,
       "stars_period": 1686,
       "forks": 600,
       "contributors": [
@@ -147,84 +129,12 @@
       "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
     },
     {
-      "rank": 9,
-      "name": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "language": "JavaScript",
-      "stars_total": 40350,
-      "stars_period": 1518,
-      "forks": 5344,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7828962?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3417097?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67645175?s=40&v=4"
-      ],
-      "description_zh": "ToolJet 是 ToolJet AI 的开源基础 - ToolJet AI 是用于构建内部工具、仪表板、业务应用程序、工作流程和 AI 代理的企业应用程序生成平台 🚀"
-    },
-    {
-      "rank": 10,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 87909,
-      "stars_period": 2882,
-      "forks": 9415,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
-      ],
-      "description_zh": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": 11,
-      "name": "3b1b/manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "stars_total": 91425,
-      "stars_period": 1978,
-      "forks": 7560,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44120331?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13440601?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50232075?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43117506?s=40&v=4"
-      ],
-      "description_zh": "用于解释数学视频的动画引擎"
-    },
-    {
-      "rank": 12,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 25794,
-      "stars_period": 759,
-      "forks": 2615,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
-      ],
-      "description_zh": "美丽、现代、有主见的 Linux"
-    },
-    {
-      "rank": 13,
+      "rank": 8,
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_total": 72993,
+      "stars_total": 73012,
       "stars_period": 2645,
       "forks": 6577,
       "contributors": [
@@ -237,14 +147,86 @@
       "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
     },
     {
-      "rank": 14,
+      "rank": 9,
+      "name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars_total": 91431,
+      "stars_period": 1978,
+      "forks": 7561,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11601040?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44120331?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13440601?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50232075?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43117506?s=40&v=4"
+      ],
+      "description_zh": "用于解释数学视频的动画引擎"
+    },
+    {
+      "rank": 10,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 25817,
+      "stars_period": 759,
+      "forks": 2619,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
+      ],
+      "description_zh": "美丽、现代、有主见的 Linux"
+    },
+    {
+      "rank": 11,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 87918,
+      "stars_period": 2882,
+      "forks": 9415,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 12,
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars_total": 6213,
+      "stars_period": 1278,
+      "forks": 623,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/63157773?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16082197?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/240378348?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/162889656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157744625?s=40&v=4"
+      ],
+      "description_zh": "用于从图像生成 3D 模型或使用本地 AI 进行提示的桌面应用程序 — 完全在您的 GPU 上运行"
+    },
+    {
+      "rank": 13,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 22482,
+      "stars_total": 22490,
       "stars_period": 3637,
-      "forks": 2049,
+      "forks": 2051,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
@@ -252,40 +234,23 @@
       "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
     },
     {
-      "rank": 15,
-      "name": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "rank": 14,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 9080,
-      "stars_period": 497,
-      "forks": 1432,
+      "stars_total": 169866,
+      "stars_period": 2698,
+      "forks": 20215,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/17297304?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11200432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109453818?s=40&v=4"
-      ],
-      "description_zh": "LTX-2 音视频生成模型的官方 Python 推理和 LoRA 训练包。"
-    },
-    {
-      "rank": 16,
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_total": 78648,
-      "stars_period": 2499,
-      "forks": 14402,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88843729?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
       ],
-      "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
+      "description_zh": "代理技能的公共存储库"
     }
   ],
-  "generated_at": 1786963103
+  "generated_at": 1786966346
 }

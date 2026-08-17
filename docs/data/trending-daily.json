@@ -1,16 +1,160 @@
 {
   "period": "daily",
-  "count": 7,
+  "count": 10,
   "items": [
     {
       "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_total": 105199,
+      "stars_period": 494,
+      "forks": 16003,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96235876?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54718731?s=40&v=4"
+      ],
+      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。 Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "rank": 2,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_total": 53587,
+      "stars_period": 856,
+      "forks": 5741,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/811515?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
+    },
+    {
+      "rank": 3,
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_total": 25661,
+      "stars_period": 58,
+      "forks": 3357,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16453976?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/893862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
+      ],
+      "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
+    },
+    {
+      "rank": 4,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_total": 28074,
+      "stars_period": 156,
+      "forks": 3418,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5745504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/157662519?s=40&v=4"
+      ],
+      "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
+    },
+    {
+      "rank": 5,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_total": 31978,
+      "stars_period": 187,
+      "forks": 1985,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
+    },
+    {
+      "rank": 6,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_total": 64166,
+      "stars_period": 147,
+      "forks": 12635,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/187913759?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8268155?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47008224?s=40&v=4"
+      ],
+      "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
+    },
+    {
+      "rank": 7,
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_total": 18835,
+      "stars_period": 60,
+      "forks": 1638,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6842433?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30080538?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+    },
+    {
+      "rank": 8,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_total": 110826,
+      "stars_period": 140,
+      "forks": 6561,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139912620?s=40&v=4"
+      ],
+      "description_zh": "高性能自托管照片和视频管理解决方案。"
+    },
+    {
+      "rank": 9,
       "name": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 5327,
+      "stars_total": 5352,
       "stars_period": 720,
-      "forks": 288,
+      "forks": 290,
       "contributors": [
         "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
@@ -21,113 +165,23 @@
       "description_zh": "时空可组合性元框架"
     },
     {
-      "rank": 2,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 25794,
-      "stars_period": 270,
-      "forks": 2615,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
-      ],
-      "description_zh": "美丽、现代、有主见的 Linux"
-    },
-    {
-      "rank": 3,
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "language": "Python",
-      "stars_total": 72993,
-      "stars_period": 572,
-      "forks": 6577,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/107991372?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112766706?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39181234?s=40&v=4"
-      ],
-      "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
-    },
-    {
-      "rank": 4,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "rank": 10,
+      "name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_total": 84295,
-      "stars_period": 150,
-      "forks": 8316,
+      "stars_total": 52792,
+      "stars_period": 295,
+      "forks": 4913,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1032175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31368738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10357789?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32717?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2560402?s=40&v=4"
       ],
-      "description_zh": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": 5,
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_total": 462676,
-      "stars_period": 1588,
-      "forks": 51088,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
-      ],
-      "description_zh": "免费 API 集合列表"
-    },
-    {
-      "rank": 6,
-      "name": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "language": "JavaScript",
-      "stars_total": 40350,
-      "stars_period": 452,
-      "forks": 5344,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7828962?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3417097?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67645175?s=40&v=4"
-      ],
-      "description_zh": "ToolJet 是 ToolJet AI 的开源基础 - ToolJet AI 是用于构建内部工具、仪表板、业务应用程序、工作流程和 AI 代理的企业应用程序生成平台 🚀"
-    },
-    {
-      "rank": 7,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_total": 6956,
-      "stars_period": 443,
-      "forks": 449,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/115979017?s=40&v=4"
-      ],
-      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "description_zh": "功能齐全的下载管理器。"
     }
   ],
-  "generated_at": 1786963101
+  "generated_at": 1786966344
 }
