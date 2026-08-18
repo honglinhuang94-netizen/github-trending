@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 11,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 107336,
+      "stars_total": 107431,
       "stars_period": 1189,
-      "forks": 16271,
+      "forks": 16288,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -22,49 +22,31 @@
     },
     {
       "rank": 2,
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_total": 54757,
-      "stars_period": 598,
-      "forks": 5848,
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_total": 1623,
+      "stars_period": 256,
+      "forks": 208,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46074070?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1210027?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5342767?s=40&v=4"
       ],
-      "description_zh": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
+      "description_zh": "本地多智能体利用"
     },
     {
       "rank": 3,
-      "name": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "stars_total": 26186,
-      "stars_period": 120,
-      "forks": 3392,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16453976?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/893862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
-      ],
-      "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
-    },
-    {
-      "rank": 4,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 2410,
+      "stars_total": 2430,
       "stars_period": 207,
-      "forks": 213,
+      "forks": 214,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,14 +57,32 @@
       "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
+      "rank": 4,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_total": 29010,
+      "stars_period": 239,
+      "forks": 2284,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4"
+      ],
+      "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
+    },
+    {
       "rank": 5,
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 28747,
+      "stars_total": 28775,
       "stars_period": 198,
-      "forks": 3465,
+      "forks": 3469,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -94,101 +94,47 @@
     },
     {
       "rank": 6,
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_total": 32582,
-      "stars_period": 198,
-      "forks": 2013,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_total": 463640,
+      "stars_period": 1907,
+      "forks": 51242,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
       ],
-      "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
+      "description_zh": "免费 API 集合列表"
     },
     {
       "rank": 7,
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_total": 65224,
-      "stars_period": 218,
-      "forks": 12677,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 26170,
+      "stars_period": 710,
+      "forks": 2667,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/187913759?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8268155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47008224?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
       ],
-      "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
+      "description_zh": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": 8,
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "stars_total": 19165,
-      "stars_period": 78,
-      "forks": 1649,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6842433?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30080538?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
-    },
-    {
-      "rank": 9,
-      "name": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_total": 111478,
-      "stars_period": 175,
-      "forks": 6592,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139912620?s=40&v=4"
-      ],
-      "description_zh": "高性能自托管照片和视频管理解决方案。"
-    },
-    {
-      "rank": 10,
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars_total": 5947,
-      "stars_period": 957,
-      "forks": 323,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29992205?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68551684?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/276526105?s=40&v=4"
-      ],
-      "description_zh": "时空可组合性元框架"
-    },
-    {
-      "rank": 11,
       "name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_total": 53376,
+      "stars_total": 53404,
       "stars_period": 344,
       "forks": 4935,
       "contributors": [
@@ -199,7 +145,97 @@
         "https://avatars.githubusercontent.com/u/2560402?s=40&v=4"
       ],
       "description_zh": "功能齐全的下载管理器。"
+    },
+    {
+      "rank": 9,
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_total": 24142,
+      "stars_period": 204,
+      "forks": 5565,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/83615043?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215612484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11138019?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102328514?s=40&v=4"
+      ],
+      "description_zh": "开源、低成本 10.5 GHz PLFM 相控阵雷达系统"
+    },
+    {
+      "rank": 10,
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_total": 19177,
+      "stars_period": 78,
+      "forks": 1650,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6842433?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30080538?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+    },
+    {
+      "rank": 11,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_total": 38862,
+      "stars_period": 556,
+      "forks": 4287,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+      ],
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "rank": 12,
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 15703,
+      "stars_period": 543,
+      "forks": 791,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4550355?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2372232?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/185248547?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58224660?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47780609?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 13,
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_total": 84467,
+      "stars_period": 682,
+      "forks": 8334,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
+      ],
+      "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1787049388
+  "generated_at": 1787052708
 }
