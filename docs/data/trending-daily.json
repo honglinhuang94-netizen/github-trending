@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 107712,
+      "stars_total": 107826,
       "stars_period": 2306,
-      "forks": 16335,
+      "forks": 16357,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_total": 1721,
+      "stars_total": 1752,
       "stars_period": 256,
-      "forks": 213,
+      "forks": 215,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 2497,
+      "stars_total": 2523,
       "stars_period": 207,
-      "forks": 219,
+      "forks": 221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 29105,
+      "stars_total": 29120,
       "stars_period": 239,
-      "forks": 2290,
+      "forks": 2291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 28855,
+      "stars_total": 28882,
       "stars_period": 726,
-      "forks": 3472,
+      "forks": 3474,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 463855,
+      "stars_total": 463926,
       "stars_period": 1907,
-      "forks": 51263,
+      "forks": 51270,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 26213,
+      "stars_total": 26233,
       "stars_period": 710,
-      "forks": 2673,
+      "forks": 2674,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_total": 53454,
+      "stars_total": 53475,
       "stars_period": 607,
-      "forks": 4941,
+      "forks": 4943,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1032175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/31368738?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
       "language": "PLSQL",
-      "stars_total": 24178,
+      "stars_total": 24189,
       "stars_period": 204,
-      "forks": 5570,
+      "forks": 5571,
       "contributors": [
         "https://avatars.githubusercontent.com/u/83615043?s=40&v=4",
         "https://avatars.githubusercontent.com/u/215612484?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 19225,
+      "stars_total": 19248,
       "stars_period": 366,
-      "forks": 1652,
+      "forks": 1654,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -184,31 +184,13 @@
     },
     {
       "rank": 11,
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "stars_total": 38937,
-      "stars_period": 556,
-      "forks": 4294,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
-      ],
-      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    },
-    {
-      "rank": 12,
       "name": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 15795,
+      "stars_total": 15828,
       "stars_period": 543,
-      "forks": 794,
+      "forks": 795,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4550355?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2372232?s=40&v=4",
@@ -219,14 +201,14 @@
       "description_zh": ""
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_total": 84529,
+      "stars_total": 84550,
       "stars_period": 682,
-      "forks": 8337,
+      "forks": 8338,
       "contributors": [
         "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
@@ -237,5 +219,5 @@
       "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1787061093
+  "generated_at": 1787064025
 }
