@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 110280,
+      "stars_total": 110327,
       "stars_period": 2221,
-      "forks": 16730,
+      "forks": 16737,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -26,7 +26,7 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 30045,
+      "stars_total": 30061,
       "stars_period": 803,
       "forks": 2329,
       "contributors": [
@@ -44,7 +44,7 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_total": 2594,
+      "stars_total": 2607,
       "stars_period": 797,
       "forks": 304,
       "contributors": [
@@ -62,9 +62,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 29712,
+      "stars_total": 29727,
       "stars_period": 767,
-      "forks": 3525,
+      "forks": 3527,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -76,29 +76,11 @@
     },
     {
       "rank": 5,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 3180,
-      "stars_period": 609,
-      "forks": 259,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 6,
       "name": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars_total": 26370,
+      "stars_total": 26382,
       "stars_period": 79,
       "forks": 3415,
       "contributors": [
@@ -111,14 +93,14 @@
       "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 223429,
+      "stars_total": 223496,
       "stars_period": 1214,
-      "forks": 19229,
+      "forks": 19233,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -128,14 +110,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 274143,
+      "stars_total": 274159,
       "stars_period": 514,
-      "forks": 24542,
+      "forks": 24547,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -146,14 +128,14 @@
       "description_zh": "有效的代理技能框架和软件开发方法。"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 19760,
+      "stars_total": 19772,
       "stars_period": 467,
-      "forks": 1685,
+      "forks": 1686,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -164,14 +146,14 @@
       "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_total": 65611,
+      "stars_total": 65633,
       "stars_period": 193,
-      "forks": 12729,
+      "forks": 12730,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -182,14 +164,14 @@
       "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 111740,
+      "stars_total": 111760,
       "stars_period": 137,
-      "forks": 6621,
+      "forks": 6622,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
@@ -200,14 +182,14 @@
       "description_zh": "高性能自托管照片和视频管理解决方案。"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "amadeusprotocol/node",
       "url": "https://github.com/amadeusprotocol/node",
       "description": "",
       "language": "Rust",
-      "stars_total": 4422,
+      "stars_total": 4435,
       "stars_period": 1415,
-      "forks": 78,
+      "forks": 79,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3028982?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2032197?s=40&v=4",
@@ -218,12 +200,12 @@
       "description_zh": ""
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "marceloprates/prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
       "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
       "language": "Python",
-      "stars_total": 12963,
+      "stars_total": 12985,
       "stars_period": 58,
       "forks": 651,
       "contributors": [
@@ -236,14 +218,14 @@
       "description_zh": "从 OpenStreetMap 数据绘制漂亮的地图！使用 osmnx +matplotlib + shapely 构建"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 16193,
+      "stars_total": 16202,
       "stars_period": 421,
-      "forks": 806,
+      "forks": 807,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4550355?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2372232?s=40&v=4",
@@ -254,5 +236,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1787165074
+  "generated_at": 1787167902
 }
