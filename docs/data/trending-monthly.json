@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 21957,
-      "stars_period": 20926,
-      "forks": 1393,
+      "stars_total": 21984,
+      "stars_period": 21447,
+      "forks": 1396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -26,8 +26,8 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_total": 35553,
-      "stars_period": 9517,
+      "stars_total": 35558,
+      "stars_period": 9555,
       "forks": 5661,
       "contributors": [
         "https://avatars.githubusercontent.com/u/212554440?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "stars_total": 39088,
-      "stars_period": 37085,
-      "forks": 4310,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
-      ],
-      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    },
-    {
-      "rank": 4,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
-      "stars_total": 50470,
-      "stars_period": 31675,
-      "forks": 6876,
+      "stars_total": 50506,
+      "stars_period": 32029,
+      "forks": 6878,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
         "https://avatars.githubusercontent.com/u/24198422?s=40&v=4",
@@ -75,32 +57,32 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 82966,
-      "stars_period": 21062,
-      "forks": 12378,
+      "stars_total": 82978,
+      "stars_period": 21286,
+      "forks": 12379,
       "contributors": [
         "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5787993?s=40&v=4",
         "https://avatars.githubusercontent.com/u/168879994?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/220533488?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 22969,
-      "stars_period": 13625,
-      "forks": 2094,
+      "stars_total": 22985,
+      "stars_period": 13944,
+      "forks": 2096,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4"
@@ -108,14 +90,14 @@
       "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_total": 26335,
-      "stars_period": 17807,
-      "forks": 3570,
+      "stars_total": 26365,
+      "stars_period": 18059,
+      "forks": 3576,
       "contributors": [
         "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
@@ -123,17 +105,17 @@
         "https://avatars.githubusercontent.com/u/140924318?s=40&v=4",
         "https://avatars.githubusercontent.com/u/288419661?s=40&v=4"
       ],
-      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 19346,
-      "stars_period": 5096,
-      "forks": 4494,
+      "stars_total": 19366,
+      "stars_period": 5265,
+      "forks": 4498,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -144,14 +126,14 @@
       "description_zh": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_total": 65418,
-      "stars_period": 12969,
-      "forks": 12693,
+      "stars_total": 65446,
+      "stars_period": 13156,
+      "forks": 12696,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
@@ -162,31 +144,31 @@
       "description_zh": "12 周，24 节课，全民人工智能！"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
       "language": "Rust",
-      "stars_total": 17939,
-      "stars_period": 9578,
+      "stars_total": 17944,
+      "stars_period": 9593,
       "forks": 2015,
       "contributors": [
         "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2353385?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2353385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/56603175?s=40&v=4"
       ],
-      "description_zh": "RAM 效率最高的线束"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_total": 22854,
-      "stars_period": 13818,
+      "stars_total": 22871,
+      "stars_period": 14079,
       "forks": 2422,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
@@ -195,17 +177,17 @@
         "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/103170876?s=40&v=4"
       ],
-      "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 93116,
-      "stars_period": 20481,
-      "forks": 11532,
+      "stars_total": 93165,
+      "stars_period": 20985,
+      "forks": 11545,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -216,14 +198,14 @@
       "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 221460,
-      "stars_period": 45839,
-      "forks": 19076,
+      "stars_total": 221545,
+      "stars_period": 46007,
+      "forks": 19086,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -233,14 +215,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 12550,
-      "stars_period": 8017,
-      "forks": 1435,
+      "stars_total": 12555,
+      "stars_period": 8133,
+      "forks": 1436,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -248,17 +230,17 @@
         "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
-      "stars_total": 48249,
-      "stars_period": 26504,
-      "forks": 3340,
+      "stars_total": 48332,
+      "stars_period": 26771,
+      "forks": 3344,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
@@ -266,16 +248,16 @@
         "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
         "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
       ],
-      "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 36306,
-      "stars_period": 9118,
+      "stars_total": 36318,
+      "stars_period": 8910,
       "forks": 4571,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -284,17 +266,17 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/64004539?s=40&v=4"
       ],
-      "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 26401,
-      "stars_period": 2127,
-      "forks": 2688,
+      "stars_total": 26445,
+      "stars_period": 2364,
+      "forks": 2690,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -302,16 +284,16 @@
         "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
         "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "美丽、现代、有主见的 Linux"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_total": 11018,
-      "stars_period": 10740,
+      "stars_total": 11030,
+      "stars_period": 10646,
       "forks": 943,
       "contributors": [
         "https://avatars.githubusercontent.com/u/162022179?s=40&v=4",
@@ -323,13 +305,13 @@
       "description_zh": "自托管部署平台"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "UditAkhourii/adhd",
       "url": "https://github.com/UditAkhourii/adhd",
       "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "language": "TypeScript",
-      "stars_total": 3691,
-      "stars_period": 2701,
+      "stars_total": 3706,
+      "stars_period": 2705,
       "forks": 260,
       "contributors": [
         "https://avatars.githubusercontent.com/u/156824020?s=40&v=4",
@@ -341,13 +323,13 @@
       "description_zh": "ADHD——编码代理的一项技能。带修剪的思想树，基于 Claude & Codex Agent SDK 构建。在不同的认知框架、分数、修剪陷阱下扇出平行的发散思维，加深幸存者。创造性和跨学科工作的简单技能。"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 13594,
-      "stars_period": 1717,
+      "stars_total": 13609,
+      "stars_period": 1869,
       "forks": 1787,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
@@ -356,16 +338,16 @@
         "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
         "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 31580,
-      "stars_period": 8585,
+      "stars_total": 31588,
+      "stars_period": 8531,
       "forks": 3353,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
@@ -377,14 +359,14 @@
       "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 7489,
-      "stars_period": 3886,
-      "forks": 481,
+      "stars_total": 7522,
+      "stars_period": 4174,
+      "forks": 482,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -395,5 +377,5 @@
       "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     }
   ],
-  "generated_at": 1787095711
+  "generated_at": 1787103784
 }
