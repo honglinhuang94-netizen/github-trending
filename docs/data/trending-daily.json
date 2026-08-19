@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 109709,
+      "stars_total": 109779,
       "stars_period": 2221,
-      "forks": 16662,
+      "forks": 16673,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -18,53 +18,17 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54718731?s=40&v=4"
       ],
-      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。 Generate HD short videos from a topic or keyword with an automated AI workflow."
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 2,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "stars_total": 2456,
-      "stars_period": 797,
-      "forks": 287,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1210027?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5342767?s=40&v=4"
-      ],
-      "description_zh": "本地多智能体利用"
-    },
-    {
-      "rank": 3,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 3061,
-      "stars_period": 609,
-      "forks": 253,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
-      ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 4,
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 29840,
+      "stars_total": 29859,
       "stars_period": 803,
-      "forks": 2320,
+      "forks": 2321,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,12 +39,30 @@
       "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_total": 2482,
+      "stars_period": 797,
+      "forks": 294,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1210027?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5342767?s=40&v=4"
+      ],
+      "description_zh": "本地多智能体利用"
+    },
+    {
+      "rank": 4,
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 29560,
+      "stars_total": 29580,
       "stars_period": 767,
       "forks": 3513,
       "contributors": [
@@ -93,84 +75,83 @@
       "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
     },
     {
-      "rank": 6,
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_total": 465422,
-      "stars_period": 1717,
-      "forks": 51382,
+      "rank": 5,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 3083,
+      "stars_period": 609,
+      "forks": 255,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
       ],
-      "description_zh": "免费 API 集合列表"
+      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+    },
+    {
+      "rank": 6,
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_total": 26282,
+      "stars_period": 522,
+      "forks": 3407,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16453976?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/893862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
+      ],
+      "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
     },
     {
       "rank": 7,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 26667,
-      "stars_period": 473,
-      "forks": 2710,
+      "stars_total": 222926,
+      "stars_period": 1214,
+      "forks": 19196,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
       ],
-      "description_zh": "美丽、现代、有主见的 Linux"
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
       "rank": 8,
-      "name": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "language": "TypeScript",
-      "stars_total": 53975,
-      "stars_period": 561,
-      "forks": 4958,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 274015,
+      "stars_period": 514,
+      "forks": 24531,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1032175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31368738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10357789?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32717?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2560402?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "有效的代理技能框架和软件开发方法。"
     },
     {
       "rank": 9,
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "stars_total": 24515,
-      "stars_period": 350,
-      "forks": 5618,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/83615043?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/215612484?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11138019?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102328514?s=40&v=4"
-      ],
-      "description_zh": "开源、低成本 10.5 GHz PLFM 相控阵雷达系统"
-    },
-    {
-      "rank": 10,
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 19668,
+      "stars_total": 19679,
       "stars_period": 467,
       "forks": 1683,
       "contributors": [
@@ -183,12 +164,84 @@
       "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
+      "rank": 10,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_total": 65454,
+      "stars_period": 193,
+      "forks": 12711,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/187913759?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8268155?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47008224?s=40&v=4"
+      ],
+      "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
+    },
+    {
       "rank": 11,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_total": 111623,
+      "stars_period": 636,
+      "forks": 6612,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36593685?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139912620?s=40&v=4"
+      ],
+      "description_zh": "高性能自托管照片和视频管理解决方案。"
+    },
+    {
+      "rank": 12,
+      "name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": "",
+      "language": "Rust",
+      "stars_total": 4186,
+      "stars_period": 1415,
+      "forks": 73,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3028982?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2032197?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18701555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/196571474?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 13,
+      "name": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars_total": 12806,
+      "stars_period": 58,
+      "forks": 645,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1848024?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12833517?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55803987?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/501773?s=40&v=4"
+      ],
+      "description_zh": "从 OpenStreetMap 数据绘制漂亮的地图！使用 osmnx +matplotlib + shapely 构建"
+    },
+    {
+      "rank": 14,
       "name": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 16124,
+      "stars_total": 16130,
       "stars_period": 421,
       "forks": 802,
       "contributors": [
@@ -199,25 +252,7 @@
         "https://avatars.githubusercontent.com/u/47780609?s=40&v=4"
       ],
       "description_zh": ""
-    },
-    {
-      "rank": 12,
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_total": 85135,
-      "stars_period": 647,
-      "forks": 8381,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80804989?s=40&v=4"
-      ],
-      "description_zh": "开源 CapCut 替代方案"
     }
   ],
-  "generated_at": 1787144388
+  "generated_at": 1787147561
 }
