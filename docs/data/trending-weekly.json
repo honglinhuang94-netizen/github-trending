@@ -8,7 +8,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 24253,
+      "stars_total": 24276,
       "stars_period": 14397,
       "forks": 1470,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 30986,
+      "stars_total": 31001,
       "stars_period": 1659,
-      "forks": 2390,
+      "forks": 2392,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 27039,
+      "stars_total": 27047,
       "stars_period": 2208,
       "forks": 2768,
       "contributors": [
@@ -62,7 +62,7 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 8111,
+      "stars_total": 8117,
       "stars_period": 3838,
       "forks": 520,
       "contributors": [
@@ -80,9 +80,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 9805,
+      "stars_total": 9812,
       "stars_period": 4005,
-      "forks": 1043,
+      "forks": 1044,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -98,7 +98,7 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
-      "stars_total": 1969,
+      "stars_total": 1971,
       "stars_period": 1220,
       "forks": 178,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 27882,
+      "stars_total": 27903,
       "stars_period": 641,
-      "forks": 2998,
+      "forks": 2999,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 112860,
+      "stars_total": 112892,
       "stars_period": 7380,
-      "forks": 17104,
+      "forks": 17109,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 467148,
+      "stars_total": 467174,
       "stars_period": 10183,
-      "forks": 51522,
+      "forks": 51529,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/megadose/holehe",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 13825,
+      "stars_total": 13829,
       "stars_period": 1704,
       "forks": 1800,
       "contributors": [
@@ -188,7 +188,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 11767,
+      "stars_total": 11807,
       "stars_period": 1492,
       "forks": 321,
       "contributors": [
@@ -205,7 +205,7 @@
       "url": "https://github.com/lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
-      "stars_total": 7030,
+      "stars_total": 7031,
       "stars_period": 1797,
       "forks": 671,
       "contributors": [
@@ -223,7 +223,7 @@
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_total": 3869,
+      "stars_total": 3868,
       "stars_period": 2557,
       "forks": 369,
       "contributors": [
@@ -241,7 +241,7 @@
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_total": 74090,
+      "stars_total": 74094,
       "stars_period": 3338,
       "forks": 6695,
       "contributors": [
@@ -259,7 +259,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 3564,
+      "stars_total": 3576,
       "stars_period": 1717,
       "forks": 280,
       "contributors": [
@@ -277,7 +277,7 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20094,
+      "stars_total": 20102,
       "stars_period": 1102,
       "forks": 1709,
       "contributors": [
@@ -295,7 +295,7 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars_total": 33267,
+      "stars_total": 33270,
       "stars_period": 1545,
       "forks": 2061,
       "contributors": [
@@ -313,7 +313,7 @@
       "url": "https://github.com/CodebuffAI/freebuff",
       "description": "The free coding agent",
       "language": "TypeScript",
-      "stars_total": 10268,
+      "stars_total": 10271,
       "stars_period": 1037,
       "forks": 1128,
       "contributors": [
@@ -326,5 +326,5 @@
       "description_zh": "免费编码代理"
     }
   ],
-  "generated_at": 1787265265
+  "generated_at": 1787268725
 }
