@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 111815,
+      "stars_total": 111999,
       "stars_period": 2221,
-      "forks": 16938,
+      "forks": 16965,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 30576,
+      "stars_total": 30636,
       "stars_period": 804,
-      "forks": 2364,
+      "forks": 2368,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_total": 2853,
+      "stars_total": 2880,
       "stars_period": 795,
-      "forks": 332,
+      "forks": 335,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_total": 30085,
+      "stars_total": 30116,
       "stars_period": 766,
-      "forks": 3569,
+      "forks": 3575,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13067566?s=40&v=4",
@@ -76,13 +76,31 @@
     },
     {
       "rank": 5,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 3314,
+      "stars_period": 606,
+      "forks": 272,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
+      ],
+      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+    },
+    {
+      "rank": 6,
       "name": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars_total": 26568,
+      "stars_total": 26588,
       "stars_period": 80,
-      "forks": 3429,
+      "forks": 3430,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4816153?s=40&v=4",
@@ -93,14 +111,14 @@
       "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 224388,
+      "stars_total": 224479,
       "stars_period": 1894,
-      "forks": 19285,
+      "forks": 19297,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -110,14 +128,14 @@
       "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 274497,
+      "stars_total": 274538,
       "stars_period": 557,
-      "forks": 24572,
+      "forks": 24574,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -128,14 +146,14 @@
       "description_zh": "有效的代理技能框架和软件开发方法。"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 19940,
+      "stars_total": 19954,
       "stars_period": 472,
-      "forks": 1699,
+      "forks": 1700,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,14 +164,14 @@
       "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_total": 66057,
+      "stars_total": 66089,
       "stars_period": 198,
-      "forks": 12769,
+      "forks": 12774,
       "contributors": [
         "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -164,14 +182,14 @@
       "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 112038,
+      "stars_total": 112066,
       "stars_period": 128,
-      "forks": 6641,
+      "forks": 6642,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4334196?s=40&v=4",
@@ -182,12 +200,12 @@
       "description_zh": "高性能自托管照片和视频管理解决方案。"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "amadeusprotocol/node",
       "url": "https://github.com/amadeusprotocol/node",
       "description": "",
       "language": "Rust",
-      "stars_total": 4829,
+      "stars_total": 4870,
       "stars_period": 1397,
       "forks": 89,
       "contributors": [
@@ -200,14 +218,14 @@
       "description_zh": ""
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "marceloprates/prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
       "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
       "language": "Python",
-      "stars_total": 13355,
+      "stars_total": 13385,
       "stars_period": 63,
-      "forks": 664,
+      "forks": 666,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1848024?s=40&v=4",
         "https://avatars.githubusercontent.com/u/12833517?s=40&v=4",
@@ -218,14 +236,14 @@
       "description_zh": "从 OpenStreetMap 数据绘制漂亮的地图！使用 osmnx +matplotlib + shapely 构建"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 16265,
+      "stars_total": 16272,
       "stars_period": 430,
-      "forks": 811,
+      "forks": 812,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4550355?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2372232?s=40&v=4",
@@ -236,5 +254,5 @@
       "description_zh": ""
     }
   ],
-  "generated_at": 1787212190
+  "generated_at": 1787215708
 }
