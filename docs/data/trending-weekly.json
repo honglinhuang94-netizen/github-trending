@@ -8,7 +8,7 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 7018,
+      "stars_total": 7024,
       "stars_period": 3614,
       "forks": 408,
       "contributors": [
@@ -26,7 +26,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 25165,
+      "stars_total": 25190,
       "stars_period": 8457,
       "forks": 1540,
       "contributors": [
@@ -44,9 +44,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 4494,
+      "stars_total": 4500,
       "stars_period": 1582,
-      "forks": 369,
+      "forks": 371,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 31795,
+      "stars_total": 31813,
       "stars_period": 3033,
-      "forks": 2430,
+      "forks": 2431,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 27763,
+      "stars_total": 27799,
       "stars_period": 2565,
-      "forks": 2839,
+      "forks": 2840,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -98,7 +98,7 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 28752,
+      "stars_total": 28757,
       "stars_period": 1643,
       "forks": 3057,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 114226,
+      "stars_total": 114275,
       "stars_period": 10470,
-      "forks": 17335,
+      "forks": 17343,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 468213,
+      "stars_total": 468234,
       "stars_period": 10990,
-      "forks": 51649,
+      "forks": 51652,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -152,7 +152,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 10149,
+      "stars_total": 10159,
       "stars_period": 2755,
       "forks": 1085,
       "contributors": [
@@ -170,9 +170,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 13240,
+      "stars_total": 13283,
       "stars_period": 4054,
-      "forks": 357,
+      "forks": 358,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 8427,
+      "stars_total": 8440,
       "stars_period": 2985,
-      "forks": 549,
+      "forks": 548,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -205,7 +205,7 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
-      "stars_total": 2118,
+      "stars_total": 2122,
       "stars_period": 642,
       "forks": 185,
       "contributors": [
@@ -223,7 +223,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 3995,
+      "stars_total": 4000,
       "stars_period": 2404,
       "forks": 298,
       "contributors": [
@@ -241,9 +241,9 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars_total": 33484,
+      "stars_total": 33489,
       "stars_period": 1991,
-      "forks": 2085,
+      "forks": 2086,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -259,7 +259,7 @@
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_total": 74321,
+      "stars_total": 74331,
       "stars_period": 2987,
       "forks": 6720,
       "contributors": [
@@ -277,7 +277,7 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20251,
+      "stars_total": 20256,
       "stars_period": 1536,
       "forks": 1719,
       "contributors": [
@@ -290,5 +290,5 @@
       "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     }
   ],
-  "generated_at": 1787387901
+  "generated_at": 1787391220
 }
