@@ -1,86 +1,14 @@
 {
   "period": "weekly",
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "rank": 1,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 4742,
-      "stars_period": 1693,
-      "forks": 386,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5743232?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10885502?s=40&v=4"
-      ],
-      "description_zh": "光标插件规范和官方插件"
-    },
-    {
-      "rank": 2,
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars_total": 7171,
-      "stars_period": 3364,
-      "forks": 418,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29992205?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68551684?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/276526105?s=40&v=4"
-      ],
-      "description_zh": "时空可组合性元框架"
-    },
-    {
-      "rank": 3,
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "stars_total": 32250,
-      "stars_period": 3447,
-      "forks": 2462,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4"
-      ],
-      "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
-    },
-    {
-      "rank": 4,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 28566,
-      "stars_period": 3151,
-      "forks": 2908,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
-      ],
-      "description_zh": "美丽、现代、有主见的 Linux"
-    },
-    {
-      "rank": 5,
       "name": "modular/modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 28915,
+      "stars_total": 28917,
       "stars_period": 2017,
       "forks": 3068,
       "contributors": [
@@ -93,14 +21,14 @@
       "description_zh": "模块化平台（包括 MAX 和 Mojo）"
     },
     {
-      "rank": 6,
+      "rank": 2,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 114951,
+      "stars_total": 114981,
       "stars_period": 10953,
-      "forks": 17453,
+      "forks": 17458,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -111,14 +39,32 @@
       "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。 Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 28601,
+      "stars_period": 3151,
+      "forks": 2914,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26983?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 4,
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 14330,
+      "stars_total": 14365,
       "stars_period": 4993,
-      "forks": 382,
+      "forks": 383,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -128,14 +74,50 @@
       "description_zh": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars_total": 7174,
+      "stars_period": 3364,
+      "forks": 418,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29992205?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68551684?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/276526105?s=40&v=4"
+      ],
+      "description_zh": "时空可组合性元框架"
+    },
+    {
+      "rank": 6,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_total": 32266,
+      "stars_period": 3447,
+      "forks": 2463,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4"
+      ],
+      "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
+    },
+    {
+      "rank": 7,
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 468845,
+      "stars_total": 468867,
       "stars_period": 9381,
-      "forks": 51727,
+      "forks": 51729,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -143,51 +125,15 @@
         "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
         "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
       ],
-      "description_zh": "免费 API 集合列表"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 9,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 25634,
-      "stars_period": 7368,
-      "forks": 1575,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/143511969?s=40&v=4"
-      ],
-      "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
-    },
-    {
-      "rank": 10,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 4161,
-      "stars_period": 2575,
-      "forks": 304,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
-      ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20388,
+      "stars_total": 20391,
       "stars_period": 1597,
       "forks": 1726,
       "contributors": [
@@ -200,77 +146,77 @@
       "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
-      "rank": 12,
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "rank": 9,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 4165,
+      "stars_period": 2575,
+      "forks": 305,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
+      ],
+      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+    },
+    {
+      "rank": 10,
+      "name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 10360,
-      "stars_period": 2450,
-      "forks": 1118,
+      "stars_total": 693,
+      "stars_period": 341,
+      "forks": 116,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109234410?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140827?s=40&v=4"
       ],
-      "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 13,
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_total": 33649,
-      "stars_period": 1949,
-      "forks": 2103,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
-    },
-    {
-      "rank": 14,
-      "name": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "language": "Rust",
-      "stars_total": 2273,
-      "stars_period": 635,
-      "forks": 194,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180418?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/208532109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/196090752?s=40&v=4"
-      ],
-      "description_zh": "Switchyard 允许 LLM 应用程序跨模型和提供商路由流量，同时保留本机 OpenAI 和 Anthropic API 兼容性 - 实现灵活的模型选择、基准测试和成本/性能优化。"
-    },
-    {
-      "rank": 15,
-      "name": "eneskirca/nodeterm",
-      "url": "https://github.com/eneskirca/nodeterm",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "rank": 11,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 1088,
-      "stars_period": 424,
-      "forks": 113,
+      "stars_total": 4747,
+      "stars_period": 1693,
+      "forks": 386,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/39504888?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1424395?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29606388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70150489?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5743232?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10885502?s=40&v=4"
       ],
-      "description_zh": "用于 AI 编码代理的基于节点的终端管理器 — tmux 支持的终端和并行代理会话，作为无限平移/缩放画布上的可拖动节点。 macOS、Linux 和浏览器服务器版。"
+      "description_zh": "光标插件规范和官方插件"
+    },
+    {
+      "rank": 12,
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars_total": 2182,
+      "stars_period": 810,
+      "forks": 259,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90952590?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78337154?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787481051
+  "generated_at": 1787484439
 }
