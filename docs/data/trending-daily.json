@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_total": 48591,
+      "stars_total": 48646,
       "stars_period": 889,
-      "forks": 7946,
+      "forks": 7955,
       "contributors": [
         "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_total": 116777,
+      "stars_total": 116816,
       "stars_period": 1990,
-      "forks": 17803,
+      "forks": 17807,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_total": 33588,
+      "stars_total": 33642,
       "stars_period": 378,
-      "forks": 11771,
+      "forks": 11780,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars_total": 206223,
+      "stars_total": 206260,
       "stars_period": 491,
-      "forks": 21069,
+      "forks": 21073,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
-      "stars_total": 57721,
+      "stars_total": 57748,
       "stars_period": 268,
-      "forks": 5477,
+      "forks": 5483,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
         "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 235533,
+      "stars_total": 235567,
       "stars_period": 899,
-      "forks": 47491,
+      "forks": 47509,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 1231,
+      "stars_total": 1242,
       "stars_period": 490,
-      "forks": 147,
+      "forks": 148,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 15586,
+      "stars_total": 15613,
       "stars_period": 1102,
-      "forks": 421,
+      "forks": 422,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 2696,
+      "stars_total": 2732,
       "stars_period": 408,
-      "forks": 294,
+      "forks": 296,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -169,7 +169,7 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 38869,
+      "stars_total": 38881,
       "stars_period": 106,
       "forks": 3269,
       "contributors": [
@@ -187,7 +187,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
-      "stars_total": 387334,
+      "stars_total": 387348,
       "stars_period": 160,
       "forks": 81330,
       "contributors": [
@@ -205,9 +205,9 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
-      "stars_total": 11589,
+      "stars_total": 11635,
       "stars_period": 272,
-      "forks": 1318,
+      "forks": 1319,
       "contributors": [
         "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -220,9 +220,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 48111,
+      "stars_total": 48131,
       "stars_period": 330,
-      "forks": 8482,
+      "forks": 8486,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -238,9 +238,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 29785,
+      "stars_total": 29826,
       "stars_period": 1055,
-      "forks": 3010,
+      "forks": 3013,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -256,7 +256,7 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 19651,
+      "stars_total": 19669,
       "stars_period": 153,
       "forks": 2863,
       "contributors": [
@@ -274,7 +274,7 @@
       "url": "https://github.com/dani-garcia/vaultwarden",
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
-      "stars_total": 66062,
+      "stars_total": 66069,
       "stars_period": 176,
       "forks": 3134,
       "contributors": [
@@ -292,9 +292,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 15057,
+      "stars_total": 15151,
       "stars_period": 2442,
-      "forks": 1605,
+      "forks": 1613,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -310,9 +310,9 @@
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": null,
-      "stars_total": 31674,
+      "stars_total": 31704,
       "stars_period": 600,
-      "forks": 3381,
+      "forks": 3382,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -324,31 +324,13 @@
     },
     {
       "rank": 19,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "stars_total": 10231,
-      "stars_period": 2530,
-      "forks": 336,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1708189?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73610855?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66492638?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 20,
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_total": 37071,
+      "stars_total": 37096,
       "stars_period": 515,
-      "forks": 3687,
+      "forks": 3689,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
         "https://avatars.githubusercontent.com/u/306684653?s=40&v=4",
@@ -359,5 +341,5 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787583013
+  "generated_at": 1787586398
 }
