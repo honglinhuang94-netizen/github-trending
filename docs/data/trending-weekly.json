@@ -8,7 +8,7 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29021,
+      "stars_total": 29024,
       "stars_period": 2176,
       "forks": 3085,
       "contributors": [
@@ -26,9 +26,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 115625,
+      "stars_total": 115654,
       "stars_period": 11167,
-      "forks": 17564,
+      "forks": 17568,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 29576,
+      "stars_total": 29599,
       "stars_period": 3660,
-      "forks": 2993,
+      "forks": 2997,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -62,7 +62,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 15388,
+      "stars_total": 15418,
       "stars_period": 6078,
       "forks": 415,
       "contributors": [
@@ -79,7 +79,7 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 7334,
+      "stars_total": 7340,
       "stars_period": 2725,
       "forks": 428,
       "contributors": [
@@ -97,7 +97,7 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 32758,
+      "stars_total": 32772,
       "stars_period": 3799,
       "forks": 2500,
       "contributors": [
@@ -115,7 +115,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 469516,
+      "stars_total": 469532,
       "stars_period": 8295,
       "forks": 51780,
       "contributors": [
@@ -133,7 +133,7 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20495,
+      "stars_total": 20500,
       "stars_period": 1671,
       "forks": 1736,
       "contributors": [
@@ -151,7 +151,7 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 1147,
+      "stars_total": 1163,
       "stars_period": 406,
       "forks": 140,
       "contributors": [
@@ -169,7 +169,7 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 4868,
+      "stars_total": 4871,
       "stars_period": 1761,
       "forks": 397,
       "contributors": [
@@ -187,9 +187,9 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 2511,
+      "stars_total": 2528,
       "stars_period": 859,
-      "forks": 280,
+      "forks": 284,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -200,5 +200,5 @@
       "description_zh": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     }
   ],
-  "generated_at": 1787565414
+  "generated_at": 1787568354
 }
