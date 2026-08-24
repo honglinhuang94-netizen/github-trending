@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 28967,
-      "stars_period": 2017,
-      "forks": 3076,
+      "stars_total": 28984,
+      "stars_period": 2176,
+      "forks": 3077,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 115276,
-      "stars_period": 10953,
-      "forks": 17512,
+      "stars_total": 115337,
+      "stars_period": 11167,
+      "forks": 17520,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54718731?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。 Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 29089,
-      "stars_period": 3151,
-      "forks": 2958,
+      "stars_total": 29170,
+      "stars_period": 3660,
+      "forks": 2965,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -62,14 +62,14 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 14891,
-      "stars_period": 4993,
-      "forks": 398,
+      "stars_total": 14990,
+      "stars_period": 6078,
+      "forks": 404,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108535?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
@@ -79,9 +79,9 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 7234,
-      "stars_period": 3364,
-      "forks": 419,
+      "stars_total": 7251,
+      "stars_period": 2725,
+      "forks": 420,
       "contributors": [
         "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 32470,
-      "stars_period": 3447,
-      "forks": 2481,
+      "stars_total": 32506,
+      "stars_period": 3799,
+      "forks": 2482,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 469188,
-      "stars_period": 9381,
-      "forks": 51756,
+      "stars_total": 469236,
+      "stars_period": 8295,
+      "forks": 51758,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20447,
-      "stars_period": 1597,
-      "forks": 1731,
+      "stars_total": 20452,
+      "stars_period": 1671,
+      "forks": 1732,
       "contributors": [
         "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -147,31 +147,13 @@
     },
     {
       "rank": 9,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 4234,
-      "stars_period": 2575,
-      "forks": 313,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 10,
       "name": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 918,
-      "stars_period": 341,
-      "forks": 125,
+      "stars_total": 980,
+      "stars_period": 406,
+      "forks": 127,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -182,13 +164,13 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 4818,
-      "stars_period": 1693,
+      "stars_total": 4826,
+      "stars_period": 1761,
       "forks": 396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -200,14 +182,14 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 2332,
-      "stars_period": 810,
-      "forks": 268,
+      "stars_total": 2368,
+      "stars_period": 859,
+      "forks": 270,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -218,5 +200,5 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787527655
+  "generated_at": 1787536065
 }
