@@ -1,122 +1,32 @@
 {
   "period": "daily",
-  "count": 19,
+  "count": 16,
   "items": [
     {
       "rank": 1,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars_total": 49511,
-      "stars_period": 891,
-      "forks": 8064,
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars_total": 16442,
+      "stars_period": 2449,
+      "forks": 1712,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30673002?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 2,
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars_total": 117740,
-      "stars_period": 1994,
-      "forks": 17960,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 3,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars_total": 34612,
-      "stars_period": 434,
-      "forks": 11988,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80536682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183295539?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 4,
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": null,
-      "stars_total": 206872,
-      "stars_period": 588,
-      "forks": 21115,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45536170?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45513138?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/478549?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 5,
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_total": 58184,
-      "stars_period": 243,
-      "forks": 5503,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72156168?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 6,
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_total": 236142,
-      "stars_period": 896,
-      "forks": 47641,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82637225?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/413810?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 7,
       "name": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 1518,
+      "stars_total": 1530,
       "stars_period": 489,
       "forks": 164,
       "contributors": [
@@ -129,31 +39,32 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 8,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "stars_total": 16205,
-      "stars_period": 1097,
-      "forks": 440,
+      "rank": 3,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars_total": 34658,
+      "stars_period": 434,
+      "forks": 11997,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80536682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/183295539?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 9,
+      "rank": 4,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 3099,
+      "stars_total": 3115,
       "stars_period": 411,
-      "forks": 313,
+      "forks": 314,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -164,48 +75,30 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 10,
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "rank": 5,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 39115,
-      "stars_period": 83,
-      "forks": 3280,
+      "stars_total": 99827,
+      "stars_period": 191,
+      "forks": 19311,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4550621?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1459269?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 11,
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "stars_total": 387547,
-      "stars_period": 173,
-      "forks": 81351,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25068?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165377636?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22031114?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/781889?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 12,
+      "rank": 6,
       "name": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
-      "stars_total": 12252,
+      "stars_total": 12278,
       "stars_period": 310,
       "forks": 1361,
       "contributors": [
@@ -215,14 +108,14 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 13,
+      "rank": 7,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 48555,
+      "stars_total": 48579,
       "stars_period": 349,
-      "forks": 8521,
+      "forks": 8522,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -233,102 +126,12 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 14,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 30642,
-      "stars_period": 1056,
-      "forks": 3111,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 15,
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars_total": 20062,
-      "stars_period": 174,
-      "forks": 2896,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 16,
-      "name": "dani-garcia/vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "stars_total": 66197,
-      "stars_period": 175,
-      "forks": 3144,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/725423?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/610450?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/203380?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8255364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/509385?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 17,
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "stars_total": 16397,
-      "stars_period": 2449,
-      "forks": 1709,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 18,
-      "name": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "language": null,
-      "stars_total": 32138,
-      "stars_period": 602,
-      "forks": 3414,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32072222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/458707?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8755484?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 19,
+      "rank": 8,
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_total": 37506,
+      "stars_total": 37523,
       "stars_period": 515,
       "forks": 3716,
       "contributors": [
@@ -339,7 +142,151 @@
         "https://avatars.githubusercontent.com/u/146339422?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 9,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 30691,
+      "stars_period": 1056,
+      "forks": 3114,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77543049?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 10,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars_total": 134002,
+      "stars_period": 161,
+      "forks": 19721,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124294538?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/212544643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 11,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "stars_total": 206897,
+      "stars_period": 588,
+      "forks": 21118,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45536170?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45513138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/478549?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 12,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars_total": 117774,
+      "stars_period": 1994,
+      "forks": 17963,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 13,
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars_total": 1890,
+      "stars_period": 214,
+      "forks": 183,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/607207?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49086305?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12746692?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1419010?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 14,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 110234,
+      "stars_period": 944,
+      "forks": 6070,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 15,
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_total": 33947,
+      "stars_period": 47,
+      "forks": 3864,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/111803974?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 16,
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars_total": 2537,
+      "stars_period": 142,
+      "forks": 115,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57304299?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15271137?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169397554?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787654394
+  "generated_at": 1787657686
 }
