@@ -8,7 +8,7 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29138,
+      "stars_total": 29141,
       "stars_period": 2285,
       "forks": 3105,
       "contributors": [
@@ -26,7 +26,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 16359,
+      "stars_total": 16375,
       "stars_period": 7019,
       "forks": 448,
       "contributors": [
@@ -43,9 +43,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 116389,
+      "stars_total": 116405,
       "stars_period": 10647,
-      "forks": 17703,
+      "forks": 17706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 31078,
+      "stars_total": 31110,
       "stars_period": 3934,
-      "forks": 3162,
+      "forks": 3166,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 1667,
+      "stars_total": 1686,
       "stars_period": 877,
-      "forks": 175,
+      "forks": 176,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 3262,
+      "stars_total": 3274,
       "stars_period": 1313,
-      "forks": 324,
+      "forks": 325,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 33246,
+      "stars_total": 33254,
       "stars_period": 4048,
-      "forks": 2532,
+      "forks": 2533,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 17435,
+      "stars_total": 17475,
       "stars_period": 4341,
-      "forks": 1806,
+      "forks": 1808,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_total": 118015,
+      "stars_total": 118034,
       "stars_period": 10571,
-      "forks": 17992,
+      "forks": 17993,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -169,7 +169,7 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20627,
+      "stars_total": 20631,
       "stars_period": 1689,
       "forks": 1743,
       "contributors": [
@@ -187,9 +187,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 470395,
+      "stars_total": 470408,
       "stars_period": 7069,
-      "forks": 51865,
+      "forks": 51870,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -223,9 +223,9 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 39144,
+      "stars_total": 39146,
       "stars_period": 1186,
-      "forks": 3287,
+      "forks": 3288,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -241,7 +241,7 @@
       "url": "https://github.com/eneskirca/nodeterm",
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "language": "TypeScript",
-      "stars_total": 1244,
+      "stars_total": 1246,
       "stars_period": 529,
       "forks": 126,
       "contributors": [
@@ -254,5 +254,5 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787686656
+  "generated_at": 1787690205
 }
