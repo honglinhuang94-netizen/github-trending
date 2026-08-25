@@ -8,9 +8,9 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29100,
+      "stars_total": 29105,
       "stars_period": 2285,
-      "forks": 3103,
+      "forks": 3104,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 116172,
+      "stars_total": 116195,
       "stars_period": 10647,
-      "forks": 17659,
+      "forks": 17664,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 16129,
+      "stars_total": 16162,
       "stars_period": 7019,
       "forks": 440,
       "contributors": [
@@ -61,9 +61,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 30547,
+      "stars_total": 30587,
       "stars_period": 3934,
-      "forks": 3099,
+      "forks": 3105,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 33115,
+      "stars_total": 33130,
       "stars_period": 4048,
-      "forks": 2523,
+      "forks": 2524,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 1496,
+      "stars_total": 1507,
       "stars_period": 877,
-      "forks": 163,
+      "forks": 164,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_total": 7477,
+      "stars_total": 7482,
       "stars_period": 1972,
-      "forks": 435,
+      "forks": 437,
       "contributors": [
         "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 470086,
+      "stars_total": 470111,
       "stars_period": 7069,
-      "forks": 51834,
+      "forks": 51836,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -151,7 +151,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 4465,
+      "stars_total": 4470,
       "stars_period": 2520,
       "forks": 323,
       "contributors": [
@@ -169,7 +169,7 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_total": 20583,
+      "stars_total": 20587,
       "stars_period": 1689,
       "forks": 1739,
       "contributors": [
@@ -187,9 +187,9 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 3068,
+      "stars_total": 3085,
       "stars_period": 1313,
-      "forks": 312,
+      "forks": 313,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -205,7 +205,7 @@
       "url": "https://github.com/liustack/modlens",
       "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
       "language": "TypeScript",
-      "stars_total": 3644,
+      "stars_total": 3645,
       "stars_period": 809,
       "forks": 105,
       "contributors": [
@@ -220,7 +220,7 @@
       "url": "https://github.com/eneskirca/nodeterm",
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "language": "TypeScript",
-      "stars_total": 1206,
+      "stars_total": 1208,
       "stars_period": 529,
       "forks": 124,
       "contributors": [
@@ -238,7 +238,7 @@
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "language": "Python",
-      "stars_total": 5813,
+      "stars_total": 5820,
       "stars_period": 1212,
       "forks": 539,
       "contributors": [
@@ -256,9 +256,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 5063,
+      "stars_total": 5068,
       "stars_period": 1832,
-      "forks": 413,
+      "forks": 414,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -269,5 +269,5 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1787647886
+  "generated_at": 1787650946
 }
