@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 16,
+  "count": 18,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 2311,
+      "stars_total": 2393,
       "stars_period": 1759,
-      "forks": 197,
+      "forks": 203,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -22,66 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "stars_total": 16978,
-      "stars_period": 7078,
-      "forks": 481,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
-    },
-    {
-      "rank": 3,
-      "name": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars_total": 29235,
-      "stars_period": 1984,
-      "forks": 3110,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30697412?s=40&v=4"
-      ],
-      "description_zh": "模块化平台（包括 MAX 和 Mojo）"
-    },
-    {
-      "rank": 4,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 32271,
-      "stars_period": 5186,
-      "forks": 3296,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": "美丽、现代、有主见的 Linux"
-    },
-    {
-      "rank": 5,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 22254,
+      "stars_total": 22905,
       "stars_period": 9477,
-      "forks": 2211,
+      "forks": 2280,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -92,14 +39,67 @@
       "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
+      "rank": 3,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 32551,
+      "stars_period": 5186,
+      "forks": 3349,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+      ],
+      "description_zh": "美丽、现代、有主见的 Linux"
+    },
+    {
+      "rank": 4,
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars_total": 17112,
+      "stars_period": 7078,
+      "forks": 487,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+    },
+    {
+      "rank": 5,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars_total": 119175,
+      "stars_period": 12120,
+      "forks": 18188,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
+      ],
+      "description_zh": "在您的终端中运行的轻量级编码代理"
+    },
+    {
       "rank": 6,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 3675,
+      "stars_total": 3748,
       "stars_period": 2217,
-      "forks": 353,
+      "forks": 357,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -111,21 +111,21 @@
     },
     {
       "rank": 7,
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars_total": 119018,
-      "stars_period": 12120,
-      "forks": 18157,
+      "name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars_total": 29251,
+      "stars_period": 1984,
+      "forks": 3113,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30697412?s=40&v=4"
       ],
-      "description_zh": "在您的终端中运行的轻量级编码代理"
+      "description_zh": "模块化平台（包括 MAX 和 Mojo）"
     },
     {
       "rank": 8,
@@ -133,9 +133,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 117054,
+      "stars_total": 117320,
       "stars_period": 7232,
-      "forks": 17807,
+      "forks": 17854,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
@@ -147,39 +147,39 @@
     },
     {
       "rank": 9,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "JavaScript",
-      "stars_total": 4917,
-      "stars_period": 2192,
-      "forks": 590,
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars_total": 21005,
+      "stars_period": 1700,
+      "forks": 3012,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61337736?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
       ],
-      "description_zh": "本地多智能体利用"
+      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
     },
     {
       "rank": 10,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 5529,
-      "stars_period": 1859,
-      "forks": 449,
+      "name": "securo-finance/securo",
+      "url": "https://github.com/securo-finance/securo",
+      "description": "Open-source personal finance manager. Self-hosted, privacy-first.",
+      "language": "Python",
+      "stars_total": 2372,
+      "stars_period": 617,
+      "forks": 305,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5743232?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5116181?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5460365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8324715?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
       ],
-      "description_zh": "光标插件规范和官方插件"
+      "description_zh": "开源个人理财经理。自托管，隐私第一。"
     },
     {
       "rank": 11,
@@ -187,9 +187,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 33719,
+      "stars_total": 33854,
       "stars_period": 3691,
-      "forks": 2565,
+      "forks": 2568,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -201,49 +201,67 @@
     },
     {
       "rank": 12,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 4888,
-      "stars_period": 1714,
-      "forks": 346,
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "JavaScript",
+      "stars_total": 5025,
+      "stars_period": 2192,
+      "forks": 601,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61337736?s=40&v=4"
       ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "description_zh": "本地多智能体利用"
     },
     {
       "rank": 13,
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_total": 471292,
-      "stars_period": 5585,
-      "forks": 51975,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_total": 68846,
+      "stars_period": 3061,
+      "forks": 13025,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47008224?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/187913759?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305929692?s=40&v=4"
       ],
-      "description_zh": "免费 API 集合列表"
+      "description_zh": "开源 AI 职位搜索：扫描职位门户，将列表评估为具有全局 1-5 分的结构化 A-H 报告，定制您的简历，跟踪应用程序 - 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
     },
     {
       "rank": 14,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 5679,
+      "stars_period": 1859,
+      "forks": 455,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5743232?s=40&v=4"
+      ],
+      "description_zh": "光标插件规范和官方插件"
+    },
+    {
+      "rank": 15,
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_total": 39287,
+      "stars_total": 39329,
       "stars_period": 1485,
-      "forks": 3290,
+      "forks": 3295,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
@@ -254,30 +272,12 @@
       "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发工具——人工智能可观测性、分析、会话重放、标记、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从 Slack、Web、桌面或 MCP 掌控一切。"
     },
     {
-      "rank": 15,
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars_total": 20831,
-      "stars_period": 1700,
-      "forks": 2992,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
-      ],
-      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
-    },
-    {
       "rank": 16,
       "name": "bookorbit/bookorbit",
       "url": "https://github.com/bookorbit/bookorbit",
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
-      "stars_total": 3319,
+      "stars_total": 3369,
       "stars_period": 895,
       "forks": 206,
       "contributors": [
@@ -288,7 +288,43 @@
         "https://avatars.githubusercontent.com/u/333657?s=40&v=4"
       ],
       "description_zh": "BookOrbit：您的阅读空间"
+    },
+    {
+      "rank": 17,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars_total": 38519,
+      "stars_period": 1818,
+      "forks": 3785,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/306684653?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146339422?s=40&v=4"
+      ],
+      "description_zh": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
+    },
+    {
+      "rank": 18,
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars_total": 50816,
+      "stars_period": 4235,
+      "forks": 8208,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30673002?s=40&v=4"
+      ],
+      "description_zh": "从您的终端、应用程序、IDE 或 OpenClaw 等手机（支持语音 + ToS 友好）免费使用 Claude Code、Codex、Pi 和 OpenCode 等（1.3B+ 免费代币）"
     }
   ],
-  "generated_at": 1787820821
+  "generated_at": 1787860023
 }
