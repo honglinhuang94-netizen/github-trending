@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 32717,
+      "stars_total": 33035,
       "stars_period": 8499,
-      "forks": 3379,
+      "forks": 3426,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 24909,
+      "stars_total": 25009,
       "stars_period": 15653,
-      "forks": 2301,
+      "forks": 2321,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_total": 29915,
-      "stars_period": 20994,
-      "forks": 4091,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77732008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4"
-      ],
-      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "rank": 4,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 23328,
+      "stars_total": 24126,
       "stars_period": 13870,
-      "forks": 2311,
+      "forks": 2388,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,14 +57,32 @@
       "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
+      "rank": 4,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_total": 30094,
+      "stars_period": 20994,
+      "forks": 4117,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77732008?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4"
+      ],
+      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
       "rank": 5,
       "name": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 2442,
+      "stars_total": 2521,
       "stars_period": 2108,
-      "forks": 206,
+      "forks": 212,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 9466,
+      "stars_total": 9544,
       "stars_period": 6142,
-      "forks": 609,
+      "forks": 610,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -108,35 +108,17 @@
         "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
         "https://avatars.githubusercontent.com/u/154585401?s=40&v=4"
       ],
-      "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 7,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_total": 31164,
-      "stars_period": 17102,
-      "forks": 3975,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109685178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7863796?s=40&v=4"
-      ],
-      "description_zh": "蜂巢思维交流平台"
-    },
-    {
-      "rank": 8,
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 33951,
+      "stars_total": 34099,
       "stars_period": 6530,
-      "forks": 2575,
+      "forks": 2591,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -147,50 +129,14 @@
       "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
     },
     {
-      "rank": 9,
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars_total": 67405,
-      "stars_period": 14605,
-      "forks": 12995,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44121227?s=40&v=4"
-      ],
-      "description_zh": "12 周，24 节课，全民人工智能！"
-    },
-    {
-      "rank": 10,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 25063,
-      "stars_period": 13950,
-      "forks": 1578,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86552437?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 3791,
+      "stars_total": 3867,
       "stars_period": 2851,
-      "forks": 359,
+      "forks": 362,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -201,50 +147,32 @@
       "description_zh": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     },
     {
-      "rank": 12,
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars_total": 26323,
-      "stars_period": 15876,
-      "forks": 2732,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/103170876?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
-      ],
-      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
-    },
-    {
-      "rank": 13,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
+      "rank": 9,
+      "name": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "language": "TypeScript",
-      "stars_total": 20787,
-      "stars_period": 5660,
-      "forks": 4957,
+      "stars_total": 8601,
+      "stars_period": 4695,
+      "forks": 723,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/3118481?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/44305048?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176929823?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/127273550?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "🎯 你所需要的一切。没有什么是你不知道的。开源项目管理适合您，而不是对您不利。"
     },
     {
-      "rank": 14,
+      "rank": 10,
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 17187,
+      "stars_total": 17337,
       "stars_period": 9437,
-      "forks": 492,
+      "forks": 497,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -254,30 +182,30 @@
       "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
-      "rank": 15,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-      "language": "TypeScript",
-      "stars_total": 57055,
-      "stars_period": 25459,
-      "forks": 7839,
+      "rank": 11,
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_total": 67524,
+      "stars_period": 14605,
+      "forks": 13012,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24198422?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44121227?s=40&v=4"
       ],
-      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、350 个提供商（90 多个免费）、1200 多个模型 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
+      "description_zh": "12 周，24 节课，全民人工智能！"
     },
     {
-      "rank": 16,
+      "rank": 12,
       "name": "modular/modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29262,
+      "stars_total": 29289,
       "stars_period": 2724,
       "forks": 3116,
       "contributors": [
@@ -290,68 +218,104 @@
       "description_zh": "模块化平台（包括 MAX 和 Mojo）"
     },
     {
-      "rank": 17,
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars_total": 14346,
-      "stars_period": 2543,
-      "forks": 1835,
+      "rank": 13,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 20861,
+      "stars_period": 5660,
+      "forks": 4984,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/3118481?s=40&v=4"
       ],
-      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
+      "description_zh": ""
+    },
+    {
+      "rank": 14,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars_total": 26601,
+      "stars_period": 15876,
+      "forks": 2757,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/183437397?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103170876?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1693627?s=40&v=4"
+      ],
+      "description_zh": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+    },
+    {
+      "rank": 15,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+      "language": "TypeScript",
+      "stars_total": 57417,
+      "stars_period": 25459,
+      "forks": 7898,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24198422?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、350 个提供商（90 多个免费）、1200 多个模型 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
+    },
+    {
+      "rank": 16,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 25277,
+      "stars_period": 13950,
+      "forks": 1595,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86552437?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
+    },
+    {
+      "rank": 17,
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_total": 31258,
+      "stars_period": 17102,
+      "forks": 3990,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/109685178?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7863796?s=40&v=4"
+      ],
+      "description_zh": "蜂巢思维交流平台"
     },
     {
       "rank": 18,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_total": 14028,
-      "stars_period": 8742,
-      "forks": 716,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77671587?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17873165?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84236270?s=40&v=4"
-      ],
-      "description_zh": "AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
-    },
-    {
-      "rank": 19,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 5019,
-      "stars_period": 3689,
-      "forks": 350,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1322752?s=40&v=4"
-      ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 20,
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 32791,
+      "stars_total": 32931,
       "stars_period": 8654,
-      "forks": 3461,
+      "forks": 3469,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -362,30 +326,48 @@
       "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     },
     {
-      "rank": 21,
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
+      "rank": 19,
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 471803,
-      "stars_period": 19767,
-      "forks": 52032,
+      "stars_total": 14382,
+      "stars_period": 2543,
+      "forks": 1837,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51822495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70079220?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/85891169?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17338428?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72035730?s=40&v=4"
       ],
-      "description_zh": "免费 API 集合列表"
+      "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars_total": 2846,
+      "stars_period": 1422,
+      "forks": 236,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9633?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/607207?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49086305?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12746692?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1419010?s=40&v=4"
+      ],
+      "description_zh": "用于基础模型研究和开发的开源框架。"
+    },
+    {
+      "rank": 21,
       "name": "unclebob/swarm-forge",
       "url": "https://github.com/unclebob/swarm-forge",
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
-      "stars_total": 2939,
+      "stars_total": 2963,
       "stars_period": 1568,
       "forks": 304,
       "contributors": [
@@ -395,7 +377,43 @@
         "https://avatars.githubusercontent.com/u/26876570?s=40&v=4"
       ],
       "description_zh": "一个用于协调多个人工智能代理的简单工具。"
+    },
+    {
+      "rank": 22,
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_total": 98706,
+      "stars_period": 19801,
+      "forks": 12213,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140309543?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69443?s=40&v=4"
+      ],
+      "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
+    },
+    {
+      "rank": 23,
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars_total": 14148,
+      "stars_period": 8742,
+      "forks": 724,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77671587?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17873165?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84236270?s=40&v=4"
+      ],
+      "description_zh": "AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
     }
   ],
-  "generated_at": 1787890245
+  "generated_at": 1787937494
 }
