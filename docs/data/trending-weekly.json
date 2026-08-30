@@ -8,9 +8,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 25065,
+      "stars_total": 25237,
       "stars_period": 13141,
-      "forks": 2460,
+      "forks": 2470,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 2721,
+      "stars_total": 2767,
       "stars_period": 2234,
-      "forks": 227,
+      "forks": 231,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/140827?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Claude Cowork 和 Claude Code 的社区插件市场。只读镜像 — 在 clau.de/plugin-directory-submission 提交插件。"
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 34791,
+      "stars_total": 34971,
       "stars_period": 6475,
-      "forks": 3572,
+      "forks": 3589,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -54,7 +54,7 @@
         "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": 4,
@@ -62,9 +62,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 31019,
+      "stars_total": 31810,
       "stars_period": 14875,
-      "forks": 1933,
+      "forks": 1985,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -72,7 +72,7 @@
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
     },
     {
       "rank": 5,
@@ -80,7 +80,7 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 4039,
+      "stars_total": 4081,
       "stars_period": 1876,
       "forks": 374,
       "contributors": [
@@ -90,7 +90,7 @@
         "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
         "https://avatars.githubusercontent.com/u/78337154?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     },
     {
       "rank": 6,
@@ -98,16 +98,16 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 17647,
+      "stars_total": 17704,
       "stars_period": 4114,
-      "forks": 511,
+      "forks": 514,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 7,
@@ -115,9 +115,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_total": 38093,
+      "stars_total": 38186,
       "stars_period": 5145,
-      "forks": 12914,
+      "forks": 12951,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
@@ -125,7 +125,7 @@
         "https://avatars.githubusercontent.com/u/80536682?s=40&v=4",
         "https://avatars.githubusercontent.com/u/183295539?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
     },
     {
       "rank": 8,
@@ -133,9 +133,9 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 22205,
+      "stars_total": 22297,
       "stars_period": 2691,
-      "forks": 3108,
+      "forks": 3114,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -143,7 +143,7 @@
         "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
         "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
     },
     {
       "rank": 9,
@@ -151,9 +151,9 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_total": 119807,
+      "stars_total": 119887,
       "stars_period": 7775,
-      "forks": 18302,
+      "forks": 18310,
       "contributors": [
         "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
         "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -161,7 +161,7 @@
         "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
         "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "在您的终端中运行的轻量级编码代理"
     },
     {
       "rank": 10,
@@ -169,9 +169,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_total": 35398,
+      "stars_total": 35499,
       "stars_period": 1603,
-      "forks": 3958,
+      "forks": 3964,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -179,7 +179,7 @@
         "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/111803974?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "由 Anthropic 管理的官方高品质 Claude 代码插件目录。"
     },
     {
       "rank": 11,
@@ -187,9 +187,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 50958,
+      "stars_total": 51039,
       "stars_period": 3488,
-      "forks": 8820,
+      "forks": 8837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -205,9 +205,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 6163,
+      "stars_total": 6200,
       "stars_period": 1571,
-      "forks": 488,
+      "forks": 490,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -215,7 +215,7 @@
         "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5743232?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "光标插件规范和官方插件"
     },
     {
       "rank": 13,
@@ -223,9 +223,9 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_total": 38861,
+      "stars_total": 38888,
       "stars_period": 2434,
-      "forks": 3816,
+      "forks": 3819,
       "contributors": [
         "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
         "https://avatars.githubusercontent.com/u/306684653?s=40&v=4",
@@ -233,7 +233,7 @@
         "https://avatars.githubusercontent.com/u/144336577?s=40&v=4",
         "https://avatars.githubusercontent.com/u/146339422?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     },
     {
       "rank": 14,
@@ -241,16 +241,16 @@
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
-      "stars_total": 11656,
+      "stars_total": 11680,
       "stars_period": 1154,
-      "forks": 1448,
+      "forks": 1450,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30708545?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22633385?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "ConardLi 的开源技能集合，包括网页设计、知识检索、图像生成等。"
     },
     {
       "rank": 15,
@@ -258,16 +258,16 @@
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
-      "stars_total": 39319,
+      "stars_total": 39342,
       "stars_period": 335,
-      "forks": 10878,
+      "forks": 10879,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
         "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18310463?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32201506?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "GoogleTest - Google 测试和模拟框架"
     },
     {
       "rank": 16,
@@ -275,9 +275,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_total": 51416,
+      "stars_total": 51587,
       "stars_period": 4942,
-      "forks": 8283,
+      "forks": 8302,
       "contributors": [
         "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -285,7 +285,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/30673002?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "从您的终端、应用程序、IDE 或 OpenClaw 等手机（支持语音 + ToS 友好）免费使用 Claude Code、Codex、Pi 和 OpenCode 等（1.3B+ 免费代币）"
     },
     {
       "rank": 17,
@@ -293,16 +293,16 @@
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": null,
-      "stars_total": 33253,
+      "stars_total": 33307,
       "stars_period": 2341,
-      "forks": 3511,
+      "forks": 3514,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18739364?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32072222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/458707?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "来自官方开发团队和社区的 1000 多种代理技能精选集合，与 Claude Code、Codex、Gemini CLI、Cursor 等兼容。"
     },
     {
       "rank": 18,
@@ -310,9 +310,9 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_total": 37929,
+      "stars_total": 38116,
       "stars_period": 3642,
-      "forks": 3572,
+      "forks": 3591,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -320,8 +320,8 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
     }
   ],
-  "generated_at": 1788048224
+  "generated_at": 1788071233
 }
