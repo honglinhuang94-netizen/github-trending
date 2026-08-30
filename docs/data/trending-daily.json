@@ -4,13 +4,67 @@
   "items": [
     {
       "rank": 1,
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars_total": 22991,
+      "stars_period": 907,
+      "forks": 4399,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117187635?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104178195?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94427531?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 2,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_total": 38435,
+      "stars_period": 1113,
+      "forks": 3602,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 3,
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_total": 9383,
+      "stars_period": 633,
+      "forks": 1275,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 4,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 31810,
-      "stars_period": 3902,
-      "forks": 1985,
+      "stars_total": 33010,
+      "stars_period": 3730,
+      "forks": 2076,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -21,83 +75,14 @@
       "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
     },
     {
-      "rank": 2,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 12903,
-      "stars_period": 1855,
-      "forks": 2553,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": 3,
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_total": 38116,
-      "stars_period": 1587,
-      "forks": 3591,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
-    },
-    {
-      "rank": 4,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "stars_total": 3712,
-      "stars_period": 789,
-      "forks": 113,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1079173?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/348?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10344482?s=40&v=4"
-      ],
-      "description_zh": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
-    },
-    {
       "rank": 5,
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars_total": 22569,
-      "stars_period": 907,
-      "forks": 4355,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/117187635?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104178195?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94427531?s=40&v=4"
-      ],
-      "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
-    },
-    {
-      "rank": 6,
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars_total": 28792,
+      "stars_total": 28920,
       "stars_period": 150,
-      "forks": 3173,
+      "forks": 3182,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -108,86 +93,173 @@
       "description_zh": "全自动消除语言模型审查"
     },
     {
-      "rank": 7,
-      "name": "bigskysoftware/htmx",
-      "url": "https://github.com/bigskysoftware/htmx",
-      "description": "</> htmx - high power tools for HTML",
-      "language": "JavaScript",
-      "stars_total": 49170,
-      "stars_period": 32,
-      "forks": 1641,
+      "rank": 6,
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars_total": 80013,
+      "stars_period": 229,
+      "forks": 8295,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/469183?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57572400?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4381040?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23287457?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19146183?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17140097?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15815124?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
       ],
-      "description_zh": "</> htmx - 强大的 HTML 工具"
+      "description_zh": "🚀🤖 Crawl4AI：开源 LLM 友好的网络爬虫和爬虫。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "rank": 7,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 60309,
+      "stars_period": 272,
+      "forks": 5287,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/146319052?s=40&v=4"
+      ],
+      "description_zh": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": 8,
-      "name": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_total": 2915,
-      "stars_period": 303,
-      "forks": 81,
+      "stars_total": 10040,
+      "stars_period": 56,
+      "forks": 869,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/25866352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17953379?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57684922?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/41039751?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34945114?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2650170?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1824153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
       ],
-      "description_zh": "帮助 AI 编码代理编写现代 Go"
+      "description_zh": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
     },
     {
       "rank": 9,
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_total": 73980,
-      "stars_period": 73,
-      "forks": 8473,
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": null,
+      "stars_total": 93116,
+      "stars_period": 65,
+      "forks": 15271,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7982102?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24948667?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/167574?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/84923604?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/201164822?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
+      "description_zh": "MCP 服务器的集合。"
     },
     {
       "rank": 10,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_total": 54223,
-      "stars_period": 806,
-      "forks": 6723,
+      "name": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars_total": 9112,
+      "stars_period": 78,
+      "forks": 4190,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74602715?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/812984?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5170945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5427943?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5467276?s=40&v=4"
       ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12 条生产管道、100 多种工具、700 多种代理技能和生产知识文件。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_zh": "Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的 Java 代码。默认情况下，它支持 Google Java 样式指南和 Sun 代码约定，但可高度配置。可以使用 ANT 任务和命令行程序来调用它。"
     },
     {
       "rank": 11,
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_total": 73685,
+      "stars_period": 196,
+      "forks": 8041,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+      ],
+      "description_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
+    },
+    {
+      "rank": 12,
+      "name": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars_total": 650,
+      "stars_period": 147,
+      "forks": 120,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6255609?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25386449?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 13,
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars_total": 5527,
+      "stars_period": 38,
+      "forks": 691,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/135248415?s=40&v=4"
+      ],
+      "description_zh": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "rank": 14,
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "language": "TypeScript",
+      "stars_total": 10776,
+      "stars_period": 99,
+      "forks": 515,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50637008?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/130670365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/200262251?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63532070?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/224122452?s=40&v=4"
+      ],
+      "description_zh": "将您的用户连接到他们的应用程序"
+    },
+    {
+      "rank": 15,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 14747,
+      "stars_total": 14894,
       "stars_period": 517,
-      "forks": 1769,
+      "forks": 1784,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -198,148 +270,77 @@
       "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
-      "rank": 12,
-      "name": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "language": "Python",
-      "stars_total": 5039,
-      "stars_period": 35,
-      "forks": 743,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/259460275?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/40251887?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50086597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/136192596?s=40&v=4"
-      ],
-      "description_zh": "将您的 PC、Mac 或 Linux 机器变成 AI 服务器。 LLM 推理、聊天 UI、语音、代理、工作流程、RAG 和图像生成。"
-    },
-    {
-      "rank": 13,
-      "name": "abi/screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "language": "Python",
-      "stars_total": 76125,
-      "stars_period": 550,
-      "forks": 9271,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/53188310?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/307814?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59241904?s=40&v=4"
-      ],
-      "description_zh": "放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）"
-    },
-    {
-      "rank": 14,
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars_total": 35499,
-      "stars_period": 358,
-      "forks": 3964,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/111803974?s=40&v=4"
-      ],
-      "description_zh": "由 Anthropic 管理的官方高品质 Claude 代码插件目录。"
-    },
-    {
-      "rank": 15,
-      "name": "google/googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "stars_total": 39342,
-      "stars_period": 128,
-      "forks": 10879,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18310463?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32201506?s=40&v=4"
-      ],
-      "description_zh": "GoogleTest - Google 测试和模拟框架"
-    },
-    {
       "rank": 16,
-      "name": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
+      "name": "colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
-      "stars_total": 8814,
-      "stars_period": 5,
-      "forks": 2756,
+      "stars_total": 43586,
+      "stars_period": 17,
+      "forks": 2154,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/12102068?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13227161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81404201?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52323235?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31667350?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1682194?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14938291?s=40&v=4"
       ],
-      "description_zh": "检查存储库的操作"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 17,
-      "name": "kaifcodec/user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
-      "language": "Python",
-      "stars_total": 3727,
-      "stars_period": 39,
-      "forks": 425,
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars_total": 22420,
+      "stars_period": 505,
+      "forks": 3128,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/98528577?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/706078?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62358492?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/208832952?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7974602?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
       ],
-      "description_zh": "🕵️‍♂️（二合一）电子邮件和用户名 OSINT 套件，可仅从单个电子邮件/用户名中进行深度数据提取。分析 455 个以上主动维护的扫描向量（175 个以上电子邮件/280 个以上用户名），以进行安全研究、调查和数字足迹。"
+      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
     },
     {
       "rank": 18,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 90795,
-      "stars_period": 196,
-      "forks": 9713,
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars_total": 13593,
+      "stars_period": 131,
+      "forks": 3646,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6198400?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/320582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8453967?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72938484?s=40&v=4"
       ],
-      "description_zh": "AI 编码代理的生产级工程技能。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 19,
-      "name": "workweave/router",
-      "url": "https://github.com/workweave/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "language": "Go",
-      "stars_total": 2874,
-      "stars_period": 284,
-      "forks": 82,
+      "name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars_total": 46443,
+      "stars_period": 181,
+      "forks": 5120,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/56594084?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11230420?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/115834029?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18105223?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/126312502?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/180941991?s=40&v=4"
       ],
-      "description_zh": "代理系统的模型路由器。在 <50 毫秒内将每个提示路由到正确的模型。只需更改端点即可将成本削减 40-70%。"
+      "description_zh": "GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图创建器。放入 git 存储库（Github、Gitlab、Azure、本地）或 ZIP 文件，并获取带有内置 Graph RAG 代理的交互式知识图。非常适合代码探索"
     }
   ],
-  "generated_at": 1788071231
+  "generated_at": 1788093884
 }
