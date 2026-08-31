@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 19,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 24696,
-      "stars_period": 1370,
-      "forks": 4531,
+      "stars_total": 25880,
+      "stars_period": 2819,
+      "forks": 4658,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,49 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_total": 39648,
-      "stars_period": 1114,
-      "forks": 3687,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
-    },
-    {
-      "rank": 3,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_total": 9778,
-      "stars_period": 361,
-      "forks": 1294,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 4,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 35556,
-      "stars_period": 3722,
-      "forks": 2276,
+      "stars_total": 37062,
+      "stars_period": 3993,
+      "forks": 2377,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -75,68 +39,50 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
+      "rank": 3,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_total": 40394,
+      "stars_period": 1968,
+      "forks": 3742,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 4,
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_total": 23150,
+      "stars_period": 718,
+      "forks": 59163,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/96521396?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12871391?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26019675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62252171?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
       "rank": 5,
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars_total": 29277,
-      "stars_period": 369,
-      "forks": 3211,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175500353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1325515?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
-      ],
-      "description_zh": "全自动消除语言模型审查"
-    },
-    {
-      "rank": 6,
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_total": 80362,
-      "stars_period": 221,
-      "forks": 8316,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17140097?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15815124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 7,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_total": 60606,
-      "stars_period": 230,
-      "forks": 5302,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146319052?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 8,
       "name": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_total": 10292,
-      "stars_period": 58,
-      "forks": 886,
+      "stars_total": 10421,
+      "stars_period": 376,
+      "forks": 889,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -144,35 +90,53 @@
         "https://avatars.githubusercontent.com/u/1824153?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
       ],
-      "description_zh": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 9,
-      "name": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": null,
-      "stars_total": 93441,
-      "stars_period": 96,
-      "forks": 15325,
+      "rank": 6,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_total": 55787,
+      "stars_period": 472,
+      "forks": 7293,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84923604?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/201164822?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8401806?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46831957?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "stars_total": 5238,
+      "stars_period": 331,
+      "forks": 763,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/259460275?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40251887?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50086597?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/136192596?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 8,
       "name": "checkstyle/checkstyle",
       "url": "https://github.com/checkstyle/checkstyle",
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
-      "stars_total": 9241,
-      "stars_period": 115,
-      "forks": 4197,
+      "stars_total": 9312,
+      "stars_period": 199,
+      "forks": 4201,
       "contributors": [
         "https://avatars.githubusercontent.com/u/812984?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5170945?s=40&v=4",
@@ -183,83 +147,68 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 11,
-      "name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_total": 73996,
-      "stars_period": 198,
-      "forks": 8069,
+      "rank": 9,
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_total": 32731,
+      "stars_period": 1439,
+      "forks": 4417,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/77732008?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/140924318?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 10,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 244968,
+      "stars_period": 490,
+      "forks": 37013,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 11,
+      "name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "language": "Python",
+      "stars_total": 3979,
+      "stars_period": 462,
+      "forks": 439,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/98528577?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/706078?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62358492?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/208832952?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7974602?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 12,
-      "name": "pollen-robotics/microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "stars_total": 873,
-      "stars_period": 168,
-      "forks": 152,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76959?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6255609?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25386449?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 13,
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "stars_total": 5838,
-      "stars_period": 62,
-      "forks": 709,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/135248415?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 14,
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "description": "Connect your users to their apps",
-      "language": "TypeScript",
-      "stars_total": 11023,
-      "stars_period": 126,
-      "forks": 528,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50637008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/130670365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/200262251?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63532070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/224122452?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 15,
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 15295,
-      "stars_period": 469,
-      "forks": 1830,
+      "stars_total": 15514,
+      "stars_period": 608,
+      "forks": 1862,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -270,77 +219,74 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 16,
-      "name": "colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod",
-      "description": "TypeScript-first schema validation with static type inference",
-      "language": "TypeScript",
-      "stars_total": 43675,
-      "stars_period": 31,
-      "forks": 2159,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3084745?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31667350?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1682194?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14938291?s=40&v=4"
-      ],
-      "description_zh": "使用静态类型推断进行 TypeScript 优先模式验证"
-    },
-    {
-      "rank": 17,
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars_total": 22957,
-      "stars_period": 504,
-      "forks": 3165,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/319142293?s=40&v=4"
-      ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": 18,
-      "name": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "rank": 13,
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars_total": 13822,
-      "stars_period": 132,
-      "forks": 3660,
+      "stars_total": 29455,
+      "stars_period": 536,
+      "forks": 3227,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6198400?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/320582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8453967?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72938484?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175500353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1325515?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": 19,
-      "name": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_total": 46636,
-      "stars_period": 182,
-      "forks": 5130,
+      "rank": 14,
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars_total": 6106,
+      "stars_period": 571,
+      "forks": 724,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/11230420?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/135248415?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 15,
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars_total": 17169,
+      "stars_period": 199,
+      "forks": 1189,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/126312502?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180941991?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/125551792?s=40&v=4"
+      ],
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 16,
+      "name": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars_total": 1044,
+      "stars_period": 384,
+      "forks": 179,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/72405531?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6255609?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25386449?s=40&v=4"
       ],
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1788153161
+  "generated_at": 1788182757
 }
