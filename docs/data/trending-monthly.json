@@ -8,9 +8,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 37580,
+      "stars_total": 37653,
       "stars_period": 13231,
-      "forks": 3947,
+      "forks": 3960,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 11825,
+      "stars_total": 11849,
       "stars_period": 9973,
-      "forks": 1327,
+      "forks": 1331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 6727,
+      "stars_total": 6750,
       "stars_period": 4249,
-      "forks": 552,
+      "forks": 553,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -62,7 +62,7 @@
       "url": "https://github.com/cloudflare/cloudflare-os",
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "language": "TypeScript",
-      "stars_total": 9539,
+      "stars_total": 9555,
       "stars_period": 9549,
       "forks": 1123,
       "contributors": [
@@ -72,7 +72,7 @@
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62088388?s=40&v=4"
       ],
-      "description_zh": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的上下文和系统创建文档、构建应用程序以及运行代理。"
+      "description_zh": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的环境和系统创建文档、构建应用程序以及运行代理。"
     },
     {
       "rank": 5,
@@ -80,9 +80,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 45143,
+      "stars_total": 45494,
       "stars_period": 35312,
-      "forks": 2895,
+      "forks": 2920,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 3335,
+      "stars_total": 3339,
       "stars_period": 2979,
-      "forks": 258,
+      "forks": 256,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 18707,
+      "stars_total": 18732,
       "stars_period": 10586,
-      "forks": 566,
+      "forks": 567,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 35305,
+      "stars_total": 35332,
       "stars_period": 7539,
-      "forks": 2707,
+      "forks": 2706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 27670,
+      "stars_total": 27715,
       "stars_period": 18715,
-      "forks": 2676,
+      "forks": 2682,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_total": 4930,
+      "stars_total": 4937,
       "stars_period": 2455,
-      "forks": 654,
+      "forks": 653,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 30931,
+      "stars_total": 30994,
       "stars_period": 10080,
-      "forks": 5117,
+      "forks": 5130,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -205,7 +205,7 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 10156,
+      "stars_total": 10169,
       "stars_period": 6771,
       "forks": 655,
       "contributors": [
@@ -223,7 +223,7 @@
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
-      "stars_total": 4625,
+      "stars_total": 4640,
       "stars_period": 3579,
       "forks": 432,
       "contributors": [
@@ -241,14 +241,14 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_total": 25808,
+      "stars_total": 25828,
       "stars_period": 15189,
-      "forks": 2407,
+      "forks": 2409,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/45094628?s=40&v=4"
       ],
       "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
@@ -259,9 +259,9 @@
       "url": "https://github.com/youssofal/MTPLX",
       "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
       "language": "Python",
-      "stars_total": 1988,
+      "stars_total": 1998,
       "stars_period": 826,
-      "forks": 146,
+      "forks": 147,
       "contributors": [
         "https://avatars.githubusercontent.com/u/66418316?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -277,9 +277,9 @@
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_total": 8954,
+      "stars_total": 8968,
       "stars_period": 8868,
-      "forks": 501,
+      "forks": 502,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1103087?s=40&v=4",
@@ -295,9 +295,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 19346,
+      "stars_total": 19371,
       "stars_period": 3900,
-      "forks": 1554,
+      "forks": 1555,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -313,9 +313,9 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29505,
+      "stars_total": 29510,
       "stars_period": 2923,
-      "forks": 3140,
+      "forks": 3142,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
@@ -331,9 +331,9 @@
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
       "language": "Python",
-      "stars_total": 5529,
+      "stars_total": 5544,
       "stars_period": 5297,
-      "forks": 490,
+      "forks": 492,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
         "https://avatars.githubusercontent.com/u/17559402?s=40&v=4",
@@ -344,5 +344,5 @@
       "description_zh": "长视野代理控制平面，可跨 Codex、Claude Code 和其他工具进行持久、受监管的工作。"
     }
   ],
-  "generated_at": 1788445241
+  "generated_at": 1788460112
 }
