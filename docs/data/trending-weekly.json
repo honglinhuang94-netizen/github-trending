@@ -1,34 +1,16 @@
 {
   "period": "weekly",
-  "count": 21,
+  "count": 23,
   "items": [
     {
       "rank": 1,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 16521,
-      "stars_period": 10679,
-      "forks": 3319,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/177599791?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4534677?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49208092?s=40&v=4"
-      ],
-      "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": 2,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 44750,
+      "stars_total": 45143,
       "stars_period": 26626,
-      "forks": 2875,
+      "forks": 2895,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -39,32 +21,32 @@
       "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
     },
     {
-      "rank": 3,
-      "name": "zedeus/nitter",
-      "url": "https://github.com/zedeus/nitter",
-      "description": "Alternative Twitter front-end",
-      "language": "Nim",
-      "stars_total": 14084,
-      "stars_period": 525,
-      "forks": 1292,
+      "rank": 2,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_total": 16703,
+      "stars_period": 10679,
+      "forks": 3351,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9434921?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10339438?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2900871?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6720054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3691490?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/177599791?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4534677?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49208092?s=40&v=4"
       ],
-      "description_zh": "替代 Twitter 前端"
+      "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 30810,
+      "stars_total": 30931,
       "stars_period": 9426,
-      "forks": 5107,
+      "forks": 5117,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,50 +57,50 @@
       "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
     },
     {
-      "rank": 5,
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "stars_total": 27609,
-      "stars_period": 7006,
-      "forks": 2668,
+      "rank": 4,
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars_total": 3081,
+      "stars_period": 1403,
+      "forks": 86,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/17953379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25866352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57684922?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41039751?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34945114?s=40&v=4"
       ],
-      "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+      "description_zh": "帮助 AI 编码代理编写现代 Go"
+    },
+    {
+      "rank": 5,
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars_total": 32223,
+      "stars_period": 1035,
+      "forks": 9012,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59725767?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12479882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50949929?s=40&v=4"
+      ],
+      "description_zh": "跑到任何地方。使用任何东西"
     },
     {
       "rank": 6,
-      "name": "omacom/omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 37489,
-      "stars_period": 5577,
-      "forks": 3932,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4"
-      ],
-      "description_zh": "美丽、现代、有主见的 Linux"
-    },
-    {
-      "rank": 7,
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_total": 42232,
+      "stars_total": 42311,
       "stars_period": 7558,
-      "forks": 3879,
+      "forks": 3880,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -129,32 +111,14 @@
       "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
     },
     {
-      "rank": 8,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_total": 16502,
-      "stars_period": 2767,
-      "forks": 2024,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "name": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "stars_total": 58050,
+      "stars_total": 58144,
       "stars_period": 2669,
-      "forks": 7547,
+      "forks": 7554,
       "contributors": [
         "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
@@ -165,68 +129,68 @@
       "description_zh": "🧠 只需 2 小时从头开始训练 64M 参数的 LLM！"
     },
     {
-      "rank": 10,
-      "name": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "language": "Python",
-      "stars_total": 3321,
-      "stars_period": 1212,
-      "forks": 257,
+      "rank": 8,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_total": 16571,
+      "stars_period": 2767,
+      "forks": 2035,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140827?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "Claude Cowork 和 Claude Code 的社区插件市场。只读镜像 — 在 clau.de/plugin-directory-submission 提交插件。"
+      "description_zh": "Semrush 和 Ahrefs 的开源替代品"
+    },
+    {
+      "rank": 9,
+      "name": "omacom/omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 37580,
+      "stars_period": 5577,
+      "forks": 3947,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/317366263?s=40&v=4"
+      ],
+      "description_zh": "美丽、现代、有主见的 Linux"
+    },
+    {
+      "rank": 10,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 30582,
+      "stars_period": 787,
+      "forks": 2916,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+      ],
+      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
     },
     {
       "rank": 11,
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars_total": 23991,
-      "stars_period": 3366,
-      "forks": 3269,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5494586?s=40&v=4"
-      ],
-      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
-    },
-    {
-      "rank": 12,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 6701,
-      "stars_period": 1333,
-      "forks": 549,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
-      ],
-      "description_zh": "光标插件规范和官方插件"
-    },
-    {
-      "rank": 13,
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars_total": 30234,
+      "stars_total": 30259,
       "stars_period": 2045,
-      "forks": 3338,
+      "forks": 3345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -237,32 +201,50 @@
       "description_zh": "全自动消除语言模型审查"
     },
     {
-      "rank": 14,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 52160,
-      "stars_period": 2843,
-      "forks": 9040,
+      "rank": 12,
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars_total": 27670,
+      "stars_period": 7006,
+      "forks": 2676,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
       ],
-      "description_zh": "学习它。建造它。寄给别人。"
+      "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 6727,
+      "stars_period": 1333,
+      "forks": 552,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
+      ],
+      "description_zh": "光标插件规范和官方插件"
+    },
+    {
+      "rank": 14,
       "name": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
-      "stars_total": 77267,
+      "stars_total": 77322,
       "stars_period": 2634,
-      "forks": 9411,
+      "forks": 9417,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23818?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -273,47 +255,12 @@
       "description_zh": "放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）"
     },
     {
-      "rank": 16,
-      "name": "google/googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "stars_total": 39482,
-      "stars_period": 518,
-      "forks": 10890,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18310463?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32201506?s=40&v=4"
-      ],
-      "description_zh": "GoogleTest - Google 测试和模拟框架"
-    },
-    {
-      "rank": 17,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_total": 55848,
-      "stars_period": 5078,
-      "forks": 6975,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74602715?s=40&v=4"
-      ],
-      "description_zh": "世界上第一个开源的代理视频制作系统。 12 条生产管道、100 多种工具、700 多种代理技能和生产知识文件。将您的人工智能编码助手变成一个完整的视频制作工作室。"
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "name": "colinhacks/zod",
       "url": "https://github.com/colinhacks/zod",
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
-      "stars_total": 43790,
+      "stars_total": 43798,
       "stars_period": 252,
       "forks": 2171,
       "contributors": [
@@ -326,14 +273,68 @@
       "description_zh": "使用静态类型推断进行 TypeScript 优先模式验证"
     },
     {
+      "rank": 16,
+      "name": "zedeus/nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "stars_total": 14087,
+      "stars_period": 525,
+      "forks": 1292,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9434921?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10339438?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2900871?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6720054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3691490?s=40&v=4"
+      ],
+      "description_zh": "替代 Twitter 前端"
+    },
+    {
+      "rank": 17,
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars_total": 24040,
+      "stars_period": 3366,
+      "forks": 3271,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5494586?s=40&v=4"
+      ],
+      "description_zh": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
+    },
+    {
+      "rank": 18,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 15771,
+      "stars_period": 2511,
+      "forks": 2168,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13193085?s=40&v=4"
+      ],
+      "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+    },
+    {
       "rank": 19,
       "name": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "description": "A collection of MCP servers.",
       "language": null,
-      "stars_total": 93915,
+      "stars_total": 93948,
       "stars_period": 1017,
-      "forks": 15534,
+      "forks": 15553,
       "contributors": [
         "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -345,40 +346,75 @@
     },
     {
       "rank": 20,
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
-      "stars_total": 40441,
-      "stars_period": 4172,
-      "forks": 13723,
+      "stars_total": 7175,
+      "stars_period": 1750,
+      "forks": 792,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/80536682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17257805?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30405889?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/135248415?s=40&v=4"
       ],
-      "description_zh": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
+      "description_zh": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
     {
       "rank": 21,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 30447,
-      "stars_period": 787,
-      "forks": 2910,
+      "stars_total": 52214,
+      "stars_period": 2843,
+      "forks": 9045,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
       ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "description_zh": "学习它。建造它。寄给别人。"
+    },
+    {
+      "rank": 22,
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "stars_total": 10780,
+      "stars_period": 836,
+      "forks": 906,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2650170?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1824153?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
+      ],
+      "description_zh": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
+    },
+    {
+      "rank": 23,
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars_total": 24804,
+      "stars_period": 918,
+      "forks": 3003,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/382460?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1554508?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1381823?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "现代格式库"
     }
   ],
-  "generated_at": 1788428158
+  "generated_at": 1788445238
 }

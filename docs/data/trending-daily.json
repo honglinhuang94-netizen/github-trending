@@ -8,9 +8,9 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_total": 24617,
-      "stars_period": 14,
-      "forks": 2997,
+      "stars_total": 24804,
+      "stars_period": 955,
+      "forks": 3003,
       "contributors": [
         "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/382460?s=40&v=4",
@@ -22,103 +22,30 @@
     },
     {
       "rank": 2,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 30447,
-      "stars_period": 343,
-      "forks": 2910,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 246427,
+      "stars_period": 1576,
+      "forks": 20913,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
       ],
-      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
       "rank": 3,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_total": 122551,
-      "stars_period": 1354,
-      "forks": 6624,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
-      ],
-      "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
-    },
-    {
-      "rank": 4,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 15489,
-      "stars_period": 832,
-      "forks": 2158,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13193085?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
-    },
-    {
-      "rank": 5,
-      "name": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "language": "Python",
-      "stars_total": 6418,
-      "stars_period": 63,
-      "forks": 1303,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1306534?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16517186?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17290550?s=40&v=4"
-      ],
-      "description_zh": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
-    },
-    {
-      "rank": 6,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 50782,
-      "stars_period": 148,
-      "forks": 3560,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
-      ],
-      "description_zh": "用于编码代理的 Chrome DevTools"
-    },
-    {
-      "rank": 7,
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 240426,
-      "stars_period": 533,
-      "forks": 49224,
+      "stars_total": 240588,
+      "stars_period": 778,
+      "forks": 49257,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -129,86 +56,50 @@
       "description_zh": "与您共同成长的代理商"
     },
     {
-      "rank": 8,
-      "name": "superlinked/sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
-      "language": "Python",
-      "stars_total": 3165,
-      "stars_period": 60,
-      "forks": 302,
+      "rank": 4,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 122908,
+      "stars_period": 2138,
+      "forks": 6643,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/162457936?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73337655?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2996824?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1493333?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "适用于代理所需的所有模型的开源推理服务器和生产集群。"
-    },
-    {
-      "rank": 9,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_total": 3068,
-      "stars_period": 888,
-      "forks": 196,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32670628?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/171568277?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86776685?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16221196?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
-    },
-    {
-      "rank": 10,
-      "name": "zyronon/TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-      "language": "Vue",
-      "stars_total": 9535,
-      "stars_period": 21,
-      "forks": 1146,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/19986642?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/152023695?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72185434?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/189698611?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22068064?s=40&v=4"
-      ],
-      "description_zh": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
-    },
-    {
-      "rank": 11,
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_total": 45794,
-      "stars_period": 799,
-      "forks": 3591,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/126993554?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/115035770?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254419203?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
       ],
-      "description_zh": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
     },
     {
-      "rank": 12,
+      "rank": 5,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_total": 173465,
+      "stars_period": 277,
+      "forks": 20591,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254044062?s=40&v=4"
+      ],
+      "description_zh": "代理技能的公共存储库"
+    },
+    {
+      "rank": 6,
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 246645,
-      "stars_period": 516,
-      "forks": 37174,
+      "stars_total": 246775,
+      "stars_period": 749,
+      "forks": 37188,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -219,68 +110,14 @@
       "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
-      "rank": 13,
-      "name": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "stars_total": 71985,
-      "stars_period": 18,
-      "forks": 16272,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/106703886?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1270?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105450428?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62662355?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8551050?s=40&v=4"
-      ],
-      "description_zh": "Protocol Buffers - Google 的数据交换格式"
-    },
-    {
-      "rank": 14,
-      "name": "vercel-labs/portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
-      "language": "TypeScript",
-      "stars_total": 11964,
-      "stars_period": 73,
-      "forks": 388,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90888?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13101267?s=40&v=4"
-      ],
-      "description_zh": "将端口号替换为稳定的、命名的本地 URL。对于人类和特工来说。"
-    },
-    {
-      "rank": 15,
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars_total": 40897,
-      "stars_period": 374,
-      "forks": 3521,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/243858445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37253580?s=40&v=4"
-      ],
-      "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
-    },
-    {
-      "rank": 16,
+      "rank": 7,
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
-      "stars_total": 102841,
-      "stars_period": 238,
-      "forks": 5978,
+      "stars_total": 102927,
+      "stars_period": 545,
+      "forks": 5986,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -291,31 +128,154 @@
       "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
     },
     {
-      "rank": 17,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 245853,
-      "stars_period": 1166,
-      "forks": 20885,
+      "rank": 8,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars_total": 41140,
+      "stars_period": 1214,
+      "forks": 3534,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/243858445?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37253580?s=40&v=4"
       ],
-      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
     },
     {
-      "rank": 18,
+      "rank": 9,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 30582,
+      "stars_period": 1626,
+      "forks": 2916,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+      ],
+      "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": 10,
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars_total": 8208,
+      "stars_period": 673,
+      "forks": 1355,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/161183892?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/97675744?s=40&v=4"
+      ],
+      "description_zh": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+    },
+    {
+      "rank": 11,
+      "name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_total": 51960,
+      "stars_period": 539,
+      "forks": 8445,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
+      ],
+      "description_zh": "翻墙-科学上网"
+    },
+    {
+      "rank": 12,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 91878,
+      "stars_period": 280,
+      "forks": 9804,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5470381?s=40&v=4"
+      ],
+      "description_zh": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": 13,
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": null,
+      "stars_total": 88153,
+      "stars_period": 158,
+      "forks": 9813,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50348?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4921183?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50521908?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/375631?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1277202?s=40&v=4"
+      ],
+      "description_zh": "使用视觉效果和简单术语解释复杂的系统。帮助您准备系统设计面试。"
+    },
+    {
+      "rank": 14,
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars_total": 1793,
+      "stars_period": 130,
+      "forks": 136,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32600629?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1196732?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/223382489?s=40&v=4"
+      ],
+      "description_zh": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
+    },
+    {
+      "rank": 15,
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars_total": 45887,
+      "stars_period": 498,
+      "forks": 3597,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/126993554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/115035770?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254419203?s=40&v=4"
+      ],
+      "description_zh": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+    },
+    {
+      "rank": 16,
       "name": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "stars_total": 32155,
-      "stars_period": 775,
-      "forks": 9008,
+      "stars_total": 32223,
+      "stars_period": 453,
+      "forks": 9012,
       "contributors": [
         "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59725767?s=40&v=4",
@@ -326,23 +286,59 @@
       "description_zh": "跑到任何地方。使用任何东西"
     },
     {
-      "rank": 19,
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "stars_total": 18701,
-      "stars_period": 586,
-      "forks": 1252,
+      "rank": 17,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 15771,
+      "stars_period": 1738,
+      "forks": 2168,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1450169?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/630936?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/125551792?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13193085?s=40&v=4"
       ],
-      "description_zh": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+    },
+    {
+      "rank": 18,
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars_total": 168766,
+      "stars_period": 198,
+      "forks": 21749,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/196477?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99514353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2871319?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37421564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/408479?s=40&v=4"
+      ],
+      "description_zh": "F.K.A.很棒的 ChatGPT 提示。分享、发现并收集社区中的提示。免费和开源——为您的组织自行托管，并具有完全的隐私。"
+    },
+    {
+      "rank": 19,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 281153,
+      "stars_period": 460,
+      "forks": 25186,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      ],
+      "description_zh": "有效的代理技能框架和软件开发方法。"
     }
   ],
-  "generated_at": 1788428156
+  "generated_at": 1788445236
 }
