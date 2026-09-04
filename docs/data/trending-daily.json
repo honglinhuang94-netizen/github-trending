@@ -8,9 +8,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 249164,
+      "stars_total": 249819,
       "stars_period": 2757,
-      "forks": 21089,
+      "forks": 21117,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -25,9 +25,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 124631,
+      "stars_total": 125156,
       "stars_period": 1683,
-      "forks": 6722,
+      "forks": 6745,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -35,7 +35,7 @@
         "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
         "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
     },
     {
       "rank": 3,
@@ -43,9 +43,9 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_total": 25410,
+      "stars_total": 25436,
       "stars_period": 681,
-      "forks": 3028,
+      "forks": 3033,
       "contributors": [
         "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/382460?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 247922,
+      "stars_total": 248193,
       "stars_period": 1139,
-      "forks": 37357,
+      "forks": 37405,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -71,7 +71,7 @@
         "https://avatars.githubusercontent.com/u/73515951?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
       "rank": 5,
@@ -79,9 +79,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 173947,
+      "stars_total": 174029,
       "stars_period": 512,
-      "forks": 20623,
+      "forks": 20632,
       "contributors": [
         "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -89,7 +89,7 @@
         "https://avatars.githubusercontent.com/u/27286675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/254044062?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "代理技能的公共存储库"
     },
     {
       "rank": 6,
@@ -97,9 +97,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 42224,
+      "stars_total": 42492,
       "stars_period": 1132,
-      "forks": 3589,
+      "forks": 3602,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 241254,
+      "stars_total": 241370,
       "stars_period": 721,
-      "forks": 49452,
+      "forks": 49505,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -125,7 +125,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/413810?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "与您共同成长的代理商"
     },
     {
       "rank": 8,
@@ -133,9 +133,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
-      "stars_total": 103401,
+      "stars_total": 103484,
       "stars_period": 503,
-      "forks": 6001,
+      "forks": 6006,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
-      "stars_total": 2192,
+      "stars_total": 2289,
       "stars_period": 395,
-      "forks": 152,
+      "forks": 160,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32600629?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stars_total": 4416,
+      "stars_total": 4461,
       "stars_period": 68,
-      "forks": 1236,
+      "forks": 1238,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63224111?s=40&v=4",
         "https://avatars.githubusercontent.com/u/243297914?s=40&v=4"
@@ -184,14 +184,14 @@
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars_total": 52640,
+      "stars_total": 52722,
       "stars_period": 735,
-      "forks": 8516,
+      "forks": 8521,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
       ],
-      "description_zh": "翻墙-科学上网"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 12,
@@ -199,9 +199,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 17098,
+      "stars_total": 17515,
       "stars_period": 1345,
-      "forks": 2259,
+      "forks": 2307,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -217,9 +217,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 30912,
+      "stars_total": 30976,
       "stars_period": 340,
-      "forks": 2951,
+      "forks": 2952,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -235,9 +235,9 @@
       "url": "https://github.com/radixark/miles",
       "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "language": "Python",
-      "stars_total": 2481,
+      "stars_total": 2512,
       "stars_period": 55,
-      "forks": 439,
+      "forks": 441,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48857426?s=40&v=4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 203793,
+      "stars_total": 203945,
       "stars_period": 314,
-      "forks": 26589,
+      "forks": 26620,
       "contributors": [
         "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
@@ -271,7 +271,7 @@
       "url": "https://github.com/clshortfuse/renodx",
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
-      "stars_total": 3430,
+      "stars_total": 3474,
       "stars_period": 759,
       "forks": 137,
       "contributors": [
@@ -289,9 +289,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 30613,
+      "stars_total": 30773,
       "stars_period": 426,
-      "forks": 1966,
+      "forks": 1975,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -302,5 +302,5 @@
       "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "generated_at": 1788530988
+  "generated_at": 1788545721
 }
