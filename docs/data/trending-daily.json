@@ -8,9 +8,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 250327,
-      "stars_period": 2757,
-      "forks": 21154,
+      "stars_total": 250629,
+      "stars_period": 2758,
+      "forks": 21176,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -25,9 +25,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 125934,
-      "stars_period": 1683,
-      "forks": 6762,
+      "stars_total": 126344,
+      "stars_period": 1679,
+      "forks": 6774,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -43,8 +43,8 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_total": 25462,
-      "stars_period": 681,
+      "stars_total": 25487,
+      "stars_period": 688,
       "forks": 3035,
       "contributors": [
         "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 248481,
-      "stars_period": 1139,
-      "forks": 37454,
+      "stars_total": 248623,
+      "stars_period": 1135,
+      "forks": 37473,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 174118,
-      "stars_period": 512,
-      "forks": 20639,
+      "stars_total": 174185,
+      "stars_period": 511,
+      "forks": 20649,
       "contributors": [
         "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 42686,
-      "stars_period": 1132,
-      "forks": 3607,
+      "stars_total": 42825,
+      "stars_period": 1130,
+      "forks": 3615,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -107,7 +107,7 @@
         "https://avatars.githubusercontent.com/u/243858445?s=40&v=4",
         "https://avatars.githubusercontent.com/u/37253580?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
     },
     {
       "rank": 7,
@@ -115,9 +115,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 241477,
-      "stars_period": 721,
-      "forks": 49553,
+      "stars_total": 241565,
+      "stars_period": 720,
+      "forks": 49580,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -133,8 +133,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
-      "stars_total": 103562,
-      "stars_period": 503,
+      "stars_total": 103617,
+      "stars_period": 501,
       "forks": 6007,
       "contributors": [
         "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
@@ -151,15 +151,15 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
-      "stars_total": 2454,
-      "stars_period": 395,
-      "forks": 175,
+      "stars_total": 2579,
+      "stars_period": 391,
+      "forks": 187,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32600629?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1196732?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/223382489?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/120605515?s=40&v=4"
       ],
       "description_zh": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
@@ -169,9 +169,9 @@
       "url": "https://github.com/bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stars_total": 4504,
-      "stars_period": 68,
-      "forks": 1241,
+      "stars_total": 4545,
+      "stars_period": 74,
+      "forks": 1242,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63224111?s=40&v=4",
         "https://avatars.githubusercontent.com/u/243297914?s=40&v=4"
@@ -184,9 +184,9 @@
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars_total": 52760,
-      "stars_period": 735,
-      "forks": 8522,
+      "stars_total": 52838,
+      "stars_period": 730,
+      "forks": 8530,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50905019?s=40&v=4"
@@ -199,9 +199,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 17933,
+      "stars_total": 18170,
       "stars_period": 1345,
-      "forks": 2356,
+      "forks": 2370,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -217,9 +217,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 31042,
-      "stars_period": 340,
-      "forks": 2956,
+      "stars_total": 31097,
+      "stars_period": 342,
+      "forks": 2963,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -235,9 +235,9 @@
       "url": "https://github.com/radixark/miles",
       "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "language": "Python",
-      "stars_total": 2548,
-      "stars_period": 55,
-      "forks": 443,
+      "stars_total": 2581,
+      "stars_period": 64,
+      "forks": 446,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48857426?s=40&v=4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 204105,
-      "stars_period": 314,
-      "forks": 26632,
+      "stars_total": 204206,
+      "stars_period": 345,
+      "forks": 26641,
       "contributors": [
         "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
@@ -271,9 +271,9 @@
       "url": "https://github.com/clshortfuse/renodx",
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
-      "stars_total": 3520,
-      "stars_period": 759,
-      "forks": 138,
+      "stars_total": 3554,
+      "stars_period": 261,
+      "forks": 140,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9271155?s=40&v=4",
         "https://avatars.githubusercontent.com/u/131800246?s=40&v=4",
@@ -289,9 +289,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 30904,
-      "stars_period": 426,
-      "forks": 1982,
+      "stars_total": 31052,
+      "stars_period": 437,
+      "forks": 1998,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -299,8 +299,8 @@
         "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
         "https://avatars.githubusercontent.com/u/143511969?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
     }
   ],
-  "generated_at": 1788566045
+  "generated_at": 1788581276
 }
