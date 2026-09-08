@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 34218,
+      "stars_total": 34483,
       "stars_period": 29958,
-      "forks": 2181,
+      "forks": 2188,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 39300,
+      "stars_total": 39362,
       "stars_period": 14766,
-      "forks": 4249,
+      "forks": 4261,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 7095,
+      "stars_total": 7124,
       "stars_period": 4562,
-      "forks": 611,
+      "forks": 618,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 54354,
+      "stars_total": 54527,
       "stars_period": 42314,
-      "forks": 3566,
+      "forks": 3574,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 3618,
+      "stars_total": 3626,
       "stars_period": 3285,
       "forks": 281,
       "contributors": [
@@ -98,7 +98,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 12384,
+      "stars_total": 12394,
       "stars_period": 10142,
       "forks": 1393,
       "contributors": [
@@ -116,16 +116,16 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 20101,
+      "stars_total": 20138,
       "stars_period": 11676,
-      "forks": 621,
+      "forks": 623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
         "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": 8,
@@ -133,9 +133,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 36048,
+      "stars_total": 36062,
       "stars_period": 7993,
-      "forks": 2750,
+      "forks": 2751,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
-      "stars_total": 32913,
+      "stars_total": 32918,
       "stars_period": 6041,
-      "forks": 5373,
+      "forks": 5375,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/219145320?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_total": 29137,
+      "stars_total": 29229,
       "stars_period": 19058,
-      "forks": 2789,
+      "forks": 2798,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 33481,
+      "stars_total": 33510,
       "stars_period": 12423,
-      "forks": 5412,
+      "forks": 5417,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 10558,
+      "stars_total": 10576,
       "stars_period": 7126,
-      "forks": 675,
+      "forks": 676,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -221,9 +221,9 @@
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
-      "stars_total": 17020,
+      "stars_total": 17084,
       "stars_period": 11945,
-      "forks": 588,
+      "forks": 590,
       "contributors": [
         "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
@@ -239,7 +239,7 @@
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29623,
+      "stars_total": 29629,
       "stars_period": 3016,
       "forks": 3159,
       "contributors": [
@@ -253,31 +253,13 @@
     },
     {
       "rank": 15,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 6100,
-      "stars_period": 4570,
-      "forks": 422,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
-      ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 16,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 21175,
+      "stars_total": 21240,
       "stars_period": 10716,
-      "forks": 2628,
+      "forks": 2634,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -288,14 +270,14 @@
       "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
-      "stars_total": 5038,
+      "stars_total": 5049,
       "stars_period": 3715,
-      "forks": 469,
+      "forks": 470,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -306,14 +288,14 @@
       "description_zh": "Apache Maka（孵化）是一个高性能代理工作区，可以完整记录其所做的一切。"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 477443,
+      "stars_total": 477522,
       "stars_period": 22977,
-      "forks": 52700,
+      "forks": 52709,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -324,12 +306,12 @@
       "description_zh": "免费 API 集合列表"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars_total": 93489,
+      "stars_total": 93499,
       "stars_period": 4285,
       "forks": 7680,
       "contributors": [
@@ -342,14 +324,14 @@
       "description_zh": "用于解释数学视频的动画引擎"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_total": 11256,
+      "stars_total": 11267,
       "stars_period": 3540,
-      "forks": 1431,
+      "forks": 1432,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
@@ -360,12 +342,12 @@
       "description_zh": ""
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars_total": 14758,
+      "stars_total": 14769,
       "stars_period": 2795,
       "forks": 1880,
       "contributors": [
@@ -378,14 +360,14 @@
       "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
       "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
       "description": "DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks",
       "language": "Python",
-      "stars_total": 1285,
+      "stars_total": 1289,
       "stars_period": 809,
-      "forks": 178,
+      "forks": 179,
       "contributors": [
         "https://avatars.githubusercontent.com/u/83042094?s=40&v=4",
         "https://avatars.githubusercontent.com/u/299844489?s=40&v=4",
@@ -396,12 +378,12 @@
       "description_zh": "DeepSeek-v4-Flash 0731 2x DGX Sparks 配方"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
       "language": "Python",
-      "stars_total": 75826,
+      "stars_total": 75844,
       "stars_period": 6317,
       "forks": 6901,
       "contributors": [
@@ -414,5 +396,5 @@
       "description_zh": "用于运行和训练法学硕士和扩散模型的本地 UI。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等。"
     }
   ],
-  "generated_at": 1788884985
+  "generated_at": 1788896927
 }
