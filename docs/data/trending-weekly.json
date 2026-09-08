@@ -26,9 +26,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 254093,
+      "stars_total": 254231,
       "stars_period": 7735,
-      "forks": 38101,
+      "forks": 38103,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 132042,
+      "stars_total": 132120,
       "stars_period": 12834,
-      "forks": 7069,
+      "forks": 7072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,14 +62,14 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 54527,
+      "stars_total": 54623,
       "stars_period": 14946,
-      "forks": 3574,
+      "forks": 3578,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44204222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/44204222?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。"
@@ -80,9 +80,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 45348,
+      "stars_total": 45377,
       "stars_period": 5771,
-      "forks": 3739,
+      "forks": 3740,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 47023,
+      "stars_total": 47032,
       "stars_period": 2406,
-      "forks": 3679,
+      "forks": 3680,
       "contributors": [
         "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 256864,
+      "stars_total": 256929,
       "stars_period": 13575,
-      "forks": 21638,
+      "forks": 21643,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_total": 48704,
+      "stars_total": 48767,
       "stars_period": 1722,
-      "forks": 7487,
+      "forks": 7494,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_total": 51360,
+      "stars_total": 51365,
       "stars_period": 1042,
-      "forks": 3621,
+      "forks": 3620,
       "contributors": [
         "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -169,7 +169,7 @@
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
-      "stars_total": 40340,
+      "stars_total": 40342,
       "stars_period": 304,
       "forks": 18592,
       "contributors": [
@@ -179,7 +179,7 @@
         "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42633?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "LLVM 项目是模块化、可重用的编译器和工具链技术的集合。"
     },
     {
       "rank": 11,
@@ -187,7 +187,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 21325,
+      "stars_total": 21360,
       "stars_period": 399,
       "forks": 1543,
       "contributors": [
@@ -205,9 +205,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 243397,
+      "stars_total": 243425,
       "stars_period": 4229,
-      "forks": 50187,
+      "forks": 50199,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -223,9 +223,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 47621,
+      "stars_total": 47693,
       "stars_period": 3811,
-      "forks": 4385,
+      "forks": 4391,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -241,7 +241,7 @@
       "url": "https://github.com/facebook/zstd",
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
-      "stars_total": 27748,
+      "stars_total": 27752,
       "stars_period": 79,
       "forks": 2589,
       "contributors": [
@@ -259,9 +259,9 @@
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars_total": 26440,
+      "stars_total": 26480,
       "stars_period": 969,
-      "forks": 1774,
+      "forks": 1776,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/235382312?s=40&v=4",
@@ -277,7 +277,7 @@
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
-      "stars_total": 95031,
+      "stars_total": 95032,
       "stars_period": 257,
       "forks": 10439,
       "contributors": [
@@ -287,7 +287,7 @@
         "https://avatars.githubusercontent.com/u/351038?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2123375?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Node Version Manager - 符合 POSIX 标准的 bash 脚本，用于管理多个活动的 Node.js 版本。 $nvm：3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnj泵"
     },
     {
       "rank": 17,
@@ -295,9 +295,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 19250,
+      "stars_total": 19335,
       "stars_period": 4497,
-      "forks": 3876,
+      "forks": 3896,
       "contributors": [
         "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
         "https://avatars.githubusercontent.com/u/177599791?s=40&v=4",
@@ -305,7 +305,7 @@
         "https://avatars.githubusercontent.com/u/4534677?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49208092?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": 18,
@@ -313,9 +313,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 17890,
+      "stars_total": 17913,
       "stars_period": 2137,
-      "forks": 2262,
+      "forks": 2260,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -331,9 +331,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_total": 71646,
+      "stars_total": 71673,
       "stars_period": 1578,
-      "forks": 8478,
+      "forks": 8480,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -349,9 +349,9 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 31986,
+      "stars_total": 32002,
       "stars_period": 3506,
-      "forks": 3061,
+      "forks": 3062,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -362,5 +362,5 @@
       "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
     }
   ],
-  "generated_at": 1788896925
+  "generated_at": 1788906675
 }
