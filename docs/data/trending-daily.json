@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 13,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 36146,
-      "stars_period": 4650,
-      "forks": 2099,
+      "stars_total": 36958,
+      "stars_period": 3854,
+      "forks": 2145,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -22,21 +22,21 @@
     },
     {
       "rank": 2,
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "language": "TypeScript",
-      "stars_total": 3402,
-      "stars_period": 556,
-      "forks": 215,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_total": 22634,
+      "stars_period": 1588,
+      "forks": 4787,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/279665174?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/177599791?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/146067293?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/98458308?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4534677?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49208092?s=40&v=4"
       ],
-      "description_zh": "让每个团队的 AI 都原生化"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": 3,
@@ -44,9 +44,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 284315,
-      "stars_period": 688,
-      "forks": 25429,
+      "stars_total": 284456,
+      "stars_period": 731,
+      "forks": 25437,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -58,49 +58,82 @@
     },
     {
       "rank": 4,
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
-      "stars_total": 23185,
-      "stars_period": 107,
-      "forks": 2911,
+      "stars_total": 1385,
+      "stars_period": 299,
+      "forks": 244,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4444492?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/193760801?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19578447?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271033448?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/259919097?s=40&v=4"
       ],
-      "description_zh": "开源 3D 建筑编辑器，具有本地 CLI、MCP 工具以及适用于人类和 AI 代理的实用工作流程。"
+      "description_zh": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
     },
     {
       "rank": 5,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "stars_total": 15258,
-      "stars_period": 124,
-      "forks": 1570,
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars_total": 3561,
+      "stars_period": 837,
+      "forks": 224,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/279665174?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/143688508?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/146067293?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98458308?s=40&v=4"
       ],
-      "description_zh": "CAD、CAE 和 CAM 代理技能库"
+      "description_zh": "让每个团队的 AI 都原生化"
     },
     {
       "rank": 6,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_total": 35551,
+      "stars_period": 247,
+      "forks": 2259,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/261414774?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
+    },
+    {
+      "rank": 7,
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": null,
+      "stars_total": 18494,
+      "stars_period": 891,
+      "forks": 3458,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26876811?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22492808?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/153318865?s=40&v=4"
+      ],
+      "description_zh": "《系统设计访谈 - 业内人士指南》一书的注释"
+    },
+    {
+      "rank": 8,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 37118,
-      "stars_period": 2249,
-      "forks": 2356,
+      "stars_total": 37375,
+      "stars_period": 1287,
+      "forks": 2375,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -111,66 +144,14 @@
       "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
     },
     {
-      "rank": 7,
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_total": 104319,
-      "stars_period": 367,
-      "forks": 20002,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "TradingAgents：多代理LLM金融交易框架"
-    },
-    {
-      "rank": 8,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": null,
-      "stars_total": 18353,
-      "stars_period": 1397,
-      "forks": 3444,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26876811?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22492808?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/153318865?s=40&v=4"
-      ],
-      "description_zh": "《系统设计访谈 - 业内人士指南》一书的注释"
-    },
-    {
       "rank": 9,
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_total": 6325,
-      "stars_period": 498,
-      "forks": 834,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24821844?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-      ],
-      "description_zh": "OpenAI 插件"
-    },
-    {
-      "rank": 10,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 30506,
-      "stars_period": 705,
-      "forks": 2952,
+      "stars_total": 30667,
+      "stars_period": 957,
+      "forks": 2970,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -178,35 +159,125 @@
         "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
         "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
       ],
-      "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
+      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": 10,
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars_total": 4272,
+      "stars_period": 73,
+      "forks": 511,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28649121?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1295639?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15870496?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28755060?s=40&v=4"
+      ],
+      "description_zh": "图形创建工具"
     },
     {
       "rank": 11,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 53992,
-      "stars_period": 343,
-      "forks": 9399,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "TypeScript",
+      "stars_total": 63898,
+      "stars_period": 591,
+      "forks": 8951,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24198422?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "学习它。建造它。寄给别人。"
+      "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、352 个提供商（150 多个免费）、1200 多个模型 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 550 多名贡献者构建"
     },
     {
       "rank": 12,
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_total": 27314,
+      "stars_period": 157,
+      "forks": 2999,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48591714?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289220702?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/522310?s=40&v=4"
+      ],
+      "description_zh": "在您已经拥有的硬件上运行前沿 MoE 模型 - 纯 C、零依赖、从磁盘流式传输的专家。微小的发动机，巨大的模型。 🐦"
+    },
+    {
+      "rank": 13,
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars_total": 35007,
+      "stars_period": 806,
+      "forks": 5603,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/117187635?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104178195?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94427531?s=40&v=4"
+      ],
+      "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
+    },
+    {
+      "rank": 14,
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars_total": 17872,
+      "stars_period": 94,
+      "forks": 2091,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2127280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/111690459?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/82999715?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48723787?s=40&v=4"
+      ],
+      "description_zh": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
+    },
+    {
+      "rank": 15,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_total": 30938,
+      "stars_period": 125,
+      "forks": 2647,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/771968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "开放代理技能工具——npx技能"
+    },
+    {
+      "rank": 16,
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
-      "stars_total": 1982,
-      "stars_period": 417,
-      "forks": 173,
+      "stars_total": 2123,
+      "stars_period": 636,
+      "forks": 182,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48862574?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -215,25 +286,7 @@
         "https://avatars.githubusercontent.com/u/133179025?s=40&v=4"
       ],
       "description_zh": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
-    },
-    {
-      "rank": 13,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 255458,
-      "stars_period": 1133,
-      "forks": 38250,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
-      ],
-      "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     }
   ],
-  "generated_at": 1789032762
+  "generated_at": 1789049677
 }
