@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 24,
+  "count": 23,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 39955,
+      "stars_total": 40007,
       "stars_period": 15578,
-      "forks": 4369,
+      "forks": 4381,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 37375,
+      "stars_total": 37540,
       "stars_period": 32587,
-      "forks": 2375,
+      "forks": 2383,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -44,7 +44,7 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 7329,
+      "stars_total": 7352,
       "stars_period": 4683,
       "forks": 640,
       "contributors": [
@@ -62,9 +62,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 56952,
+      "stars_total": 57147,
       "stars_period": 45313,
-      "forks": 3711,
+      "forks": 3728,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -80,7 +80,7 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 3727,
+      "stars_total": 3733,
       "stars_period": 3395,
       "forks": 281,
       "contributors": [
@@ -98,9 +98,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 20460,
+      "stars_total": 20494,
       "stars_period": 12082,
-      "forks": 637,
+      "forks": 638,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 36457,
+      "stars_total": 36477,
       "stars_period": 8284,
-      "forks": 2792,
+      "forks": 2793,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,7 +133,7 @@
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
-      "stars_total": 33046,
+      "stars_total": 33059,
       "stars_period": 6170,
       "forks": 5379,
       "contributors": [
@@ -149,9 +149,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 30667,
+      "stars_total": 30759,
       "stars_period": 20295,
-      "forks": 2970,
+      "forks": 2982,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -159,7 +159,7 @@
         "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
         "https://avatars.githubusercontent.com/u/284359760?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
     },
     {
       "rank": 10,
@@ -167,7 +167,7 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Python",
-      "stars_total": 2812,
+      "stars_total": 2826,
       "stars_period": 2617,
       "forks": 257,
       "contributors": [
@@ -185,9 +185,9 @@
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_total": 12578,
+      "stars_total": 12592,
       "stars_period": 9711,
-      "forks": 1409,
+      "forks": 1410,
       "contributors": [
         "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/169603553?s=40&v=4",
@@ -203,9 +203,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 35007,
+      "stars_total": 35150,
       "stars_period": 13766,
-      "forks": 5603,
+      "forks": 5619,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -221,7 +221,7 @@
       "url": "https://github.com/youssofal/MTPLX",
       "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
       "language": "Python",
-      "stars_total": 2192,
+      "stars_total": 2202,
       "stars_period": 1055,
       "forks": 163,
       "contributors": [
@@ -239,9 +239,9 @@
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
-      "stars_total": 17998,
+      "stars_total": 18032,
       "stars_period": 12822,
-      "forks": 631,
+      "forks": 638,
       "contributors": [
         "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
@@ -275,9 +275,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 22102,
+      "stars_total": 22152,
       "stars_period": 12027,
-      "forks": 2717,
+      "forks": 2724,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -289,31 +289,13 @@
     },
     {
       "rank": 17,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 6409,
-      "stars_period": 4804,
-      "forks": 441,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
-      ],
-      "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": 18,
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_total": 11448,
+      "stars_total": 11460,
       "stars_period": 3794,
-      "forks": 1450,
+      "forks": 1451,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
@@ -324,14 +306,14 @@
       "description_zh": ""
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 478418,
+      "stars_total": 478521,
       "stars_period": 23852,
-      "forks": 52804,
+      "forks": 52817,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
@@ -342,14 +324,14 @@
       "description_zh": "免费 API 集合列表"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_total": 10740,
+      "stars_total": 10748,
       "stars_period": 7313,
-      "forks": 684,
+      "forks": 685,
       "contributors": [
         "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
         "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
@@ -360,14 +342,14 @@
       "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
-      "stars_total": 5186,
+      "stars_total": 5195,
       "stars_period": 3880,
-      "forks": 481,
+      "forks": 482,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -378,12 +360,12 @@
       "description_zh": "Apache Maka（孵化）是一个高性能代理工作区，可以完整记录其所做的一切。"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars_total": 35551,
+      "stars_total": 35634,
       "stars_period": 4157,
       "forks": 2259,
       "contributors": [
@@ -396,14 +378,14 @@
       "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 36959,
+      "stars_total": 37613,
       "stars_period": 17608,
-      "forks": 2145,
+      "forks": 2173,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -414,14 +396,14 @@
       "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 122140,
+      "stars_total": 122193,
       "stars_period": 20372,
-      "forks": 18859,
+      "forks": 18868,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -432,5 +414,5 @@
       "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。 Generate HD short videos from a topic or keyword with an automated AI workflow."
     }
   ],
-  "generated_at": 1789049683
+  "generated_at": 1789064194
 }
