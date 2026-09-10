@@ -8,9 +8,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 133345,
-      "stars_period": 12598,
-      "forks": 7135,
+      "stars_total": 133635,
+      "stars_period": 12431,
+      "forks": 7150,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
         "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 255132,
-      "stars_period": 8527,
-      "forks": 38220,
+      "stars_total": 255296,
+      "stars_period": 9146,
+      "forks": 38234,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -36,7 +36,7 @@
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
         "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
     },
     {
       "rank": 3,
@@ -44,8 +44,8 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_total": 25703,
-      "stars_period": 1935,
+      "stars_total": 25707,
+      "stars_period": 1847,
       "forks": 3055,
       "contributors": [
         "https://avatars.githubusercontent.com/u/576385?s=40&v=4",
@@ -54,7 +54,7 @@
         "https://avatars.githubusercontent.com/u/1381823?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "现代格式库"
     },
     {
       "rank": 4,
@@ -62,9 +62,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 56026,
-      "stars_period": 13318,
-      "forks": 3655,
+      "stars_total": 56316,
+      "stars_period": 12541,
+      "forks": 3674,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -80,16 +80,16 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 257841,
-      "stars_period": 13419,
-      "forks": 21721,
+      "stars_total": 258007,
+      "stars_period": 13143,
+      "forks": 21732,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
     },
     {
       "rank": 6,
@@ -97,9 +97,9 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 45957,
-      "stars_period": 5790,
-      "forks": 3768,
+      "stars_total": 46069,
+      "stars_period": 5925,
+      "forks": 3775,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 243844,
-      "stars_period": 4221,
-      "forks": 50335,
+      "stars_total": 243917,
+      "stars_period": 4114,
+      "forks": 50365,
       "contributors": [
         "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
         "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_total": 51469,
-      "stars_period": 1014,
-      "forks": 3614,
+      "stars_total": 51491,
+      "stars_period": 962,
+      "forks": 3616,
       "contributors": [
         "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -143,7 +143,7 @@
         "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
         "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "用于编码代理的 Chrome DevTools"
     },
     {
       "rank": 9,
@@ -151,9 +151,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 48382,
-      "stars_period": 3886,
-      "forks": 4431,
+      "stars_total": 48470,
+      "stars_period": 4643,
+      "forks": 4440,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -161,7 +161,7 @@
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
     },
     {
       "rank": 10,
@@ -169,9 +169,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 34448,
-      "stars_period": 5927,
-      "forks": 2019,
+      "stars_total": 35179,
+      "stars_period": 6581,
+      "forks": 2060,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -179,7 +179,7 @@
         "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": 11,
@@ -187,9 +187,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 21723,
-      "stars_period": 935,
-      "forks": 1561,
+      "stars_total": 21798,
+      "stars_period": 1331,
+      "forks": 1568,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -197,7 +197,7 @@
         "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
     },
     {
       "rank": 12,
@@ -205,9 +205,9 @@
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars_total": 26764,
-      "stars_period": 1005,
-      "forks": 1795,
+      "stars_total": 26790,
+      "stars_period": 1423,
+      "forks": 1796,
       "contributors": [
         "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
         "https://avatars.githubusercontent.com/u/235382312?s=40&v=4",
@@ -215,7 +215,7 @@
         "https://avatars.githubusercontent.com/u/173195103?s=40&v=4",
         "https://avatars.githubusercontent.com/u/32676955?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "法典技能目录"
     },
     {
       "rank": 13,
@@ -223,9 +223,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_total": 49233,
-      "stars_period": 2141,
-      "forks": 7521,
+      "stars_total": 49287,
+      "stars_period": 2638,
+      "forks": 7524,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -233,7 +233,7 @@
         "https://avatars.githubusercontent.com/u/5956866?s=40&v=4",
         "https://avatars.githubusercontent.com/u/20099808?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
     },
     {
       "rank": 14,
@@ -241,9 +241,9 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_total": 6168,
-      "stars_period": 330,
-      "forks": 825,
+      "stars_total": 6251,
+      "stars_period": 753,
+      "forks": 832,
       "contributors": [
         "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
         "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
@@ -251,7 +251,7 @@
         "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
         "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "OpenAI 插件"
     },
     {
       "rank": 15,
@@ -259,9 +259,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 34328,
-      "stars_period": 4380,
-      "forks": 5509,
+      "stars_total": 34589,
+      "stars_period": 3948,
+      "forks": 5549,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -269,7 +269,7 @@
         "https://avatars.githubusercontent.com/u/104178195?s=40&v=4",
         "https://avatars.githubusercontent.com/u/94427531?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
     },
     {
       "rank": 16,
@@ -277,9 +277,9 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 47266,
-      "stars_period": 2430,
-      "forks": 3696,
+      "stars_total": 47318,
+      "stars_period": 1862,
+      "forks": 3697,
       "contributors": [
         "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -287,7 +287,7 @@
         "https://avatars.githubusercontent.com/u/115035770?s=40&v=4",
         "https://avatars.githubusercontent.com/u/254419203?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
       "rank": 17,
@@ -295,9 +295,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 18104,
-      "stars_period": 1846,
-      "forks": 2280,
+      "stars_total": 18150,
+      "stars_period": 1788,
+      "forks": 2288,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -305,7 +305,7 @@
         "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": 18,
@@ -313,9 +313,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_total": 71810,
-      "stars_period": 1585,
-      "forks": 8500,
+      "stars_total": 71840,
+      "stars_period": 1618,
+      "forks": 8503,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -323,7 +323,7 @@
         "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22500633?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "🌊 原始代理元线束。部署智能多人群体、协调自主工作流程并构建对话式人工智能系统。具有自适应记忆、自学习智能、RAG 集成以及原生 Claude Code/Codex/Hermes 等集成功能"
     },
     {
       "rank": 19,
@@ -331,9 +331,9 @@
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
-      "stars_total": 40378,
-      "stars_period": 304,
-      "forks": 18598,
+      "stars_total": 40388,
+      "stars_period": 330,
+      "forks": 18599,
       "contributors": [
         "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
         "https://avatars.githubusercontent.com/u/22566570?s=40&v=4",
@@ -341,7 +341,7 @@
         "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42633?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "LLVM 项目是模块化、可重用的编译器和工具链技术的集合。"
     },
     {
       "rank": 20,
@@ -349,9 +349,9 @@
       "url": "https://github.com/petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
-      "stars_total": 7834,
-      "stars_period": 1038,
-      "forks": 588,
+      "stars_total": 7895,
+      "stars_period": 1056,
+      "forks": 591,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",
         "https://avatars.githubusercontent.com/u/374244?s=40&v=4",
@@ -359,8 +359,8 @@
         "https://avatars.githubusercontent.com/u/4305058?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4"
       ],
-      "description_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_zh": "从任何文章中删除 20 多种 AI 废话模式。"
     }
   ],
-  "generated_at": 1788995266
+  "generated_at": 1789013943
 }
