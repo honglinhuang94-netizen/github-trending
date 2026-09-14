@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 17,
+  "count": 19,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 40908,
+      "stars_total": 40991,
       "stars_period": 16489,
-      "forks": 4590,
+      "forks": 4601,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 61176,
+      "stars_total": 61733,
       "stars_period": 48808,
-      "forks": 4027,
+      "forks": 4070,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 3960,
+      "stars_total": 3988,
       "stars_period": 3635,
-      "forks": 291,
+      "forks": 294,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 20975,
+      "stars_total": 21026,
       "stars_period": 12557,
-      "forks": 674,
+      "forks": 676,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 7641,
+      "stars_total": 7690,
       "stars_period": 4967,
-      "forks": 675,
+      "forks": 677,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_total": 37080,
+      "stars_total": 37164,
       "stars_period": 8745,
-      "forks": 2850,
+      "forks": 2856,
       "contributors": [
         "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
@@ -111,31 +111,13 @@
     },
     {
       "rank": 7,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 39372,
-      "stars_period": 26213,
-      "forks": 2499,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "rank": 8,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 31716,
+      "stars_total": 31819,
       "stars_period": 21897,
-      "forks": 3067,
+      "forks": 3074,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,14 +128,32 @@
       "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
     },
     {
+      "rank": 8,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_total": 39612,
+      "stars_period": 26213,
+      "forks": 2513,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
       "rank": 9,
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 36581,
+      "stars_total": 36714,
       "stars_period": 15888,
-      "forks": 5796,
+      "forks": 5804,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 44617,
+      "stars_total": 45065,
       "stars_period": 24025,
-      "forks": 2570,
+      "forks": 2598,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
-      "stars_total": 18814,
+      "stars_total": 18906,
       "stars_period": 13520,
-      "forks": 674,
+      "forks": 678,
       "contributors": [
         "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
@@ -201,11 +201,29 @@
     },
     {
       "rank": 12,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 28366,
+      "stars_period": 15895,
+      "forks": 3473,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19777571?s=40&v=4"
+      ],
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "rank": 13,
       "name": "modular/modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_total": 29732,
+      "stars_total": 29740,
       "stars_period": 3049,
       "forks": 3169,
       "contributors": [
@@ -218,14 +236,14 @@
       "description_zh": "The Modular Platform (includes MAX & Mojo)"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 6716,
+      "stars_total": 6766,
       "stars_period": 5269,
-      "forks": 454,
+      "forks": 457,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -236,14 +254,14 @@
       "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_total": 11864,
+      "stars_total": 11897,
       "stars_period": 4221,
-      "forks": 1497,
+      "forks": 1499,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
@@ -254,32 +272,14 @@
       "description_zh": ""
     },
     {
-      "rank": 15,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 27447,
-      "stars_period": 15895,
-      "forks": 3380,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19777571?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
       "rank": 16,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
-      "stars_total": 5362,
+      "stars_total": 5385,
       "stars_period": 4056,
-      "forks": 497,
+      "forks": 498,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -291,22 +291,58 @@
     },
     {
       "rank": 17,
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars_total": 8467,
-      "stars_period": 7887,
-      "forks": 530,
+      "name": "microsoft/data-formulator",
+      "url": "https://github.com/microsoft/data-formulator",
+      "description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+      "language": "Python",
+      "stars_total": 17143,
+      "stars_period": 1141,
+      "forks": 1671,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/33423008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16983883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29992205?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68551684?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76467478?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/93549116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/233943790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11507384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/233935264?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Meta-Framework of Spatiotemporal Composability"
+      "description_zh": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data."
+    },
+    {
+      "rank": 18,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_total": 479938,
+      "stars_period": 24869,
+      "forks": 52948,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+      ],
+      "description_zh": "A collective list of free APIs"
+    },
+    {
+      "rank": 19,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 32444,
+      "stars_period": 5192,
+      "forks": 3107,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+      ],
+      "description_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     }
   ],
-  "generated_at": 1789365677
+  "generated_at": 1789393848
 }

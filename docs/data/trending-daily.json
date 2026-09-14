@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_total": 30312,
+      "stars_total": 31216,
       "stars_period": 868,
-      "forks": 3280,
+      "forks": 3329,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -22,93 +22,93 @@
     },
     {
       "rank": 2,
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-      "language": "TypeScript",
-      "stars_total": 5371,
-      "stars_period": 191,
-      "forks": 956,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 24689,
+      "stars_period": 443,
+      "forks": 1807,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/40795644?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+      "description_zh": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "rank": 3,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 32358,
-      "stars_period": 2680,
-      "forks": 6474,
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars_total": 8122,
+      "stars_period": 487,
+      "forks": 892,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54053998?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/153443201?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/154485721?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20509110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79636761?s=40&v=4"
       ],
-      "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+      "description_zh": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
     },
     {
       "rank": 4,
-      "name": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
-      "stars_total": 5786,
-      "stars_period": 265,
-      "forks": 503,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 28366,
+      "stars_period": 2632,
+      "forks": 3473,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76621784?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2733468?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5835706?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51439466?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19777571?s=40&v=4"
       ],
-      "description_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "rank": 5,
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "stars_total": 2327,
-      "stars_period": 432,
-      "forks": 607,
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_total": 72894,
+      "stars_period": 524,
+      "forks": 11273,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23352109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99059532?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/163351162?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/110395318?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15389158?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/667857?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8389627?s=40&v=4"
       ],
-      "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+      "description_zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
     {
       "rank": 6,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 58683,
-      "stars_period": 380,
-      "forks": 7374,
+      "stars_total": 80864,
+      "stars_period": 640,
+      "forks": 7045,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/102245100?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/129351686?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74602715?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
       ],
-      "description_zh": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "rank": 7,
@@ -116,9 +116,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_total": 66247,
+      "stars_total": 66501,
       "stars_period": 706,
-      "forks": 10824,
+      "forks": 10847,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -130,211 +130,139 @@
     },
     {
       "rank": 8,
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_total": 24133,
-      "stars_period": 590,
-      "forks": 3106,
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars_total": 1854,
+      "stars_period": 52,
+      "forks": 151,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/105429536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/295791202?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/295354495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4257336?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52062353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/238992291?s=40&v=4"
       ],
-      "description_zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      "description_zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
     },
     {
       "rank": 9,
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars_total": 7904,
-      "stars_period": 487,
-      "forks": 874,
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars_total": 91032,
+      "stars_period": 213,
+      "forks": 5080,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/153443201?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/154485721?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20509110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79636761?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/38380847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/125032334?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78599753?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39922116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4068977?s=40&v=4"
       ],
-      "description_zh": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+      "description_zh": "An open-source cross-platform alternative to AirDrop"
     },
     {
       "rank": 10,
-      "name": "yuliskov/SmartTube",
-      "url": "https://github.com/yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "stars_total": 33516,
-      "stars_period": 233,
-      "forks": 2037,
+      "name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars_total": 67431,
+      "stars_period": 110,
+      "forks": 3206,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5897464?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74490408?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32204990?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59088697?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/41143572?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/725423?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/610450?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/203380?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8255364?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/509385?s=40&v=4"
       ],
-      "description_zh": "Browse media content with your own rules on Android TV"
+      "description_zh": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
     },
     {
       "rank": 11,
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "stars_total": 2233,
-      "stars_period": 289,
-      "forks": 151,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_total": 105741,
+      "stars_period": 756,
+      "forks": 20258,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108231307?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Turn your coding agents into research agents"
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
     {
       "rank": 12,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 27446,
-      "stars_period": 2632,
-      "forks": 3380,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 93665,
+      "stars_period": 370,
+      "forks": 12418,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19777571?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+      "description_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
     {
       "rank": 13,
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "stars_total": 4281,
-      "stars_period": 506,
-      "forks": 601,
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars_total": 5921,
+      "stars_period": 265,
+      "forks": 510,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/130660521?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/246077594?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/96034511?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76621784?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2733468?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5835706?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51439466?s=40&v=4"
       ],
-      "description_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+      "description_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
     },
     {
       "rank": 14,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 23812,
-      "stars_period": 443,
-      "forks": 1759,
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_total": 37235,
+      "stars_period": 204,
+      "forks": 4232,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8132992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33060143?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167593451?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40820394?s=40&v=4"
       ],
-      "description_zh": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
     },
     {
       "rank": 15,
-      "name": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "stars_total": 5442,
-      "stars_period": 246,
-      "forks": 412,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/36144612?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/93832089?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/148983211?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/183852835?s=40&v=4"
-      ],
-      "description_zh": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
-    },
-    {
-      "rank": 16,
-      "name": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "stars_total": 11935,
-      "stars_period": 507,
-      "forks": 1039,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/58658417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72951793?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38649081?s=40&v=4"
-      ],
-      "description_zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
-    },
-    {
-      "rank": 17,
-      "name": "jiji262/douyin-downloader",
-      "url": "https://github.com/jiji262/douyin-downloader",
-      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "language": "Python",
-      "stars_total": 11534,
-      "stars_period": 452,
-      "forks": 1764,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/168751?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/213367755?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/867647?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/255798083?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
-    },
-    {
-      "rank": 18,
-      "name": "Swordfish90/cool-retro-term",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "language": "QML",
-      "stars_total": 26291,
-      "stars_period": 57,
-      "forks": 1018,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6009070?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2480569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3259076?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14829816?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184714?s=40&v=4"
-      ],
-      "description_zh": "A good looking terminal emulator which mimics the old cathode display..."
-    },
-    {
-      "rank": 19,
       "name": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
-      "stars_total": 165662,
+      "stars_total": 165821,
       "stars_period": 152,
-      "forks": 34562,
+      "forks": 34569,
       "contributors": [
         "https://avatars.githubusercontent.com/u/35901082?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2521628?s=40&v=4",
@@ -343,7 +271,97 @@
         "https://avatars.githubusercontent.com/u/23423619?s=40&v=4"
       ],
       "description_zh": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "rank": 16,
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars_total": 5722,
+      "stars_period": 191,
+      "forks": 974,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40795644?s=40&v=4"
+      ],
+      "description_zh": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+    },
+    {
+      "rank": 17,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars_total": 36765,
+      "stars_period": 26,
+      "forks": 3674,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/52841588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49691103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175166532?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
+    },
+    {
+      "rank": 18,
+      "name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars_total": 8183,
+      "stars_period": 279,
+      "forks": 1017,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/64375473?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/115199279?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/516827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/185813792?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/241736084?s=40&v=4"
+      ],
+      "description_zh": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+    },
+    {
+      "rank": 19,
+      "name": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "stars_total": 3382,
+      "stars_period": 314,
+      "forks": 243,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/839848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/150329?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20184673?s=40&v=4"
+      ],
+      "description_zh": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
+    },
+    {
+      "rank": 20,
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_total": 4496,
+      "stars_period": 506,
+      "forks": 614,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/130660521?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246077594?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96034511?s=40&v=4"
+      ],
+      "description_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     }
   ],
-  "generated_at": 1789365670
+  "generated_at": 1789393841
 }
