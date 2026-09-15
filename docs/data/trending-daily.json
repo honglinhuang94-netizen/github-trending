@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 28064,
+      "stars_total": 28335,
       "stars_period": 2751,
-      "forks": 2022,
+      "forks": 2037,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_total": 33500,
+      "stars_total": 33703,
       "stars_period": 2035,
-      "forks": 3519,
+      "forks": 3534,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_total": 6488,
+      "stars_total": 6557,
       "stars_period": 632,
-      "forks": 1018,
+      "forks": 1022,
       "contributors": [
         "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
         "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 30668,
+      "stars_total": 30825,
       "stars_period": 2081,
-      "forks": 3678,
+      "forks": 3690,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/Homebrew/BrewUI",
       "description": "📺 Homebrew's official macOS GUI",
       "language": "Swift",
-      "stars_total": 1244,
+      "stars_total": 1294,
       "stars_period": 356,
-      "forks": 26,
+      "forks": 28,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2030310?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_total": 2725,
+      "stars_total": 2767,
       "stars_period": 205,
-      "forks": 672,
+      "forks": 674,
       "contributors": [
         "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,14 +116,14 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_total": 3191,
+      "stars_total": 3264,
       "stars_period": 593,
-      "forks": 219,
+      "forks": 221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
         "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
         "https://avatars.githubusercontent.com/u/108231307?s=40&v=4"
       ],
       "description_zh": "Turn your coding agents into research agents"
@@ -134,9 +134,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 76561,
+      "stars_total": 76640,
       "stars_period": 755,
-      "forks": 8440,
+      "forks": 8445,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars_total": 43731,
+      "stars_total": 43769,
       "stars_period": 261,
-      "forks": 9018,
+      "forks": 9022,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
@@ -170,7 +170,7 @@
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_total": 4551,
+      "stars_total": 4570,
       "stars_period": 102,
       "forks": 278,
       "contributors": [
@@ -188,9 +188,9 @@
       "url": "https://github.com/MG1937/ASC",
       "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
       "language": "Python",
-      "stars_total": 1089,
+      "stars_total": 1115,
       "stars_period": 122,
-      "forks": 190,
+      "forks": 191,
       "contributors": [
         "https://avatars.githubusercontent.com/u/89259981?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48591714?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 94657,
-      "stars_period": 354,
-      "forks": 10055,
+      "stars_total": 94714,
+      "stars_period": 386,
+      "forks": 10057,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/tonhowtf/omniget",
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
-      "stars_total": 12728,
+      "stars_total": 12817,
       "stars_period": 318,
-      "forks": 1092,
+      "forks": 1096,
       "contributors": [
         "https://avatars.githubusercontent.com/u/58658417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/72951793?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 105587,
+      "stars_total": 105637,
       "stars_period": 437,
-      "forks": 13273,
+      "forks": 13279,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -255,5 +255,5 @@
       "description_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
     }
   ],
-  "generated_at": 1789498302
+  "generated_at": 1789509832
 }
