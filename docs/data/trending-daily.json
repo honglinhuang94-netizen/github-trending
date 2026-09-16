@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 21,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 29574,
-      "stars_period": 2756,
-      "forks": 2110,
+      "stars_total": 30525,
+      "stars_period": 3215,
+      "forks": 2176,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -22,13 +22,29 @@
     },
     {
       "rank": 2,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 5720,
+      "stars_period": 1434,
+      "forks": 344,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+      ],
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": 3,
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_total": 34257,
-      "stars_period": 2026,
-      "forks": 3586,
+      "stars_total": 34616,
+      "stars_period": 1532,
+      "forks": 3627,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,14 +55,86 @@
       "description_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars_total": 5247,
+      "stars_period": 1076,
+      "forks": 244,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75532968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/319949436?s=40&v=4"
+      ],
+      "description_zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+    },
+    {
+      "rank": 5,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_total": 54115,
+      "stars_period": 409,
+      "forks": 6771,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5173254?s=40&v=4"
+      ],
+      "description_zh": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "rank": 6,
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_total": 13167,
+      "stars_period": 907,
+      "forks": 1576,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 24157,
+      "stars_period": 96,
+      "forks": 2914,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+      ],
+      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "rank": 8,
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_total": 6909,
-      "stars_period": 634,
-      "forks": 1060,
+      "stars_total": 7092,
+      "stars_period": 771,
+      "forks": 1078,
       "contributors": [
         "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
         "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
@@ -57,86 +145,32 @@
       "description_zh": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
     },
     {
-      "rank": 4,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 31412,
-      "stars_period": 2072,
-      "forks": 3730,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1520602?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19777571?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
-      "rank": 5,
-      "name": "Homebrew/BrewUI",
-      "url": "https://github.com/Homebrew/BrewUI",
-      "description": "📺 Homebrew's official macOS GUI",
-      "language": "Swift",
-      "stars_total": 1603,
-      "stars_period": 271,
-      "forks": 38,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2030310?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25842576?s=40&v=4"
-      ],
-      "description_zh": "📺 Homebrew's official macOS GUI"
-    },
-    {
-      "rank": 6,
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "stars_total": 2973,
-      "stars_period": 193,
-      "forks": 696,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23352109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/99059532?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48738352?s=40&v=4"
-      ],
-      "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
-    },
-    {
-      "rank": 7,
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
+      "rank": 9,
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
-      "stars_total": 3673,
-      "stars_period": 531,
-      "forks": 238,
+      "stars_total": 30646,
+      "stars_period": 50,
+      "forks": 3203,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108231307?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7188844?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48286681?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41397710?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
       ],
-      "description_zh": "Turn your coding agents into research agents"
+      "description_zh": "Anki is a smart spaced repetition flashcard program"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 77057,
-      "stars_period": 725,
-      "forks": 8504,
+      "stars_total": 77357,
+      "stars_period": 1059,
+      "forks": 8549,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -147,68 +181,158 @@
       "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
     },
     {
-      "rank": 9,
-      "name": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars_total": 43991,
-      "stars_period": 254,
-      "forks": 9037,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54083382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8267138?s=40&v=4"
-      ],
-      "description_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
-    },
-    {
-      "rank": 10,
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_total": 4741,
-      "stars_period": 91,
-      "forks": 284,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32670628?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/171568277?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16221196?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86776685?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
-    },
-    {
       "rank": 11,
-      "name": "MG1937/ASC",
-      "url": "https://github.com/MG1937/ASC",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "language": "Python",
-      "stars_total": 1314,
-      "stars_period": 129,
-      "forks": 205,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_total": 145278,
+      "stars_period": 155,
+      "forks": 23402,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/89259981?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48591714?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33087260?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73029250?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19362246?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/209710463?s=40&v=4"
       ],
-      "description_zh": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
+      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
       "rank": 12,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_total": 50436,
+      "stars_period": 217,
+      "forks": 4804,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1688848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6035284?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "rank": 13,
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars_total": 3986,
+      "stars_period": 1036,
+      "forks": 256,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/79390398?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/135627999?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34905129?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108231307?s=40&v=4"
+      ],
+      "description_zh": "Turn your coding agents into research agents"
+    },
+    {
+      "rank": 14,
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_total": 109420,
+      "stars_period": 118,
+      "forks": 13977,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10985857?s=40&v=4"
+      ],
+      "description_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    },
+    {
+      "rank": 15,
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars_total": 2422,
+      "stars_period": 74,
+      "forks": 177,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/105429536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/295791202?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/295354495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238992291?s=40&v=4"
+      ],
+      "description_zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+    },
+    {
+      "rank": 16,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 24892,
+      "stars_period": 696,
+      "forks": 3444,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
+      "rank": 17,
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_total": 5555,
+      "stars_period": 699,
+      "forks": 717,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/130660521?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246077594?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96034511?s=40&v=4"
+      ],
+      "description_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "rank": 18,
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars_total": 9184,
+      "stars_period": 701,
+      "forks": 993,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/30723625?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/153443201?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/154485721?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20509110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79636761?s=40&v=4"
+      ],
+      "description_zh": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "rank": 19,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 95005,
-      "stars_period": 307,
-      "forks": 10075,
+      "stars_total": 95155,
+      "stars_period": 656,
+      "forks": 10090,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -219,41 +343,41 @@
       "description_zh": "Production-grade engineering skills for AI coding agents."
     },
     {
-      "rank": 13,
-      "name": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "stars_total": 13225,
-      "stars_period": 258,
-      "forks": 1120,
+      "rank": 20,
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars_total": 68186,
+      "stars_period": 102,
+      "forks": 7376,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/58658417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72951793?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38649081?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52393857?s=40&v=4"
       ],
-      "description_zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+      "description_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
     },
     {
-      "rank": 14,
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "stars_total": 105984,
-      "stars_period": 458,
-      "forks": 13323,
+      "rank": 21,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 259769,
+      "stars_period": 1046,
+      "forks": 38874,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/351026?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/140309543?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69443?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
       ],
-      "description_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     }
   ],
-  "generated_at": 1789544037
+  "generated_at": 1789565011
 }
