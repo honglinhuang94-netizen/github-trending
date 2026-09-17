@@ -1,34 +1,16 @@
 {
   "period": "monthly",
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "rank": 1,
-      "name": "omacom/omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_total": 41613,
-      "stars_period": 16707,
-      "forks": 4721,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7035687?s=40&v=4"
-      ],
-      "description_zh": "Beautiful, Modern & Opinionated Linux"
-    },
-    {
-      "rank": 2,
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 65249,
+      "stars_total": 65566,
       "stars_period": 51755,
-      "forks": 4330,
+      "forks": 4363,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -39,14 +21,32 @@
       "description_zh": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
     {
+      "rank": 2,
+      "name": "omacom/omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_total": 41669,
+      "stars_period": 16707,
+      "forks": 4727,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7035687?s=40&v=4"
+      ],
+      "description_zh": "Beautiful, Modern & Opinionated Linux"
+    },
+    {
       "rank": 3,
       "name": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 4164,
+      "stars_total": 4177,
       "stars_period": 3853,
-      "forks": 305,
+      "forks": 306,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 8127,
+      "stars_total": 8150,
       "stars_period": 5021,
-      "forks": 724,
+      "forks": 726,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 21372,
+      "stars_total": 21401,
       "stars_period": 12927,
-      "forks": 689,
+      "forks": 691,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 37490,
+      "stars_total": 37539,
       "stars_period": 16773,
-      "forks": 5902,
+      "forks": 5904,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 32337,
+      "stars_total": 32408,
       "stars_period": 22206,
-      "forks": 3115,
+      "forks": 3123,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 47080,
+      "stars_total": 47240,
       "stars_period": 25944,
-      "forks": 2738,
+      "forks": 2755,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -147,31 +147,13 @@
     },
     {
       "rank": 9,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 40598,
-      "stars_period": 21458,
-      "forks": 2589,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "rank": 10,
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
-      "stars_total": 19527,
+      "stars_total": 19572,
       "stars_period": 14080,
-      "forks": 705,
+      "forks": 707,
       "contributors": [
         "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
@@ -182,14 +164,14 @@
       "description_zh": "Free and open-source macOS menu bar toolkit."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 32235,
+      "stars_total": 32387,
       "stars_period": 21946,
-      "forks": 3815,
+      "forks": 3839,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,32 +182,32 @@
       "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 12,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "language": "TypeScript",
-      "stars_total": 7463,
-      "stars_period": 6210,
-      "forks": 974,
+      "rank": 11,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_total": 40681,
+      "stars_period": 21458,
+      "forks": 2595,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35274501?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+      "description_zh": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_total": 13494,
+      "stars_total": 13623,
       "stars_period": 5577,
-      "forks": 1600,
+      "forks": 1614,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
@@ -236,32 +218,14 @@
       "description_zh": ""
     },
     {
-      "rank": 14,
-      "name": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars_total": 29787,
-      "stars_period": 3075,
-      "forks": 3173,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30697412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/283886?s=40&v=4"
-      ],
-      "description_zh": "The Modular Platform (includes MAX & Mojo)"
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
-      "stars_total": 5525,
+      "stars_total": 5532,
       "stars_period": 4197,
-      "forks": 511,
+      "forks": 512,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
@@ -272,32 +236,32 @@
       "description_zh": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
     },
     {
-      "rank": 16,
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "stars_total": 37825,
-      "stars_period": 9270,
-      "forks": 2925,
+      "rank": 14,
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+      "language": "TypeScript",
+      "stars_total": 7490,
+      "stars_period": 6210,
+      "forks": 979,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35274501?s=40&v=4"
       ],
-      "description_zh": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+      "description_zh": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 32915,
+      "stars_total": 32959,
       "stars_period": 5249,
-      "forks": 3169,
+      "forks": 3172,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -308,32 +272,50 @@
       "description_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
     {
-      "rank": 18,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 7036,
-      "stars_period": 5445,
-      "forks": 470,
+      "rank": 16,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_total": 61441,
+      "stars_period": 6769,
+      "forks": 7995,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70605804?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars_total": 29793,
+      "stars_period": 3075,
+      "forks": 3174,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30697412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/283886?s=40&v=4"
+      ],
+      "description_zh": "The Modular Platform (includes MAX & Mojo)"
+    },
+    {
+      "rank": 18,
       "name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 26747,
+      "stars_total": 26823,
       "stars_period": 8153,
-      "forks": 3652,
+      "forks": 3658,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -344,14 +326,14 @@
       "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_total": 6393,
+      "stars_total": 6413,
       "stars_period": 1336,
-      "forks": 527,
+      "forks": 528,
       "contributors": [
         "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
         "https://avatars.githubusercontent.com/u/76621784?s=40&v=4",
@@ -362,23 +344,59 @@
       "description_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
     },
     {
-      "rank": 21,
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars_total": 61400,
-      "stars_period": 6769,
-      "forks": 7987,
+      "rank": 20,
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars_total": 5949,
+      "stars_period": 3906,
+      "forks": 275,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70605804?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75532968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/319949436?s=40&v=4"
       ],
-      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+      "description_zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+    },
+    {
+      "rank": 21,
+      "name": "securo-finance/securo",
+      "url": "https://github.com/securo-finance/securo",
+      "description": "Open-source personal finance manager. Self-hosted, privacy-first.",
+      "language": "Python",
+      "stars_total": 3483,
+      "stars_period": 1897,
+      "forks": 442,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5116181?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90114586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/225529?s=40&v=4"
+      ],
+      "description_zh": "Open-source personal finance manager. Self-hosted, privacy-first."
+    },
+    {
+      "rank": 22,
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars_total": 3115,
+      "stars_period": 2535,
+      "forks": 735,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23352109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99059532?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48738352?s=40&v=4"
+      ],
+      "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
     }
   ],
-  "generated_at": 1789630231
+  "generated_at": 1789651161
 }
