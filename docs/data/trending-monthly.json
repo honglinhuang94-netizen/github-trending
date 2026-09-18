@@ -8,9 +8,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 66188,
+      "stars_total": 66443,
       "stars_period": 52260,
-      "forks": 4419,
+      "forks": 4438,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 41779,
+      "stars_total": 41830,
       "stars_period": 16196,
-      "forks": 4761,
+      "forks": 4767,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 4203,
+      "stars_total": 4212,
       "stars_period": 3896,
-      "forks": 307,
+      "forks": 308,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
@@ -58,48 +58,13 @@
     },
     {
       "rank": 4,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 8059,
-      "stars_period": 5130,
-      "forks": 732,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
-      ],
-      "description_zh": "Cursor plugin specification and official plugins"
-    },
-    {
-      "rank": 5,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "stars_total": 21473,
-      "stars_period": 12913,
-      "forks": 697,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151904665?s=40&v=4"
-      ],
-      "description_zh": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
-    },
-    {
-      "rank": 6,
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 37683,
+      "stars_total": 37744,
       "stars_period": 16970,
-      "forks": 5922,
+      "forks": 5929,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -110,14 +75,32 @@
       "description_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 8070,
+      "stars_period": 5130,
+      "forks": 735,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
+      ],
+      "description_zh": "Cursor plugin specification and official plugins"
+    },
+    {
+      "rank": 6,
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 32572,
+      "stars_total": 32627,
       "stars_period": 21929,
-      "forks": 3148,
+      "forks": 3153,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -128,14 +111,31 @@
       "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
     },
     {
+      "rank": 7,
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars_total": 21502,
+      "stars_period": 12913,
+      "forks": 696,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151904665?s=40&v=4"
+      ],
+      "description_zh": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+    },
+    {
       "rank": 8,
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 47633,
+      "stars_total": 47795,
       "stars_period": 26237,
-      "forks": 2774,
+      "forks": 2782,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -147,31 +147,13 @@
     },
     {
       "rank": 9,
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "stars_total": 19703,
-      "stars_period": 14192,
-      "forks": 717,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45411502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1708189?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73610855?s=40&v=4"
-      ],
-      "description_zh": "Free and open-source macOS menu bar toolkit."
-    },
-    {
-      "rank": 10,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 32596,
+      "stars_total": 32698,
       "stars_period": 22507,
-      "forks": 3869,
+      "forks": 3875,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -182,14 +164,32 @@
       "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
+      "rank": 10,
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
+      "stars_total": 19737,
+      "stars_period": 14192,
+      "forks": 719,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45411502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1708189?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73610855?s=40&v=4"
+      ],
+      "description_zh": "Free and open-source macOS menu bar toolkit."
+    },
+    {
       "rank": 11,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 40908,
+      "stars_total": 41005,
       "stars_period": 20738,
-      "forks": 2613,
+      "forks": 2620,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
@@ -201,67 +201,47 @@
     },
     {
       "rank": 12,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_total": 13827,
-      "stars_period": 5998,
-      "forks": 1632,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 12013,
+      "stars_period": 6981,
+      "forks": 650,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": 13,
-      "name": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "language": "TypeScript",
-      "stars_total": 5555,
-      "stars_period": 4224,
-      "forks": 514,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 36188,
+      "stars_period": 13677,
+      "forks": 2572,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90952590?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/96464454?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "rank": 14,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "language": "TypeScript",
-      "stars_total": 7565,
-      "stars_period": 6168,
-      "forks": 988,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35274501?s=40&v=4"
-      ],
-      "description_zh": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
-    },
-    {
-      "rank": 15,
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 33053,
+      "stars_total": 33077,
       "stars_period": 5145,
-      "forks": 3182,
+      "forks": 3183,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
@@ -272,14 +252,14 @@
       "description_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "stars_total": 61521,
+      "stars_total": 61562,
       "stars_period": 6867,
-      "forks": 8010,
+      "forks": 8014,
       "contributors": [
         "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
@@ -290,32 +270,14 @@
       "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
     },
     {
-      "rank": 17,
-      "name": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars_total": 29810,
-      "stars_period": 3082,
-      "forks": 3177,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30697412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/283886?s=40&v=4"
-      ],
-      "description_zh": "The Modular Platform (includes MAX & Mojo)"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 27004,
+      "stars_total": 27062,
       "stars_period": 8304,
-      "forks": 3690,
+      "forks": 3697,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -326,14 +288,50 @@
       "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
+      "rank": 17,
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "language": "TypeScript",
+      "stars_total": 5569,
+      "stars_period": 4224,
+      "forks": 515,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90952590?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/96464454?s=40&v=4"
+      ],
+      "description_zh": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+    },
+    {
+      "rank": 18,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 26787,
+      "stars_period": 6280,
+      "forks": 3606,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
       "rank": 19,
       "name": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_total": 6356,
+      "stars_total": 6372,
       "stars_period": 1398,
-      "forks": 532,
+      "forks": 533,
       "contributors": [
         "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
         "https://avatars.githubusercontent.com/u/76621784?s=40&v=4",
@@ -349,9 +347,9 @@
       "url": "https://github.com/abue-ammar/tinycast",
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
-      "stars_total": 6256,
+      "stars_total": 6352,
       "stars_period": 4365,
-      "forks": 288,
+      "forks": 291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
@@ -363,31 +361,13 @@
     },
     {
       "rank": 21,
-      "name": "securo-finance/securo",
-      "url": "https://github.com/securo-finance/securo",
-      "description": "Open-source personal finance manager. Self-hosted, privacy-first.",
-      "language": "Python",
-      "stars_total": 3561,
-      "stars_period": 1902,
-      "forks": 446,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5116181?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90114586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/225529?s=40&v=4"
-      ],
-      "description_zh": "Open-source personal finance manager. Self-hosted, privacy-first."
-    },
-    {
-      "rank": 22,
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_total": 3108,
+      "stars_total": 3133,
       "stars_period": 2586,
-      "forks": 765,
+      "forks": 770,
       "contributors": [
         "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -396,7 +376,25 @@
         "https://avatars.githubusercontent.com/u/75556242?s=40&v=4"
       ],
       "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "rank": 22,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_total": 19161,
+      "stars_period": 6794,
+      "forks": 2464,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+      ],
+      "description_zh": "Open source alternative to Semrush and Ahrefs"
     }
   ],
-  "generated_at": 1789715956
+  "generated_at": 1789736044
 }
