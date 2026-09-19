@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 37063,
+      "stars_total": 37238,
       "stars_period": 14144,
-      "forks": 2644,
+      "forks": 2664,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -22,85 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 48349,
-      "stars_period": 7869,
-      "forks": 2809,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
-      ],
-      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
-    },
-    {
-      "rank": 3,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 38114,
-      "stars_period": 11683,
-      "forks": 7685,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-    },
-    {
-      "rank": 4,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 262382,
-      "stars_period": 5877,
-      "forks": 39251,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
-      ],
-      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "rank": 5,
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_total": 27165,
-      "stars_period": 4703,
-      "forks": 3660,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-    },
-    {
-      "rank": 6,
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 146467,
+      "stars_total": 146548,
       "stars_period": 1620,
-      "forks": 23828,
+      "forks": 23851,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -111,32 +39,68 @@
       "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
-      "rank": 7,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_total": 23588,
-      "stars_period": 1398,
-      "forks": 1701,
+      "rank": 3,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 262581,
+      "stars_period": 5877,
+      "forks": 39283,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
       ],
-      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 27258,
+      "stars_period": 4703,
+      "forks": 3674,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
+      "rank": 5,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_total": 38282,
+      "stars_period": 11683,
+      "forks": 7726,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3943634?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/301209272?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "rank": 6,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 96598,
+      "stars_total": 96737,
       "stars_period": 3051,
-      "forks": 10207,
+      "forks": 10221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -147,32 +111,14 @@
       "description_zh": "Production-grade engineering skills for AI coding agents."
     },
     {
-      "rank": 9,
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars_total": 8056,
-      "stars_period": 1104,
-      "forks": 276,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-      ],
-      "description_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 24962,
+      "stars_total": 24998,
       "stars_period": 776,
-      "forks": 2977,
+      "forks": 2979,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -183,32 +129,68 @@
       "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "rank": 11,
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_total": 6995,
-      "stars_period": 542,
-      "forks": 904,
+      "rank": 8,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 48468,
+      "stars_period": 7869,
+      "forks": 2820,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24821844?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
       ],
-      "description_zh": "OpenAI Plugins"
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 23615,
+      "stars_period": 1398,
+      "forks": 1704,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
+      ],
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "rank": 10,
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars_total": 8077,
+      "stars_period": 1104,
+      "forks": 277,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      ],
+      "description_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+    },
+    {
+      "rank": 11,
       "name": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 50047,
+      "stars_total": 50117,
       "stars_period": 3118,
-      "forks": 4039,
+      "forks": 4047,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -219,50 +201,14 @@
       "description_zh": "Agent skill that removes signs of AI-generated writing from text"
     },
     {
-      "rank": 13,
-      "name": "kunchenguid/firstmate",
-      "url": "https://github.com/kunchenguid/firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "stars_total": 6598,
-      "stars_period": 990,
-      "forks": 2010,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Talk to one agent. Ship with a crew."
-    },
-    {
-      "rank": 14,
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_total": 185518,
-      "stars_period": 2841,
-      "forks": 13657,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10201242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/173082609?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars_total": 90762,
+      "stars_total": 90785,
       "stars_period": 357,
-      "forks": 38700,
+      "forks": 38706,
       "contributors": [
         "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
@@ -273,50 +219,50 @@
       "description_zh": "🏡 Open source home automation that puts local control and privacy first."
     },
     {
-      "rank": 16,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_total": 72197,
-      "stars_period": 5272,
-      "forks": 4724,
+      "rank": 13,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_total": 185562,
+      "stars_period": 2841,
+      "forks": 13662,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10201242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/173082609?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      "description_zh": "Python tool for converting files and office documents to Markdown."
     },
     {
-      "rank": 17,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 51502,
-      "stars_period": 2401,
-      "forks": 4694,
+      "rank": 14,
+      "name": "kunchenguid/firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "stars_total": 6631,
+      "stars_period": 990,
+      "forks": 2013,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Write HTML. Render video. Built for agents."
+      "description_zh": "Talk to one agent. Ship with a crew."
     },
     {
-      "rank": 18,
+      "rank": 15,
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 83238,
+      "stars_total": 83323,
       "stars_period": 3766,
-      "forks": 7292,
+      "forks": 7298,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -327,50 +273,68 @@
       "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
-      "rank": 19,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_total": 288636,
-      "stars_period": 3573,
-      "forks": 25817,
+      "rank": 16,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 51549,
+      "stars_period": 2401,
+      "forks": 4698,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12824278?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
       ],
-      "description_zh": "An agentic skills framework & software development methodology that works."
+      "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
-      "rank": 20,
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "language": "Python",
-      "stars_total": 10621,
-      "stars_period": 2189,
-      "forks": 733,
+      "rank": 17,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_total": 72331,
+      "stars_period": 5272,
+      "forks": 4735,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/374244?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4305058?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
       ],
-      "description_zh": "Removes 20+ patterns of AI slop from any piece of writing."
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
-      "rank": 21,
+      "rank": 18,
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_total": 7008,
+      "stars_period": 542,
+      "forks": 905,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/264544061?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24821844?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250380837?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+      ],
+      "description_zh": "OpenAI Plugins"
+    },
+    {
+      "rank": 19,
       "name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars_total": 44359,
+      "stars_total": 44370,
       "stars_period": 1528,
-      "forks": 9115,
+      "forks": 9118,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
@@ -379,7 +343,43 @@
         "https://avatars.githubusercontent.com/u/8267138?s=40&v=4"
       ],
       "description_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+    },
+    {
+      "rank": 20,
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_total": 110277,
+      "stars_period": 1152,
+      "forks": 14346,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10985857?s=40&v=4"
+      ],
+      "description_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    },
+    {
+      "rank": 21,
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_total": 166339,
+      "stars_period": 1297,
+      "forks": 34631,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/35901082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2521628?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7353373?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30755778?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23423619?s=40&v=4"
+      ],
+      "description_zh": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
     }
   ],
-  "generated_at": 1789809658
+  "generated_at": 1789825834
 }
