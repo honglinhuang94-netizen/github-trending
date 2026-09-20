@@ -1,16 +1,52 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "rank": 1,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 263266,
+      "stars_period": 1012,
+      "forks": 39395,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
+      ],
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "rank": 2,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars_total": 4978,
+      "stars_period": 89,
+      "forks": 468,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86723305?s=40&v=4"
+      ],
+      "description_zh": "A framework for building agentic apps"
+    },
+    {
+      "rank": 3,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 16795,
+      "stars_total": 17416,
       "stars_period": 3155,
-      "forks": 920,
+      "forks": 959,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -19,14 +55,14 @@
       "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_total": 24646,
+      "stars_total": 24878,
       "stars_period": 859,
-      "forks": 1694,
+      "forks": 1709,
       "contributors": [
         "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
@@ -37,50 +73,50 @@
       "description_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
     },
     {
-      "rank": 3,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 97189,
-      "stars_period": 556,
-      "forks": 10258,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/222980227?s=40&v=4"
-      ],
-      "description_zh": "Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "rank": 4,
-      "name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "stars_total": 15697,
-      "stars_period": 402,
-      "forks": 1525,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/147409?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4949514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5446298?s=40&v=4"
-      ],
-      "description_zh": "Secure environments for developers and their agents"
-    },
-    {
       "rank": 5,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_total": 35198,
+      "stars_period": 236,
+      "forks": 5235,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 6,
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars_total": 45352,
+      "stars_period": 32,
+      "forks": 3132,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4887959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/797416?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/218205?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99855517?s=40&v=4"
+      ],
+      "description_zh": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "rank": 7,
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 146802,
+      "stars_total": 146905,
       "stars_period": 483,
-      "forks": 23976,
+      "forks": 23988,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -91,14 +127,46 @@
       "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "stars_total": 4415,
+      "stars_period": 174,
+      "forks": 1005,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2789441?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133082422?s=40&v=4"
+      ],
+      "description_zh": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
+    },
+    {
+      "rank": 9,
+      "name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars_total": 5142,
+      "stars_period": 196,
+      "forks": 931,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14979358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/24421551?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3302371?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
+    },
+    {
+      "rank": 10,
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_total": 16244,
+      "stars_total": 16450,
       "stars_period": 472,
-      "forks": 2099,
+      "forks": 2115,
       "contributors": [
         "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
         "https://avatars.githubusercontent.com/in/347564?s=40&v=4",
@@ -109,163 +177,59 @@
       "description_zh": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
     },
     {
-      "rank": 7,
-      "name": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars_total": 5044,
-      "stars_period": 196,
-      "forks": 923,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14979358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24421551?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3302371?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
-    },
-    {
-      "rank": 8,
-      "name": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "language": "Python",
-      "stars_total": 67212,
-      "stars_period": 129,
-      "forks": 4840,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/97102151?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60343111?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75900930?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35837085?s=40&v=4"
-      ],
-      "description_zh": "Get your documents ready for gen AI"
-    },
-    {
-      "rank": 9,
-      "name": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "stars_total": 12081,
-      "stars_period": 31,
-      "forks": 1120,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28556681?s=40&v=4"
-      ],
-      "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-    },
-    {
-      "rank": 10,
-      "name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "stars_total": 5309,
-      "stars_period": 420,
-      "forks": 222,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57304299?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15271137?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169397554?s=40&v=4"
-      ],
-      "description_zh": "Your own search engine"
-    },
-    {
       "rank": 11,
-      "name": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": null,
-      "stars_total": 103370,
-      "stars_period": 98,
-      "forks": 4431,
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars_total": 15813,
+      "stars_period": 402,
+      "forks": 1533,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/905434?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3983683?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13601124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20755558?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57277705?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/147409?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4949514?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5446298?s=40&v=4"
       ],
-      "description_zh": "科技爱好者周刊，每周五发布"
+      "description_zh": "Secure environments for developers and their agents"
     },
     {
       "rank": 12,
-      "name": "ZuodaoTech/everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "description": "人人都能用英语",
+      "name": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
       "language": "TypeScript",
-      "stars_total": 37951,
-      "stars_period": 48,
-      "forks": 5217,
+      "stars_total": 16986,
+      "stars_period": 585,
+      "forks": 905,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/22209056?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67439?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26003810?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26423172?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3296497?s=40&v=4"
       ],
-      "description_zh": "人人都能用英语"
+      "description_zh": "The Generative UI framework"
     },
     {
       "rank": 13,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 25184,
-      "stars_period": 281,
-      "forks": 2999,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 97394,
+      "stars_period": 556,
+      "forks": 10274,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/222980227?s=40&v=4"
       ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
-      "rank": 14,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "language": "Python",
-      "stars_total": 11690,
-      "stars_period": 234,
-      "forks": 749,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75380243?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52249278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128657146?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/154585401?s=40&v=4"
-      ],
-      "description_zh": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
-    },
-    {
-      "rank": 15,
-      "name": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "language": "Rust",
-      "stars_total": 3464,
-      "stars_period": 32,
-      "forks": 451,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/139136586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19239908?s=40&v=4"
-      ],
-      "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+      "description_zh": "Production-grade engineering skills for AI coding agents."
     }
   ],
-  "generated_at": 1789884047
+  "generated_at": 1789906302
 }
