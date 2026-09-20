@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 38302,
+      "stars_total": 38344,
       "stars_period": 15028,
-      "forks": 2730,
+      "forks": 2734,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 147028,
+      "stars_total": 147078,
       "stars_period": 1999,
-      "forks": 24032,
+      "forks": 24043,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 263552,
+      "stars_total": 263665,
       "stars_period": 6265,
-      "forks": 39438,
+      "forks": 39452,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 27925,
+      "stars_total": 27954,
       "stars_period": 4867,
-      "forks": 3754,
+      "forks": 3759,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -80,15 +80,15 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 97587,
+      "stars_total": 97637,
       "stars_period": 3445,
-      "forks": 10289,
+      "forks": 10292,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/222980227?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
       ],
       "description_zh": "Production-grade engineering skills for AI coding agents."
     },
@@ -98,7 +98,7 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 25271,
+      "stars_total": 25275,
       "stars_period": 1034,
       "forks": 3007,
       "contributors": [
@@ -116,9 +116,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 39384,
+      "stars_total": 39541,
       "stars_period": 10207,
-      "forks": 7967,
+      "forks": 8002,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -134,7 +134,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 23758,
+      "stars_total": 23767,
       "stars_period": 1359,
       "forks": 1715,
       "contributors": [
@@ -152,7 +152,7 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars_total": 8179,
+      "stars_total": 8192,
       "stars_period": 1141,
       "forks": 284,
       "contributors": [
@@ -170,9 +170,9 @@
       "url": "https://github.com/home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars_total": 90879,
+      "stars_total": 90887,
       "stars_period": 417,
-      "forks": 38714,
+      "forks": 38715,
       "contributors": [
         "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
@@ -188,7 +188,7 @@
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars_total": 50585,
+      "stars_total": 50607,
       "stars_period": 3024,
       "forks": 4069,
       "contributors": [
@@ -206,9 +206,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 73433,
+      "stars_total": 73516,
       "stars_period": 5404,
-      "forks": 4807,
+      "forks": 4817,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 83792,
+      "stars_total": 83821,
       "stars_period": 3914,
-      "forks": 7345,
+      "forks": 7346,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 51909,
+      "stars_total": 51940,
       "stars_period": 2498,
-      "forks": 4727,
+      "forks": 4729,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -260,9 +260,9 @@
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars_total": 44474,
+      "stars_total": 44488,
       "stars_period": 1573,
-      "forks": 9135,
+      "forks": 9137,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
@@ -278,9 +278,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 49140,
+      "stars_total": 49199,
       "stars_period": 5589,
-      "forks": 2849,
+      "forks": 2850,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
         "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
@@ -296,9 +296,9 @@
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
-      "stars_total": 68876,
+      "stars_total": 68884,
       "stars_period": 1118,
-      "forks": 7460,
+      "forks": 7463,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
@@ -314,7 +314,7 @@
       "url": "https://github.com/petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
-      "stars_total": 10785,
+      "stars_total": 10806,
       "stars_period": 2134,
       "forks": 737,
       "contributors": [
@@ -332,9 +332,9 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_total": 110416,
+      "stars_total": 110423,
       "stars_period": 1389,
-      "forks": 14449,
+      "forks": 14467,
       "contributors": [
         "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
@@ -350,9 +350,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 185915,
+      "stars_total": 185926,
       "stars_period": 2767,
-      "forks": 13688,
+      "forks": 13689,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13227607?s=40&v=4",
@@ -368,7 +368,7 @@
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
-      "stars_total": 25381,
+      "stars_total": 25382,
       "stars_period": 356,
       "forks": 4085,
       "contributors": [
@@ -381,5 +381,5 @@
       "description_zh": "eBPF-based Networking, Security, and Observability"
     }
   ],
-  "generated_at": 1789931986
+  "generated_at": 1789942831
 }
