@@ -8,9 +8,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 69002,
+      "stars_total": 69088,
       "stars_period": 53904,
-      "forks": 4632,
+      "forks": 4635,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/FlashML-org/FreeToken",
       "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
       "language": "Python",
-      "stars_total": 13442,
+      "stars_total": 13459,
       "stars_period": 13363,
-      "forks": 1326,
+      "forks": 1329,
       "contributors": [
         "https://avatars.githubusercontent.com/u/36730318?s=40&v=4",
         "https://avatars.githubusercontent.com/u/73746844?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 38417,
+      "stars_total": 38431,
       "stars_period": 17511,
-      "forks": 6019,
+      "forks": 6024,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,7 +62,7 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "stars_total": 4341,
+      "stars_total": 4352,
       "stars_period": 4010,
       "forks": 312,
       "contributors": [
@@ -80,9 +80,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 18838,
+      "stars_total": 18946,
       "stars_period": 14879,
-      "forks": 1059,
+      "forks": 1063,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -96,7 +96,7 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_total": 33147,
+      "stars_total": 33156,
       "stars_period": 22015,
       "forks": 3192,
       "contributors": [
@@ -114,9 +114,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 8294,
+      "stars_total": 8303,
       "stars_period": 4521,
-      "forks": 772,
+      "forks": 773,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 33854,
+      "stars_total": 33901,
       "stars_period": 22901,
-      "forks": 3986,
+      "forks": 3988,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_total": 42521,
+      "stars_total": 42541,
       "stars_period": 15720,
-      "forks": 4908,
+      "forks": 4917,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
@@ -168,7 +168,7 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_total": 49719,
+      "stars_total": 49811,
       "stars_period": 26844,
       "forks": 2874,
       "contributors": [
@@ -186,9 +186,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 39103,
+      "stars_total": 39162,
       "stars_period": 17582,
-      "forks": 2801,
+      "forks": 2802,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -204,7 +204,7 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "TypeScript",
-      "stars_total": 4756,
+      "stars_total": 4768,
       "stars_period": 3298,
       "forks": 367,
       "contributors": [
@@ -222,9 +222,9 @@
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_total": 14159,
+      "stars_total": 14171,
       "stars_period": 6211,
-      "forks": 1673,
+      "forks": 1677,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
         "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_total": 6591,
+      "stars_total": 6601,
       "stars_period": 1604,
-      "forks": 543,
+      "forks": 544,
       "contributors": [
         "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
         "https://avatars.githubusercontent.com/u/76621784?s=40&v=4",
@@ -258,9 +258,9 @@
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
-      "stars_total": 20384,
+      "stars_total": 20406,
       "stars_period": 14605,
-      "forks": 745,
+      "forks": 747,
       "contributors": [
         "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
@@ -276,7 +276,7 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 33394,
+      "stars_total": 33405,
       "stars_period": 5364,
       "forks": 3225,
       "contributors": [
@@ -294,9 +294,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 28444,
+      "stars_total": 28470,
       "stars_period": 7936,
-      "forks": 3827,
+      "forks": 3829,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -312,9 +312,9 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "stars_total": 62015,
+      "stars_total": 62029,
       "stars_period": 7126,
-      "forks": 8071,
+      "forks": 8072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
         "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
@@ -330,9 +330,9 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_total": 6308,
+      "stars_total": 6329,
       "stars_period": 4797,
-      "forks": 457,
+      "forks": 461,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84192562?s=40&v=4",
@@ -348,9 +348,9 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_total": 21852,
+      "stars_total": 21866,
       "stars_period": 10567,
-      "forks": 716,
+      "forks": 717,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
         "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
@@ -365,9 +365,9 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_total": 19851,
+      "stars_total": 19875,
       "stars_period": 6976,
-      "forks": 2555,
+      "forks": 2561,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -378,5 +378,5 @@
       "description_zh": "Open source alternative to Semrush and Ahrefs"
     }
   ],
-  "generated_at": 1790018092
+  "generated_at": 1790032163
 }
