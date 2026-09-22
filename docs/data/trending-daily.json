@@ -1,106 +1,16 @@
 {
   "period": "daily",
-  "count": 12,
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars_total": 6240,
-      "stars_period": 607,
-      "forks": 563,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/844291?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/353721?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175421836?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86723305?s=40&v=4"
-      ],
-      "description_zh": "A framework for building agentic apps"
-    },
-    {
-      "rank": 2,
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars_total": 25885,
-      "stars_period": 609,
-      "forks": 1780,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57335981?s=40&v=4"
-      ],
-      "description_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
-    },
-    {
-      "rank": 3,
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_total": 18160,
-      "stars_period": 844,
-      "forks": 2237,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/347564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/180140750?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76625701?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13096352?s=40&v=4"
-      ],
-      "description_zh": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
-    },
-    {
-      "rank": 4,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 7947,
-      "stars_period": 167,
-      "forks": 531,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
-      ],
-      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-    },
-    {
-      "rank": 5,
-      "name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "stars_total": 16557,
-      "stars_period": 460,
-      "forks": 1574,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/147409?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4949514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5446298?s=40&v=4"
-      ],
-      "description_zh": "Secure environments for developers and their agents"
-    },
-    {
-      "rank": 6,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 35998,
-      "stars_period": 424,
-      "forks": 5281,
+      "stars_total": 36125,
+      "stars_period": 436,
+      "forks": 5289,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
@@ -111,32 +21,86 @@
       "description_zh": ""
     },
     {
-      "rank": 7,
-      "name": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "stars_total": 12461,
-      "stars_period": 32,
-      "forks": 1140,
+      "rank": 2,
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars_total": 2782,
+      "stars_period": 498,
+      "forks": 371,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28556681?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/680407?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55463354?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35669350?s=40&v=4"
       ],
-      "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      "description_zh": "Agent Substrate: the core system"
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_total": 15045,
+      "stars_period": 202,
+      "forks": 1355,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
+      ],
+      "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+    },
+    {
+      "rank": 4,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 30968,
+      "stars_period": 33,
+      "forks": 3529,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "rank": 5,
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars_total": 7043,
+      "stars_period": 2324,
+      "forks": 333,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11900208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14038238?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32556631?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106645026?s=40&v=4"
+      ],
+      "description_zh": "Google's open agentic orchestration runtime"
+    },
+    {
+      "rank": 6,
       "name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars_total": 13758,
-      "stars_period": 169,
-      "forks": 1336,
+      "stars_total": 13835,
+      "stars_period": 441,
+      "forks": 1342,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1032671?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3081375?s=40&v=4",
@@ -147,73 +111,41 @@
       "description_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     },
     {
-      "rank": 9,
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "rank": 7,
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_total": 8600,
-      "stars_period": 250,
-      "forks": 1596,
+      "stars_total": 2036,
+      "stars_period": 197,
+      "forks": 207,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/78066887?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/281058146?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6255130?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64325867?s=40&v=4"
       ],
-      "description_zh": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具"
+      "description_zh": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
     },
     {
-      "rank": 10,
-      "name": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": null,
-      "stars_total": 104378,
-      "stars_period": 182,
-      "forks": 4463,
+      "rank": 8,
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_total": 25602,
+      "stars_period": 155,
+      "forks": 3100,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/905434?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3983683?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13601124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20755558?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57277705?s=40&v=4"
-      ],
-      "description_zh": "科技爱好者周刊，每周五发布"
-    },
-    {
-      "rank": 11,
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "language": "TypeScript",
-      "stars_total": 38071,
-      "stars_period": 394,
-      "forks": 3779,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/52841588?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49691103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36313686?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175166532?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/129362299?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18312206?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118331084?s=40&v=4"
       ],
-      "description_zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
-    },
-    {
-      "rank": 12,
-      "name": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "language": "Rust",
-      "stars_total": 3831,
-      "stars_period": 50,
-      "forks": 469,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/139136586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19239908?s=40&v=4"
-      ],
-      "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+      "description_zh": "Edit videos with coding agents"
     }
   ],
-  "generated_at": 1790070518
+  "generated_at": 1790087851
 }
