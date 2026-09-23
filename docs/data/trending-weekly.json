@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 39855,
+      "stars_total": 40025,
       "stars_period": 12590,
-      "forks": 2861,
+      "forks": 2876,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 147694,
+      "stars_total": 147731,
       "stars_period": 2754,
-      "forks": 24137,
+      "forks": 24157,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -40,13 +40,31 @@
     },
     {
       "rank": 3,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_total": 36680,
+      "stars_period": 1238,
+      "forks": 5354,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 4,
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 29075,
+      "stars_total": 29214,
       "stars_period": 5303,
-      "forks": 3918,
+      "forks": 3935,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -57,14 +75,14 @@
       "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 265596,
+      "stars_total": 265793,
       "stars_period": 6904,
-      "forks": 39699,
+      "forks": 39718,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -75,32 +93,14 @@
       "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "rank": 5,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 25454,
-      "stars_period": 1403,
-      "forks": 3019,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
-      ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
       "rank": 6,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 98512,
+      "stars_total": 98590,
       "stars_period": 4224,
-      "forks": 10352,
+      "forks": 10359,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -112,13 +112,31 @@
     },
     {
       "rank": 7,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 25466,
+      "stars_period": 1403,
+      "forks": 3020,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+      ],
+      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "rank": 8,
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_total": 37182,
+      "stars_total": 37246,
       "stars_period": 4036,
-      "forks": 4014,
+      "forks": 4020,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -129,14 +147,14 @@
       "description_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 4674,
+      "stars_total": 4703,
       "stars_period": 2148,
-      "forks": 541,
+      "forks": 550,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
@@ -147,32 +165,14 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 9,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 36506,
-      "stars_period": 1238,
-      "forks": 5333,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
       "rank": 10,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 75875,
+      "stars_total": 76130,
       "stars_period": 6205,
-      "forks": 4967,
+      "forks": 4993,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -184,67 +184,31 @@
     },
     {
       "rank": 11,
-      "name": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars_total": 44715,
-      "stars_period": 1262,
-      "forks": 9176,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 31298,
+      "stars_period": 577,
+      "forks": 3555,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54083382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8267138?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+      "description_zh": "CLI tool for configuring and monitoring Claude Code"
     },
     {
       "rank": 12,
-      "name": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "stars_total": 91090,
-      "stars_period": 538,
-      "forks": 38738,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6771947?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/195327?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14281572?s=40&v=4"
-      ],
-      "description_zh": "🏡 Open source home automation that puts local control and privacy first."
-    },
-    {
-      "rank": 13,
-      "name": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "language": "TypeScript",
-      "stars_total": 69097,
-      "stars_period": 1188,
-      "forks": 7491,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52393857?s=40&v=4"
-      ],
-      "description_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
-    },
-    {
-      "rank": 14,
       "name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
-      "stars_total": 12507,
+      "stars_total": 12518,
       "stars_period": 661,
-      "forks": 1143,
+      "forks": 1144,
       "contributors": [
         "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -255,50 +219,68 @@
       "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
     },
     {
-      "rank": 15,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 84906,
-      "stars_period": 2985,
-      "forks": 7455,
+      "rank": 13,
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars_total": 44751,
+      "stars_period": 1262,
+      "forks": 9183,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54083382?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8267138?s=40&v=4"
       ],
-      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+      "description_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+    },
+    {
+      "rank": 14,
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars_total": 69123,
+      "stars_period": 1188,
+      "forks": 7495,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52393857?s=40&v=4"
+      ],
+      "description_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "rank": 15,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_total": 103190,
+      "stars_period": 194,
+      "forks": 30041,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
+      ],
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
     },
     {
       "rank": 16,
-      "name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "stars_total": 110666,
-      "stars_period": 1508,
-      "forks": 14518,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10985857?s=40&v=4"
-      ],
-      "description_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-    },
-    {
-      "rank": 17,
       "name": "cilium/cilium",
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
-      "stars_total": 25467,
+      "stars_total": 25475,
       "stars_period": 431,
-      "forks": 4090,
+      "forks": 4093,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5714066?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1417913?s=40&v=4",
@@ -309,14 +291,32 @@
       "description_zh": "eBPF-based Networking, Security, and Observability"
     },
     {
+      "rank": 17,
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars_total": 69939,
+      "stars_period": 1558,
+      "forks": 4785,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/237345393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/203414896?s=40&v=4"
+      ],
+      "description_zh": "Spec-driven development (SDD) for AI coding assistants."
+    },
+    {
       "rank": 18,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 20331,
+      "stars_total": 20545,
       "stars_period": 15381,
-      "forks": 1153,
+      "forks": 1168,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -330,9 +330,9 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_total": 18449,
+      "stars_total": 18527,
       "stars_period": 4009,
-      "forks": 2263,
+      "forks": 2270,
       "contributors": [
         "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
         "https://avatars.githubusercontent.com/in/347564?s=40&v=4",
@@ -344,22 +344,22 @@
     },
     {
       "rank": 20,
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "stars_total": 6721,
-      "stars_period": 4553,
-      "forks": 492,
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars_total": 2465,
+      "stars_period": 1023,
+      "forks": 230,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5351707?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84192562?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45072480?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6255130?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12494079?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64325867?s=40&v=4"
       ],
-      "description_zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
+      "description_zh": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
     }
   ],
-  "generated_at": 1790142424
+  "generated_at": 1790162398
 }
