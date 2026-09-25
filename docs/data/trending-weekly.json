@@ -1,16 +1,32 @@
 {
   "period": "weekly",
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "rank": 1,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 21490,
+      "stars_period": 11262,
+      "forks": 1239,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+      ],
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": 2,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 37438,
+      "stars_total": 37484,
       "stars_period": 2382,
-      "forks": 5424,
+      "forks": 5427,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
@@ -21,32 +37,14 @@
       "description_zh": ""
     },
     {
-      "rank": 2,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 40977,
-      "stars_period": 6920,
-      "forks": 2944,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
-    },
-    {
       "rank": 3,
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 148007,
+      "stars_total": 148038,
       "stars_period": 2384,
-      "forks": 24457,
+      "forks": 24509,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -58,13 +56,31 @@
     },
     {
       "rank": 4,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 41128,
+      "stars_period": 6920,
+      "forks": 2957,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "rank": 5,
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 267081,
+      "stars_total": 267259,
       "stars_period": 6193,
-      "forks": 39907,
+      "forks": 39925,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -75,14 +91,14 @@
       "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 29829,
+      "stars_total": 29922,
       "stars_period": 3749,
-      "forks": 4008,
+      "forks": 4019,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -93,12 +109,12 @@
       "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 98940,
+      "stars_total": 98980,
       "stars_period": 3345,
       "forks": 10389,
       "contributors": [
@@ -111,32 +127,14 @@
       "description_zh": "Production-grade engineering skills for AI coding agents."
     },
     {
-      "rank": 7,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 25573,
-      "stars_period": 1118,
-      "forks": 3026,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
-      ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
       "rank": 8,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 77739,
+      "stars_total": 77948,
       "stars_period": 6547,
-      "forks": 5087,
+      "forks": 5102,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -148,67 +146,13 @@
     },
     {
       "rank": 9,
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "stars_total": 4897,
-      "stars_period": 1608,
-      "forks": 581,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50489030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2804393?s=40&v=4"
-      ],
-      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-    },
-    {
-      "rank": 10,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_total": 31744,
-      "stars_period": 965,
-      "forks": 3608,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "CLI tool for configuring and monitoring Claude Code"
-    },
-    {
-      "rank": 11,
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars_total": 37581,
-      "stars_period": 2055,
-      "forks": 4072,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48591714?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289220702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/522310?s=40&v=4"
-      ],
-      "description_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-    },
-    {
-      "rank": 12,
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 28278,
+      "stars_total": 28651,
       "stars_period": 3363,
-      "forks": 2801,
+      "forks": 2882,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -219,12 +163,102 @@
       "description_zh": "Hindsight: Agent Memory That Learns"
     },
     {
+      "rank": 10,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 25584,
+      "stars_period": 1118,
+      "forks": 3028,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+      ],
+      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "rank": 11,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 31773,
+      "stars_period": 965,
+      "forks": 3612,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "rank": 12,
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_total": 83603,
+      "stars_period": 2321,
+      "forks": 15141,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/331803?s=40&v=4"
+      ],
+      "description_zh": "The open-source app everyone uses to manage agents at work"
+    },
+    {
       "rank": 13,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_total": 103297,
+      "stars_period": 228,
+      "forks": 30391,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
+      ],
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "rank": 14,
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars_total": 4913,
+      "stars_period": 1608,
+      "forks": 583,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50489030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2804393?s=40&v=4"
+      ],
+      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+    },
+    {
+      "rank": 15,
       "name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
-      "stars_total": 12582,
+      "stars_total": 12592,
       "stars_period": 741,
       "forks": 1148,
       "contributors": [
@@ -237,14 +271,14 @@
       "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars_total": 70262,
+      "stars_total": 70311,
       "stars_period": 1415,
-      "forks": 4806,
+      "forks": 4812,
       "contributors": [
         "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
         "https://avatars.githubusercontent.com/u/237345393?s=40&v=4",
@@ -255,86 +289,32 @@
       "description_zh": "Spec-driven development (SDD) for AI coding assistants."
     },
     {
-      "rank": 15,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 8369,
-      "stars_period": 1243,
-      "forks": 567,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
-      ],
-      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-    },
-    {
-      "rank": 16,
-      "name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "stars_total": 103281,
-      "stars_period": 228,
-      "forks": 30332,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
-      ],
-      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-    },
-    {
       "rank": 17,
-      "name": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "language": "TypeScript",
-      "stars_total": 69270,
-      "stars_period": 855,
-      "forks": 7515,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_total": 50488,
+      "stars_period": 964,
+      "forks": 4623,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52393857?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
       ],
-      "description_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
     },
     {
       "rank": 18,
-      "name": "LibreChat-AI/LibreChat",
-      "url": "https://github.com/LibreChat-AI/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars_total": 44923,
-      "stars_period": 743,
-      "forks": 9202,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81851188?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54083382?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8267138?s=40&v=4"
-      ],
-      "description_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
-    },
-    {
-      "rank": 19,
       "name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_total": 3247,
+      "stars_total": 3311,
       "stars_period": 1406,
-      "forks": 269,
+      "forks": 273,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -345,23 +325,59 @@
       "description_zh": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
     },
     {
-      "rank": 20,
-      "name": "cilium/cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "stars_total": 25545,
-      "stars_period": 362,
-      "forks": 4105,
+      "rank": 19,
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars_total": 69282,
+      "stars_period": 855,
+      "forks": 7517,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5714066?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1417913?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1243336?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/539708?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6518235?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52393857?s=40&v=4"
       ],
-      "description_zh": "eBPF-based Networking, Security, and Observability"
+      "description_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "rank": 20,
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars_total": 54595,
+      "stars_period": 165,
+      "forks": 33831,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/7501424?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6844179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7571158?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38731?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2039870?s=40&v=4"
+      ],
+      "description_zh": "Odoo. Open Source Apps To Grow Your Business."
+    },
+    {
+      "rank": 21,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_total": 50926,
+      "stars_period": 2481,
+      "forks": 5711,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/64453045?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/107110503?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4"
+      ],
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     }
   ],
-  "generated_at": 1790321671
+  "generated_at": 1790343290
 }
