@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 43197,
+      "stars_total": 43313,
       "stars_period": 40403,
-      "forks": 8790,
+      "forks": 8810,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 21739,
+      "stars_total": 21848,
       "stars_period": 18769,
-      "forks": 1254,
+      "forks": 1258,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_total": 71929,
+      "stars_total": 72045,
       "stars_period": 56232,
-      "forks": 4842,
+      "forks": 4853,
       "contributors": [
         "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
         "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_total": 39078,
+      "stars_total": 39102,
       "stars_period": 18282,
-      "forks": 6083,
+      "forks": 6086,
       "contributors": [
         "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 41432,
+      "stars_total": 41508,
       "stars_period": 20100,
-      "forks": 2978,
+      "forks": 2981,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_total": 3421,
+      "stars_total": 3447,
       "stars_period": 2725,
-      "forks": 280,
+      "forks": 282,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 35583,
+      "stars_total": 35648,
       "stars_period": 24027,
-      "forks": 4179,
+      "forks": 4183,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -128,29 +128,11 @@
     },
     {
       "rank": 8,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 51269,
-      "stars_period": 27288,
-      "forks": 2955,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
-      ],
-      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
-    },
-    {
-      "rank": 9,
       "name": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "TypeScript",
-      "stars_total": 5127,
+      "stars_total": 5148,
       "stars_period": 3598,
       "forks": 375,
       "contributors": [
@@ -162,30 +144,30 @@
       "description_zh": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
     },
     {
-      "rank": 10,
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_total": 14433,
-      "stars_period": 6398,
-      "forks": 1696,
+      "rank": 9,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 51307,
+      "stars_period": 27288,
+      "forks": 2958,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_total": 6826,
+      "stars_total": 6836,
       "stars_period": 1866,
       "forks": 551,
       "contributors": [
@@ -198,86 +180,14 @@
       "description_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
     },
     {
-      "rank": 12,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 8674,
-      "stars_period": 3701,
-      "forks": 811,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
-      ],
-      "description_zh": "Cursor plugin specification and official plugins"
-    },
-    {
-      "rank": 13,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_total": 21128,
-      "stars_period": 7714,
-      "forks": 2703,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "Open source alternative to Semrush and Ahrefs"
-    },
-    {
-      "rank": 14,
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_total": 30165,
-      "stars_period": 9591,
-      "forks": 4052,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-    },
-    {
-      "rank": 15,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 33724,
-      "stars_period": 5561,
-      "forks": 3248,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
-      ],
-      "description_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 37592,
+      "stars_total": 37623,
       "stars_period": 3088,
-      "forks": 5438,
+      "forks": 5440,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
@@ -288,32 +198,104 @@
       "description_zh": ""
     },
     {
-      "rank": 17,
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars_total": 62598,
-      "stars_period": 7756,
-      "forks": 8141,
+      "rank": 12,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 30233,
+      "stars_period": 9591,
+      "forks": 4060,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/142557582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70605804?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
-      "rank": 18,
+      "rank": 13,
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_total": 14449,
+      "stars_period": 6398,
+      "forks": 1696,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19415570?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76083688?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22845248?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 14,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 33746,
+      "stars_period": 5561,
+      "forks": 3249,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5073569?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/151166456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1857776?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9588843?s=40&v=4"
+      ],
+      "description_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "rank": 15,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_total": 21170,
+      "stars_period": 7714,
+      "forks": 2708,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+      ],
+      "description_zh": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "rank": 16,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 8697,
+      "stars_period": 3701,
+      "forks": 813,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9469738?s=40&v=4"
+      ],
+      "description_zh": "Cursor plugin specification and official plugins"
+    },
+    {
+      "rank": 17,
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_total": 7280,
+      "stars_total": 7314,
       "stars_period": 5954,
-      "forks": 523,
+      "forks": 525,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5351707?s=40&v=4",
@@ -324,32 +306,32 @@
       "description_zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
     {
-      "rank": 19,
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "stars_total": 3924,
-      "stars_period": 3286,
-      "forks": 963,
+      "rank": 18,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_total": 62624,
+      "stars_period": 7756,
+      "forks": 8142,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75556242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48738352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37987074?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/142557582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70605804?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4"
       ],
-      "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 146120,
+      "stars_total": 146244,
       "stars_period": 36118,
-      "forks": 7841,
+      "forks": 7850,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -360,32 +342,32 @@
       "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
     {
-      "rank": 21,
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "rank": 20,
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_total": 8024,
-      "stars_period": 3850,
-      "forks": 1183,
+      "stars_total": 3960,
+      "stars_period": 3286,
+      "forks": 970,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/40795644?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/75556242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48738352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37987074?s=40&v=4"
       ],
-      "description_zh": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+      "description_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "abue-ammar/tinycast",
       "url": "https://github.com/abue-ammar/tinycast",
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
-      "stars_total": 7494,
+      "stars_total": 7513,
       "stars_period": 5678,
-      "forks": 368,
+      "forks": 369,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81174108?s=40&v=4",
@@ -394,7 +376,43 @@
         "https://avatars.githubusercontent.com/u/11879201?s=40&v=4"
       ],
       "description_zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+    },
+    {
+      "rank": 22,
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "stars_total": 7236,
+      "stars_period": 4225,
+      "forks": 1153,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/188336071?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/92676627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/154662592?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26088029?s=40&v=4"
+      ],
+      "description_zh": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+    },
+    {
+      "rank": 23,
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars_total": 8042,
+      "stars_period": 3850,
+      "forks": 1184,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40795644?s=40&v=4"
+      ],
+      "description_zh": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
     }
   ],
-  "generated_at": 1790407667
+  "generated_at": 1790427411
 }
