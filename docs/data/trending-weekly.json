@@ -8,9 +8,9 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 37810,
+      "stars_total": 37837,
       "stars_period": 2633,
-      "forks": 5460,
+      "forks": 5464,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 89058,
+      "stars_total": 89424,
       "stars_period": 5376,
-      "forks": 15598,
+      "forks": 15619,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 36213,
+      "stars_total": 36965,
       "stars_period": 7282,
-      "forks": 4645,
+      "forks": 4817,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 22245,
+      "stars_total": 22288,
       "stars_period": 6474,
-      "forks": 1291,
+      "forks": 1292,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 30540,
+      "stars_total": 30567,
       "stars_period": 3015,
-      "forks": 4089,
+      "forks": 4093,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -96,7 +96,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 31974,
+      "stars_total": 31985,
       "stars_period": 1142,
       "forks": 3641,
       "contributors": [
@@ -114,9 +114,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 79387,
+      "stars_total": 79454,
       "stars_period": 6503,
-      "forks": 5196,
+      "forks": 5201,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 142777,
+      "stars_total": 142786,
       "stars_period": 280,
-      "forks": 33240,
+      "forks": 33268,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 50708,
+      "stars_total": 50727,
       "stars_period": 1055,
-      "forks": 4637,
+      "forks": 4638,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 103411,
+      "stars_total": 103415,
       "stars_period": 295,
-      "forks": 30697,
+      "forks": 30731,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 148308,
+      "stars_total": 148328,
       "stars_period": 1744,
-      "forks": 24801,
+      "forks": 24828,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 268234,
+      "stars_total": 268311,
       "stars_period": 5522,
-      "forks": 40076,
+      "forks": 40089,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -222,9 +222,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 58981,
+      "stars_total": 59114,
       "stars_period": 3207,
-      "forks": 10203,
+      "forks": 10217,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -240,7 +240,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 41842,
+      "stars_total": 41885,
       "stars_period": 4310,
       "forks": 3009,
       "contributors": [
@@ -258,7 +258,7 @@
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
-      "stars_total": 12644,
+      "stars_total": 12648,
       "stars_period": 736,
       "forks": 1150,
       "contributors": [
@@ -276,9 +276,9 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 5232,
+      "stars_total": 5249,
       "stars_period": 951,
-      "forks": 635,
+      "forks": 637,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/222386738?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 25728,
+      "stars_total": 25741,
       "stars_period": 664,
-      "forks": 3040,
+      "forks": 3039,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -312,7 +312,7 @@
       "url": "https://github.com/FxEmbed/FxEmbed",
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
-      "stars_total": 5490,
+      "stars_total": 5495,
       "stars_period": 417,
       "forks": 260,
       "contributors": [
@@ -325,5 +325,5 @@
       "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
     }
   ],
-  "generated_at": 1790527806
+  "generated_at": 1790539254
 }
