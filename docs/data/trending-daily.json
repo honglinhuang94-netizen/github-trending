@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 9,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 88410,
+      "stars_total": 89058,
       "stars_period": 2527,
-      "forks": 15534,
+      "forks": 15598,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 35061,
+      "stars_total": 36213,
       "stars_period": 4463,
-      "forks": 4366,
+      "forks": 4645,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -40,67 +40,31 @@
     },
     {
       "rank": 3,
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 4887,
-      "stars_period": 301,
-      "forks": 678,
+      "stars_total": 39244,
+      "stars_period": 3060,
+      "forks": 4673,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28916987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106840466?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/108829653?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67671475?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/131806219?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
       ],
-      "description_zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "rank": 4,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_total": 19845,
-      "stars_period": 920,
-      "forks": 1691,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
-      ],
-      "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
-    },
-    {
-      "rank": 5,
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "stars_total": 200545,
-      "stars_period": 216,
-      "forks": 77686,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/323199?s=40&v=4"
-      ],
-      "description_zh": "An Open Source Machine Learning Framework for Everyone"
-    },
-    {
-      "rank": 6,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 58722,
+      "stars_total": 58981,
       "stars_period": 848,
-      "forks": 10170,
+      "forks": 10203,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -111,166 +75,94 @@
       "description_zh": "Learn it. Build it. Ship it for others."
     },
     {
-      "rank": 7,
-      "name": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "language": "Go",
-      "stars_total": 8109,
-      "stars_period": 232,
-      "forks": 594,
+      "rank": 5,
+      "name": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars_total": 6470,
+      "stars_period": 139,
+      "forks": 216,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3053672?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/914030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/82990506?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/592032?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/96324692?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62299611?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3509797?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/138765817?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/155876573?s=40&v=4"
       ],
-      "description_zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
+      "description_zh": "An open-source Android app to let you browse YouTube and other services freely."
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars_total": 5292,
+      "stars_period": 76,
+      "forks": 137,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6071338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23098414?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/20857346?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1560508?s=40&v=4"
+      ],
+      "description_zh": "TypeScript-to-Native Compiler"
+    },
+    {
+      "rank": 7,
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars_total": 758,
+      "stars_period": 114,
+      "forks": 87,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1448131?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5032736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/245085724?s=40&v=4"
+      ],
+      "description_zh": "Multi-agent harness that runs Claude Code and Codex together as one system"
     },
     {
       "rank": 8,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_total": 34949,
-      "stars_period": 281,
-      "forks": 4601,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_total": 20003,
+      "stars_period": 920,
+      "forks": 1697,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109685178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7863796?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
       ],
-      "description_zh": "A hive mind communication platform"
+      "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
       "rank": 9,
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "stars_total": 193156,
-      "stars_period": 223,
-      "forks": 43621,
+      "name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars_total": 743,
+      "stars_period": 117,
+      "forks": 151,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/900690?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1794099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2193314?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10746682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22350?s=40&v=4"
-      ],
-      "description_zh": "Visual Studio Code"
-    },
-    {
-      "rank": 10,
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_total": 38240,
-      "stars_period": 544,
-      "forks": 5309,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94750419?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/77732008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32364788?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30251656?s=40&v=4"
-      ],
-      "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "rank": 11,
-      "name": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "stars_total": 40798,
-      "stars_period": 122,
-      "forks": 18830,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22566570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2175834?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42633?s=40&v=4"
-      ],
-      "description_zh": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-    },
-    {
-      "rank": 12,
-      "name": "anthropics/claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 9190,
-      "stars_period": 225,
-      "forks": 2170,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/178951676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39139570?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11431944?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/133181124?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
       ],
-      "description_zh": ""
-    },
-    {
-      "rank": 13,
-      "name": "actions/runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "stars_total": 13371,
-      "stars_period": 166,
-      "forks": 3872,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47745270?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48208649?s=40&v=4"
-      ],
-      "description_zh": "GitHub Actions runner images"
-    },
-    {
-      "rank": 14,
-      "name": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "language": "TypeScript",
-      "stars_total": 7628,
-      "stars_period": 573,
-      "forks": 655,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2457607?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/38224019?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/41796709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5106629?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/311702?s=40&v=4"
-      ],
-      "description_zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
-    },
-    {
-      "rank": 15,
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_total": 142755,
-      "stars_period": 317,
-      "forks": 33232,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
-      ],
-      "description_zh": "The React Framework"
+      "description_zh": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
     }
   ],
-  "generated_at": 1790509914
+  "generated_at": 1790527802
 }
