@@ -8,9 +8,9 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 37900,
+      "stars_total": 37977,
       "stars_period": 2606,
-      "forks": 5466,
+      "forks": 5475,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 90495,
+      "stars_total": 91755,
       "stars_period": 7364,
-      "forks": 15712,
+      "forks": 15816,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 37979,
+      "stars_total": 39755,
       "stars_period": 11089,
-      "forks": 4927,
+      "forks": 5289,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 22411,
+      "stars_total": 22573,
       "stars_period": 4805,
-      "forks": 1302,
+      "forks": 1310,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -74,31 +74,13 @@
     },
     {
       "rank": 5,
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_total": 30714,
-      "stars_period": 2705,
-      "forks": 4106,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-    },
-    {
-      "rank": 6,
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_total": 32004,
+      "stars_total": 32044,
       "stars_period": 1154,
-      "forks": 3645,
+      "forks": 3649,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -109,32 +91,32 @@
       "description_zh": "CLI tool for configuring and monitoring Claude Code"
     },
     {
-      "rank": 7,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_total": 79857,
-      "stars_period": 6227,
-      "forks": 5215,
+      "rank": 6,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 30849,
+      "stars_period": 2705,
+      "forks": 4124,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 142812,
+      "stars_total": 142835,
       "stars_period": 496,
-      "forks": 33318,
+      "forks": 33346,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
@@ -145,14 +127,32 @@
       "description_zh": "The React Framework"
     },
     {
+      "rank": 8,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_total": 80315,
+      "stars_period": 6227,
+      "forks": 5235,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
+      ],
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+    },
+    {
       "rank": 9,
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 50782,
+      "stars_total": 50841,
       "stars_period": 1105,
-      "forks": 4640,
+      "forks": 4646,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 103430,
+      "stars_total": 103450,
       "stars_period": 320,
-      "forks": 30792,
+      "forks": 30814,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
@@ -182,49 +182,31 @@
     },
     {
       "rank": 11,
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars_total": 148377,
-      "stars_period": 1493,
-      "forks": 24883,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 42093,
+      "stars_period": 7793,
+      "forks": 4967,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/209710463?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
       ],
-      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "rank": 12,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 268509,
-      "stars_period": 5175,
-      "forks": 40116,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
-      ],
-      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "rank": 13,
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 59576,
+      "stars_total": 60076,
       "stars_period": 3850,
-      "forks": 10268,
+      "forks": 10347,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -235,40 +217,58 @@
       "description_zh": "Learn it. Build it. Ship it for others."
     },
     {
-      "rank": 14,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 42008,
-      "stars_period": 3727,
-      "forks": 3014,
+      "rank": 13,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars_total": 26755,
+      "stars_period": 1559,
+      "forks": 1859,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57335981?s=40&v=4"
       ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "rank": 14,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 8518,
+      "stars_period": 1224,
+      "forks": 579,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
+      ],
+      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "rank": 15,
-      "name": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "stars_total": 12667,
-      "stars_period": 521,
-      "forks": 1151,
+      "name": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars_total": 5536,
+      "stars_period": 432,
+      "forks": 264,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28556681?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2636265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6253896?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
       ],
-      "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
     },
     {
       "rank": 16,
@@ -276,9 +276,9 @@
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 5333,
+      "stars_total": 5451,
       "stars_period": 869,
-      "forks": 650,
+      "forks": 670,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -290,40 +290,40 @@
     },
     {
       "rank": 17,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 25775,
-      "stars_period": 478,
-      "forks": 3038,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars_total": 12680,
+      "stars_period": 521,
+      "forks": 1152,
       "contributors": [
+        "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28556681?s=40&v=4"
       ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
     },
     {
       "rank": 18,
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars_total": 5514,
-      "stars_period": 432,
-      "forks": 261,
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars_total": 78026,
+      "stars_period": 94,
+      "forks": 26095,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2636265?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6253896?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/58790826?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/580421?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/973334?s=40&v=4"
       ],
-      "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+      "description_zh": "Free and Open Source, Distributed, RESTful Search Engine"
     }
   ],
-  "generated_at": 1790571829
+  "generated_at": 1790602612
 }

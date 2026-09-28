@@ -1,52 +1,16 @@
 {
   "period": "daily",
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_total": 90494,
-      "stars_period": 2401,
-      "forks": 15712,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/331803?s=40&v=4"
-      ],
-      "description_zh": "The open-source app everyone uses to manage agents at work"
-    },
-    {
-      "rank": 2,
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "stars_total": 37979,
-      "stars_period": 4520,
-      "forks": 4927,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22917476?s=40&v=4"
-      ],
-      "description_zh": "Hindsight: Agent Memory That Learns"
-    },
-    {
-      "rank": 3,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 40657,
-      "stars_period": 3086,
-      "forks": 4825,
+      "stars_total": 42093,
+      "stars_period": 3274,
+      "forks": 4967,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,58 +21,94 @@
       "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 4,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 59576,
-      "stars_period": 790,
-      "forks": 10268,
+      "rank": 2,
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_total": 91755,
+      "stars_period": 3185,
+      "forks": 15816,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/331803?s=40&v=4"
       ],
-      "description_zh": "Learn it. Build it. Ship it for others."
+      "description_zh": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "rank": 3,
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars_total": 39755,
+      "stars_period": 4413,
+      "forks": 5289,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22917476?s=40&v=4"
+      ],
+      "description_zh": "Hindsight: Agent Memory That Learns"
+    },
+    {
+      "rank": 4,
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_total": 25625,
+      "stars_period": 145,
+      "forks": 5874,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/83615043?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215612484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11138019?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102328514?s=40&v=4"
+      ],
+      "description_zh": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     },
     {
       "rank": 5,
-      "name": "InfinityLoop1308/PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "language": "Shell",
-      "stars_total": 6658,
-      "stars_period": 242,
-      "forks": 225,
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars_total": 2270,
+      "stars_period": 265,
+      "forks": 220,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/96324692?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62299611?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3509797?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/138765817?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/155876573?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6509868?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4468456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13492296?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28277163?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14022626?s=40&v=4"
       ],
-      "description_zh": "An open-source Android app to let you browse YouTube and other services freely."
+      "description_zh": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
     },
     {
       "rank": 6,
-      "name": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "language": "TypeScript",
-      "stars_total": 5471,
-      "stars_period": 102,
-      "forks": 142,
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars_total": 64400,
+      "stars_period": 310,
+      "forks": 6494,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6071338?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20857346?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23098414?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1560508?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4256108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17680637?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5085821?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1472352?s=40&v=4"
       ],
-      "description_zh": "TypeScript-to-Native Compiler"
+      "description_zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
     },
     {
       "rank": 7,
@@ -116,9 +116,9 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_total": 1126,
-      "stars_period": 114,
-      "forks": 109,
+      "stars_total": 1413,
+      "stars_period": 781,
+      "forks": 123,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_total": 20727,
-      "stars_period": 895,
-      "forks": 1750,
+      "stars_total": 20971,
+      "stars_period": 1105,
+      "forks": 1779,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
@@ -145,24 +145,7 @@
         "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
       ],
       "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
-    },
-    {
-      "rank": 9,
-      "name": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "stars_total": 864,
-      "stars_period": 83,
-      "forks": 153,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39139570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133181124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
     }
   ],
-  "generated_at": 1790571825
+  "generated_at": 1790602608
 }
