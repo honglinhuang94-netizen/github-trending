@@ -4,31 +4,13 @@
   "items": [
     {
       "rank": 1,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 38124,
-      "stars_period": 2381,
-      "forks": 5489,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 2,
       "name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 93376,
+      "stars_total": 94014,
       "stars_period": 10518,
-      "forks": 15936,
+      "forks": 15998,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -39,14 +21,32 @@
       "description_zh": "The open-source app everyone uses to manage agents at work"
     },
     {
+      "rank": 2,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_total": 38176,
+      "stars_period": 2381,
+      "forks": 5500,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
       "rank": 3,
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 41527,
+      "stars_total": 42138,
       "stars_period": 15537,
-      "forks": 5589,
+      "forks": 5656,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -58,65 +58,49 @@
     },
     {
       "rank": 4,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 22868,
-      "stars_period": 3962,
-      "forks": 1335,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 46692,
+      "stars_period": 7972,
+      "forks": 5284,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
       ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "rank": 5,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 32112,
-      "stars_period": 1200,
-      "forks": 3654,
+      "stars_total": 60901,
+      "stars_period": 5004,
+      "forks": 10481,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "CLI tool for configuring and monitoring Claude Code"
+      "description_zh": "Learn it. Build it. Ship it for others."
     },
     {
       "rank": 6,
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_total": 31068,
-      "stars_period": 2509,
-      "forks": 4151,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-    },
-    {
-      "rank": 7,
       "name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 142877,
+      "stars_total": 142884,
       "stars_period": 544,
-      "forks": 33434,
+      "forks": 33485,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
@@ -127,32 +111,14 @@
       "description_zh": "The React Framework"
     },
     {
-      "rank": 8,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_total": 80970,
-      "stars_period": 6151,
-      "forks": 5269,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
-      ],
-      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 50927,
+      "stars_total": 50972,
       "stars_period": 1227,
-      "forks": 4649,
+      "forks": 4652,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,14 +129,50 @@
       "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
     },
     {
+      "rank": 8,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 32143,
+      "stars_period": 1200,
+      "forks": 3655,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "rank": 9,
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_total": 81309,
+      "stars_period": 6151,
+      "forks": 5288,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73622457?s=40&v=4"
+      ],
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+    },
+    {
       "rank": 10,
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 103484,
+      "stars_total": 103517,
       "stars_period": 340,
-      "forks": 30903,
+      "forks": 30957,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
@@ -182,103 +184,65 @@
     },
     {
       "rank": 11,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 45176,
-      "stars_period": 7972,
-      "forks": 5172,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 31184,
+      "stars_period": 2509,
+      "forks": 4168,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/216642699?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
       ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
       "rank": 12,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 60595,
-      "stars_period": 5004,
-      "forks": 10437,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 23016,
+      "stars_period": 3962,
+      "forks": 1343,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
       ],
-      "description_zh": "Learn it. Build it. Ship it for others."
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": 13,
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars_total": 26908,
-      "stars_period": 1293,
-      "forks": 1874,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_total": 72382,
+      "stars_period": 2547,
+      "forks": 4379,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57335981?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+      "description_zh": "The design language that makes your AI harness better at design."
     },
     {
       "rank": 14,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 8596,
-      "stars_period": 1110,
-      "forks": 582,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8575320?s=40&v=4"
-      ],
-      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-    },
-    {
-      "rank": 15,
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars_total": 5562,
-      "stars_period": 465,
-      "forks": 263,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2636265?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6253896?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
-      ],
-      "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
-    },
-    {
-      "rank": 16,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 5613,
+      "stars_total": 5685,
       "stars_period": 970,
-      "forks": 693,
+      "forks": 707,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -289,32 +253,50 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 17,
-      "name": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "stars_total": 12708,
-      "stars_period": 522,
-      "forks": 1154,
+      "rank": 15,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars_total": 27109,
+      "stars_period": 1293,
+      "forks": 1889,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6571445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28556681?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/57335981?s=40&v=4"
       ],
-      "description_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      "description_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars_total": 3199,
+      "stars_period": 243,
+      "forks": 347,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/288398250?s=40&v=4"
+      ],
+      "description_zh": "Bonsai Demo"
+    },
+    {
+      "rank": 17,
       "name": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
-      "stars_total": 78078,
+      "stars_total": 78098,
       "stars_period": 97,
-      "forks": 26097,
+      "forks": 26096,
       "contributors": [
         "https://avatars.githubusercontent.com/u/58790826?s=40&v=4",
         "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
@@ -323,7 +305,25 @@
         "https://avatars.githubusercontent.com/u/973334?s=40&v=4"
       ],
       "description_zh": "Free and Open Source, Distributed, RESTful Search Engine"
+    },
+    {
+      "rank": 18,
+      "name": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars_total": 5572,
+      "stars_period": 465,
+      "forks": 263,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2636265?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6253896?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
+      ],
+      "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
     }
   ],
-  "generated_at": 1790664300
+  "generated_at": 1790690175
 }
