@@ -1,34 +1,16 @@
 {
   "period": "daily",
-  "count": 14,
+  "count": 17,
   "items": [
     {
       "rank": 1,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 48686,
-      "stars_period": 4758,
-      "forks": 5453,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
-      "rank": 2,
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 10827,
-      "stars_period": 990,
-      "forks": 1434,
+      "stars_total": 11257,
+      "stars_period": 1280,
+      "forks": 1469,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -39,68 +21,32 @@
       "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
-      "rank": 3,
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
+      "rank": 2,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 43103,
-      "stars_period": 2575,
-      "forks": 5803,
+      "stars_total": 49729,
+      "stars_period": 3481,
+      "forks": 5533,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/233881301?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22917476?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
       ],
-      "description_zh": "Hindsight: Agent Memory That Learns"
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 4,
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_total": 94692,
-      "stars_period": 2458,
-      "forks": 16076,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/139239?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/331803?s=40&v=4"
-      ],
-      "description_zh": "The open-source app everyone uses to manage agents at work"
-    },
-    {
-      "rank": 5,
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "stars_total": 22347,
-      "stars_period": 232,
-      "forks": 2100,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37297228?s=40&v=4"
-      ],
-      "description_zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_total": 2547,
-      "stars_period": 737,
-      "forks": 181,
+      "stars_total": 2699,
+      "stars_period": 622,
+      "forks": 194,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,85 +57,247 @@
       "description_zh": "Multi-agent harness that runs Claude Code and Codex together as one system"
     },
     {
-      "rank": 7,
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
+      "rank": 4,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 13964,
-      "stars_period": 437,
-      "forks": 1250,
+      "stars_total": 24299,
+      "stars_period": 88,
+      "forks": 1758,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/162022179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104666906?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/145355204?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31131606?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
       ],
-      "description_zh": "Self-hosted deployment platform"
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "rank": 5,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 148610,
+      "stars_period": 675,
+      "forks": 7993,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
+      ],
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "rank": 6,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_total": 127254,
+      "stars_period": 338,
+      "forks": 19903,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/251123242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4"
+      ],
+      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "rank": 7,
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars_total": 390831,
+      "stars_period": 136,
+      "forks": 82207,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25068?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165377636?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22031114?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/781889?s=40&v=4"
+      ],
+      "description_zh": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞"
     },
     {
       "rank": 8,
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "stars_total": 10282,
-      "stars_period": 113,
-      "forks": 1544,
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_total": 75954,
+      "stars_period": 118,
+      "forks": 8867,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/161183892?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7982102?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/97675744?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/24948667?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167574?s=40&v=4"
       ],
-      "description_zh": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+      "description_zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
     },
     {
       "rank": 9,
-      "name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "language": "TeX",
-      "stars_total": 3183,
-      "stars_period": 572,
-      "forks": 278,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 272570,
+      "stars_period": 736,
+      "forks": 22932,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6509868?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4468456?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13492296?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28277163?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14022626?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
       ],
-      "description_zh": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+      "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "rank": 10,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 61639,
-      "stars_period": 786,
-      "forks": 10551,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 54411,
+      "stars_period": 324,
+      "forks": 4947,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
       ],
-      "description_zh": "Learn it. Build it. Ship it for others."
+      "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
       "rank": 11,
+      "name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars_total": 6703,
+      "stars_period": 4,
+      "forks": 1796,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73870?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36927374?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10249104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3010484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1097316?s=40&v=4"
+      ],
+      "description_zh": "Firebase SDK for Apple App Development"
+    },
+    {
+      "rank": 12,
+      "name": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "language": "TypeScript",
+      "stars_total": 90708,
+      "stars_period": 48,
+      "forks": 11716,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/16480113?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3900899?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/871933?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167242713?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/432536?s=40&v=4"
+      ],
+      "description_zh": "Model Context Protocol Servers"
+    },
+    {
+      "rank": 13,
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars_total": 66116,
+      "stars_period": 1102,
+      "forks": 6617,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4256108?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17680637?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5085821?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1472352?s=40&v=4"
+      ],
+      "description_zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "rank": 14,
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars_total": 72446,
+      "stars_period": 116,
+      "forks": 4655,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3001335?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1296517?s=40&v=4"
+      ],
+      "description_zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "rank": 15,
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars_total": 22792,
+      "stars_period": 1133,
+      "forks": 2122,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4047349?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37297228?s=40&v=4"
+      ],
+      "description_zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+    },
+    {
+      "rank": 16,
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_total": 26299,
+      "stars_period": 466,
+      "forks": 5958,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/83615043?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215612484?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11138019?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102328514?s=40&v=4"
+      ],
+      "description_zh": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+    },
+    {
+      "rank": 17,
       "name": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars_total": 37567,
-      "stars_period": 835,
-      "forks": 3274,
+      "stars_total": 37811,
+      "stars_period": 1095,
+      "forks": 3287,
       "contributors": [
         "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13518252?s=40&v=4",
@@ -198,60 +306,7 @@
         "https://avatars.githubusercontent.com/u/3996229?s=40&v=4"
       ],
       "description_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
-    },
-    {
-      "rank": 12,
-      "name": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "stars_total": 1132,
-      "stars_period": 81,
-      "forks": 192,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39139570?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133181124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
-    },
-    {
-      "rank": 13,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_total": 21955,
-      "stars_period": 696,
-      "forks": 1857,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
-      ],
-      "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
-    },
-    {
-      "rank": 14,
-      "name": "rakyll/hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
-      "language": "Go",
-      "stars_total": 20532,
-      "stars_period": 34,
-      "forks": 1314,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1647551?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1933534?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56096?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/771056?s=40&v=4"
-      ],
-      "description_zh": "HTTP load generator, ApacheBench (ab) replacement"
     }
   ],
-  "generated_at": 1790745363
+  "generated_at": 1790770942
 }
