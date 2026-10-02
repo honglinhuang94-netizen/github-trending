@@ -8,9 +8,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 150378,
-      "stars_period": 1179,
-      "forks": 8075,
+      "stars_total": 150540,
+      "stars_period": 1194,
+      "forks": 8083,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 273799,
-      "stars_period": 888,
-      "forks": 22991,
+      "stars_total": 273922,
+      "stars_period": 883,
+      "forks": 22998,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -43,9 +43,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 13959,
-      "stars_period": 2503,
-      "forks": 1621,
+      "stars_total": 14030,
+      "stars_period": 2456,
+      "forks": 1628,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -61,7 +61,7 @@
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
       "language": "C++",
-      "stars_total": 6847,
+      "stars_total": 6862,
       "stars_period": 112,
       "forks": 1806,
       "contributors": [
@@ -79,15 +79,15 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars_total": 3645,
-      "stars_period": 640,
-      "forks": 244,
+      "stars_total": 3735,
+      "stars_period": 642,
+      "forks": 248,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/237357581?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1132767?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7937632?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/237357581?s=40&v=4"
       ],
       "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
     },
@@ -97,14 +97,14 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 9308,
-      "stars_period": 157,
-      "forks": 881,
+      "stars_total": 9324,
+      "stars_period": 150,
+      "forks": 883,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
         "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
       ],
       "description_zh": "Cursor plugin specification and official plugins"
@@ -115,9 +115,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 293915,
-      "stars_period": 476,
-      "forks": 26289,
+      "stars_total": 293983,
+      "stars_period": 455,
+      "forks": 26295,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 24749,
-      "stars_period": 357,
-      "forks": 1783,
+      "stars_total": 24788,
+      "stars_period": 362,
+      "forks": 1784,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 55277,
-      "stars_period": 624,
-      "forks": 5015,
+      "stars_total": 55355,
+      "stars_period": 627,
+      "forks": 5020,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars_total": 111143,
-      "stars_period": 294,
-      "forks": 14126,
+      "stars_total": 111235,
+      "stars_period": 298,
+      "forks": 14134,
       "contributors": [
         "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars_total": 8076,
-      "stars_period": 157,
-      "forks": 812,
+      "stars_total": 8114,
+      "stars_period": 163,
+      "forks": 815,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54519279?s=40&v=4",
@@ -205,9 +205,9 @@
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars_total": 2873,
-      "stars_period": 356,
-      "forks": 272,
+      "stars_total": 2949,
+      "stars_period": 361,
+      "forks": 277,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7430988?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -220,9 +220,9 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_total": 16348,
-      "stars_period": 369,
-      "forks": 2252,
+      "stars_total": 16413,
+      "stars_period": 368,
+      "forks": 2256,
       "contributors": [
         "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
         "https://avatars.githubusercontent.com/u/69375806?s=40&v=4"
@@ -235,9 +235,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 73607,
-      "stars_period": 602,
-      "forks": 4437,
+      "stars_total": 73693,
+      "stars_period": 495,
+      "forks": 4438,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/Friedrich-M/UniMate",
       "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
       "language": "Python",
-      "stars_total": 1045,
-      "stars_period": 225,
-      "forks": 97,
+      "stars_total": 1084,
+      "stars_period": 217,
+      "forks": 101,
       "contributors": [
         "https://avatars.githubusercontent.com/u/85838942?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -263,5 +263,5 @@
       "description_zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
     }
   ],
-  "generated_at": 1790891016
+  "generated_at": 1790904642
 }
