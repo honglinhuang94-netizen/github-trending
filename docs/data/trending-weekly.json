@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 95858,
+      "stars_total": 96132,
       "stars_period": 14335,
-      "forks": 16251,
+      "forks": 16285,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 44327,
+      "stars_total": 44562,
       "stars_period": 17403,
-      "forks": 5856,
+      "forks": 5864,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 51405,
+      "stars_total": 51712,
       "stars_period": 16114,
-      "forks": 5721,
+      "forks": 5753,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 62459,
+      "stars_total": 62596,
       "stars_period": 6469,
-      "forks": 10684,
+      "forks": 10696,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -76,49 +76,31 @@
     },
     {
       "rank": 5,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 38475,
-      "stars_period": 1270,
-      "forks": 5535,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_total": 179234,
+      "stars_period": 147,
+      "forks": 32787,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
     },
     {
       "rank": 6,
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_total": 142992,
-      "stars_period": 624,
-      "forks": 33559,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
-      ],
-      "description_zh": "The React Framework"
-    },
-    {
-      "rank": 7,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 73693,
+      "stars_total": 74054,
       "stars_period": 2704,
-      "forks": 4438,
+      "forks": 4466,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -129,32 +111,32 @@
       "description_zh": "The design language that makes your AI harness better at design."
     },
     {
-      "rank": 8,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_total": 51249,
-      "stars_period": 1055,
-      "forks": 4672,
+      "rank": 7,
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars_total": 142989,
+      "stars_period": 624,
+      "forks": 33620,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
       ],
-      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+      "description_zh": "The React Framework"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_total": 27190,
+      "stars_total": 27258,
       "stars_period": 743,
-      "forks": 3839,
+      "forks": 3847,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -165,30 +147,30 @@
       "description_zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
     {
-      "rank": 10,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_total": 32277,
-      "stars_period": 601,
-      "forks": 3667,
+      "rank": 9,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 55692,
+      "stars_period": 2667,
+      "forks": 5040,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
       ],
-      "description_zh": "CLI tool for configuring and monitoring Claude Code"
+      "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 6252,
+      "stars_total": 6336,
       "stars_period": 1360,
       "forks": 785,
       "contributors": [
@@ -201,22 +183,40 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 12,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "rank": 11,
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_total": 4114,
-      "stars_period": 365,
-      "forks": 490,
+      "stars_total": 12851,
+      "stars_period": 2919,
+      "forks": 637,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/680407?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55463354?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5595220?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35669350?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11900208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14038238?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32556631?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106645026?s=40&v=4"
       ],
-      "description_zh": "Agent Substrate: the core system"
+      "description_zh": "Google's open agentic orchestration runtime"
+    },
+    {
+      "rank": 12,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_total": 38508,
+      "stars_period": 1270,
+      "forks": 5537,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
+      ],
+      "description_zh": ""
     },
     {
       "rank": 13,
@@ -224,9 +224,9 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars_total": 8114,
+      "stars_total": 8220,
       "stars_period": 481,
-      "forks": 815,
+      "forks": 827,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54519279?s=40&v=4",
@@ -242,9 +242,9 @@
       "url": "https://github.com/anthropics/claude-code-action",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 9336,
+      "stars_total": 9353,
       "stars_period": 376,
-      "forks": 2183,
+      "forks": 2184,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/178951676?s=40&v=4",
@@ -256,73 +256,55 @@
     },
     {
       "rank": 15,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_total": 22252,
-      "stars_period": 5267,
-      "forks": 1869,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_total": 103617,
+      "stars_period": 376,
+      "forks": 31074,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
       ],
-      "description_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
     },
     {
       "rank": 16,
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars_total": 5631,
-      "stars_period": 369,
-      "forks": 269,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_total": 128031,
+      "stars_period": 2548,
+      "forks": 20019,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2636265?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6253896?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/251123242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95077259?s=40&v=4"
       ],
-      "description_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
       "rank": 17,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars_total": 179222,
-      "stars_period": 147,
-      "forks": 32737,
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars_total": 3302,
+      "stars_period": 1069,
+      "forks": 302,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
-      ],
-      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-    },
-    {
-      "rank": 18,
-      "name": "androoAGI/starnet",
-      "url": "https://github.com/androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "language": "JavaScript",
-      "stars_total": 898,
-      "stars_period": 592,
-      "forks": 149,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/224686490?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7430988?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run."
+      "description_zh": "yoink any video from your terminal. no shady ads."
     }
   ],
-  "generated_at": 1790904646
+  "generated_at": 1790955592
 }
