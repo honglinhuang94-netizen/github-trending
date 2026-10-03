@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 96402,
+      "stars_total": 96525,
       "stars_period": 12825,
-      "forks": 16323,
+      "forks": 16351,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 44798,
+      "stars_total": 44890,
       "stars_period": 16183,
-      "forks": 5872,
+      "forks": 5886,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 52047,
+      "stars_total": 52239,
       "stars_period": 16475,
-      "forks": 5800,
+      "forks": 5826,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -58,49 +58,13 @@
     },
     {
       "rank": 4,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_total": 62744,
-      "stars_period": 5600,
-      "forks": 10725,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Learn it. Build it. Ship it for others."
-    },
-    {
-      "rank": 5,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars_total": 179270,
-      "stars_period": 228,
-      "forks": 32866,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
-      ],
-      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-    },
-    {
-      "rank": 6,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 74478,
+      "stars_total": 74674,
       "stars_period": 3124,
-      "forks": 4488,
+      "forks": 4494,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -111,14 +75,50 @@
       "description_zh": "The design language that makes your AI harness better at design."
     },
     {
+      "rank": 5,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_total": 62854,
+      "stars_period": 5600,
+      "forks": 10745,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "rank": 6,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 56121,
+      "stars_period": 2661,
+      "forks": 5051,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+      ],
+      "description_zh": "Write HTML. Render video. Built for agents."
+    },
+    {
       "rank": 7,
       "name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 143021,
+      "stars_total": 143042,
       "stars_period": 658,
-      "forks": 33713,
+      "forks": 33719,
       "contributors": [
         "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
@@ -130,13 +130,31 @@
     },
     {
       "rank": 8,
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars_total": 16684,
+      "stars_period": 466,
+      "forks": 808,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/24249610?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40680?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/878912?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1172528?s=40&v=4"
+      ],
+      "description_zh": "Build production-ready applications in TypeScript"
+    },
+    {
+      "rank": 9,
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_total": 27355,
+      "stars_total": 27404,
       "stars_period": 832,
-      "forks": 3856,
+      "forks": 3861,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -147,32 +165,50 @@
       "description_zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
     {
-      "rank": 9,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 55993,
-      "stars_period": 2661,
-      "forks": 5041,
+      "rank": 10,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_total": 179284,
+      "stars_period": 228,
+      "forks": 32867,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
       ],
-      "description_zh": "Write HTML. Render video. Built for agents."
+      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 89365,
+      "stars_period": 3959,
+      "forks": 7865,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+      ],
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "rank": 12,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 6437,
+      "stars_total": 6496,
       "stars_period": 1425,
-      "forks": 793,
+      "forks": 801,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -183,50 +219,14 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 11,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_total": 12938,
-      "stars_period": 1783,
-      "forks": 643,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11900208?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14038238?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32556631?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106645026?s=40&v=4"
-      ],
-      "description_zh": "Google's open agentic orchestration runtime"
-    },
-    {
-      "rank": 12,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 38574,
-      "stars_period": 1073,
-      "forks": 5537,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174142461?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/250030384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1203039?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
       "rank": 13,
       "name": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars_total": 8262,
+      "stars_total": 8277,
       "stars_period": 732,
-      "forks": 831,
+      "forks": 834,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54519279?s=40&v=4",
@@ -238,21 +238,21 @@
     },
     {
       "rank": 14,
-      "name": "anthropics/claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 9386,
-      "stars_period": 417,
-      "forks": 2184,
+      "name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "stars_total": 15767,
+      "stars_period": 877,
+      "forks": 975,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/178951676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28998859?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11431944?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22312482?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
     },
     {
       "rank": 15,
@@ -260,9 +260,9 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 103633,
+      "stars_total": 103645,
       "stars_period": 369,
-      "forks": 31176,
+      "forks": 31175,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
@@ -278,9 +278,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 128124,
+      "stars_total": 128175,
       "stars_period": 2533,
-      "forks": 20045,
+      "forks": 20052,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
@@ -296,15 +296,30 @@
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars_total": 3609,
+      "stars_total": 3696,
       "stars_period": 1415,
-      "forks": 315,
+      "forks": 323,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7430988?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "yoink any video from your terminal. no shady ads."
+    },
+    {
+      "rank": 18,
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars_total": 16764,
+      "stars_period": 1536,
+      "forks": 2291,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69375806?s=40&v=4"
+      ],
+      "description_zh": "Useful tool to track location or mobile number"
     }
   ],
-  "generated_at": 1791008327
+  "generated_at": 1791030258
 }
