@@ -8,9 +8,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 96816,
+      "stars_total": 96925,
       "stars_period": 10722,
-      "forks": 16391,
+      "forks": 16409,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 45180,
+      "stars_total": 45284,
       "stars_period": 14507,
-      "forks": 5899,
+      "forks": 5902,
       "contributors": [
         "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
         "https://avatars.githubusercontent.com/u/62250174?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 52723,
-      "stars_period": 16775,
-      "forks": 5875,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
-      "rank": 4,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_total": 75478,
+      "stars_total": 75804,
       "stars_period": 3311,
-      "forks": 4525,
+      "forks": 4534,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,32 +57,32 @@
       "description_zh": "The design language that makes your AI harness better at design."
     },
     {
-      "rank": 5,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "rank": 4,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 63276,
-      "stars_period": 5059,
-      "forks": 10818,
+      "stars_total": 52873,
+      "stars_period": 16775,
+      "forks": 5889,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
       ],
-      "description_zh": "Learn it. Build it. Ship it for others."
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 56361,
+      "stars_total": 56482,
       "stars_period": 3011,
-      "forks": 5067,
+      "forks": 5072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -111,32 +93,14 @@
       "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
-      "rank": 7,
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_total": 143104,
-      "stars_period": 678,
-      "forks": 33818,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
-      ],
-      "description_zh": "The React Framework"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "name": "Effect-TS/effect",
       "url": "https://github.com/Effect-TS/effect",
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
-      "stars_total": 16867,
+      "stars_total": 16925,
       "stars_period": 466,
-      "forks": 816,
+      "forks": 818,
       "contributors": [
         "https://avatars.githubusercontent.com/u/24249610?s=40&v=4",
         "https://avatars.githubusercontent.com/u/40680?s=40&v=4",
@@ -147,14 +111,50 @@
       "description_zh": "Build production-ready applications in TypeScript"
     },
     {
+      "rank": 7,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_total": 63497,
+      "stars_period": 5059,
+      "forks": 10865,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "rank": 8,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 90319,
+      "stars_period": 3952,
+      "forks": 7940,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+      ],
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
       "rank": 9,
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_total": 27513,
+      "stars_total": 27550,
       "stars_period": 948,
-      "forks": 3876,
+      "forks": 3881,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -166,49 +166,31 @@
     },
     {
       "rank": 10,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars_total": 179318,
-      "stars_period": 266,
-      "forks": 32961,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 24913,
+      "stars_period": 975,
+      "forks": 6476,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254055478?s=40&v=4"
       ],
-      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+      "description_zh": ""
     },
     {
       "rank": 11,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 90002,
-      "stars_period": 3952,
-      "forks": 7916,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
-      ],
-      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
-    },
-    {
-      "rank": 12,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 6616,
+      "stars_total": 6665,
       "stars_period": 1476,
-      "forks": 816,
+      "forks": 821,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -219,12 +201,12 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars_total": 8299,
+      "stars_total": 8310,
       "stars_period": 800,
       "forks": 837,
       "contributors": [
@@ -237,50 +219,14 @@
       "description_zh": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
     },
     {
-      "rank": 14,
-      "name": "longbridge/gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "stars_total": 15907,
-      "stars_period": 960,
-      "forks": 981,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28998859?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22312482?s=40&v=4"
-      ],
-      "description_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
-    },
-    {
-      "rank": 15,
-      "name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "stars_total": 103708,
-      "stars_period": 346,
-      "forks": 31293,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
-      ],
-      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 128295,
+      "stars_total": 128346,
       "stars_period": 2324,
-      "forks": 20077,
+      "forks": 20078,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
         "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
@@ -291,14 +237,68 @@
       "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
+      "rank": 14,
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars_total": 143126,
+      "stars_period": 678,
+      "forks": 33859,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6324199?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/88769842?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
+      ],
+      "description_zh": "The React Framework"
+    },
+    {
+      "rank": 15,
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars_total": 3632,
+      "stars_period": 1625,
+      "forks": 307,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6509868?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4468456?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13492296?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/28277163?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14022626?s=40&v=4"
+      ],
+      "description_zh": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+    },
+    {
+      "rank": 16,
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_total": 14749,
+      "stars_period": 5854,
+      "forks": 1686,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1116309?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/189799508?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/931393?s=40&v=4"
+      ],
+      "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
       "rank": 17,
       "name": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars_total": 3991,
+      "stars_total": 4152,
       "stars_period": 1917,
-      "forks": 346,
+      "forks": 358,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7430988?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -307,21 +307,21 @@
     },
     {
       "rank": 18,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "stars_total": 3308,
-      "stars_period": 1820,
-      "forks": 282,
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars_total": 4819,
+      "stars_period": 4245,
+      "forks": 343,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13449963?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1242562?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35828647?s=40&v=4"
       ],
-      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
+      "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
     },
     {
       "rank": 19,
@@ -329,9 +329,9 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_total": 16865,
+      "stars_total": 16900,
       "stars_period": 1638,
-      "forks": 2302,
+      "forks": 2304,
       "contributors": [
         "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
         "https://avatars.githubusercontent.com/u/69375806?s=40&v=4"
@@ -339,5 +339,5 @@
       "description_zh": "Useful tool to track location or mobile number"
     }
   ],
-  "generated_at": 1791092015
+  "generated_at": 1791115897
 }
