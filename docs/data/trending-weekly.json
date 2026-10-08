@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,15 +8,15 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars_total": 5759,
-      "stars_period": 3327,
-      "forks": 428,
+      "stars_total": 5812,
+      "stars_period": 2912,
+      "forks": 429,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
         "https://avatars.githubusercontent.com/u/108231307?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35828647?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/186654237?s=40&v=4"
       ],
       "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
     },
@@ -26,9 +26,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 10340,
-      "stars_period": 3073,
-      "forks": 784,
+      "stars_total": 10844,
+      "stars_period": 6075,
+      "forks": 825,
       "contributors": [
         "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 58504,
-      "stars_period": 3614,
-      "forks": 5207,
+      "stars_total": 58602,
+      "stars_period": 3908,
+      "forks": 5215,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 10250,
-      "stars_period": 1106,
-      "forks": 972,
+      "stars_total": 10267,
+      "stars_period": 1109,
+      "forks": 974,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 15285,
-      "stars_period": 5228,
-      "forks": 1724,
+      "stars_total": 15320,
+      "stars_period": 3690,
+      "forks": 1728,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 93193,
-      "stars_period": 6454,
-      "forks": 8163,
+      "stars_total": 93338,
+      "stars_period": 6912,
+      "forks": 8173,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 97679,
-      "stars_period": 2104,
-      "forks": 8601,
+      "stars_total": 97779,
+      "stars_period": 2607,
+      "forks": 8607,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars_total": 5081,
-      "stars_period": 2947,
-      "forks": 439,
+      "stars_total": 5129,
+      "stars_period": 2732,
+      "forks": 447,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7430988?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -149,9 +149,9 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_total": 6837,
-      "stars_period": 3318,
-      "forks": 900,
+      "stars_total": 7032,
+      "stars_period": 4906,
+      "forks": 918,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -167,8 +167,8 @@
       "url": "https://github.com/tile-ai/tilelang",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
-      "stars_total": 8471,
-      "stars_period": 675,
+      "stars_total": 8481,
+      "stars_period": 639,
       "forks": 856,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
@@ -185,15 +185,30 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_total": 17377,
-      "stars_period": 2017,
-      "forks": 2355,
+      "stars_total": 17409,
+      "stars_period": 1534,
+      "forks": 2357,
       "contributors": [
         "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
         "https://avatars.githubusercontent.com/u/69375806?s=40&v=4"
       ],
       "description_zh": "Useful tool to track location or mobile number"
+    },
+    {
+      "rank": 12,
+      "name": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "language": "Python",
+      "stars_total": 1582,
+      "stars_period": 716,
+      "forks": 152,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/85838942?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
     }
   ],
-  "generated_at": 1791413933
+  "generated_at": 1791427134
 }
