@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 25,
+  "count": 24,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 44452,
+      "stars_total": 44541,
       "stars_period": 22512,
-      "forks": 3209,
+      "forks": 3221,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -22,13 +22,31 @@
     },
     {
       "rank": 2,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 55124,
+      "stars_period": 34563,
+      "forks": 6178,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4"
+      ],
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "rank": 3,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 48961,
+      "stars_total": 49084,
       "stars_period": 30152,
-      "forks": 9932,
+      "forks": 9952,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,30 +57,12 @@
       "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
     {
-      "rank": 3,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 275183,
-      "stars_period": 23835,
-      "forks": 41049,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
-      ],
-      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
       "rank": 4,
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_total": 38998,
+      "stars_total": 39028,
       "stars_period": 4318,
       "forks": 5566,
       "contributors": [
@@ -80,9 +80,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 98648,
+      "stars_total": 98759,
       "stars_period": 18524,
-      "forks": 16649,
+      "forks": 16680,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -94,21 +94,21 @@
     },
     {
       "rank": 6,
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 55557,
-      "stars_period": 27500,
-      "forks": 3170,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 275198,
+      "stars_period": 23835,
+      "forks": 41075,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/73515951?s=40&v=4"
       ],
-      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
       "rank": 7,
@@ -116,7 +116,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 47072,
+      "stars_total": 47200,
       "stars_period": 23808,
       "forks": 5967,
       "contributors": [
@@ -130,29 +130,13 @@
     },
     {
       "rank": 8,
-      "name": "spotify/portal-ai-plugins",
-      "url": "https://github.com/spotify/portal-ai-plugins",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 2430,
-      "stars_period": 2181,
-      "forks": 198,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/15789670?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1685068?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 9,
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 32558,
+      "stars_total": 32602,
       "stars_period": 10980,
-      "forks": 4337,
+      "forks": 4344,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
         "https://avatars.githubusercontent.com/u/67856742?s=40&v=4",
@@ -163,14 +147,14 @@
       "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 149833,
+      "stars_total": 149692,
       "stars_period": 6067,
-      "forks": 25725,
+      "forks": 25728,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -181,14 +165,14 @@
       "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_total": 7907,
+      "stars_total": 7969,
       "stars_period": 6193,
-      "forks": 949,
+      "forks": 960,
       "contributors": [
         "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -199,32 +183,14 @@
       "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": 12,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_total": 25671,
-      "stars_period": 5129,
-      "forks": 1850,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
-      ],
-      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_total": 4560,
+      "stars_total": 4581,
       "stars_period": 2712,
-      "forks": 527,
+      "forks": 526,
       "contributors": [
         "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
         "https://avatars.githubusercontent.com/u/680407?s=40&v=4",
@@ -235,14 +201,14 @@
       "description_zh": "Agent Substrate: the core system"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 15405,
+      "stars_total": 15447,
       "stars_period": 6795,
-      "forks": 1737,
+      "forks": 1742,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -253,14 +219,32 @@
       "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 25701,
+      "stars_period": 5129,
+      "forks": 1856,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
+      ],
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "rank": 14,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 58860,
+      "stars_total": 59051,
       "stars_period": 13601,
-      "forks": 5234,
+      "forks": 5264,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -271,50 +255,30 @@
       "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
-      "rank": 16,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_total": 158058,
-      "stars_period": 27653,
-      "forks": 8490,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
-      ],
-      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-    },
-    {
-      "rank": 17,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
+      "rank": 15,
+      "name": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "description": "",
       "language": "TypeScript",
-      "stars_total": 10311,
-      "stars_period": 3377,
-      "forks": 979,
+      "stars_total": 2437,
+      "stars_period": 2181,
+      "forks": 198,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/15789670?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1685068?s=40&v=4"
       ],
-      "description_zh": "Cursor plugin specification and official plugins"
+      "description_zh": ""
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_total": 40429,
+      "stars_total": 40512,
       "stars_period": 13446,
-      "forks": 4444,
+      "forks": 4449,
       "contributors": [
         "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -325,14 +289,50 @@
       "description_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
     {
+      "rank": 17,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 27391,
+      "stars_period": 3123,
+      "forks": 3187,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+      ],
+      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "rank": 18,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 55709,
+      "stars_period": 27500,
+      "forks": 3180,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35212698?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/116559191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57289446?s=40&v=4"
+      ],
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
       "rank": 19,
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
-      "stars_total": 28953,
+      "stars_total": 29008,
       "stars_period": 6438,
-      "forks": 2044,
+      "forks": 2048,
       "contributors": [
         "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
@@ -344,13 +344,31 @@
     },
     {
       "rank": 20,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 10355,
+      "stars_period": 3377,
+      "forks": 984,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
+      ],
+      "description_zh": "Cursor plugin specification and official plugins"
+    },
+    {
+      "rank": 21,
       "name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 31899,
+      "stars_total": 32047,
       "stars_period": 6960,
-      "forks": 4439,
+      "forks": 4455,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -360,40 +378,22 @@
       "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
-      "rank": 21,
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "language": "JavaScript",
-      "stars_total": 79583,
-      "stars_period": 27502,
-      "forks": 5335,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/55621390?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/189123600?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/54790606?s=40&v=4"
-      ],
-      "description_zh": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
-    },
-    {
       "rank": 22,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 27242,
-      "stars_period": 3123,
-      "forks": 3181,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 158199,
+      "stars_period": 27653,
+      "forks": 8503,
       "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
       ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
     {
       "rank": 23,
@@ -401,9 +401,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 103144,
+      "stars_total": 103290,
       "stars_period": 10376,
-      "forks": 10796,
+      "forks": 10809,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -419,7 +419,7 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars_total": 8992,
+      "stars_total": 9012,
       "stars_period": 2196,
       "forks": 325,
       "contributors": [
@@ -430,25 +430,7 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
       "description_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-    },
-    {
-      "rank": 25,
-      "name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_total": 81600,
-      "stars_period": 6914,
-      "forks": 9059,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
-      ],
-      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
     }
   ],
-  "generated_at": 1791454847
+  "generated_at": 1791481722
 }
