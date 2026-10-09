@@ -1,52 +1,16 @@
 {
   "period": "daily",
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "stars_total": 16739,
-      "stars_period": 4669,
-      "forks": 1331,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13449963?s=40&v=4"
-      ],
-      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
-    },
-    {
-      "rank": 2,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 46752,
-      "stars_period": 1160,
-      "forks": 2974,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "rank": 3,
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 30129,
-      "stars_period": 7738,
-      "forks": 3604,
+      "stars_total": 35833,
+      "stars_period": 15335,
+      "forks": 4941,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -57,14 +21,32 @@
       "description_zh": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars_total": 19152,
+      "stars_period": 5925,
+      "forks": 1510,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13449963?s=40&v=4"
+      ],
+      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 281435,
-      "stars_period": 1774,
-      "forks": 23587,
+      "stars_total": 282026,
+      "stars_period": 1696,
+      "forks": 23632,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -74,50 +56,50 @@
       "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "rank": 5,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "stars_total": 98660,
-      "stars_period": 670,
-      "forks": 8650,
+      "rank": 4,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_total": 47365,
+      "stars_period": 1744,
+      "forks": 3005,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
       ],
-      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+      "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "rank": 5,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 44842,
+      "stars_period": 323,
+      "forks": 3247,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4"
+      ],
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "rank": 6,
-      "name": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "stars_total": 8168,
-      "stars_period": 279,
-      "forks": 391,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1665010?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/167924611?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58001412?s=40&v=4"
-      ],
-      "description_zh": "A native, user-mode, multi-process, graphical debugger."
-    },
-    {
-      "rank": 7,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 27799,
-      "stars_period": 392,
-      "forks": 3217,
+      "stars_total": 27990,
+      "stars_period": 714,
+      "forks": 3228,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -128,14 +110,50 @@
       "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
+      "rank": 7,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars_total": 60472,
+      "stars_period": 95,
+      "forks": 12172,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/29436595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/277851410?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/811515?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/264297931?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/231518212?s=40&v=4"
+      ],
+      "description_zh": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
+    },
+    {
       "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 103652,
+      "stars_period": 751,
+      "forks": 10843,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
+      ],
+      "description_zh": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "rank": 9,
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 8696,
-      "stars_period": 2103,
-      "forks": 1275,
+      "stars_total": 9891,
+      "stars_period": 3723,
+      "forks": 1472,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -146,21 +164,37 @@
       "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
-      "rank": 9,
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": null,
-      "stars_total": 24867,
-      "stars_period": 393,
-      "forks": 4627,
+      "rank": 10,
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars_total": 17552,
+      "stars_period": 109,
+      "forks": 1942,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/26876811?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22492808?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/153318865?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Notes of the book System Desgin Interview - An Insider's Guide"
+      "description_zh": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction"
+    },
+    {
+      "rank": 11,
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": null,
+      "stars_total": 5235,
+      "stars_period": 88,
+      "forks": 191,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/190200?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23104281?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6942160?s=40&v=4"
+      ],
+      "description_zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
     }
   ],
-  "generated_at": 1791524981
+  "generated_at": 1791550911
 }
