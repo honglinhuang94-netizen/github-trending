@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 41626,
+      "stars_total": 45312,
       "stars_period": 15335,
-      "forks": 6498,
+      "forks": 7183,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 21134,
+      "stars_total": 22209,
       "stars_period": 5925,
-      "forks": 1700,
+      "forks": 1813,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 282411,
+      "stars_total": 282646,
       "stars_period": 1696,
-      "forks": 23658,
+      "forks": 23679,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 47682,
+      "stars_total": 47836,
       "stars_period": 1744,
-      "forks": 3022,
+      "forks": 3033,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 45044,
+      "stars_total": 45181,
       "stars_period": 323,
-      "forks": 3258,
+      "forks": 3260,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 28136,
+      "stars_total": 28237,
       "stars_period": 714,
-      "forks": 3238,
+      "forks": 3244,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "language": "Python",
-      "stars_total": 60574,
+      "stars_total": 60649,
       "stars_period": 95,
-      "forks": 12178,
+      "forks": 12186,
       "contributors": [
         "https://avatars.githubusercontent.com/u/29436595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/277851410?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 103843,
+      "stars_total": 103970,
       "stars_period": 523,
-      "forks": 10859,
+      "forks": 10868,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 10869,
+      "stars_total": 11397,
       "stars_period": 3723,
-      "forks": 1627,
+      "forks": 1725,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
       "language": "Python",
-      "stars_total": 17632,
+      "stars_total": 17685,
       "stars_period": 109,
-      "forks": 1946,
+      "forks": 1950,
       "contributors": [
         "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
         "https://avatars.githubusercontent.com/u/29980330?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": null,
-      "stars_total": 5356,
+      "stars_total": 5413,
       "stars_period": 88,
-      "forks": 190,
+      "forks": 196,
       "contributors": [
         "https://avatars.githubusercontent.com/u/190200?s=40&v=4",
         "https://avatars.githubusercontent.com/u/23104281?s=40&v=4",
@@ -196,5 +196,5 @@
       "description_zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
     }
   ],
-  "generated_at": 1791573834
+  "generated_at": 1791590216
 }
