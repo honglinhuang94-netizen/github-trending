@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 11,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 23128,
+      "stars_total": 24527,
       "stars_period": 15539,
-      "forks": 1909,
+      "forks": 2024,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
@@ -22,30 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars_total": 6528,
-      "stars_period": 2338,
-      "forks": 478,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/114888155?s=40&v=4"
-      ],
-      "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
-    },
-    {
-      "rank": 3,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 283076,
+      "stars_total": 283629,
       "stars_period": 8156,
-      "forks": 23716,
+      "forks": 23756,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -55,50 +38,14 @@
       "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "rank": 4,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 59914,
-      "stars_period": 4003,
-      "forks": 5348,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
-      ],
-      "description_zh": "Write HTML. Render video. Built for agents."
-    },
-    {
-      "rank": 5,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 10627,
-      "stars_period": 1125,
-      "forks": 1005,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
-      ],
-      "description_zh": "Cursor plugin specification and official plugins"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "name": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
-      "stars_total": 8284,
+      "stars_total": 8304,
       "stars_period": 654,
-      "forks": 395,
+      "forks": 396,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
@@ -109,14 +56,14 @@
       "description_zh": "A native, user-mode, multi-process, graphical debugger."
     },
     {
-      "rank": 7,
+      "rank": 4,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 99034,
+      "stars_total": 99106,
       "stars_period": 3850,
-      "forks": 8674,
+      "forks": 8678,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -127,14 +74,67 @@
       "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
     {
+      "rank": 5,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 60095,
+      "stars_period": 4003,
+      "forks": 5367,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+      ],
+      "description_zh": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "rank": 6,
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars_total": 6614,
+      "stars_period": 2338,
+      "forks": 484,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114888155?s=40&v=4"
+      ],
+      "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+    },
+    {
+      "rank": 7,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 10683,
+      "stars_period": 1125,
+      "forks": 1013,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
+      ],
+      "description_zh": "Cursor plugin specification and official plugins"
+    },
+    {
       "rank": 8,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_total": 18816,
+      "stars_total": 18894,
       "stars_period": 2125,
-      "forks": 1860,
+      "forks": 1863,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,13 +146,31 @@
     },
     {
       "rank": 9,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_total": 179288,
+      "stars_period": 259,
+      "forks": 33531,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
+      ],
+      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+    },
+    {
+      "rank": 10,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 26668,
+      "stars_total": 26732,
       "stars_period": 2379,
-      "forks": 6963,
+      "forks": 6989,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,32 +181,32 @@
       "description_zh": ""
     },
     {
-      "rank": 10,
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_total": 95057,
-      "stars_period": 7084,
-      "forks": 8310,
+      "rank": 11,
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "language": "TypeScript",
+      "stars_total": 738,
+      "stars_period": 246,
+      "forks": 73,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10735997?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/187964595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/299720939?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+      "description_zh": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_total": 8780,
+      "stars_total": 8970,
       "stars_period": 6749,
-      "forks": 1090,
+      "forks": 1108,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -197,7 +215,25 @@
         "https://avatars.githubusercontent.com/u/1579152?s=40&v=4"
       ],
       "description_zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "rank": 13,
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars_total": 8565,
+      "stars_period": 6566,
+      "forks": 408,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/52801365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39658211?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63900941?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/114888155?s=40&v=4"
+      ],
+      "description_zh": "Next generation e2e testing framework for web and mobile apps."
     }
   ],
-  "generated_at": 1791610707
+  "generated_at": 1791634723
 }

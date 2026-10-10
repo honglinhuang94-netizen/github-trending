@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 11,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 52343,
-      "stars_period": 14927,
-      "forks": 9645,
+      "stars_total": 60877,
+      "stars_period": 25784,
+      "forks": 12175,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 23128,
-      "stars_period": 5868,
-      "forks": 1909,
+      "stars_total": 24526,
+      "stars_period": 5831,
+      "forks": 2024,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
@@ -40,20 +40,21 @@
     },
     {
       "rank": 3,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 283076,
-      "stars_period": 1687,
-      "forks": 23716,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_total": 12940,
+      "stars_period": 3217,
+      "forks": 1993,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
       ],
-      "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
+      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
       "rank": 4,
@@ -61,9 +62,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 48135,
-      "stars_period": 1739,
-      "forks": 3046,
+      "stars_total": 48470,
+      "stars_period": 1189,
+      "forks": 3061,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -75,31 +76,138 @@
     },
     {
       "rank": 5,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 45446,
-      "stars_period": 326,
-      "forks": 3279,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 26053,
+      "stars_period": 178,
+      "forks": 1879,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
       ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
       "rank": 6,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_total": 283629,
+      "stars_period": 1737,
+      "forks": 23756,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+      ],
+      "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "rank": 7,
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_total": 179288,
+      "stars_period": 39,
+      "forks": 33531,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
+      ],
+      "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+    },
+    {
+      "rank": 8,
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars_total": 200596,
+      "stars_period": 24,
+      "forks": 78883,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14309772?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/348932?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/323199?s=40&v=4"
+      ],
+      "description_zh": "An Open Source Machine Learning Framework for Everyone"
+    },
+    {
+      "rank": 9,
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars_total": 58993,
+      "stars_period": 372,
+      "forks": 4658,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22169353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/185591438?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/83796293?s=40&v=4"
+      ],
+      "description_zh": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "rank": 10,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_total": 104031,
+      "stars_period": 81,
+      "forks": 31891,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
+      ],
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "rank": 11,
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_total": 166996,
+      "stars_period": 94,
+      "forks": 34784,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/35901082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2521628?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7353373?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30755778?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23423619?s=40&v=4"
+      ],
+      "description_zh": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "rank": 12,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 28387,
-      "stars_period": 709,
-      "forks": 3254,
+      "stars_total": 28581,
+      "stars_period": 626,
+      "forks": 3267,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -110,91 +218,23 @@
       "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "rank": 7,
-      "name": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "language": "Python",
-      "stars_total": 60765,
-      "stars_period": 95,
-      "forks": 12198,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/29436595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/277851410?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/811515?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/264297931?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/231518212?s=40&v=4"
-      ],
-      "description_zh": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
-    },
-    {
-      "rank": 8,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 104141,
-      "stars_period": 436,
-      "forks": 10872,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
-      ],
-      "description_zh": "Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "rank": 9,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_total": 12064,
-      "stars_period": 3752,
-      "forks": 1835,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
-      ],
-      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-    },
-    {
-      "rank": 10,
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "language": "Python",
-      "stars_total": 17792,
-      "stars_period": 110,
-      "forks": 1957,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29980330?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction"
-    },
-    {
-      "rank": 11,
-      "name": "twostraws/SwiftUI-Agent-Skill",
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "rank": 13,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars_total": 5555,
-      "stars_period": 65,
-      "forks": 197,
+      "stars_total": 217868,
+      "stars_period": 279,
+      "forks": 21962,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/190200?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/23104281?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6942160?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45536170?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45513138?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/478549?s=40&v=4"
       ],
-      "description_zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
     }
   ],
-  "generated_at": 1791610704
+  "generated_at": 1791634721
 }
