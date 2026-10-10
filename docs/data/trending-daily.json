@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 60877,
+      "stars_total": 66827,
       "stars_period": 25784,
-      "forks": 12175,
+      "forks": 14055,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,14 +26,14 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 24526,
+      "stars_total": 25701,
       "stars_period": 5831,
-      "forks": 2024,
+      "forks": 2138,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
         "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13449963?s=40&v=4"
       ],
       "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
@@ -44,9 +44,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 12940,
+      "stars_total": 13666,
       "stars_period": 3217,
-      "forks": 1993,
+      "forks": 2120,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 48470,
+      "stars_total": 48700,
       "stars_period": 1189,
-      "forks": 3061,
+      "forks": 3073,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 26053,
+      "stars_total": 26179,
       "stars_period": 178,
-      "forks": 1879,
+      "forks": 1882,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 283629,
+      "stars_total": 284057,
       "stars_period": 1737,
-      "forks": 23756,
+      "forks": 23789,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_total": 179288,
-      "stars_period": 39,
-      "forks": 33531,
+      "stars_total": 179385,
+      "stars_period": 164,
+      "forks": 33547,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
-      "stars_total": 200596,
+      "stars_total": 200661,
       "stars_period": 24,
-      "forks": 78883,
+      "forks": 78910,
       "contributors": [
         "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1174378?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_total": 58993,
-      "stars_period": 372,
-      "forks": 4658,
+      "stars_total": 59230,
+      "stars_period": 515,
+      "forks": 4667,
       "contributors": [
         "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 104031,
+      "stars_total": 104083,
       "stars_period": 81,
-      "forks": 31891,
+      "forks": 31908,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
-      "stars_total": 166996,
+      "stars_total": 167116,
       "stars_period": 94,
-      "forks": 34784,
+      "forks": 34795,
       "contributors": [
         "https://avatars.githubusercontent.com/u/35901082?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2521628?s=40&v=4",
@@ -205,9 +205,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 28581,
+      "stars_total": 28681,
       "stars_period": 626,
-      "forks": 3267,
+      "forks": 3269,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -223,9 +223,9 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars_total": 217868,
+      "stars_total": 218046,
       "stars_period": 279,
-      "forks": 21962,
+      "forks": 21969,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -236,5 +236,5 @@
       "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
     }
   ],
-  "generated_at": 1791634721
+  "generated_at": 1791654280
 }
