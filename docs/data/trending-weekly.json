@@ -8,15 +8,15 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 26853,
+      "stars_total": 27557,
       "stars_period": 21365,
-      "forks": 2259,
+      "forks": 2331,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
         "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13449963?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/206445655?s=40&v=4"
       ],
       "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
     },
@@ -26,9 +26,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 284496,
+      "stars_total": 284903,
       "stars_period": 9179,
-      "forks": 23812,
+      "forks": 23843,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -43,7 +43,7 @@
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
-      "stars_total": 8330,
+      "stars_total": 8343,
       "stars_period": 740,
       "forks": 404,
       "contributors": [
@@ -61,9 +61,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 99255,
+      "stars_total": 99377,
       "stars_period": 4035,
-      "forks": 8694,
+      "forks": 8712,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 60366,
+      "stars_total": 60462,
       "stars_period": 4081,
-      "forks": 5390,
+      "forks": 5401,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars_total": 6735,
+      "stars_total": 6780,
       "stars_period": 2068,
-      "forks": 498,
+      "forks": 501,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 10758,
+      "stars_total": 10791,
       "stars_period": 1110,
-      "forks": 1026,
+      "forks": 1027,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_total": 18993,
+      "stars_total": 19046,
       "stars_period": 2369,
-      "forks": 1872,
+      "forks": 1880,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_total": 179519,
+      "stars_total": 179642,
       "stars_period": 263,
-      "forks": 33599,
+      "forks": 33630,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 26819,
+      "stars_total": 26853,
       "stars_period": 2367,
-      "forks": 7031,
+      "forks": 7045,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
-      "stars_total": 781,
+      "stars_total": 804,
       "stars_period": 259,
-      "forks": 74,
+      "forks": 76,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_total": 9239,
+      "stars_total": 9375,
       "stars_period": 7369,
-      "forks": 1148,
+      "forks": 1157,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -222,9 +222,9 @@
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars_total": 8727,
+      "stars_total": 8790,
       "stars_period": 6564,
-      "forks": 423,
+      "forks": 425,
       "contributors": [
         "https://avatars.githubusercontent.com/u/52801365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/39658211?s=40&v=4",
@@ -235,5 +235,5 @@
       "description_zh": "Next generation e2e testing framework for web and mobile apps."
     }
   ],
-  "generated_at": 1791679627
+  "generated_at": 1791701939
 }
