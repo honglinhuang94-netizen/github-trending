@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 129016,
-      "stars_period": 25599,
-      "forks": 28876,
+      "stars_total": 149476,
+      "stars_period": 45495,
+      "forks": 34569,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -22,67 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "stars_total": 31453,
-      "stars_period": 3952,
-      "forks": 2696,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67475268?s=40&v=4"
-      ],
-      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
-    },
-    {
-      "rank": 3,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_total": 19678,
-      "stars_period": 2957,
-      "forks": 3197,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
-      ],
-      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-    },
-    {
-      "rank": 4,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 51496,
-      "stars_period": 1083,
-      "forks": 3253,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
-      ],
-      "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "rank": 5,
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 52524,
-      "stars_period": 886,
-      "forks": 10476,
+      "stars_total": 53340,
+      "stars_period": 1903,
+      "forks": 10579,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -93,22 +39,76 @@
       "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
     {
-      "rank": 6,
-      "name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "stars_total": 104702,
-      "stars_period": 315,
-      "forks": 32186,
+      "rank": 3,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 27158,
+      "stars_period": 394,
+      "forks": 1939,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5652049?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17618148?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
       ],
-      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "rank": 4,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_total": 21320,
+      "stars_period": 4106,
+      "forks": 3461,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
+      ],
+      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "rank": 5,
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "stars_total": 154825,
+      "stars_period": 142,
+      "forks": 22630,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27028174?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/50341825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/818368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17093811?s=40&v=4"
+      ],
+      "description_zh": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "rank": 6,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_total": 52340,
+      "stars_period": 2100,
+      "forks": 3301,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+      ],
+      "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
       "rank": 7,
@@ -116,9 +116,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 36938,
-      "stars_period": 548,
-      "forks": 3840,
+      "stars_total": 37383,
+      "stars_period": 886,
+      "forks": 3860,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -130,22 +130,40 @@
     },
     {
       "rank": 8,
-      "name": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "stars_total": 74505,
-      "stars_period": 466,
-      "forks": 8118,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars_total": 40849,
+      "stars_period": 134,
+      "forks": 3804,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2200898?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4405796?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7218387?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5247009?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/54800242?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84831885?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49240599?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57054352?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/178687198?s=40&v=4"
       ],
-      "description_zh": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+      "description_zh": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "rank": 9,
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars_total": 58873,
+      "stars_period": 705,
+      "forks": 9292,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49880456?s=40&v=4"
+      ],
+      "description_zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
     }
   ],
-  "generated_at": 1791801283
+  "generated_at": 1791835965
 }
