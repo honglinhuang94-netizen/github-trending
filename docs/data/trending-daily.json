@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 108439,
+      "stars_total": 129016,
       "stars_period": 25599,
-      "forks": 24026,
+      "forks": 28876,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 30308,
+      "stars_total": 31453,
       "stars_period": 3952,
-      "forks": 2606,
+      "forks": 2696,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 18164,
+      "stars_total": 19678,
       "stars_period": 2957,
-      "forks": 2970,
+      "forks": 3197,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 50482,
+      "stars_total": 51496,
       "stars_period": 1083,
-      "forks": 3206,
+      "forks": 3253,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 51794,
+      "stars_total": 52524,
       "stars_period": 886,
-      "forks": 10395,
+      "forks": 10476,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 104533,
+      "stars_total": 104702,
       "stars_period": 315,
-      "forks": 32139,
+      "forks": 32186,
       "contributors": [
         "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2453524?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 36547,
+      "stars_total": 36938,
       "stars_period": 548,
-      "forks": 3820,
+      "forks": 3840,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars_total": 74287,
+      "stars_total": 74505,
       "stars_period": 466,
-      "forks": 8108,
+      "forks": 8118,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2200898?s=40&v=4",
@@ -147,5 +147,5 @@
       "description_zh": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     }
   ],
-  "generated_at": 1791771203
+  "generated_at": 1791801283
 }
