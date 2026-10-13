@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 182778,
-      "stars_period": 45327,
-      "forks": 44189,
+      "stars_total": 199415,
+      "stars_period": 54706,
+      "forks": 48786,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 54447,
-      "stars_period": 1895,
-      "forks": 10712,
+      "stars_total": 54984,
+      "stars_period": 1961,
+      "forks": 10777,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,13 +40,31 @@
     },
     {
       "rank": 3,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 62450,
+      "stars_period": 2277,
+      "forks": 6963,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4"
+      ],
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "rank": 4,
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 27704,
-      "stars_period": 246,
-      "forks": 1965,
+      "stars_total": 28013,
+      "stars_period": 978,
+      "forks": 1985,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -57,58 +75,40 @@
       "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
-      "rank": 4,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_total": 23712,
-      "stars_period": 4095,
-      "forks": 3769,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
-      ],
-      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-    },
-    {
       "rank": 5,
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "stars_total": 155479,
-      "stars_period": 157,
-      "forks": 22667,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27028174?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/50341825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/818368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17093811?s=40&v=4"
-      ],
-      "description_zh": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-    },
-    {
-      "rank": 6,
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 53290,
-      "stars_period": 2081,
-      "forks": 3372,
+      "stars_total": 53800,
+      "stars_period": 1813,
+      "forks": 3417,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
         "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
       "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "rank": 6,
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_total": 34319,
+      "stars_period": 187,
+      "forks": 2937,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/771968?s=40&v=4"
+      ],
+      "description_zh": "The open agent skills tool - npx skills"
     },
     {
       "rank": 7,
@@ -116,9 +116,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 37918,
-      "stars_period": 879,
-      "forks": 3892,
+      "stars_total": 38159,
+      "stars_period": 1004,
+      "forks": 3906,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -130,40 +130,40 @@
     },
     {
       "rank": 8,
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars_total": 41072,
-      "stars_period": 97,
-      "forks": 3821,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_total": 24921,
+      "stars_period": 4078,
+      "forks": 3925,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/54800242?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84831885?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49240599?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57054352?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/178687198?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
       ],
-      "description_zh": "Official inference framework for 1-bit LLMs"
+      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
       "rank": 9,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars_total": 59757,
-      "stars_period": 626,
-      "forks": 9381,
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars_total": 8995,
+      "stars_period": 1182,
+      "forks": 375,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49880456?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/12706786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33566?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16653389?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1180980?s=40&v=4"
       ],
-      "description_zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+      "description_zh": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
     }
   ],
-  "generated_at": 1791886982
+  "generated_at": 1791914709
 }
