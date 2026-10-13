@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 33011,
+      "stars_total": 33772,
       "stars_period": 27263,
-      "forks": 2861,
+      "forks": 2918,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars_total": 9616,
+      "stars_total": 9832,
       "stars_period": 5582,
-      "forks": 458,
+      "forks": 474,
       "contributors": [
         "https://avatars.githubusercontent.com/u/52801365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/39658211?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 288075,
+      "stars_total": 288702,
       "stars_period": 11139,
-      "forks": 24182,
+      "forks": 24235,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,13 +57,31 @@
     },
     {
       "rank": 4,
+      "name": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "stars_total": 1899,
+      "stars_period": 393,
+      "forks": 204,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/257484394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13261778?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3153107?s=40&v=4"
+      ],
+      "description_zh": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+    },
+    {
+      "rank": 5,
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 61880,
+      "stars_total": 62154,
       "stars_period": 4482,
-      "forks": 5540,
+      "forks": 5565,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -74,14 +92,14 @@
       "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 100119,
+      "stars_total": 100237,
       "stars_period": 3762,
-      "forks": 8783,
+      "forks": 8786,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -92,14 +110,14 @@
       "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_total": 179979,
+      "stars_total": 180017,
       "stars_period": 806,
-      "forks": 33844,
+      "forks": 33879,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
@@ -110,14 +128,14 @@
       "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 11085,
+      "stars_total": 11137,
       "stars_period": 1144,
-      "forks": 1078,
+      "forks": 1084,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -128,14 +146,14 @@
       "description_zh": "Cursor plugin specification and official plugins"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_total": 19666,
+      "stars_total": 19800,
       "stars_period": 2441,
-      "forks": 1936,
+      "forks": 1944,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,14 +164,14 @@
       "description_zh": "Give your agent CAD superpowers."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
-      "stars_total": 7272,
+      "stars_total": 7348,
       "stars_period": 2056,
-      "forks": 551,
+      "forks": 556,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,14 +181,14 @@
       "description_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 162317,
+      "stars_total": 182780,
       "stars_period": 130471,
-      "forks": 38076,
+      "forks": 44189,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -181,14 +199,14 @@
       "description_zh": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_total": 10559,
+      "stars_total": 10804,
       "stars_period": 6621,
-      "forks": 1284,
+      "forks": 1312,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -199,5 +217,5 @@
       "description_zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     }
   ],
-  "generated_at": 1791858606
+  "generated_at": 1791886986
 }

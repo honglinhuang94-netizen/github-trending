@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 162314,
+      "stars_total": 182778,
       "stars_period": 45327,
-      "forks": 38076,
+      "forks": 44189,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 53812,
+      "stars_total": 54447,
       "stars_period": 1895,
-      "forks": 10623,
+      "forks": 10712,
       "contributors": [
         "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 27359,
+      "stars_total": 27704,
       "stars_period": 246,
-      "forks": 1949,
+      "forks": 1965,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 22325,
+      "stars_total": 23712,
       "stars_period": 4095,
-      "forks": 3595,
+      "forks": 3769,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
-      "stars_total": 155102,
+      "stars_total": 155479,
       "stars_period": 157,
-      "forks": 22648,
+      "forks": 22667,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
         "https://avatars.githubusercontent.com/u/27028174?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 52754,
+      "stars_total": 53290,
       "stars_period": 2081,
-      "forks": 3334,
+      "forks": 3372,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_total": 37598,
+      "stars_total": 37918,
       "stars_period": 879,
-      "forks": 3877,
+      "forks": 3892,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
-      "stars_total": 40936,
+      "stars_total": 41072,
       "stars_period": 97,
-      "forks": 3810,
+      "forks": 3821,
       "contributors": [
         "https://avatars.githubusercontent.com/u/54800242?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84831885?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_total": 59221,
+      "stars_total": 59757,
       "stars_period": 626,
-      "forks": 9325,
+      "forks": 9381,
       "contributors": [
         "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -165,5 +165,5 @@
       "description_zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
     }
   ],
-  "generated_at": 1791858603
+  "generated_at": 1791886982
 }
