@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 9,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 223566,
-      "stars_period": 54679,
-      "forks": 55466,
+      "stars_total": 232573,
+      "stars_period": 41187,
+      "forks": 57993,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -22,31 +22,13 @@
     },
     {
       "rank": 2,
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 56074,
-      "stars_period": 1961,
-      "forks": 10914,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28983926?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106619546?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/301209272?s=40&v=4"
-      ],
-      "description_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-    },
-    {
-      "rank": 3,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 64644,
-      "stars_period": 1748,
-      "forks": 7173,
+      "stars_total": 65376,
+      "stars_period": 3547,
+      "forks": 7232,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,14 +39,14 @@
       "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 28632,
-      "stars_period": 969,
-      "forks": 2015,
+      "stars_total": 28852,
+      "stars_period": 946,
+      "forks": 2025,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -75,86 +57,122 @@
       "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
-      "rank": 5,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_total": 54892,
-      "stars_period": 1815,
-      "forks": 3462,
+      "rank": 4,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars_total": 95399,
+      "stars_period": 45,
+      "forks": 10509,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/351038?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2123375?s=40&v=4"
+      ],
+      "description_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+    },
+    {
+      "rank": 5,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_total": 49054,
+      "stars_period": 146,
+      "forks": 4401,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
     {
       "rank": 6,
-      "name": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "language": "TypeScript",
-      "stars_total": 34804,
-      "stars_period": 190,
-      "forks": 2968,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_total": 52289,
+      "stars_period": 94,
+      "forks": 4761,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4800338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/771968?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
       ],
-      "description_zh": "The open agent skills tool - npx skills"
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
     },
     {
       "rank": 7,
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_total": 38582,
-      "stars_period": 1001,
-      "forks": 3941,
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "stars_total": 26855,
+      "stars_period": 2143,
+      "forks": 1486,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69672640?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/258243974?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/260612219?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/234348864?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "AirLLM 2.8T LLM inference with single 4GB GPU"
+      "description_zh": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
     },
     {
       "rank": 8,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_total": 26824,
-      "stars_period": 4081,
-      "forks": 4189,
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars_total": 28973,
+      "stars_period": 1070,
+      "forks": 4349,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4257336?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/52062353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+      "description_zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
     },
     {
       "rank": 9,
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars_total": 119842,
+      "stars_period": 205,
+      "forks": 18672,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3050060?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1711539?s=40&v=4"
+      ],
+      "description_zh": "Empowering everyone to build reliable and efficient software."
+    },
+    {
+      "rank": 10,
       "name": "xtool-org/xtool",
       "url": "https://github.com/xtool-org/xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
-      "stars_total": 9961,
-      "stars_period": 1198,
-      "forks": 419,
+      "stars_total": 10293,
+      "stars_period": 1510,
+      "forks": 446,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12706786?s=40&v=4",
         "https://avatars.githubusercontent.com/u/33566?s=40&v=4",
@@ -163,7 +181,43 @@
         "https://avatars.githubusercontent.com/u/1180980?s=40&v=4"
       ],
       "description_zh": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
+    },
+    {
+      "rank": 11,
+      "name": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "stars_total": 20097,
+      "stars_period": 194,
+      "forks": 1544,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/38796849?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167513064?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45657752?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/952007?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/406768?s=40&v=4"
+      ],
+      "description_zh": "WinUI app for building smaller, customized Windows 11 images."
+    },
+    {
+      "rank": 12,
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_total": 87041,
+      "stars_period": 1002,
+      "forks": 9724,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+      ],
+      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
     }
   ],
-  "generated_at": 1791972091
+  "generated_at": 1791992776
 }
