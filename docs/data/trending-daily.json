@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 247717,
+      "stars_total": 255483,
       "stars_period": 41034,
-      "forks": 62121,
+      "forks": 64201,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 66862,
+      "stars_total": 67605,
       "stars_period": 3538,
-      "forks": 7362,
+      "forks": 7415,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 29267,
+      "stars_total": 29506,
       "stars_period": 947,
-      "forks": 2053,
+      "forks": 2062,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
-      "stars_total": 95485,
+      "stars_total": 95532,
       "stars_period": 52,
-      "forks": 10521,
+      "forks": 10528,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_total": 49529,
+      "stars_total": 49831,
       "stars_period": 163,
-      "forks": 4433,
+      "forks": 4449,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 52640,
+      "stars_total": 52860,
       "stars_period": 103,
-      "forks": 4780,
+      "forks": 4792,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "language": "Python",
-      "stars_total": 27633,
+      "stars_total": 28033,
       "stars_period": 2109,
-      "forks": 1513,
+      "forks": 1523,
       "contributors": [
         "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
         "https://avatars.githubusercontent.com/u/258243974?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_total": 29729,
+      "stars_total": 30132,
       "stars_period": 1025,
-      "forks": 4464,
+      "forks": 4504,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars_total": 120114,
+      "stars_total": 120240,
       "stars_period": 207,
-      "forks": 18705,
+      "forks": 18713,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
         "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/xtool-org/xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
-      "stars_total": 11039,
+      "stars_total": 11322,
       "stars_period": 1502,
-      "forks": 504,
+      "forks": 525,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12706786?s=40&v=4",
         "https://avatars.githubusercontent.com/u/33566?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/ntdevlabs/tiny11builder",
       "description": "WinUI app for building smaller, customized Windows 11 images.",
       "language": "C#",
-      "stars_total": 20314,
+      "stars_total": 20420,
       "stars_period": 139,
-      "forks": 1559,
+      "forks": 1567,
       "contributors": [
         "https://avatars.githubusercontent.com/u/38796849?s=40&v=4",
         "https://avatars.githubusercontent.com/u/167513064?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 87738,
+      "stars_total": 88022,
       "stars_period": 1008,
-      "forks": 9788,
+      "forks": 9820,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -219,5 +219,5 @@
       "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
     }
   ],
-  "generated_at": 1792037875
+  "generated_at": 1792057423
 }
