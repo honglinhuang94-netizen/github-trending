@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 270484,
+      "stars_total": 277507,
       "stars_period": 239477,
-      "forks": 67876,
+      "forks": 69940,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 38691,
+      "stars_total": 39014,
       "stars_period": 25174,
-      "forks": 3442,
+      "forks": 3483,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 292860,
+      "stars_total": 293206,
       "stars_period": 12147,
-      "forks": 24550,
+      "forks": 24587,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -61,9 +61,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 64569,
+      "stars_total": 64773,
       "stars_period": 5318,
-      "forks": 5801,
+      "forks": 5831,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -79,9 +79,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 55927,
+      "stars_total": 56078,
       "stars_period": 10237,
-      "forks": 3535,
+      "forks": 3552,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 88765,
+      "stars_total": 89051,
       "stars_period": 6614,
-      "forks": 9903,
+      "forks": 9946,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -115,7 +115,7 @@
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
-      "stars_total": 1381,
+      "stars_total": 1432,
       "stars_period": 659,
       "forks": 116,
       "contributors": [
@@ -133,9 +133,9 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_total": 20715,
+      "stars_total": 20789,
       "stars_period": 2244,
-      "forks": 2050,
+      "forks": 2052,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": null,
-      "stars_total": 6096,
+      "stars_total": 6127,
       "stars_period": 900,
-      "forks": 221,
+      "forks": 223,
       "contributors": [
         "https://avatars.githubusercontent.com/u/190200?s=40&v=4",
         "https://avatars.githubusercontent.com/u/23104281?s=40&v=4",
@@ -167,9 +167,9 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_total": 12354,
+      "stars_total": 12519,
       "stars_period": 4471,
-      "forks": 1514,
+      "forks": 1534,
       "contributors": [
         "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -185,9 +185,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 11643,
+      "stars_total": 11707,
       "stars_period": 1214,
-      "forks": 1136,
+      "forks": 1141,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -198,5 +198,5 @@
       "description_zh": "Cursor plugin specification and official plugins"
     }
   ],
-  "generated_at": 1792112896
+  "generated_at": 1792133977
 }
