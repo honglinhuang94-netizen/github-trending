@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 293069,
+      "stars_total": 296686,
       "stars_period": 248962,
-      "forks": 73869,
+      "forks": 74944,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/161784452?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_total": 30756,
+      "stars_total": 31027,
       "stars_period": 20267,
-      "forks": 4885,
+      "forks": 4923,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
         "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 40030,
+      "stars_total": 40214,
       "stars_period": 20518,
-      "forks": 3584,
+      "forks": 3611,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_total": 56502,
+      "stars_total": 56616,
       "stars_period": 9024,
-      "forks": 3585,
+      "forks": 3599,
       "contributors": [
         "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 65408,
+      "stars_total": 65530,
       "stars_period": 5601,
-      "forks": 5895,
+      "forks": 5908,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 294208,
+      "stars_total": 294397,
       "stars_period": 11937,
-      "forks": 24663,
+      "forks": 24685,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 89714,
+      "stars_total": 89850,
       "stars_period": 7510,
-      "forks": 10032,
+      "forks": 10048,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 30279,
+      "stars_total": 30364,
       "stars_period": 4207,
-      "forks": 2132,
+      "forks": 2156,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -151,9 +151,9 @@
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
-      "stars_total": 1563,
+      "stars_total": 1599,
       "stars_period": 779,
-      "forks": 123,
+      "forks": 129,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -169,9 +169,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_total": 40733,
+      "stars_total": 41005,
       "stars_period": 2328,
-      "forks": 4411,
+      "forks": 4424,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -187,9 +187,9 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_total": 21039,
+      "stars_total": 21104,
       "stars_period": 2286,
-      "forks": 2077,
+      "forks": 2085,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -200,5 +200,5 @@
       "description_zh": "Give your agent CAD superpowers."
     }
   ],
-  "generated_at": 1792209851
+  "generated_at": 1792228139
 }
