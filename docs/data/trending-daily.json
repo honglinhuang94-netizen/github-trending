@@ -4,31 +4,13 @@
   "items": [
     {
       "rank": 1,
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars_total": 42232,
-      "stars_period": 1187,
-      "forks": 4500,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8000722?s=40&v=4"
-      ],
-      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-    },
-    {
-      "rank": 2,
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_total": 51275,
+      "stars_total": 51763,
       "stars_period": 2213,
-      "forks": 17046,
+      "forks": 17130,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
@@ -39,58 +21,75 @@
       "description_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
     {
-      "rank": 3,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 282911,
-      "stars_period": 1073,
-      "forks": 42016,
+      "rank": 2,
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_total": 42347,
+      "stars_period": 1187,
+      "forks": 4511,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24193489?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/8000722?s=40&v=4"
       ],
-      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "rank": 3,
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars_total": 216078,
+      "stars_period": 1417,
+      "forks": 28934,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1549082?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7587245?s=40&v=4"
+      ],
+      "description_zh": "The open source coding agent."
     },
     {
       "rank": 4,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_total": 54306,
-      "stars_period": 582,
-      "forks": 4924,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 12558,
+      "stars_period": 351,
+      "forks": 1230,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
       ],
-      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+      "description_zh": "Cursor plugin specification and official plugins"
     },
     {
       "rank": 5,
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_total": 52535,
-      "stars_period": 672,
-      "forks": 4651,
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars_total": 76332,
+      "stars_period": 502,
+      "forks": 9021,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4"
       ],
-      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+      "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
       "rank": 6,
@@ -98,9 +97,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 10163,
-      "stars_period": 178,
-      "forks": 735,
+      "stars_total": 10258,
+      "stars_period": 513,
+      "forks": 738,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -112,31 +111,13 @@
     },
     {
       "rank": 7,
-      "name": "android/skills",
-      "url": "https://github.com/android/skills",
-      "description": "",
-      "language": "Kotlin",
-      "stars_total": 8590,
-      "stars_period": 381,
-      "forks": 560,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35065668?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/609125?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35296563?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 8,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 95895,
-      "stars_period": 830,
-      "forks": 6132,
+      "stars_total": 96096,
+      "stars_period": 1146,
+      "forks": 6146,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
@@ -147,32 +128,32 @@
       "description_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
-      "rank": 9,
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars_total": 152196,
-      "stars_period": 179,
-      "forks": 26962,
+      "rank": 8,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_total": 54381,
+      "stars_period": 582,
+      "forks": 4930,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/209710463?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
       ],
-      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 74111,
+      "stars_total": 74424,
       "stars_period": 2098,
-      "forks": 8114,
+      "forks": 8142,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -183,58 +164,75 @@
       "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 11,
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars_total": 215882,
-      "stars_period": 438,
-      "forks": 28918,
+      "rank": 10,
+      "name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "stars_total": 8634,
+      "stars_period": 381,
+      "forks": 561,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2363879?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1549082?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7587245?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35065668?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/609125?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19445?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35296563?s=40&v=4"
       ],
-      "description_zh": "The open source coding agent."
+      "description_zh": ""
+    },
+    {
+      "rank": 11,
+      "name": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "language": null,
+      "stars_total": 83822,
+      "stars_period": 81,
+      "forks": 9772,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81252890?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199155426?s=40&v=4"
+      ],
+      "description_zh": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
     },
     {
       "rank": 12,
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "stars_total": 76271,
-      "stars_period": 502,
-      "forks": 9014,
+      "name": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "stars_total": 2265,
+      "stars_period": 115,
+      "forks": 176,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59397941?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17669188?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6428432?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12250710?s=40&v=4"
       ],
-      "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+      "description_zh": "Video restoration tool"
     },
     {
       "rank": 13,
-      "name": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
-      "language": "Rust",
-      "stars_total": 8117,
-      "stars_period": 842,
-      "forks": 429,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars_total": 138264,
+      "stars_period": 155,
+      "forks": 16470,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14009?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/157309135?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/28789935?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46076784?s=40&v=4"
       ],
-      "description_zh": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs."
+      "description_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
     }
   ],
-  "generated_at": 1792320590
+  "generated_at": 1792333613
 }
