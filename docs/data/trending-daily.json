@@ -8,9 +8,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_total": 56832,
-      "stars_period": 3860,
-      "forks": 18097,
+      "stars_total": 57180,
+      "stars_period": 3856,
+      "forks": 18182,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 217665,
-      "stars_period": 1310,
-      "forks": 29096,
+      "stars_total": 217785,
+      "stars_period": 1311,
+      "forks": 29110,
       "contributors": [
         "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 11240,
+      "stars_total": 11326,
       "stars_period": 666,
-      "forks": 795,
+      "forks": 802,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars_total": 139582,
+      "stars_total": 139700,
       "stars_period": 1011,
-      "forks": 16573,
+      "forks": 16582,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_total": 77097,
+      "stars_total": 77175,
       "stars_period": 564,
-      "forks": 9095,
+      "forks": 9103,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -97,9 +97,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 98096,
-      "stars_period": 1591,
-      "forks": 6251,
+      "stars_total": 98244,
+      "stars_period": 1590,
+      "forks": 6265,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
@@ -115,9 +115,9 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 76173,
-      "stars_period": 317,
-      "forks": 5922,
+      "stars_total": 76233,
+      "stars_period": 310,
+      "forks": 5924,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -133,9 +133,9 @@
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": "",
       "language": "JavaScript",
-      "stars_total": 6062,
-      "stars_period": 301,
-      "forks": 996,
+      "stars_total": 6108,
+      "stars_period": 284,
+      "forks": 1001,
       "contributors": [
         "https://avatars.githubusercontent.com/u/262926223?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2501329?s=40&v=4"
@@ -148,8 +148,8 @@
       "url": "https://github.com/Kruk2/jasna",
       "description": "Video restoration tool",
       "language": "Python",
-      "stars_total": 2849,
-      "stars_period": 502,
+      "stars_total": 2880,
+      "stars_period": 498,
       "forks": 212,
       "contributors": [
         "https://avatars.githubusercontent.com/u/59397941?s=40&v=4",
@@ -166,9 +166,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 55159,
-      "stars_period": 607,
-      "forks": 4976,
+      "stars_total": 55222,
+      "stars_period": 606,
+      "forks": 4985,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -184,9 +184,9 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 152585,
+      "stars_total": 152641,
       "stars_period": 167,
-      "forks": 27133,
+      "forks": 27138,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
@@ -202,9 +202,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_total": 41567,
-      "stars_period": 355,
-      "forks": 6916,
+      "stars_total": 41645,
+      "stars_period": 363,
+      "forks": 6922,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
@@ -215,5 +215,5 @@
       "description_zh": "Kronos: A Foundation Model for the Language of Financial Markets"
     }
   ],
-  "generated_at": 1792443494
+  "generated_at": 1792455253
 }
