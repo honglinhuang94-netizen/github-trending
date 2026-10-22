@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 36999,
+      "stars_total": 37808,
       "stars_period": 2012,
-      "forks": 2303,
+      "forks": 2361,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -24,9 +24,9 @@
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
-      "stars_total": 94958,
+      "stars_total": 95087,
       "stars_period": 441,
-      "forks": 23763,
+      "forks": 23789,
       "contributors": [
         "https://avatars.githubusercontent.com/u/44970335?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 101601,
+      "stars_total": 102007,
       "stars_period": 1541,
-      "forks": 6425,
+      "forks": 6446,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 77347,
+      "stars_total": 77477,
       "stars_period": 474,
-      "forks": 6006,
+      "forks": 6017,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2610199?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 171958,
+      "stars_total": 172431,
       "stars_period": 2079,
-      "forks": 9356,
+      "forks": 9383,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars_total": 141648,
+      "stars_total": 141827,
       "stars_period": 939,
-      "forks": 16735,
+      "forks": 16757,
       "contributors": [
         "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_total": 113114,
+      "stars_total": 113237,
       "stars_period": 504,
-      "forks": 16961,
+      "forks": 16987,
       "contributors": [
         "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_total": 59294,
+      "stars_total": 59461,
       "stars_period": 112,
-      "forks": 9669,
+      "forks": 9680,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12035771?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_total": 42918,
+      "stars_total": 43043,
       "stars_period": 575,
-      "forks": 7079,
+      "forks": 7096,
       "contributors": [
         "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
         "https://avatars.githubusercontent.com/u/54936491?s=40&v=4",
@@ -164,13 +164,31 @@
     },
     {
       "rank": 10,
+      "name": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "stars_total": 2666,
+      "stars_period": 360,
+      "forks": 263,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10761735?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7864607?s=40&v=4"
+      ],
+      "description_zh": "freehire — the open-source search engine for job seekers"
+    },
+    {
+      "rank": 11,
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_total": 12455,
+      "stars_total": 12595,
       "stars_period": 286,
-      "forks": 877,
+      "forks": 890,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -181,14 +199,14 @@
       "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_total": 131857,
+      "stars_total": 132170,
       "stars_period": 1433,
-      "forks": 12654,
+      "forks": 12676,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
@@ -199,5 +217,5 @@
       "description_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
     }
   ],
-  "generated_at": 1792643332
+  "generated_at": 1792663163
 }
