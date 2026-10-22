@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 361519,
+      "stars_total": 363533,
       "stars_period": 129417,
-      "forks": 90727,
+      "forks": 91162,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/208281322?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_total": 43742,
+      "stars_total": 43795,
       "stars_period": 5703,
-      "forks": 4607,
+      "forks": 4611,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -40,31 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_total": 53745,
-      "stars_period": 4719,
-      "forks": 4741,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
-    },
-    {
-      "rank": 4,
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_total": 78310,
+      "stars_total": 78372,
       "stars_period": 3590,
-      "forks": 9210,
+      "forks": 9213,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -74,12 +56,12 @@
       "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "android/skills",
       "url": "https://github.com/android/skills",
       "description": "",
       "language": "Kotlin",
-      "stars_total": 9187,
+      "stars_total": 9209,
       "stars_period": 1332,
       "forks": 592,
       "contributors": [
@@ -92,140 +74,32 @@
       "description_zh": ""
     },
     {
-      "rank": 6,
-      "name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_total": 92840,
-      "stars_period": 5769,
-      "forks": 10411,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
-      ],
-      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
-    },
-    {
-      "rank": 7,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "rank": 5,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_total": 80997,
-      "stars_period": 15125,
-      "forks": 8939,
+      "stars_total": 53823,
+      "stars_period": 4719,
+      "forks": 4749,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
-      "rank": 8,
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_total": 31735,
-      "stars_period": 2968,
-      "forks": 2186,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
-      ],
-      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "rank": 9,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 69565,
-      "stars_period": 5740,
-      "forks": 6296,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
-      ],
-      "description_zh": "Write HTML. Render video. Built for agents."
-    },
-    {
-      "rank": 10,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_total": 13498,
-      "stars_period": 2049,
-      "forks": 1342,
-      "contributors": [
+        "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/206480607?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Cursor plugin specification and official plugins"
+      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
     {
-      "rank": 11,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_total": 56075,
-      "stars_period": 3681,
-      "forks": 5056,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
-      ],
-      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
-    },
-    {
-      "rank": 12,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_total": 12595,
-      "stars_period": 2833,
-      "forks": 890,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/58889432?s=40&v=4"
-      ],
-      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-    },
-    {
-      "rank": 13,
+      "rank": 6,
       "name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 219927,
+      "stars_total": 220030,
       "stars_period": 6545,
-      "forks": 29388,
+      "forks": 29401,
       "contributors": [
         "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
@@ -236,50 +110,122 @@
       "description_zh": "The open source coding agent."
     },
     {
-      "rank": 14,
-      "name": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "rank": 7,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 41527,
-      "stars_period": 785,
-      "forks": 4406,
+      "stars_total": 56141,
+      "stars_period": 3681,
+      "forks": 5062,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19864447?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/130447398?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/76622021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/76780961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26110883?s=40&v=4"
       ],
-      "description_zh": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
     },
     {
-      "rank": 15,
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "stars_total": 22418,
-      "stars_period": 2000,
-      "forks": 2195,
+      "rank": 8,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 13545,
+      "stars_period": 2049,
+      "forks": 1347,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/143688508?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/930790?s=40&v=4"
       ],
-      "description_zh": "Give your agent CAD superpowers."
+      "description_zh": "Cursor plugin specification and official plugins"
     },
     {
-      "rank": 16,
+      "rank": 9,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_total": 12666,
+      "stars_period": 2833,
+      "forks": 892,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/95101505?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58889432?s=40&v=4"
+      ],
+      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "rank": 10,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 81313,
+      "stars_period": 15125,
+      "forks": 8982,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4"
+      ],
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "rank": 11,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 69750,
+      "stars_period": 5740,
+      "forks": 6314,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+      ],
+      "description_zh": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "rank": 12,
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_total": 92962,
+      "stars_period": 5769,
+      "forks": 10423,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+      ],
+      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "rank": 13,
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 102007,
+      "stars_total": 102397,
       "stars_period": 8705,
-      "forks": 6446,
+      "forks": 6465,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
         "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
@@ -290,23 +236,41 @@
       "description_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
-      "rank": 17,
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "rank": 14,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars_total": 65655,
-      "stars_period": 3270,
-      "forks": 5158,
+      "stars_total": 141924,
+      "stars_period": 3948,
+      "forks": 16732,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/83796293?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22169353?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/185591438?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13381981?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/125205205?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46076784?s=40&v=4"
       ],
-      "description_zh": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+      "description_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+    },
+    {
+      "rank": 15,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 31781,
+      "stars_period": 2968,
+      "forks": 2189,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4"
+      ],
+      "description_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     }
   ],
-  "generated_at": 1792663166
+  "generated_at": 1792681664
 }
