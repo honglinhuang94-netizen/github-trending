@@ -8,9 +8,9 @@
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_total": 40915,
-      "stars_period": 110,
-      "forks": 8286,
+      "stars_total": 41057,
+      "stars_period": 423,
+      "forks": 8301,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 31373,
+      "stars_total": 31492,
       "stars_period": 303,
-      "forks": 3517,
+      "forks": 3527,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 172859,
+      "stars_total": 173193,
       "stars_period": 1949,
-      "forks": 9408,
+      "forks": 9426,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 38511,
+      "stars_total": 39115,
       "stars_period": 2979,
-      "forks": 2400,
+      "forks": 2437,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_total": 132497,
+      "stars_total": 132768,
       "stars_period": 1407,
-      "forks": 12695,
+      "forks": 12709,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
@@ -96,7 +96,7 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_total": 113330,
+      "stars_total": 113416,
       "stars_period": 683,
       "forks": 16992,
       "contributors": [
@@ -114,9 +114,9 @@
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stars_total": 103522,
+      "stars_total": 103629,
       "stars_period": 96,
-      "forks": 10076,
+      "forks": 10084,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1326112?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -131,9 +131,9 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_total": 42777,
-      "stars_period": 428,
-      "forks": 5362,
+      "stars_total": 42997,
+      "stars_period": 370,
+      "forks": 5375,
       "contributors": [
         "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -149,9 +149,9 @@
       "url": "https://github.com/Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "language": "Visual Basic .NET",
-      "stars_total": 8606,
+      "stars_total": 8651,
       "stars_period": 115,
-      "forks": 1188,
+      "forks": 1197,
       "contributors": [
         "https://avatars.githubusercontent.com/u/40348278?s=40&v=4",
         "https://avatars.githubusercontent.com/u/116283787?s=40&v=4",
@@ -162,5 +162,5 @@
       "description_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
     }
   ],
-  "generated_at": 1792681660
+  "generated_at": 1792698958
 }
