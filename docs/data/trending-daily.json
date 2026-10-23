@@ -1,16 +1,32 @@
 {
   "period": "daily",
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "rank": 1,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 41175,
+      "stars_period": 2706,
+      "forks": 2571,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+      ],
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": 2,
       "name": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_total": 41406,
-      "stars_period": 287,
-      "forks": 8335,
+      "stars_total": 41482,
+      "stars_period": 722,
+      "forks": 8346,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
@@ -21,14 +37,14 @@
       "description_zh": "The PHP Interpreter"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 31877,
-      "stars_period": 303,
-      "forks": 3546,
+      "stars_total": 32008,
+      "stars_period": 643,
+      "forks": 3559,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -39,128 +55,95 @@
       "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "rank": 3,
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_total": 174239,
-      "stars_period": 1948,
-      "forks": 9485,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/91044156?s=40&v=4"
-      ],
-      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-    },
-    {
       "rank": 4,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 40499,
-      "stars_period": 2979,
-      "forks": 2525,
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_total": 18414,
+      "stars_period": 1240,
+      "forks": 1859,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/385?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1116309?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/189799508?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/931393?s=40&v=4"
       ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
       "rank": 5,
-      "name": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "stars_total": 133476,
-      "stars_period": 1408,
-      "forks": 12753,
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars_total": 6684,
+      "stars_period": 547,
+      "forks": 1368,
       "contributors": [
+        "https://avatars.githubusercontent.com/u/91890238?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/216348667?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/144055433?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/215653880?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/182421137?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108378938?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289346330?s=40&v=4"
       ],
-      "description_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+      "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
     },
     {
       "rank": 6,
-      "name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "stars_total": 113662,
-      "stars_period": 693,
-      "forks": 17021,
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_total": 8142,
+      "stars_period": 209,
+      "forks": 1077,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10985857?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90972683?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/130660521?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/246077594?s=40&v=4"
       ],
-      "description_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+      "description_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
     {
       "rank": 7,
-      "name": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_total": 104012,
-      "stars_period": 101,
-      "forks": 10104,
+      "stars_total": 40075,
+      "stars_period": 144,
+      "forks": 4557,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/1326112?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109919500?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8132992?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/40820394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33060143?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/167593451?s=40&v=4"
       ],
-      "description_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
     },
     {
       "rank": 8,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_total": 43678,
-      "stars_period": 177,
-      "forks": 5422,
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_total": 122658,
+      "stars_period": 93,
+      "forks": 39938,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/258913972?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5405744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271938013?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/275871?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/899444?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
       ],
-      "description_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
-    },
-    {
-      "rank": 9,
-      "name": "Meloong-Git/PCL",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "stars_total": 8856,
-      "stars_period": 119,
-      "forks": 1238,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/40348278?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/116283787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/188181427?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/154735436?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/60414767?s=40&v=4"
-      ],
-      "description_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
+      "description_zh": "Node.js JavaScript runtime ✨🐢🚀✨"
     }
   ],
-  "generated_at": 1792749237
+  "generated_at": 1792767123
 }
