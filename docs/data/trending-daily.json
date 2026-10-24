@@ -8,9 +8,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 42402,
+      "stars_total": 42768,
       "stars_period": 2716,
-      "forks": 2650,
+      "forks": 2666,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -24,9 +24,9 @@
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_total": 41593,
+      "stars_total": 41619,
       "stars_period": 716,
-      "forks": 8362,
+      "forks": 8369,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 32309,
+      "stars_total": 32439,
       "stars_period": 635,
-      "forks": 3577,
+      "forks": 3586,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 18900,
+      "stars_total": 19025,
       "stars_period": 1119,
-      "forks": 1888,
+      "forks": 1900,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_total": 6982,
+      "stars_total": 7119,
       "stars_period": 546,
-      "forks": 1427,
+      "forks": 1454,
       "contributors": [
         "https://avatars.githubusercontent.com/u/91890238?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
-      "stars_total": 8588,
+      "stars_total": 8709,
       "stars_period": 226,
-      "forks": 1106,
+      "forks": 1119,
       "contributors": [
         "https://avatars.githubusercontent.com/u/95986478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_total": 40334,
+      "stars_total": 40429,
       "stars_period": 150,
-      "forks": 4582,
+      "forks": 4592,
       "contributors": [
         "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
         "https://avatars.githubusercontent.com/u/8132992?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
-      "stars_total": 122926,
+      "stars_total": 123011,
       "stars_period": 66,
-      "forks": 39835,
+      "forks": 39844,
       "contributors": [
         "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
         "https://avatars.githubusercontent.com/u/80?s=40&v=4",
@@ -145,5 +145,5 @@
       "description_zh": "Node.js JavaScript runtime ✨🐢🚀✨"
     }
   ],
-  "generated_at": 1792815464
+  "generated_at": 1792833803
 }
