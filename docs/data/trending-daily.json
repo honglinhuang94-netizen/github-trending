@@ -1,68 +1,34 @@
 {
   "period": "daily",
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 45536,
-      "stars_period": 2264,
-      "forks": 2825,
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_total": 4523,
+      "stars_period": 677,
+      "forks": 637,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4436110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17176223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/290921921?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
     {
       "rank": 2,
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars_total": 19692,
-      "stars_period": 896,
-      "forks": 1945,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1116309?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/189799508?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/931393?s=40&v=4"
-      ],
-      "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents."
-    },
-    {
-      "rank": 3,
-      "name": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "stars_total": 3248,
-      "stars_period": 13,
-      "forks": 403,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10217123?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/203639952?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51510790?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3831693?s=40&v=4"
-      ],
-      "description_zh": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
-    },
-    {
-      "rank": 4,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 32665,
-      "stars_period": 455,
-      "forks": 1685,
+      "stars_total": 33041,
+      "stars_period": 1359,
+      "forks": 1717,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -73,32 +39,32 @@
       "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
-      "rank": 5,
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "rank": 3,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 44818,
-      "stars_period": 392,
-      "forks": 5511,
+      "stars_total": 85924,
+      "stars_period": 1588,
+      "forks": 9525,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/258913972?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5405744?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/271938013?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1787973?s=40&v=4"
       ],
-      "description_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_total": 86797,
-      "stars_period": 619,
-      "forks": 5180,
+      "stars_total": 87137,
+      "stars_period": 1113,
+      "forks": 5206,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -109,14 +75,14 @@
       "description_zh": "The design language that makes your AI harness better at design."
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
-      "stars_total": 11229,
-      "stars_period": 319,
-      "forks": 1434,
+      "stars_total": 11373,
+      "stars_period": 657,
+      "forks": 1453,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
@@ -127,56 +93,111 @@
       "description_zh": "A Tiny biped duck robot 🦆"
     },
     {
-      "rank": 8,
-      "name": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "language": "TypeScript",
-      "stars_total": 108324,
-      "stars_period": 44,
-      "forks": 14827,
+      "rank": 6,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_total": 114057,
+      "stars_period": 309,
+      "forks": 22080,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/13950003?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1226812?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2008729?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/43648792?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12478482?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/91041827?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15189961?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "rank": 7,
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars_total": 7428,
+      "stars_period": 489,
+      "forks": 1522,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/91890238?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/108378938?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/289346330?s=40&v=4"
+      ],
+      "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
+    },
+    {
+      "rank": 8,
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_total": 1182,
+      "stars_period": 52,
+      "forks": 85,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3789877?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/14210843?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54807972?s=40&v=4"
+      ],
+      "description_zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
     {
       "rank": 9,
-      "name": "jbiaojerry/ebook-treasure-chest",
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "language": "Python",
-      "stars_total": 22965,
-      "stars_period": 227,
-      "forks": 3215,
+      "name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "stars_total": 63942,
+      "stars_period": 192,
+      "forks": 5754,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/6221683?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5845193?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/122374094?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/162910371?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       ],
-      "description_zh": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+      "description_zh": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
     },
     {
       "rank": 10,
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_total": 4354,
-      "stars_period": 477,
-      "forks": 619,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 46021,
+      "stars_period": 2874,
+      "forks": 2855,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4436110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17176223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/290921921?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
       ],
-      "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": 11,
+      "name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars_total": 20333,
+      "stars_period": 179,
+      "forks": 2919,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/129338099?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+      ],
+      "description_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
     }
   ],
-  "generated_at": 1792921327
+  "generated_at": 1792937617
 }
