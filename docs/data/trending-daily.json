@@ -1,16 +1,31 @@
 {
   "period": "daily",
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "rank": 1,
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": null,
+      "stars_total": 9102,
+      "stars_period": 1395,
+      "forks": 657,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/218383883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 2,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 38385,
+      "stars_total": 38803,
       "stars_period": 2859,
-      "forks": 2004,
+      "forks": 2017,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -21,14 +36,14 @@
       "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_total": 2117,
+      "stars_total": 2323,
       "stars_period": 794,
-      "forks": 226,
+      "forks": 243,
       "contributors": [
         "https://avatars.githubusercontent.com/u/38857779?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,14 +54,14 @@
       "description_zh": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 306144,
+      "stars_total": 306336,
       "stars_period": 608,
-      "forks": 27258,
+      "forks": 27275,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -57,14 +72,14 @@
       "description_zh": "An agentic skills framework & software development methodology that works."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_total": 90162,
+      "stars_total": 90373,
       "stars_period": 1458,
-      "forks": 5358,
+      "forks": 5371,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -75,14 +90,14 @@
       "description_zh": "The design language that makes your AI harness better at design."
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_total": 7278,
+      "stars_total": 7396,
       "stars_period": 1446,
-      "forks": 868,
+      "forks": 877,
       "contributors": [
         "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4436110?s=40&v=4",
@@ -93,14 +108,14 @@
       "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
-      "stars_total": 39070,
+      "stars_total": 39237,
       "stars_period": 953,
-      "forks": 7478,
+      "forks": 7500,
       "contributors": [
         "https://avatars.githubusercontent.com/u/100117126?s=40&v=4",
         "https://avatars.githubusercontent.com/u/6623700?s=40&v=4",
@@ -111,14 +126,14 @@
       "description_zh": "📨 The ultimate agentic social media scheduling tool 🤖"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 290542,
+      "stars_total": 290767,
       "stars_period": 1183,
-      "forks": 43039,
+      "forks": 43070,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -129,14 +144,14 @@
       "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 45390,
+      "stars_total": 45684,
       "stars_period": 1587,
-      "forks": 5710,
+      "forks": 5735,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -147,14 +162,14 @@
       "description_zh": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_total": 3720,
+      "stars_total": 3867,
       "stars_period": 1211,
-      "forks": 195,
+      "forks": 206,
       "contributors": [
         "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3789877?s=40&v=4",
@@ -165,14 +180,14 @@
       "description_zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": null,
-      "stars_total": 5133,
+      "stars_total": 5372,
       "stars_period": 890,
-      "forks": 798,
+      "forks": 811,
       "contributors": [
         "https://avatars.githubusercontent.com/u/222877182?s=40&v=4",
         "https://avatars.githubusercontent.com/u/282240492?s=40&v=4",
@@ -182,5 +197,5 @@
       "description_zh": "LIST OF ALL MY JAILBREAKS"
     }
   ],
-  "generated_at": 1793118151
+  "generated_at": 1793135516
 }
