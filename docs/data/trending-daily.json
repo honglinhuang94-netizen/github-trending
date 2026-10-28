@@ -1,175 +1,16 @@
 {
   "period": "daily",
-  "count": 11,
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "name": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": "",
-      "language": null,
-      "stars_total": 10168,
-      "stars_period": 1395,
-      "forks": 734,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/218383883?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 2,
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 39571,
-      "stars_period": 2830,
-      "forks": 2068,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
-      ],
-      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-    },
-    {
-      "rank": 3,
-      "name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_total": 2740,
-      "stars_period": 777,
-      "forks": 277,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/38857779?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48182795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/90916274?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/127435065?s=40&v=4"
-      ],
-      "description_zh": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
-    },
-    {
-      "rank": 4,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_total": 306761,
-      "stars_period": 617,
-      "forks": 27306,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/19286898?s=40&v=4"
-      ],
-      "description_zh": "An agentic skills framework & software development methodology that works."
-    },
-    {
-      "rank": 5,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "stars_total": 91075,
-      "stars_period": 1449,
-      "forks": 5394,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
-    },
-    {
-      "rank": 6,
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_total": 7724,
-      "stars_period": 1465,
-      "forks": 917,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4436110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17176223?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/290921921?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
-    },
-    {
-      "rank": 7,
-      "name": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "language": "TypeScript",
-      "stars_total": 39699,
-      "stars_period": 951,
-      "forks": 7541,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/100117126?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6623700?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/156946629?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2025715?s=40&v=4"
-      ],
-      "description_zh": "📨 The ultimate agentic social media scheduling tool 🤖"
-    },
-    {
-      "rank": 8,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 291178,
-      "stars_period": 1165,
-      "forks": 43103,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24193489?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "rank": 9,
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "language": "Python",
-      "stars_total": 46755,
-      "stars_period": 1598,
-      "forks": 5839,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238371241?s=40&v=4"
-      ],
-      "description_zh": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
-    },
-    {
-      "rank": 10,
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_total": 4396,
-      "stars_period": 1204,
-      "forks": 234,
+      "stars_total": 4727,
+      "stars_period": 1075,
+      "forks": 245,
       "contributors": [
         "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3789877?s=40&v=4",
@@ -180,14 +21,155 @@
       "description_zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
     {
-      "rank": 11,
+      "rank": 2,
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": null,
+      "stars_total": 10786,
+      "stars_period": 1395,
+      "forks": 766,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/218383883?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": ""
+    },
+    {
+      "rank": 3,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 307136,
+      "stars_period": 1096,
+      "forks": 27331,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19286898?s=40&v=4"
+      ],
+      "description_zh": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "rank": 4,
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars_total": 47552,
+      "stars_period": 2376,
+      "forks": 5913,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/272976591?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238371241?s=40&v=4"
+      ],
+      "description_zh": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "rank": 5,
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_total": 5267,
+      "stars_period": 106,
+      "forks": 512,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/25272206?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6412775?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10552019?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11590722?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56948273?s=40&v=4"
+      ],
+      "description_zh": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "rank": 6,
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_total": 40258,
+      "stars_period": 2109,
+      "forks": 2095,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4527364?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8827236?s=40&v=4"
+      ],
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "rank": 7,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars_total": 91927,
+      "stars_period": 1471,
+      "forks": 5434,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      ],
+      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+    },
+    {
+      "rank": 8,
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_total": 7900,
+      "stars_period": 740,
+      "forks": 927,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4436110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17176223?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/290921921?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "rank": 9,
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_total": 3019,
+      "stars_period": 1053,
+      "forks": 298,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/38857779?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48182795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/90916274?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/127435065?s=40&v=4"
+      ],
+      "description_zh": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+    },
+    {
+      "rank": 10,
       "name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": null,
-      "stars_total": 6088,
-      "stars_period": 902,
-      "forks": 881,
+      "stars_total": 6650,
+      "stars_period": 1478,
+      "forks": 962,
       "contributors": [
         "https://avatars.githubusercontent.com/u/222877182?s=40&v=4",
         "https://avatars.githubusercontent.com/u/282240492?s=40&v=4",
@@ -195,7 +177,79 @@
         "https://avatars.githubusercontent.com/u/74146687?s=40&v=4"
       ],
       "description_zh": "LIST OF ALL MY JAILBREAKS"
+    },
+    {
+      "rank": 11,
+      "name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars_total": 34042,
+      "stars_period": 3209,
+      "forks": 2401,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/98228280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/62408957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/99261160?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43476643?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46892455?s=40&v=4"
+      ],
+      "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+    },
+    {
+      "rank": 12,
+      "name": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars_total": 3420,
+      "stars_period": 212,
+      "forks": 218,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/9664363?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46429?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215459?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/379606?s=40&v=4"
+      ],
+      "description_zh": "A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    },
+    {
+      "rank": 13,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 100705,
+      "stars_period": 596,
+      "forks": 13136,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124563?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "rank": 14,
+      "name": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "stars_total": 18373,
+      "stars_period": 143,
+      "forks": 17874,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/45680845?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/23193127?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12432409?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16041286?s=40&v=4"
+      ],
+      "description_zh": "One has no future if one couldn't teach themself."
     }
   ],
-  "generated_at": 1793175250
+  "generated_at": 1793202812
 }
