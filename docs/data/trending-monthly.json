@@ -8,9 +8,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 73965,
+      "stars_total": 74211,
       "stars_period": 20501,
-      "forks": 6716,
+      "forks": 6736,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 50209,
+      "stars_total": 50656,
       "stars_period": 27415,
-      "forks": 3153,
+      "forks": 3193,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 91357,
+      "stars_total": 91961,
       "stars_period": 52726,
-      "forks": 10100,
+      "forks": 10179,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 33434,
+      "stars_total": 33514,
       "stars_period": 7792,
-      "forks": 3675,
+      "forks": 3680,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -76,11 +76,11 @@
       "rank": 5,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_total": 90543,
+      "stars_total": 91075,
       "stars_period": 18683,
-      "forks": 5376,
+      "forks": 5394,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -88,7 +88,7 @@
         "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
       ],
-      "description_zh": "The design language that makes your AI harness better at design."
+      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
     },
     {
       "rank": 6,
@@ -96,9 +96,9 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Design physical products with AI",
       "language": "Python",
-      "stars_total": 23582,
+      "stars_total": 23688,
       "stars_period": 7192,
-      "forks": 2282,
+      "forks": 2289,
       "contributors": [
         "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -114,7 +114,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 32562,
+      "stars_total": 32599,
       "stars_period": 8586,
       "forks": 2254,
       "contributors": [
@@ -132,9 +132,9 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_total": 14346,
+      "stars_total": 14399,
       "stars_period": 5597,
-      "forks": 1440,
+      "forks": 1447,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_total": 44952,
+      "stars_total": 45005,
       "stars_period": 8017,
-      "forks": 4692,
+      "forks": 4698,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_total": 20293,
+      "stars_total": 20372,
       "stars_period": 11510,
-      "forks": 1998,
+      "forks": 2002,
       "contributors": [
         "https://avatars.githubusercontent.com/u/385?s=40&v=4",
         "https://avatars.githubusercontent.com/u/9696606?s=40&v=4",
@@ -186,9 +186,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 290903,
+      "stars_total": 291178,
       "stars_period": 23998,
-      "forks": 43077,
+      "forks": 43104,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -204,9 +204,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 103736,
+      "stars_total": 103815,
       "stars_period": 9345,
-      "forks": 9153,
+      "forks": 9165,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -222,9 +222,9 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 95088,
+      "stars_total": 95171,
       "stars_period": 15456,
-      "forks": 10687,
+      "forks": 10700,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -240,9 +240,9 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 30845,
+      "stars_total": 30933,
       "stars_period": 7188,
-      "forks": 8254,
+      "forks": 8279,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -258,9 +258,9 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 178200,
+      "stars_total": 178465,
       "stars_period": 32214,
-      "forks": 9755,
+      "forks": 9774,
       "contributors": [
         "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -276,9 +276,9 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_total": 42745,
+      "stars_total": 42905,
       "stars_period": 13636,
-      "forks": 5773,
+      "forks": 5784,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -294,9 +294,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 108026,
+      "stars_total": 108113,
       "stars_period": 19922,
-      "forks": 17906,
+      "forks": 17918,
       "contributors": [
         "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
         "https://avatars.githubusercontent.com/u/271391591?s=40&v=4",
@@ -312,9 +312,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 104934,
+      "stars_total": 105166,
       "stars_period": 19461,
-      "forks": 9302,
+      "forks": 9322,
       "contributors": [
         "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -330,9 +330,9 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_total": 114185,
+      "stars_total": 114224,
       "stars_period": 3634,
-      "forks": 16320,
+      "forks": 16321,
       "contributors": [
         "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
         "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
@@ -348,9 +348,9 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_total": 57444,
+      "stars_total": 57507,
       "stars_period": 6879,
-      "forks": 5171,
+      "forks": 5178,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -366,9 +366,9 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_total": 180459,
+      "stars_total": 180497,
       "stars_period": 1855,
-      "forks": 33321,
+      "forks": 33329,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
@@ -379,5 +379,5 @@
       "description_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
     }
   ],
-  "generated_at": 1793149597
+  "generated_at": 1793175257
 }
