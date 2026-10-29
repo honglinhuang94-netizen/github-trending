@@ -8,9 +8,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 52378,
+      "stars_total": 52700,
       "stars_period": 16002,
-      "forks": 3351,
+      "forks": 3380,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -24,9 +24,9 @@
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_total": 41710,
+      "stars_total": 41717,
       "stars_period": 1201,
-      "forks": 8482,
+      "forks": 8486,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
         "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
-      "stars_total": 23764,
+      "stars_total": 23919,
       "stars_period": 3516,
-      "forks": 3190,
+      "forks": 3214,
       "contributors": [
         "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_total": 94448,
+      "stars_total": 95051,
       "stars_period": 7283,
-      "forks": 5578,
+      "forks": 5602,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars_total": 226248,
+      "stars_total": 226365,
       "stars_period": 4293,
-      "forks": 22596,
+      "forks": 22608,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 118154,
+      "stars_total": 118269,
       "stars_period": 5322,
-      "forks": 22599,
+      "forks": 22619,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 308036,
+      "stars_total": 308376,
       "stars_period": 4655,
-      "forks": 27395,
+      "forks": 27428,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_total": 33770,
+      "stars_total": 33820,
       "stars_period": 2612,
-      "forks": 3714,
+      "forks": 3718,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -150,9 +150,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
-      "stars_total": 105141,
+      "stars_total": 105399,
       "stars_period": 3940,
-      "forks": 7110,
+      "forks": 7120,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -168,9 +168,9 @@
       "url": "https://github.com/jakubkrehel/skills",
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
-      "stars_total": 9114,
+      "stars_total": 9149,
       "stars_period": 776,
-      "forks": 347,
+      "forks": 348,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -183,9 +183,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_total": 80076,
+      "stars_total": 80113,
       "stars_period": 1930,
-      "forks": 9395,
+      "forks": 9399,
       "contributors": [
         "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -195,5 +195,5 @@
       "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     }
   ],
-  "generated_at": 1793282696
+  "generated_at": 1793304561
 }
