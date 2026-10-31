@@ -8,9 +8,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 43406,
+      "stars_total": 43686,
       "stars_period": 11766,
-      "forks": 2278,
+      "forks": 2291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 54711,
+      "stars_total": 55017,
       "stars_period": 12838,
-      "forks": 3555,
+      "forks": 3580,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -42,9 +42,9 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
-      "stars_total": 24764,
+      "stars_total": 24903,
       "stars_period": 4478,
-      "forks": 3291,
+      "forks": 3305,
       "contributors": [
         "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -60,9 +60,9 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_total": 97667,
+      "stars_total": 97997,
       "stars_period": 11323,
-      "forks": 5760,
+      "forks": 5778,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -78,9 +78,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 309712,
+      "stars_total": 309892,
       "stars_period": 5474,
-      "forks": 27551,
+      "forks": 27563,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
@@ -96,9 +96,9 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars_total": 227167,
+      "stars_total": 227350,
       "stars_period": 4178,
-      "forks": 22670,
+      "forks": 22683,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 118852,
+      "stars_total": 118960,
       "stars_period": 5490,
-      "forks": 22719,
+      "forks": 22742,
       "contributors": [
         "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68405458?s=40&v=4",
@@ -132,9 +132,9 @@
       "url": "https://github.com/jakubkrehel/skills",
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
-      "stars_total": 9476,
+      "stars_total": 9539,
       "stars_period": 1107,
-      "forks": 364,
+      "forks": 367,
       "contributors": [
         "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
@@ -147,9 +147,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
-      "stars_total": 106646,
+      "stars_total": 106846,
       "stars_period": 4712,
-      "forks": 7215,
+      "forks": 7228,
       "contributors": [
         "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -165,9 +165,9 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 33526,
+      "stars_total": 34580,
       "stars_period": 2775,
-      "forks": 8707,
+      "forks": 8745,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -183,9 +183,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 107017,
+      "stars_total": 107429,
       "stars_period": 3518,
-      "forks": 9408,
+      "forks": 9436,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -201,9 +201,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 185685,
+      "stars_total": 185781,
       "stars_period": 1888,
-      "forks": 21921,
+      "forks": 21931,
       "contributors": [
         "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -219,9 +219,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 293681,
+      "stars_total": 293857,
       "stars_period": 6506,
-      "forks": 43460,
+      "forks": 43492,
       "contributors": [
         "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
         "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
@@ -237,9 +237,9 @@
       "url": "https://github.com/YuJunZhiXue/dsh-purge",
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
-      "stars_total": 14242,
+      "stars_total": 14485,
       "stars_period": 6665,
-      "forks": 3280,
+      "forks": 3345,
       "contributors": [
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
         "https://avatars.githubusercontent.com/u/188421097?s=40&v=4",
@@ -254,9 +254,9 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_total": 45199,
+      "stars_total": 45291,
       "stars_period": 2133,
-      "forks": 3310,
+      "forks": 3316,
       "contributors": [
         "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176760093?s=40&v=4",
@@ -267,5 +267,5 @@
       "description_zh": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
     }
   ],
-  "generated_at": 1793448346
+  "generated_at": 1793468198
 }
