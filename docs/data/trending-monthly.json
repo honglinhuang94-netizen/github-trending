@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 436048,
+      "stars_total": 437150,
       "stars_period": 430792,
-      "forks": 108169,
+      "forks": 108398,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/208281322?s=40&v=4",
@@ -22,13 +22,31 @@
     },
     {
       "rank": 2,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_total": 39192,
+      "stars_period": 36681,
+      "forks": 6184,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
+      ],
+      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "rank": 3,
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_total": 51610,
+      "stars_total": 51703,
       "stars_period": 47184,
-      "forks": 4912,
+      "forks": 4925,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
@@ -39,30 +57,14 @@
       "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
-      "rank": 3,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 62572,
-      "stars_period": 35956,
-      "forks": 4062,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
-      ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-    },
-    {
       "rank": 4,
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 49150,
+      "stars_total": 49419,
       "stars_period": 19070,
-      "forks": 2607,
+      "forks": 2623,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -74,21 +76,19 @@
     },
     {
       "rank": 5,
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 79824,
-      "stars_period": 22694,
-      "forks": 7349,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 63408,
+      "stars_period": 35956,
+      "forks": 4111,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
       ],
-      "description_zh": "Write HTML. Render video. Built for agents."
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": 6,
@@ -96,9 +96,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 102323,
+      "stars_total": 102659,
       "stars_period": 48803,
-      "forks": 11341,
+      "forks": 11388,
       "contributors": [
         "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -110,49 +110,31 @@
     },
     {
       "rank": 7,
-      "name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_total": 98250,
-      "stars_period": 17641,
-      "forks": 11119,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 79985,
+      "stars_period": 22694,
+      "forks": 7369,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
       ],
-      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
+      "description_zh": "Write HTML. Render video. Built for agents."
     },
     {
       "rank": 8,
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "stars_total": 113745,
-      "stars_period": 17621,
-      "forks": 9866,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
-      ],
-      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
-    },
-    {
-      "rank": 9,
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 48869,
+      "stars_total": 49346,
       "stars_period": 22239,
-      "forks": 9676,
+      "forks": 9723,
       "contributors": [
         "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -163,14 +145,50 @@
       "description_zh": ""
     },
     {
+      "rank": 9,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars_total": 113890,
+      "stars_period": 17621,
+      "forks": 9883,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+      ],
+      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
       "rank": 10,
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_total": 98326,
+      "stars_period": 17641,
+      "forks": 11129,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+      ],
+      "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "rank": 11,
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_total": 104320,
+      "stars_total": 104598,
       "stars_period": 27205,
-      "forks": 6187,
+      "forks": 6214,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -181,32 +199,14 @@
       "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
     },
     {
-      "rank": 11,
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 34929,
-      "stars_period": 8823,
-      "forks": 3848,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
-      ],
-      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
       "rank": 12,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 55695,
+      "stars_total": 55848,
       "stars_period": 14748,
-      "forks": 6825,
+      "forks": 6837,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -215,7 +215,25 @@
         "https://avatars.githubusercontent.com/u/238371241?s=40&v=4"
       ],
       "description_zh": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "rank": 13,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 34968,
+      "stars_period": 8823,
+      "forks": 3850,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+      ],
+      "description_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     }
   ],
-  "generated_at": 1793961634
+  "generated_at": 1793987568
 }
