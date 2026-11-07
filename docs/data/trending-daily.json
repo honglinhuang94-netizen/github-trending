@@ -1,178 +1,50 @@
 {
   "period": "daily",
-  "count": 18,
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "name": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars_total": 93974,
-      "stars_period": 306,
-      "forks": 11532,
+      "stars_total": 46573,
+      "stars_period": 180,
+      "forks": 3191,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/326587?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1486634?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1789?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       ],
-      "description_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+      "description_zh": "Browser automation CLI for AI agents"
     },
     {
       "rank": 2,
-      "name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "stars_total": 9511,
-      "stars_period": 2015,
-      "forks": 760,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 65158,
+      "stars_period": 2088,
+      "forks": 4227,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/21292702?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/29655923?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/263700388?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/263323887?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
       ],
-      "description_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": 3,
-      "name": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "stars_total": 59070,
-      "stars_period": 142,
-      "forks": 23834,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12642?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3124?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/44640?s=40&v=4"
-      ],
-      "description_zh": "Ruby on Rails"
-    },
-    {
-      "rank": 4,
-      "name": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "stars_total": 37961,
-      "stars_period": 37,
-      "forks": 3636,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1126053?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5105515?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11783568?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1149047?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/24681?s=40&v=4"
-      ],
-      "description_zh": "🎥 Command line media player"
-    },
-    {
-      "rank": 5,
-      "name": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "stars_total": 121567,
-      "stars_period": 192,
-      "forks": 17368,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3050060?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1711539?s=40&v=4"
-      ],
-      "description_zh": "Empowering everyone to build reliable and efficient software."
-    },
-    {
-      "rank": 6,
-      "name": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "language": "JavaScript",
-      "stars_total": 252335,
-      "stars_period": 248,
-      "forks": 51857,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8445?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/810438?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3624098?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6820?s=40&v=4"
-      ],
-      "description_zh": "The library for web and native user interfaces."
-    },
-    {
-      "rank": 7,
-      "name": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "stars_total": 101456,
-      "stars_period": 135,
-      "forks": 28918,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8604205?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15655?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4450522?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/89942104?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4987015?s=40&v=4"
-      ],
-      "description_zh": "Deliver web apps with confidence 🚀"
-    },
-    {
-      "rank": 8,
-      "name": "symfony/symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "stars_total": 31508,
-      "stars_period": 128,
-      "forks": 9951,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/243674?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1957048?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1506493?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7502063?s=40&v=4"
-      ],
-      "description_zh": "The Symfony PHP framework"
-    },
-    {
-      "rank": 9,
-      "name": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "stars_total": 67265,
-      "stars_period": 148,
-      "forks": 10992,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "The Prometheus monitoring system and time series database."
-    },
-    {
-      "rank": 10,
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_total": 23017,
-      "stars_period": 534,
-      "forks": 1935,
+      "stars_total": 23174,
+      "stars_period": 449,
+      "forks": 1943,
       "contributors": [
         "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
         "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -183,104 +55,14 @@
       "description_zh": "Agent Skills for Google products and technologies"
     },
     {
-      "rank": 11,
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "stars_total": 195109,
-      "stars_period": 301,
-      "forks": 44438,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/900690?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1794099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2193314?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10746682?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/22350?s=40&v=4"
-      ],
-      "description_zh": "Visual Studio Code"
-    },
-    {
-      "rank": 12,
-      "name": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "stars_total": 12672,
-      "stars_period": 315,
-      "forks": 1646,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/898396?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Extremely Fast Compression algorithm"
-    },
-    {
-      "rank": 13,
-      "name": "nushell/nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
-      "language": "Rust",
-      "stars_total": 41041,
-      "stars_period": 131,
-      "forks": 2345,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/547158?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/343840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15833959?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/951128?s=40&v=4"
-      ],
-      "description_zh": "A new type of shell"
-    },
-    {
-      "rank": 14,
-      "name": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "stars_total": 52664,
-      "stars_period": 128,
-      "forks": 10591,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/6799218?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30739825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4479947?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5873433?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2976232?s=40&v=4"
-      ],
-      "description_zh": "Distributed reliable key-value store for the most critical data of a distributed system"
-    },
-    {
-      "rank": 15,
-      "name": "openssl/openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "stars_total": 31354,
-      "stars_period": 26,
-      "forks": 11584,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7422273?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/9038069?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17916609?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6590984?s=40&v=4"
-      ],
-      "description_zh": "General purpose TLS and crypto library"
-    },
-    {
-      "rank": 16,
+      "rank": 4,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 317078,
-      "stars_period": 2070,
-      "forks": 26537,
+      "stars_total": 317378,
+      "stars_period": 1111,
+      "forks": 26559,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -290,30 +72,104 @@
       "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "rank": 17,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 64621,
-      "stars_period": 2548,
-      "forks": 4195,
+      "rank": 5,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_total": 188494,
+      "stars_period": 386,
+      "forks": 22227,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
       ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      "description_zh": "Public repository for Agent Skills"
     },
     {
-      "rank": 18,
+      "rank": 6,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_total": 14236,
+      "stars_period": 185,
+      "forks": 1173,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
+      ],
+      "description_zh": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "rank": 7,
+      "name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars_total": 67346,
+      "stars_period": 325,
+      "forks": 10998,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "The Prometheus monitoring system and time series database."
+    },
+    {
+      "rank": 8,
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_total": 99869,
+      "stars_period": 1819,
+      "forks": 11818,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33327613?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15307244?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13371865?s=40&v=4"
+      ],
+      "description_zh": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "rank": 9,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_total": 16565,
+      "stars_period": 1986,
+      "forks": 2349,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/255997030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/331326017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
+      ],
+      "description_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+    },
+    {
+      "rank": 10,
       "name": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
-      "stars_total": 50783,
-      "stars_period": 169,
-      "forks": 2618,
+      "stars_total": 50874,
+      "stars_period": 350,
+      "forks": 2625,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
@@ -322,7 +178,97 @@
         "https://avatars.githubusercontent.com/u/4209276?s=40&v=4"
       ],
       "description_zh": "An extremely fast Python linter and code formatter, written in Rust."
+    },
+    {
+      "rank": 11,
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_total": 98288,
+      "stars_period": 181,
+      "forks": 7099,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1834413?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/715?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/614993?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/882133?s=40&v=4"
+      ],
+      "description_zh": "A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "rank": 12,
+      "name": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars_total": 981,
+      "stars_period": 184,
+      "forks": 103,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/8651166?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25415840?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/37281333?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/848627?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32430809?s=40&v=4"
+      ],
+      "description_zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
+    },
+    {
+      "rank": 13,
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars_total": 94132,
+      "stars_period": 1119,
+      "forks": 11544,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/326587?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1486634?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1789?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
+      ],
+      "description_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    },
+    {
+      "rank": 14,
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars_total": 4489,
+      "stars_period": 185,
+      "forks": 361,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/154221037?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128966342?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98598692?s=40&v=4"
+      ],
+      "description_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+    },
+    {
+      "rank": 15,
+      "name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars_total": 423,
+      "stars_period": 125,
+      "forks": 81,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104113?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/200289150?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10234760?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11739241?s=40&v=4"
+      ],
+      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
     }
   ],
-  "generated_at": 1794045147
+  "generated_at": 1794068147
 }
