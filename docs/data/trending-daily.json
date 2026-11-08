@@ -1,16 +1,88 @@
 {
   "period": "daily",
-  "count": 15,
+  "count": 9,
   "items": [
     {
       "rank": 1,
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_total": 102246,
+      "stars_period": 2372,
+      "forks": 12048,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33327613?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15307244?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13371865?s=40&v=4"
+      ],
+      "description_zh": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "rank": 2,
+      "name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars_total": 722,
+      "stars_period": 345,
+      "forks": 106,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/104113?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/200289150?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/10234760?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11739241?s=40&v=4"
+      ],
+      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+    },
+    {
+      "rank": 3,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_total": 17805,
+      "stars_period": 1437,
+      "forks": 2493,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/255997030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/331326017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
+      ],
+      "description_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+    },
+    {
+      "rank": 4,
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars_total": 19231,
+      "stars_period": 28,
+      "forks": 3267,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4421754?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/346275?s=40&v=4"
+      ],
+      "description_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "rank": 5,
       "name": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars_total": 47028,
-      "stars_period": 190,
-      "forks": 3222,
+      "stars_total": 47316,
+      "stars_period": 812,
+      "forks": 3242,
       "contributors": [
         "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
         "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
@@ -21,83 +93,14 @@
       "description_zh": "Browser automation CLI for AI agents"
     },
     {
-      "rank": 2,
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 66059,
-      "stars_period": 2085,
-      "forks": 4298,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/228360615?s=40&v=4"
-      ],
-      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-    },
-    {
-      "rank": 3,
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_total": 23534,
-      "stars_period": 443,
-      "forks": 1967,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/52255361?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2510012?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51683731?s=40&v=4"
-      ],
-      "description_zh": "Agent Skills for Google products and technologies"
-    },
-    {
-      "rank": 4,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_total": 317953,
-      "stars_period": 1100,
-      "forks": 26605,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
-      ],
-      "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
-    },
-    {
-      "rank": 5,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars_total": 188955,
-      "stars_period": 390,
-      "forks": 22274,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
-      ],
-      "description_zh": "Public repository for Agent Skills"
-    },
-    {
       "rank": 6,
       "name": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 14779,
-      "stars_period": 96,
-      "forks": 1211,
+      "stars_total": 15426,
+      "stars_period": 863,
+      "forks": 1250,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -109,139 +112,49 @@
     },
     {
       "rank": 7,
-      "name": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "stars_total": 67493,
-      "stars_period": 322,
-      "forks": 11011,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_total": 189250,
+      "stars_period": 793,
+      "forks": 22306,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
       ],
-      "description_zh": "The Prometheus monitoring system and time series database."
+      "description_zh": "Public repository for Agent Skills"
     },
     {
       "rank": 8,
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_total": 101137,
-      "stars_period": 1766,
-      "forks": 11953,
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars_total": 16209,
+      "stars_period": 26,
+      "forks": 1942,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33327613?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15307244?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13371865?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/102665781?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/29288912?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/42924292?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2200217?s=40&v=4"
       ],
-      "description_zh": "Hunt down social media accounts by username across social networks"
+      "description_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
     },
     {
       "rank": 9,
-      "name": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "stars_total": 17332,
-      "stars_period": 1955,
-      "forks": 2441,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/255997030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/331326017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
-      ],
-      "description_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use"
-    },
-    {
-      "rank": 10,
-      "name": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "stars_total": 51034,
-      "stars_period": 350,
-      "forks": 2634,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66076021?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4209276?s=40&v=4"
-      ],
-      "description_zh": "An extremely fast Python linter and code formatter, written in Rust."
-    },
-    {
-      "rank": 11,
-      "name": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "stars_total": 98577,
-      "stars_period": 122,
-      "forks": 7118,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1834413?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/715?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/614993?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/882133?s=40&v=4"
-      ],
-      "description_zh": "A utility-first CSS framework for rapid UI development."
-    },
-    {
-      "rank": 12,
-      "name": "mbillow/localthings",
-      "url": "https://github.com/mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "language": "Python",
-      "stars_total": 1102,
-      "stars_period": 186,
-      "forks": 114,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/8651166?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25415840?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/37281333?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/848627?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32430809?s=40&v=4"
-      ],
-      "description_zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
-    },
-    {
-      "rank": 13,
-      "name": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "stars_total": 94361,
-      "stars_period": 1114,
-      "forks": 11558,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/326587?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1486634?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1789?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
-      ],
-      "description_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-    },
-    {
-      "rank": 14,
       "name": "ranxianglei/billion-context",
       "url": "https://github.com/ranxianglei/billion-context",
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
-      "stars_total": 4733,
-      "stars_period": 191,
-      "forks": 379,
+      "stars_total": 4915,
+      "stars_period": 460,
+      "forks": 394,
       "contributors": [
         "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -250,25 +163,7 @@
         "https://avatars.githubusercontent.com/u/98598692?s=40&v=4"
       ],
       "description_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
-    },
-    {
-      "rank": 15,
-      "name": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "stars_total": 620,
-      "stars_period": 123,
-      "forks": 95,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/200289150?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10234760?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11739241?s=40&v=4"
-      ],
-      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
     }
   ],
-  "generated_at": 1794121642
+  "generated_at": 1794149863
 }
