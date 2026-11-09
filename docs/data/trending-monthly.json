@@ -1,6 +1,6 @@
 {
   "period": "monthly",
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 443671,
-      "stars_period": 429845,
-      "forks": 109597,
+      "stars_total": 445969,
+      "stars_period": 425123,
+      "forks": 110086,
       "contributors": [
         "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
         "https://avatars.githubusercontent.com/u/208281322?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_total": 50934,
-      "stars_period": 20523,
-      "forks": 2704,
+      "stars_total": 51532,
+      "stars_period": 21146,
+      "forks": 2744,
       "contributors": [
         "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
         "https://avatars.githubusercontent.com/u/63742054?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 66798,
-      "stars_period": 39571,
-      "forks": 4357,
+      "stars_total": 67626,
+      "stars_period": 40289,
+      "forks": 4424,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -56,21 +56,21 @@
     },
     {
       "rank": 4,
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_total": 39890,
-      "stars_period": 35633,
-      "forks": 6252,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 53580,
+      "stars_period": 25840,
+      "forks": 10116,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254055478?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
       ],
-      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+      "description_zh": ""
     },
     {
       "rank": 5,
@@ -78,9 +78,9 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_total": 81075,
-      "stars_period": 22531,
-      "forks": 7484,
+      "stars_total": 81486,
+      "stars_period": 22360,
+      "forks": 7521,
       "contributors": [
         "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
         "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
@@ -92,49 +92,13 @@
     },
     {
       "rank": 6,
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 104949,
-      "stars_period": 49671,
-      "forks": 11667,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
-      ],
-      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-    },
-    {
-      "rank": 7,
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_total": 52454,
-      "stars_period": 24785,
-      "forks": 10008,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6751787?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254055478?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
-      ],
-      "description_zh": ""
-    },
-    {
-      "rank": 8,
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 114881,
-      "stars_period": 17493,
-      "forks": 9979,
+      "stars_total": 115259,
+      "stars_period": 17296,
+      "forks": 10009,
       "contributors": [
         "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -145,50 +109,32 @@
       "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
     {
-      "rank": 9,
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "stars_total": 52325,
-      "stars_period": 43690,
-      "forks": 4975,
+      "rank": 7,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_total": 105773,
+      "stars_period": 50169,
+      "forks": 11756,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67475268?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/270455167?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
       ],
-      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
+      "description_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "rank": 10,
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "stars_total": 106185,
-      "stars_period": 27680,
-      "forks": 6309,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-      ],
-      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_total": 56970,
-      "stars_period": 15721,
-      "forks": 6946,
+      "stars_total": 57497,
+      "stars_period": 16065,
+      "forks": 7013,
       "contributors": [
         "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -199,14 +145,50 @@
       "description_zh": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars_total": 106640,
+      "stars_period": 28008,
+      "forks": 6337,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/32850166?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      ],
+      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+    },
+    {
+      "rank": 10,
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_total": 40161,
+      "stars_period": 33780,
+      "forks": 6267,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/6252325?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1340665?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/75916236?s=40&v=4"
+      ],
+      "description_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "rank": 11,
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 98769,
-      "stars_period": 17554,
-      "forks": 11212,
+      "stars_total": 98991,
+      "stars_period": 17344,
+      "forks": 11241,
       "contributors": [
         "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
         "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
@@ -215,7 +197,43 @@
         "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
       ],
       "description_zh": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "rank": 12,
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars_total": 52527,
+      "stars_period": 39354,
+      "forks": 4988,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67475268?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/184076081?s=40&v=4"
+      ],
+      "description_zh": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "rank": 13,
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_total": 46574,
+      "stars_period": 9152,
+      "forks": 4854,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8000722?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
     }
   ],
-  "generated_at": 1794180912
+  "generated_at": 1794239752
 }

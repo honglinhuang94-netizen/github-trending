@@ -1,124 +1,16 @@
 {
   "period": "daily",
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_total": 103366,
-      "stars_period": 2372,
-      "forks": 12115,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/33327613?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15307244?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/13371865?s=40&v=4"
-      ],
-      "description_zh": "Hunt down social media accounts by username across social networks"
-    },
-    {
-      "rank": 2,
-      "name": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "stars_total": 828,
-      "stars_period": 345,
-      "forks": 110,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/104113?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/200289150?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10234760?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11739241?s=40&v=4"
-      ],
-      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
-    },
-    {
-      "rank": 3,
-      "name": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "stars_total": 18202,
-      "stars_period": 1437,
-      "forks": 2530,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/255997030?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/331326017?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
-      ],
-      "description_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use"
-    },
-    {
-      "rank": 4,
-      "name": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "stars_total": 19394,
-      "stars_period": 28,
-      "forks": 3280,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/4421754?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/346275?s=40&v=4"
-      ],
-      "description_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-    },
-    {
-      "rank": 5,
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_total": 47552,
-      "stars_period": 812,
-      "forks": 3256,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Browser automation CLI for AI agents"
-    },
-    {
-      "rank": 6,
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_total": 16608,
-      "stars_period": 863,
-      "forks": 1315,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
-      ],
-      "description_zh": "An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "rank": 7,
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 189590,
-      "stars_period": 793,
-      "forks": 22344,
+      "stars_total": 190460,
+      "stars_period": 1052,
+      "forks": 22408,
       "contributors": [
         "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -129,14 +21,50 @@
       "description_zh": "Public repository for Agent Skills"
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_total": 18951,
+      "stars_period": 3324,
+      "forks": 1453,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
+      ],
+      "description_zh": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "rank": 3,
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_total": 106378,
+      "stars_period": 4294,
+      "forks": 12340,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/33327613?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15307244?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/13371865?s=40&v=4"
+      ],
+      "description_zh": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "rank": 4,
       "name": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
-      "stars_total": 16382,
-      "stars_period": 26,
-      "forks": 1952,
+      "stars_total": 16782,
+      "stars_period": 579,
+      "forks": 1977,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102665781?s=40&v=4",
@@ -147,23 +75,131 @@
       "description_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
     },
     {
-      "rank": 9,
-      "name": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "language": "TypeScript",
-      "stars_total": 5111,
-      "stars_period": 460,
-      "forks": 404,
+      "rank": 5,
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars_total": 19828,
+      "stars_period": 560,
+      "forks": 3300,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/154221037?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128966342?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/98598692?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/4421754?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/346275?s=40&v=4"
       ],
-      "description_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+      "description_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "rank": 6,
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "stars_total": 31963,
+      "stars_period": 215,
+      "forks": 4759,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1915919?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89218912?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/98894508?s=40&v=4"
+      ],
+      "description_zh": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+    },
+    {
+      "rank": 7,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_total": 48237,
+      "stars_period": 914,
+      "forks": 3289,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Browser automation CLI for AI agents"
+    },
+    {
+      "rank": 8,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_total": 103253,
+      "stars_period": 245,
+      "forks": 13393,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/214853444?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124563?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "rank": 9,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 68599,
+      "stars_period": 505,
+      "forks": 56347,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 10,
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars_total": 5682,
+      "stars_period": 31,
+      "forks": 279,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25392815?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3122659?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+    },
+    {
+      "rank": 11,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_total": 19376,
+      "stars_period": 1589,
+      "forks": 2666,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/255997030?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/331326017?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
+      ],
+      "description_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use"
     }
   ],
-  "generated_at": 1794180906
+  "generated_at": 1794239747
 }
