@@ -1,160 +1,34 @@
 {
   "period": "daily",
-  "count": 10,
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_total": 25744,
-      "stars_period": 2776,
-      "forks": 2000,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
-      ],
-      "description_zh": "An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "rank": 2,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 70897,
-      "stars_period": 278,
-      "forks": 57050,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 3,
       "name": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "",
       "language": "TypeScript",
-      "stars_total": 2099,
-      "stars_period": 159,
-      "forks": 153,
+      "stars_total": 2582,
+      "stars_period": 799,
+      "forks": 182,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
         "https://avatars.githubusercontent.com/u/126118814?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/326742?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/175836?s=40&v=4"
       ],
       "description_zh": ""
     },
     {
-      "rank": 4,
-      "name": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": null,
-      "stars_total": 11262,
-      "stars_period": 361,
-      "forks": 456,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/124599?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/6299331?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/888909?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10128372?s=40&v=4"
-      ],
-      "description_zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
-    },
-    {
-      "rank": 5,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 116250,
-      "stars_period": 787,
-      "forks": 12179,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
-      ],
-      "description_zh": "Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "rank": 6,
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_total": 50116,
-      "stars_period": 708,
-      "forks": 3494,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Browser automation CLI for AI agents"
-    },
-    {
-      "rank": 7,
-      "name": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars_total": 13330,
-      "stars_period": 1078,
-      "forks": 984,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
-      ],
-      "description_zh": "The personal finance app for everyone (by everyone)"
-    },
-    {
-      "rank": 8,
-      "name": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "stars_total": 7605,
-      "stars_period": 645,
-      "forks": 459,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/25392815?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3122659?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "name": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stars_total": 11995,
-      "stars_period": 52,
-      "forks": 954,
+      "stars_total": 12246,
+      "stars_period": 663,
+      "forks": 970,
       "contributors": [
         "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -165,23 +39,203 @@
       "description_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security"
     },
     {
-      "rank": 10,
-      "name": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "stars_total": 67186,
-      "stars_period": 51,
-      "forks": 21523,
+      "rank": 3,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars_total": 95973,
+      "stars_period": 107,
+      "forks": 10755,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/19151554?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/65706193?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/89353?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/351038?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2123375?s=40&v=4"
       ],
-      "description_zh": "All Algorithms implemented in Java"
+      "description_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+    },
+    {
+      "rank": 4,
+      "name": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars_total": 1455,
+      "stars_period": 390,
+      "forks": 137,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11896738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66147452?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/74815888?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/78680745?s=40&v=4"
+      ],
+      "description_zh": "Enable Hermès Watch Faces on any Apple Watch devices"
+    },
+    {
+      "rank": 5,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars_total": 13710,
+      "stars_period": 974,
+      "forks": 1016,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
+      ],
+      "description_zh": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "rank": 6,
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars_total": 29687,
+      "stars_period": 151,
+      "forks": 3389,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11473889?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/480123?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/269191875?s=40&v=4"
+      ],
+      "description_zh": "An open-source AI coding agent that lives in your terminal."
+    },
+    {
+      "rank": 7,
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "stars_total": 1884,
+      "stars_period": 94,
+      "forks": 390,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/600316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/288991054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106273?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15323295?s=40&v=4"
+      ],
+      "description_zh": "LLM Inference Engine for Metal, CUDA and Vulkan."
+    },
+    {
+      "rank": 8,
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_total": 123546,
+      "stars_period": 133,
+      "forks": 38052,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/80?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/275871?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/899444?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
+      ],
+      "description_zh": "Node.js JavaScript runtime ✨🐢🚀✨"
+    },
+    {
+      "rank": 9,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 116526,
+      "stars_period": 812,
+      "forks": 12202,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
+      ],
+      "description_zh": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "rank": 10,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_total": 26262,
+      "stars_period": 1789,
+      "forks": 2034,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
+      ],
+      "description_zh": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "rank": 11,
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars_total": 11412,
+      "stars_period": 291,
+      "forks": 1413,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1574202?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27702539?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67006255?s=40&v=4"
+      ],
+      "description_zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+    },
+    {
+      "rank": 12,
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars_total": 69072,
+      "stars_period": 461,
+      "forks": 10739,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49880456?s=40&v=4"
+      ],
+      "description_zh": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+    },
+    {
+      "rank": 13,
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_total": 134413,
+      "stars_period": 287,
+      "forks": 25490,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/7702203?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1629204?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/18492268?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
+      ],
+      "description_zh": "LLM inference in C/C++"
     }
   ],
-  "generated_at": 1794476325
+  "generated_at": 1794506725
 }
