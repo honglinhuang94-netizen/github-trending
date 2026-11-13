@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 14,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars_total": 110952,
+      "stars_total": 111082,
       "stars_period": 14381,
-      "forks": 12841,
+      "forks": 12854,
       "contributors": [
         "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1666888?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_total": 194028,
+      "stars_total": 194112,
       "stars_period": 6055,
-      "forks": 22817,
+      "forks": 22827,
       "contributors": [
         "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
         "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars_total": 22075,
+      "stars_total": 22149,
       "stars_period": 9104,
-      "forks": 3055,
+      "forks": 3072,
       "contributors": [
         "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars_total": 50603,
+      "stars_total": 50688,
       "stars_period": 4601,
-      "forks": 3519,
+      "forks": 3523,
       "contributors": [
         "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
         "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
@@ -76,13 +76,31 @@
     },
     {
       "rank": 5,
+      "name": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "language": "Python",
+      "stars_total": 18583,
+      "stars_period": 5555,
+      "forks": 1384,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/329134269?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/22433831?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270992383?s=40&v=4"
+      ],
+      "description_zh": "Open-source plugin for designing and reviewing software with agents"
+    },
+    {
+      "rank": 6,
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_total": 71383,
+      "stars_total": 71541,
       "stars_period": 3569,
-      "forks": 57242,
+      "forks": 57271,
       "contributors": [
         "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
         "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
@@ -93,14 +111,14 @@
       "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_total": 12477,
+      "stars_total": 12533,
       "stars_period": 5802,
-      "forks": 1022,
+      "forks": 1026,
       "contributors": [
         "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
         "https://avatars.githubusercontent.com/u/21292702?s=40&v=4",
@@ -111,14 +129,14 @@
       "description_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
-      "stars_total": 17841,
+      "stars_total": 17864,
       "stars_period": 1671,
-      "forks": 2185,
+      "forks": 2187,
       "contributors": [
         "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
         "https://avatars.githubusercontent.com/u/102665781?s=40&v=4",
@@ -129,14 +147,14 @@
       "description_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 323586,
+      "stars_total": 323775,
       "stars_period": 8731,
-      "forks": 27154,
+      "forks": 27171,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -146,14 +164,14 @@
       "description_zh": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 117042,
+      "stars_total": 117119,
       "stars_period": 3199,
-      "forks": 12239,
+      "forks": 12245,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -164,14 +182,32 @@
       "description_zh": "Production-grade engineering skills for AI coding agents."
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars_total": 68801,
+      "stars_period": 3251,
+      "forks": 5398,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/8268155?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/243858445?s=40&v=4"
+      ],
+      "description_zh": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "rank": 12,
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_total": 71660,
+      "stars_total": 71867,
       "stars_period": 10700,
-      "forks": 4773,
+      "forks": 4787,
       "contributors": [
         "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
         "https://avatars.githubusercontent.com/u/59650384?s=40&v=4",
@@ -180,14 +216,14 @@
       "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
-      "stars_total": 94927,
+      "stars_total": 94952,
       "stars_period": 2339,
-      "forks": 11687,
+      "forks": 11693,
       "contributors": [
         "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
         "https://avatars.githubusercontent.com/u/326587?s=40&v=4",
@@ -198,14 +234,14 @@
       "description_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "anthropics/claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
-      "stars_total": 20841,
+      "stars_total": 20860,
       "stars_period": 1710,
-      "forks": 3491,
+      "forks": 3490,
       "contributors": [
         "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -216,14 +252,14 @@
       "description_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
-      "stars_total": 23158,
+      "stars_total": 23260,
       "stars_period": 6414,
-      "forks": 1715,
+      "forks": 1722,
       "contributors": [
         "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
@@ -234,14 +270,14 @@
       "description_zh": "Computer use CLI for AI agents"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "lobehub/lobehub",
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
-      "stars_total": 85317,
+      "stars_total": 85369,
       "stars_period": 1186,
-      "forks": 16283,
+      "forks": 16291,
       "contributors": [
         "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -251,5 +287,5 @@
       "description_zh": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week."
     }
   ],
-  "generated_at": 1794585861
+  "generated_at": 1794608869
 }
