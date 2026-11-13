@@ -6,11 +6,11 @@
       "rank": 1,
       "name": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars_total": 2582,
-      "stars_period": 799,
-      "forks": 182,
+      "stars_total": 2873,
+      "stars_period": 739,
+      "forks": 194,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
@@ -18,7 +18,7 @@
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/175836?s=40&v=4"
       ],
-      "description_zh": ""
+      "description_zh": "Keep your coding agent up to date with the latest web best practices"
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stars_total": 12246,
-      "stars_period": 663,
-      "forks": 970,
+      "stars_total": 12399,
+      "stars_period": 643,
+      "forks": 976,
       "contributors": [
         "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
-      "stars_total": 95973,
-      "stars_period": 107,
-      "forks": 10755,
+      "stars_total": 96005,
+      "stars_period": 63,
+      "forks": 10758,
       "contributors": [
         "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
         "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
@@ -62,15 +62,15 @@
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars_total": 1455,
-      "stars_period": 390,
-      "forks": 137,
+      "stars_total": 1522,
+      "stars_period": 218,
+      "forks": 139,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11896738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30961174?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66147452?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/74815888?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/78680745?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/6193760?s=40&v=4"
       ],
       "description_zh": "Enable Hermès Watch Faces on any Apple Watch devices"
     },
@@ -80,9 +80,9 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars_total": 13710,
-      "stars_period": 974,
-      "forks": 1016,
+      "stars_total": 13890,
+      "stars_period": 967,
+      "forks": 1038,
       "contributors": [
         "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
-      "stars_total": 29687,
+      "stars_total": 29791,
       "stars_period": 151,
-      "forks": 3389,
+      "forks": 3392,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
         "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ashhart/TensorFold",
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
-      "stars_total": 1884,
-      "stars_period": 94,
-      "forks": 390,
+      "stars_total": 1929,
+      "stars_period": 54,
+      "forks": 391,
       "contributors": [
         "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
         "https://avatars.githubusercontent.com/u/600316?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
-      "stars_total": 123546,
-      "stars_period": 133,
-      "forks": 38052,
+      "stars_total": 123593,
+      "stars_period": 62,
+      "forks": 38055,
       "contributors": [
         "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
         "https://avatars.githubusercontent.com/u/80?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 116526,
-      "stars_period": 812,
-      "forks": 12202,
+      "stars_total": 116657,
+      "stars_period": 816,
+      "forks": 12209,
       "contributors": [
         "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 26262,
-      "stars_period": 1789,
-      "forks": 2034,
+      "stars_total": 26498,
+      "stars_period": 1830,
+      "forks": 2058,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -188,9 +188,9 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars_total": 11412,
-      "stars_period": 291,
-      "forks": 1413,
+      "stars_total": 11583,
+      "stars_period": 298,
+      "forks": 1431,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1574202?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -206,9 +206,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_total": 69072,
-      "stars_period": 461,
-      "forks": 10739,
+      "stars_total": 69271,
+      "stars_period": 415,
+      "forks": 10755,
       "contributors": [
         "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
         "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -224,9 +224,9 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars_total": 134413,
-      "stars_period": 287,
-      "forks": 25490,
+      "stars_total": 134539,
+      "stars_period": 176,
+      "forks": 25507,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
         "https://avatars.githubusercontent.com/u/7702203?s=40&v=4",
@@ -237,5 +237,5 @@
       "description_zh": "LLM inference in C/C++"
     }
   ],
-  "generated_at": 1794506725
+  "generated_at": 1794528227
 }
