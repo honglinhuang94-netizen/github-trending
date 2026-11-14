@@ -1,24 +1,24 @@
 {
   "period": "daily",
-  "count": 12,
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 50961,
-      "stars_period": 215,
-      "forks": 3798,
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars_total": 10861,
+      "stars_period": 412,
+      "forks": 807,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110197373?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47978193?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
       ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description_zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
     },
     {
       "rank": 2,
@@ -26,9 +26,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars_total": 5236,
-      "stars_period": 1925,
-      "forks": 286,
+      "stars_total": 5626,
+      "stars_period": 1225,
+      "forks": 300,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
@@ -40,121 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
-      "language": "TypeScript",
-      "stars_total": 13350,
-      "stars_period": 751,
-      "forks": 1034,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/269041055?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272643392?s=40&v=4"
-      ],
-      "description_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security"
-    },
-    {
-      "rank": 4,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 72010,
-      "stars_period": 256,
-      "forks": 57396,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 5,
-      "name": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars_total": 14962,
-      "stars_period": 925,
-      "forks": 1138,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
-      ],
-      "description_zh": "The personal finance app for everyone (by everyone)"
-    },
-    {
-      "rank": 6,
-      "name": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "stars_total": 10626,
-      "stars_period": 108,
-      "forks": 794,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/110197373?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47978193?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
-      ],
-      "description_zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
-    },
-    {
-      "rank": 7,
-      "name": "louislam/uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
-      "language": "JavaScript",
-      "stars_total": 94005,
-      "stars_period": 71,
-      "forks": 8730,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26258709?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3271800?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/905878?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/67638596?s=40&v=4"
-      ],
-      "description_zh": "A fancy self-hosted monitoring tool"
-    },
-    {
-      "rank": 8,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_total": 37393,
-      "stars_period": 97,
-      "forks": 4945,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/15384764?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/109685178?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/7863796?s=40&v=4"
-      ],
-      "description_zh": "A hive mind communication platform"
-    },
-    {
-      "rank": 9,
       "name": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars_total": 4374,
-      "stars_period": 69,
-      "forks": 884,
+      "stars_total": 4579,
+      "stars_period": 556,
+      "forks": 901,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
@@ -165,32 +57,194 @@
       "description_zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
     },
     {
-      "rank": 10,
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "stars_total": 9635,
-      "stars_period": 256,
-      "forks": 440,
+      "rank": 4,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_total": 56119,
+      "stars_period": 673,
+      "forks": 4652,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1079173?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/348?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/10344482?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
       ],
-      "description_zh": "like netcat, but over Tailscale's data plane, without Tailscale's control plane"
+      "description_zh": "Chrome DevTools for coding agents"
+    },
+    {
+      "rank": 5,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 51228,
+      "stars_period": 897,
+      "forks": 3821,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+      ],
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "rank": 6,
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars_total": 30218,
+      "stars_period": 116,
+      "forks": 3424,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11473889?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/480123?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/269191875?s=40&v=4"
+      ],
+      "description_zh": "An open-source AI coding agent that lives in your terminal."
+    },
+    {
+      "rank": 7,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "language": "TypeScript",
+      "stars_total": 24336,
+      "stars_period": 495,
+      "forks": 2107,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4"
+      ],
+      "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+    },
+    {
+      "rank": 8,
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars_total": 17247,
+      "stars_period": 9,
+      "forks": 1582,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86957?s=40&v=4"
+      ],
+      "description_zh": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+    },
+    {
+      "rank": 9,
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "stars_total": 2117,
+      "stars_period": 188,
+      "forks": 407,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/600316?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/288991054?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/106273?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/15323295?s=40&v=4"
+      ],
+      "description_zh": "LLM Inference Engine for Metal, CUDA and Vulkan."
+    },
+    {
+      "rank": 10,
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars_total": 119899,
+      "stars_period": 227,
+      "forks": 6993,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11289396?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26088029?s=40&v=4"
+      ],
+      "description_zh": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
     },
     {
       "rank": 11,
+      "name": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "stars_total": 94124,
+      "stars_period": 432,
+      "forks": 8734,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26258709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/3271800?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/905878?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67638596?s=40&v=4"
+      ],
+      "description_zh": "A fancy self-hosted monitoring tool"
+    },
+    {
+      "rank": 12,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars_total": 15128,
+      "stars_period": 659,
+      "forks": 1147,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
+      ],
+      "description_zh": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "rank": 13,
+      "name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "language": "Go",
+      "stars_total": 782,
+      "stars_period": 101,
+      "forks": 119,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/342010948?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53806540?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/43171452?s=40&v=4"
+      ],
+      "description_zh": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+    },
+    {
+      "rank": 14,
       "name": "Likely7/Veyra-NRVideo",
       "url": "https://github.com/Likely7/Veyra-NRVideo",
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
-      "stars_total": 1784,
-      "stars_period": 256,
-      "forks": 79,
+      "stars_total": 1943,
+      "stars_period": 423,
+      "forks": 89,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/243683505?s=40&v=4",
@@ -201,23 +255,22 @@
       "description_zh": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
     },
     {
-      "rank": 12,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 55823,
-      "stars_period": 67,
-      "forks": 4624,
+      "rank": 15,
+      "name": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "language": "Rust",
+      "stars_total": 5626,
+      "stars_period": 269,
+      "forks": 931,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/55240433?s=40&v=4"
       ],
-      "description_zh": "Chrome DevTools for coding agents"
+      "description_zh": "A WiFi security auditing software"
     }
   ],
-  "generated_at": 1794651087
+  "generated_at": 1794675389
 }
