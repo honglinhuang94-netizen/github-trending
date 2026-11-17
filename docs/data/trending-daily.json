@@ -4,85 +4,13 @@
   "items": [
     {
       "rank": 1,
-      "name": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "language": "TypeScript",
-      "stars_total": 19226,
-      "stars_period": 791,
-      "forks": 1974,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/86957?s=40&v=4"
-      ],
-      "description_zh": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
-    },
-    {
-      "rank": 2,
-      "name": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "stars_total": 12672,
-      "stars_period": 696,
-      "forks": 1233,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/110197373?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47978193?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
-      ],
-      "description_zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
-    },
-    {
-      "rank": 3,
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "language": "TypeScript",
-      "stars_total": 27904,
-      "stars_period": 1828,
-      "forks": 2535,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4"
-      ],
-      "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
-    },
-    {
-      "rank": 4,
-      "name": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "language": "Python",
-      "stars_total": 6430,
-      "stars_period": 837,
-      "forks": 1335,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270693131?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/42257?s=40&v=4"
-      ],
-      "description_zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
-    },
-    {
-      "rank": 5,
       "name": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars_total": 7544,
-      "stars_period": 1094,
-      "forks": 1163,
+      "stars_total": 8208,
+      "stars_period": 1007,
+      "forks": 1267,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66463177?s=40&v=4",
@@ -93,14 +21,85 @@
       "description_zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
     },
     {
+      "rank": 2,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 68593,
+      "stars_period": 135,
+      "forks": 6110,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "rank": 3,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 53406,
+      "stars_period": 764,
+      "forks": 4386,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+      ],
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "rank": 4,
+      "name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "language": "Go",
+      "stars_total": 2818,
+      "stars_period": 590,
+      "forks": 408,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/53806540?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/353173575?s=40&v=4"
+      ],
+      "description_zh": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+    },
+    {
+      "rank": 5,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "language": "TypeScript",
+      "stars_total": 28670,
+      "stars_period": 1776,
+      "forks": 2608,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4"
+      ],
+      "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+    },
+    {
       "rank": 6,
       "name": "getarcaneapp/arcane",
       "url": "https://github.com/getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
-      "stars_total": 8836,
+      "stars_total": 9073,
       "stars_period": 46,
-      "forks": 417,
+      "forks": 483,
       "contributors": [
         "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -112,31 +111,13 @@
     },
     {
       "rank": 7,
-      "name": "DeanChensj/jiangshan-map",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "language": "JavaScript",
-      "stars_total": 7058,
-      "stars_period": 288,
-      "forks": 816,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/9414763?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/503123?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/14016345?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/3294106?s=40&v=4"
-      ],
-      "description_zh": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
-    },
-    {
-      "rank": 8,
       "name": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 9783,
-      "stars_period": 529,
-      "forks": 1245,
+      "stars_total": 9931,
+      "stars_period": 350,
+      "forks": 1298,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -147,101 +128,86 @@
       "description_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
     {
-      "rank": 9,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_total": 68245,
-      "stars_period": 135,
-      "forks": 6045,
+      "rank": 8,
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_total": 16750,
+      "stars_period": 196,
+      "forks": 1799,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/257394719?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2145689?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25622412?s=40&v=4"
       ],
-      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+      "description_zh": "Cursor plugin specification and official plugins"
+    },
+    {
+      "rank": 9,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_total": 318978,
+      "stars_period": 1905,
+      "forks": 28436,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/19286898?s=40&v=4"
+      ],
+      "description_zh": "An agentic skills framework & software development methodology that works."
     },
     {
       "rank": 10,
-      "name": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "language": "Python",
-      "stars_total": 2844,
-      "stars_period": 873,
-      "forks": 371,
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars_total": 19780,
+      "stars_period": 1444,
+      "forks": 2048,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/256191862?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/101849520?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11586922?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/86957?s=40&v=4"
       ],
-      "description_zh": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+      "description_zh": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
     },
     {
       "rank": 11,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 53058,
-      "stars_period": 951,
-      "forks": 4309,
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars_total": 12896,
+      "stars_period": 691,
+      "forks": 1293,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/110197373?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/47978193?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
       ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description_zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
     },
     {
       "rank": 12,
-      "name": "google-research/paper-orchestra",
-      "url": "https://github.com/google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "language": "Python",
-      "stars_total": 1669,
-      "stars_period": 313,
-      "forks": 251,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/34639474?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/31419980?s=40&v=4"
-      ],
-      "description_zh": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
-    },
-    {
-      "rank": 13,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 57757,
-      "stars_period": 841,
-      "forks": 4855,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
-      ],
-      "description_zh": "Chrome DevTools for coding agents"
-    },
-    {
-      "rank": 14,
       "name": "sveltejs/svelte",
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "language": "JavaScript",
-      "stars_total": 89046,
-      "stars_period": 115,
-      "forks": 6098,
+      "stars_total": 89267,
+      "stars_period": 533,
+      "forks": 6165,
       "contributors": [
         "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
         "https://avatars.githubusercontent.com/u/5968653?s=40&v=4",
@@ -252,23 +218,56 @@
       "description_zh": "web development for the rest of us"
     },
     {
-      "rank": 15,
-      "name": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "language": "Python",
-      "stars_total": 6967,
-      "stars_period": 367,
-      "forks": 615,
+      "rank": 13,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 305023,
+      "stars_period": 902,
+      "forks": 44919,
       "contributors": [
+        "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/49814733?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/24193489?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/103962359?s=40&v=4"
       ],
-      "description_zh": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "rank": 14,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_total": 65679,
+      "stars_period": 188,
+      "forks": 8620,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/124225682?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/142557582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70605804?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16349082?s=40&v=4"
+      ],
+      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+    },
+    {
+      "rank": 15,
+      "name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "stars_total": 2197,
+      "stars_period": 313,
+      "forks": 328,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/34639474?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/31419980?s=40&v=4"
+      ],
+      "description_zh": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
     }
   ],
-  "generated_at": 1794886720
+  "generated_at": 1794920483
 }
