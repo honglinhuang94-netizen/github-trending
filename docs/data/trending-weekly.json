@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 14,
+  "count": 16,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars_total": 8506,
+      "stars_total": 8690,
       "stars_period": 7015,
-      "forks": 729,
+      "forks": 732,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars_total": 13129,
+      "stars_total": 13283,
       "stars_period": 2926,
-      "forks": 1315,
+      "forks": 1337,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -40,85 +40,13 @@
     },
     {
       "rank": 3,
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_total": 30239,
-      "stars_period": 8700,
-      "forks": 2360,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
-      ],
-      "description_zh": "An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "rank": 4,
-      "name": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars_total": 16298,
-      "stars_period": 4786,
-      "forks": 1418,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
-      ],
-      "description_zh": "The personal finance app for everyone (by everyone)"
-    },
-    {
-      "rank": 5,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 73135,
-      "stars_period": 3653,
-      "forks": 57806,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 6,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars_total": 196810,
-      "stars_period": 4847,
-      "forks": 23068,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
-      ],
-      "description_zh": "Public repository for Agent Skills"
-    },
-    {
-      "rank": 7,
       "name": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars_total": 9602,
+      "stars_total": 10555,
       "stars_period": 2508,
-      "forks": 1382,
+      "forks": 1466,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/66463177?s=40&v=4",
@@ -129,14 +57,50 @@
       "description_zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_total": 30438,
+      "stars_period": 8700,
+      "forks": 2378,
+      "contributors": [
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
+      ],
+      "description_zh": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "rank": 5,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars_total": 16396,
+      "stars_period": 4786,
+      "forks": 1434,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
+      ],
+      "description_zh": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "rank": 6,
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 53853,
+      "stars_total": 54100,
       "stars_period": 3675,
-      "forks": 4437,
+      "forks": 4470,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -147,68 +111,14 @@
       "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
-      "rank": 9,
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_total": 52419,
-      "stars_period": 3429,
-      "forks": 3663,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Browser automation CLI for AI agents"
-    },
-    {
-      "rank": 10,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 58074,
-      "stars_period": 2948,
-      "forks": 4870,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
-      ],
-      "description_zh": "Chrome DevTools for coding agents"
-    },
-    {
-      "rank": 11,
-      "name": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "language": "Python",
-      "stars_total": 6903,
-      "stars_period": 2985,
-      "forks": 1413,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/270693131?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/128062316?s=40&v=4"
-      ],
-      "description_zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
-    },
-    {
-      "rank": 12,
+      "rank": 7,
       "name": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 10159,
+      "stars_total": 10290,
       "stars_period": 1197,
-      "forks": 1334,
+      "forks": 1350,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -219,14 +129,140 @@
       "description_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
     {
+      "rank": 8,
+      "name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "stars_total": 6997,
+      "stars_period": 2985,
+      "forks": 1428,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/270693131?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/128062316?s=40&v=4"
+      ],
+      "description_zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+    },
+    {
+      "rank": 9,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_total": 58160,
+      "stars_period": 2948,
+      "forks": 4874,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
+      ],
+      "description_zh": "Chrome DevTools for coding agents"
+    },
+    {
+      "rank": 10,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_total": 197034,
+      "stars_period": 4847,
+      "forks": 23084,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
+      ],
+      "description_zh": "Public repository for Agent Skills"
+    },
+    {
+      "rank": 11,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 73272,
+      "stars_period": 3653,
+      "forks": 57868,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
+      ],
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "rank": 12,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 69634,
+      "stars_period": 1548,
+      "forks": 6207,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
       "rank": 13,
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars_total": 20297,
+      "stars_period": 2773,
+      "forks": 2087,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/247775?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/86957?s=40&v=4"
+      ],
+      "description_zh": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+    },
+    {
+      "rank": 14,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_total": 52542,
+      "stars_period": 3429,
+      "forks": 3673,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      ],
+      "description_zh": "Browser automation CLI for AI agents"
+    },
+    {
+      "rank": 15,
       "name": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stars_total": 13984,
+      "stars_total": 14049,
       "stars_period": 2531,
-      "forks": 1094,
+      "forks": 1096,
       "contributors": [
         "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
         "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
@@ -237,23 +273,23 @@
       "description_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security"
     },
     {
-      "rank": 14,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_total": 118702,
-      "stars_period": 3884,
-      "forks": 12377,
+      "rank": 16,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "language": "TypeScript",
+      "stars_total": 29809,
+      "stars_period": 5845,
+      "forks": 2672,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26315959?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12122021?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/26371161?s=40&v=4"
       ],
-      "description_zh": "Production-grade engineering skills for AI coding agents."
+      "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
     }
   ],
-  "generated_at": 1794974805
+  "generated_at": 1795009559
 }
