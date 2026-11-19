@@ -1,34 +1,16 @@
 {
   "period": "weekly",
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "name": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "language": "TypeScript",
-      "stars_total": 8870,
-      "stars_period": 7257,
-      "forks": 741,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/126118814?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/175836?s=40&v=4"
-      ],
-      "description_zh": "Keep your coding agent up to date with the latest web best practices"
-    },
-    {
-      "rank": 2,
       "name": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars_total": 13477,
+      "stars_total": 13574,
       "stars_period": 3290,
-      "forks": 1356,
+      "forks": 1369,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -39,68 +21,14 @@
       "description_zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
     },
     {
-      "rank": 3,
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_total": 30622,
-      "stars_period": 6250,
-      "forks": 2400,
-      "contributors": [
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
-      ],
-      "description_zh": "An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "rank": 4,
-      "name": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars_total": 16523,
-      "stars_period": 3866,
-      "forks": 1449,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
-      ],
-      "description_zh": "The personal finance app for everyone (by everyone)"
-    },
-    {
-      "rank": 5,
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 54201,
-      "stars_period": 4383,
-      "forks": 4485,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
-      ],
-      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "name": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 10435,
+      "stars_total": 10570,
       "stars_period": 1567,
-      "forks": 1369,
+      "forks": 1377,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -111,14 +39,86 @@
       "description_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
     {
+      "rank": 3,
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars_total": 9004,
+      "stars_period": 7257,
+      "forks": 749,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/126118814?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/175836?s=40&v=4"
+      ],
+      "description_zh": "Keep your coding agent up to date with the latest web best practices"
+    },
+    {
+      "rank": 4,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 54303,
+      "stars_period": 4383,
+      "forks": 4494,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16241795?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/267806965?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+      ],
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "rank": 5,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 70517,
+      "stars_period": 2423,
+      "forks": 6278,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "rank": 6,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_total": 58302,
+      "stars_period": 3143,
+      "forks": 4882,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
+      ],
+      "description_zh": "Chrome DevTools for coding agents"
+    },
+    {
       "rank": 7,
       "name": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars_total": 7096,
+      "stars_total": 7165,
       "stars_period": 3242,
-      "forks": 1439,
+      "forks": 1449,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
@@ -130,85 +130,13 @@
     },
     {
       "rank": 8,
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_total": 58233,
-      "stars_period": 3143,
-      "forks": 4878,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/34244704?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/133232582?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
-      ],
-      "description_zh": "Chrome DevTools for coding agents"
-    },
-    {
-      "rank": 9,
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars_total": 197254,
-      "stars_period": 4381,
-      "forks": 23102,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
-      ],
-      "description_zh": "Public repository for Agent Skills"
-    },
-    {
-      "rank": 10,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_total": 73379,
-      "stars_period": 3566,
-      "forks": 57906,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/176381099?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/56824280?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/30621586?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
-      ],
-      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "rank": 11,
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_total": 70107,
-      "stars_period": 2423,
-      "forks": 6250,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/517103?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/158724?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-      ],
-      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-    },
-    {
-      "rank": 12,
       "name": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars_total": 20464,
+      "stars_total": 20558,
       "stars_period": 3221,
-      "forks": 2106,
+      "forks": 2112,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
@@ -219,50 +147,68 @@
       "description_zh": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
     },
     {
-      "rank": 13,
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_total": 52676,
-      "stars_period": 2987,
-      "forks": 3687,
-      "contributors": [
-        "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-      ],
-      "description_zh": "Browser automation CLI for AI agents"
-    },
-    {
-      "rank": 14,
-      "name": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "rank": 9,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 14125,
-      "stars_period": 2630,
-      "forks": 1103,
+      "stars_total": 30778,
+      "stars_period": 6250,
+      "forks": 2410,
       "contributors": [
-        "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
-        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/269041055?s=40&v=4",
-        "https://avatars.githubusercontent.com/u/272643392?s=40&v=4"
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
       ],
-      "description_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security"
+      "description_zh": "An open source design system that's fully customizable and agent ready"
     },
     {
-      "rank": 15,
+      "rank": 10,
+      "name": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars_total": 2223,
+      "stars_period": 1019,
+      "forks": 189,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/11896738?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/30961174?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/66147452?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/67835619?s=40&v=4"
+      ],
+      "description_zh": "Enable Hermès Watch Faces on any Apple Watch devices"
+    },
+    {
+      "rank": 11,
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars_total": 16611,
+      "stars_period": 3866,
+      "forks": 1462,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/16676157?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
+      ],
+      "description_zh": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "rank": 12,
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars_total": 29907,
+      "stars_total": 30413,
       "stars_period": 6840,
-      "forks": 2707,
+      "forks": 2737,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
@@ -271,7 +217,25 @@
         "https://avatars.githubusercontent.com/u/26371161?s=40&v=4"
       ],
       "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+    },
+    {
+      "rank": 13,
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "language": "Python",
+      "stars_total": 8142,
+      "stars_period": 2894,
+      "forks": 765,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/1236702?s=40&v=4",
+        "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      ],
+      "description_zh": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
     }
   ],
-  "generated_at": 1795057606
+  "generated_at": 1795092359
 }
