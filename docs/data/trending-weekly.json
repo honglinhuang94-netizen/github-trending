@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -8,9 +8,9 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars_total": 15194,
+      "stars_total": 15254,
       "stars_period": 1764,
-      "forks": 1455,
+      "forks": 1458,
       "contributors": [
         "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -26,9 +26,9 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_total": 13174,
+      "stars_total": 13277,
       "stars_period": 2616,
-      "forks": 1550,
+      "forks": 1562,
       "contributors": [
         "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
         "https://avatars.githubusercontent.com/u/4570265?s=40&v=4",
@@ -44,9 +44,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars_total": 11189,
+      "stars_total": 11249,
       "stars_period": 2309,
-      "forks": 839,
+      "forks": 842,
       "contributors": [
         "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
         "https://avatars.githubusercontent.com/u/1120896?s=40&v=4",
@@ -62,9 +62,9 @@
       "url": "https://github.com/n8n-io/nod",
       "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
       "language": "TypeScript",
-      "stars_total": 3822,
+      "stars_total": 3997,
       "stars_period": 1008,
-      "forks": 606,
+      "forks": 616,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11021461?s=40&v=4",
         "https://avatars.githubusercontent.com/u/16818300?s=40&v=4",
@@ -80,9 +80,9 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_total": 56567,
+      "stars_total": 56631,
       "stars_period": 2259,
-      "forks": 4674,
+      "forks": 4684,
       "contributors": [
         "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
         "https://avatars.githubusercontent.com/u/149216116?s=40&v=4",
@@ -98,9 +98,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_total": 75519,
+      "stars_total": 75726,
       "stars_period": 5302,
-      "forks": 6658,
+      "forks": 6677,
       "contributors": [
         "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_total": 59458,
+      "stars_total": 59501,
       "stars_period": 1203,
-      "forks": 4893,
+      "forks": 4894,
       "contributors": [
         "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -134,9 +134,9 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars_total": 8537,
+      "stars_total": 8596,
       "stars_period": 1422,
-      "forks": 1561,
+      "forks": 1562,
       "contributors": [
         "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -152,9 +152,9 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars_total": 21811,
+      "stars_total": 21837,
       "stars_period": 1421,
-      "forks": 2191,
+      "forks": 2190,
       "contributors": [
         "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
         "https://avatars.githubusercontent.com/u/215433208?s=40&v=4",
@@ -170,9 +170,9 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_total": 33271,
+      "stars_total": 33336,
       "stars_period": 2635,
-      "forks": 2598,
+      "forks": 2601,
       "contributors": [
         "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
         "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -188,7 +188,7 @@
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars_total": 2535,
+      "stars_total": 2544,
       "stars_period": 318,
       "forks": 206,
       "contributors": [
@@ -206,9 +206,9 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars_total": 18034,
+      "stars_total": 18087,
       "stars_period": 1509,
-      "forks": 1568,
+      "forks": 1570,
       "contributors": [
         "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
         "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
@@ -220,13 +220,31 @@
     },
     {
       "rank": 13,
+      "name": "obsidianmd/obsidian-skills",
+      "url": "https://github.com/obsidianmd/obsidian-skills",
+      "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+      "language": "Shell",
+      "stars_total": 53992,
+      "stars_period": 704,
+      "forks": 3841,
+      "contributors": [
+        "https://avatars.githubusercontent.com/u/10565871?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/25070796?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/54458?s=40&v=4",
+        "https://avatars.githubusercontent.com/u/12980454?s=40&v=4"
+      ],
+      "description_zh": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas."
+    },
+    {
+      "rank": 14,
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars_total": 31929,
+      "stars_total": 31967,
       "stars_period": 2319,
-      "forks": 2870,
+      "forks": 2872,
       "contributors": [
         "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
         "https://avatars.githubusercontent.com/u/68851825?s=40&v=4",
@@ -237,14 +255,14 @@
       "description_zh": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "kajisho5/ffmpeg-skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars_total": 11380,
+      "stars_total": 11511,
       "stars_period": 3048,
-      "forks": 956,
+      "forks": 961,
       "contributors": [
         "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
         "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
@@ -255,5 +273,5 @@
       "description_zh": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
     }
   ],
-  "generated_at": 1795704944
+  "generated_at": 1795736458
 }
